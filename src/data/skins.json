@@ -1,0 +1,4634 @@
+[
+ {
+  "id": "lucky-guy",
+  "counts": {
+   "S": 1,
+   "A": 3,
+   "B": 10,
+   "C": 6,
+   "Collab": 4
+  },
+  "total": 24,
+  "notable": [
+   {
+    "name": {
+     "en": "Maid Outfit",
+     "cn": "女仆装"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Meme-iconic wholesome crossdresser, fan-designed origin sparked maid series for all chars",
+    "obtain": "Illusion Hall shop 2018",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ratatosk",
+     "cn": "拉塔托斯克"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "First and only S 2023, event-store grind 1000 Spy Glasses, model divisive",
+    "obtain": "event store",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Souichi",
+     "cn": "双一"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Junji Ito horror collab, curse-boy lore fit",
+    "obtain": "Illusion Hall Junji Ito crossover",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Makoto Naegi",
+     "cn": "苗木诚"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Danganronpa Ultimate Lucky Student perfect lore match",
+    "obtain": "Danganronpa Essence I",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Unknown Ray\" X",
+     "cn": "未知射线X"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 38 Logic Path block 1528 inventor with corroded arm",
+    "obtain": "Season 38 Logic Path",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Good Omen\"",
+     "cn": "好兆头"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cheap 60 Echo B beloved as affordable optimism lucky theme",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Lucky Guy's wardrobe is tiny: one S, three A, ten B, six C, and four collab skins. The Maid Outfit meme carries him; fans felt neglected until Ratatosk finally gave him a real S.",
+   "cn": "幸运儿衣柜很小，仅1稀世、3奇珍、10独特、6罕见和4联动；女仆装梗出圈，玩家一直觉得被忽视，直到鼠托斯克才迎来真正的金皮。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Lucky_Guy/Cosmetics",
+   "https://wiki.biligame.com/dwrg/幸运儿时装",
+   "https://www.bilibili.com/",
+   "https://www.xiaohongshu.com/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "doctor",
+  "counts": {
+   "S": 5,
+   "A": 11,
+   "B": 23,
+   "C": 7,
+   "Collab": 1
+  },
+  "total": 47,
+  "notable": [
+   {
+    "name": {
+     "en": "Firefly",
+     "cn": "流萤"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Most beautiful contender, pretty butterfly glow, fans say so pretty, reoccurring limited",
+    "obtain": "Package July Firefly / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Blossom of Rebirth",
+     "cn": "浴火重生"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Flaming Flowers package phoenix salvation theme",
+    "obtain": "Package Flaming Flowers / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Risktaker",
+     "cn": "风险博弈"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Season 21 Essence 2 dice luck game, model/effects divisive",
+    "obtain": "Season 21 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mikan Tsumiki",
+     "cn": "罪木蜜柑"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Danganronpa Ultimate Nurse perfect job match",
+    "obtain": "Danganronpa Part II essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Duskfall",
+     "cn": "暮色"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Limited Season 16 Logic Path block 1528 flowers bloom with smile",
+    "obtain": "Season 16 Logic Path",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Flaming Angel",
+     "cn": "炽天使"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 1 Essence 6 classic sunset angel paired with Holy Angel shop",
+    "obtain": "Season 1 Essence 6",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Doctor has a huge early-survivor wardrobe: five S, eleven A, twenty-three B, seven C. Firefly and Blossom regularly top best-skin polls; fans are satisfied, not neglected.",
+   "cn": "医生衣柜庞大，共5稀世、11奇珍、23独特、7罕见；流萤与浴火重生常进最好看榜单，玩家满意，不觉得被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Doctor/Cosmetics",
+   "https://wiki.biligame.com/dwrg/医生时装",
+   "https://www.bilibili.com/",
+   "https://www.reddit.com/r/IdentityV/"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "lawyer",
+  "counts": {
+   "S": 1,
+   "A": 6,
+   "B": 17,
+   "C": 8,
+   "Collab": 5
+  },
+  "total": 37,
+  "notable": [
+   {
+    "name": {
+     "en": "Inverse Mercury",
+     "cn": "逆水银"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "First S after 6 years Season 32 Essence 1 truth/arrogance theme, late rescue debated",
+    "obtain": "Season 32 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Light Yagami",
+     "cn": "夜神月"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Death Note map becomes Death Note, Light look, CN unobtainable",
+    "obtain": "Death Note crossover essence",
+    "server": "global"
+   },
+   {
+    "name": {
+     "en": "Kogoro Mori",
+     "cn": "毛利小五郎"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Detective Conan suit crossover",
+    "obtain": "Detective Conan Part 1 essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mr. Bunny",
+     "cn": "兔先生"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 8 Essence 2 Alice late-late white rabbit",
+    "obtain": "Season 8 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Navigator",
+     "cn": "领航员"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "COA I Abyss Treasure one-eye pirate",
+    "obtain": "Call of the Abyss I Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Big Shot\"",
+     "cn": "大人物"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cheap 60 Echo shop meme beloved despite B tier",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Lawyer was long neglected with only one S among six A, seventeen B, eight C, and five collabs; collabs carry his popularity. Inverse Mercury in 2024 only partly fixed the neglect.",
+   "cn": "律师长期被忽视，仅1稀世，另有6奇珍、17独特、8罕见和5联动；靠联动撑人气，2024逆水银只是部分缓解了被忽视感。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Lawyer/Cosmetics",
+   "https://id5.fandom.com/wiki/Light_Yagami",
+   "https://wiki.biligame.com/dwrg/律师时装",
+   "https://ngabbs.com/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "thief",
+  "counts": {
+   "S": 2,
+   "A": 6,
+   "B": 19,
+   "C": 6
+  },
+  "total": 33,
+  "notable": [
+   {
+    "name": {
+     "en": "Lion Dance",
+     "cn": "舞狮"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Limited 2019 Spring Festival package, glittery tail + fireworks accessory rare never-seen",
+    "obtain": "Spring Festival package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Hunter Astray",
+     "cn": "迷途猎人"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "New 2026 wheat-field blue-flame package, too new to judge",
+    "obtain": "Package Hunter Astray / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Deputy",
+     "cn": "警长"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 13 Essence 2 Seven Sins Greed vs Norton Charity",
+    "obtain": "Season 13 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Scarecrow\"",
+     "cn": "稻草人"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Classic Halloween shop scarecrow",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sixpence",
+     "cn": "六便士"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cheap 60 Echo reoccurring B beloved affordable moon-coin lore",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Pirate Spotter",
+     "cn": "海盗瞭望手"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "COA I Abyss Treasure self-proclaimed spotter",
+    "obtain": "Call of the Abyss I Abyss Treasure",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Thief's mid-size wardrobe has two S, six A, nineteen B, and six C. Lion Dance's rare prestige defines him; overall okay—not top priority, but not abandoned.",
+   "cn": "盗贼衣柜中等，2稀世、6奇珍、19独特、6罕见；舞狮的稀有品质是代表作，整体尚可，不算亲儿子也不算被放弃。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Thief/Cosmetics",
+   "https://id5.fandom.com/wiki/Lion_Dance",
+   "https://wiki.biligame.com/dwrg/慈善家时装"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "gardener",
+  "counts": {
+   "S": 7,
+   "A": 10,
+   "B": 21,
+   "C": 9,
+   "Collab": 5
+  },
+  "total": 52,
+  "notable": [
+   {
+    "name": {
+     "en": "Ghost Girl",
+     "cn": "幽灵少女"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Mid-Autumn Glowing Wisp Ghost Princess for popular survivor, moonlight lore",
+    "obtain": "Package Glowing Wisp / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Cosmic Witch",
+     "cn": "星空女巫"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Limited Season 23 Essence 1 meteors end misfortune",
+    "obtain": "Season 23 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Boudoir Dream",
+     "cn": "闺梦"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Classic 2018 shop Deduction Star design time filter dreams",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lady Truth",
+     "cn": "真理小姐"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Anniversary limited detective truth reveal",
+    "obtain": "Anniversary / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Emma",
+     "cn": "艾玛"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Promised Neverland Essence I namesake costume",
+    "obtain": "Promised Neverland crossover Essence I",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Haru Okumura",
+     "cn": "奥村春"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Persona 5 school uniform + NOIR awakened",
+    "obtain": "Persona 5 crossover Essence II",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "As mascot, Gardener has a huge wardrobe: seven S, ten A, twenty-one B, nine C, and five collabs. Ghost Girl and Cosmic Witch are regulars at the top of beauty polls; fans are spoiled, never neglected.",
+   "cn": "园丁作为看板娘，衣柜最大：7稀世、10奇珍、21独特、9罕见、5联动；幽灵少女和星空女巫常居最好看榜前列，玩家被宠坏，从未被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Gardener/Cosmetics",
+   "https://id5.fandom.com/wiki/Ghost_Girl",
+   "https://id5.fandom.com/wiki/Cosmic_Witch",
+   "https://wiki.biligame.com/dwrg/园丁时装"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "magician",
+  "counts": {
+   "S": 3,
+   "A": 8,
+   "B": 17,
+   "C": 7,
+   "Collab": 1
+  },
+  "total": 36,
+  "notable": [
+   {
+    "name": {
+     "en": "Treasure Hunter",
+     "cn": "寻宝贵族"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "S with Tome accessory package since 2019, desert tomb adventure",
+    "obtain": "Package Treasure Hunter / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Hill Pigeon",
+     "cn": "山丘信鸽"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Season 26 Essence 2 desert merchant tricks, plain vs price debated",
+    "obtain": "Season 26 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Frost Crystal",
+     "cn": "霜晶"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "2026 Frostveil Glow winter lamp package",
+    "obtain": "Package Frostveil Glow / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Blue Aladdin",
+     "cn": "蓝阿拉丁"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Season 1 Essence 2 exotic blues ex-S downgraded to A beloved",
+    "obtain": "Season 1 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ryuro Hirotsu",
+     "cn": "广津柳浪"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Bungo Stray Dogs Port Mafia look",
+    "obtain": "Bungo Stray Dogs Essence II",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Masked Gentleman\"",
+     "cn": "蒙面绅士"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Classic shop wand-proper-use gentleman",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Magician's wardrobe is mid-to-large: three S, eight A, seventeen B, seven C, and one collab. Treasure and Blue Aladdin are classics; steady supply means mildly loved, not neglected.",
+   "cn": "魔术师衣柜中上，3稀世、8奇珍、17独特、7罕见、1联动；寻宝与蓝阿拉丁是经典，新金持续稳定，不算被忽视，中规中矩。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Magician/Cosmetics",
+   "https://id5.fandom.com/wiki/Treasure_Hunter",
+   "https://wiki.biligame.com/dwrg/魔术师时装"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "explorer",
+  "counts": {
+   "S": 2,
+   "A": 7,
+   "B": 17,
+   "C": 8,
+   "Collab": 3
+  },
+  "total": 37,
+  "notable": [
+   {
+    "name": {
+     "en": "The Lilliputian",
+     "cn": "小人国"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Gulliver lore shrink gimmick, Penrose Maze event store 600 Nightingale Blessings; cute size-change effects, Explorer's most beloved S ",
+    "obtain": "Penrose Maze event store",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Editor-in-chief",
+     "cn": "主编"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "First essence S after 6-year wait, Season 35 Essence 1 detective noir look; long-awaited upgrade, praised model ",
+    "obtain": "Season 35 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Icarus",
+     "cn": "伊卡洛斯"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Classic Season 6 Essence 1 wings-yearns-for-sky design; old-timer favourite A ",
+    "obtain": "Season 6 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Alice",
+     "cn": "爱丽丝"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Season 8 Essence 2 Eat Me cake Alice-linkage; nostalgic but old model, overshadowed by newer S ",
+    "obtain": "Season 8 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Treasure Digger",
+     "cn": "寻宝者"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 16 Essence 3 brave high-seas hunter fits adventurer fantasy; lore-fit praised ",
+    "obtain": "Season 16 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sein",
+     "cn": "赞恩"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Free Frieren: Beyond Journey's End reward; collab fans happy but obscure pick for Explorer, wanted bigger IP role ",
+    "obtain": "Frieren collab event reward",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Explorer has a small wardrobe of about 37 skins, with only two S—Lilliputian and Editor-in-Chief—after years of neglect. Fans still feel neglected despite lore-fitting A skins like Icarus.",
+   "cn": "冒险家衣柜较小，约37件，仅2件稀世（小人国、主编），时隔多年才出新金；虽有伊卡洛斯等贴合人设的奇珍，玩家仍觉被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Explorer/Cosmetics",
+   "https://id5.fandom.com/wiki/Explorer/Lore"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "mercenary",
+  "counts": {
+   "S": 4,
+   "A": 14,
+   "B": 16,
+   "C": 6,
+   "Collab": 7
+  },
+  "total": 47,
+  "notable": [
+   {
+    "name": {
+     "en": "Cheshire Cat",
+     "cn": "柴郡猫"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Iconic 2020 Spring Festival package 3268E with seductive smile/tail; fanart staple, top-ranked Merc S ",
+    "obtain": "Spring Festival package / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Cabinet of Curiosities",
+     "cn": "珍藏柜"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 31 Essence 2 ocean-witness S with waves/reefs theme; praised effects, modern essence favourite ",
+    "obtain": "Season 31 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Eagle's Dance",
+     "cn": "鹰之舞"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Season 2 Essence 3 white-eagle parade look; classic elegant early A still requested ",
+    "obtain": "Season 2 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mr. Inference",
+     "cn": "推理先生"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "2nd Anniversary Netherwalker Offer $119-$349 real-goods limited; rare flex but blasted for paywall ",
+    "obtain": "2nd Anniversary package",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Nagito Komaeda",
+     "cn": "狛枝凪斗"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Danganronpa Part 2 Ultimate Lucky Student; Dangan fans love, account listings highlight it as value-add ",
+    "obtain": "Danganronpa crossover Part 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Shuichi Akai",
+     "cn": "赤井秀一"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Detective Conan Part 2 outfit; Conan fans chase, non-fans see as plain uniform ",
+    "obtain": "Detective Conan crossover Part 2",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Mercenary is a wardrobe king with about 47 skins, four plus one S and seven collabs. Cheshire Cat and Eagle's Dance are enduring icons, and fans feel well-fed.",
+   "cn": "佣兵衣柜之王，约47件，金皮4+1，联动7个；柴郡猫与鹰之舞是常青代表，玩家觉得不缺皮肤。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Mercenary/Cosmetics",
+   "https://id5.fandom.com/wiki/Cheshire_Cat"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "coordinator",
+  "counts": {
+   "S": 5,
+   "A": 9,
+   "B": 20,
+   "C": 6,
+   "Collab": 9
+  },
+  "total": 49,
+  "notable": [
+   {
+    "name": {
+     "en": "Dance in the Snow",
+     "cn": "雪中之舞"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Hidden Beauty package 2688 with withered-petals fragrance; wedding-like beauty, beauty-poll regular ",
+    "obtain": "Package Hidden Beauty / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Amazonite",
+     "cn": "天河石"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Amazonite package 2688 firefly-guide theme; modern S effects and lore, praised quality ",
+    "obtain": "Package Amazonite / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sway",
+     "cn": "摇曳"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 22 Essence 1 limited island-name elegant plant bringing sunlight; beautiful but hard to pull ",
+    "obtain": "Season 22 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Black Swan",
+     "cn": "黑天鹅"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Season 2 Essence 3 caged graceful swan; cheap early A yet enduring classic cosplay pick ",
+    "obtain": "Season 2 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Iron Lady",
+     "cn": "铁娘子"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Shop 1388 strong-minded beauty; Nymph-list Chinese favourite, steady seller ",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "QUEEN",
+     "cn": "QUEEN"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Persona 5 gift for 10 Souls of Resistance; P5 fans love reinvent-yourself line ",
+    "obtain": "Persona 5 crossover",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Coordinator has about 49 skins, including 5 S-tier and 9 collabs. Dance, Amazonite, and Sway lead beauty votes; Black Swan proves a cheap A-tier can be beloved. She is not neglected.",
+   "cn": "空军约49件时装，含5金9联动。雪舞、琥珀、摇曳领跑颜值投票，黑天鹅证明便宜紫皮也能受欢迎，并未被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Coordinator/Cosmetics",
+   "https://id5.fandom.com/wiki/Sway",
+   "https://id5.fandom.com/wiki/Amazonite"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "mechanic",
+  "counts": {
+   "S": 4,
+   "A": 13,
+   "B": 25,
+   "C": 7,
+   "Collab": 5
+  },
+  "total": 54,
+  "notable": [
+   {
+    "name": {
+     "en": "Lockheart",
+     "cn": "锁心"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 20 Essence 2 keyhole button eyes twin pigtails Crystal Palace lore; top Mechanic S with handheld lock design ",
+    "obtain": "Season 20 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Red Riding Hood",
+     "cn": "小红帽"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "2018 package 3288 first Mechanic S plus Quiver; dangerous-world cape, nostalgic icon ",
+    "obtain": "Red Riding Hood package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Everlasting Flowers",
+     "cn": "永生花"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Valentine 2021 package 2688 tough tangible romance that never fades; wedding favourite ",
+    "obtain": "Everlasting Flowers package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Re-swim",
+     "cn": "返泳"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 12 Essence 2 lane-cheer vs wave-silence swim; sporty meme beloved for in-match visibility ",
+    "obtain": "Season 12 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Puppeteer",
+     "cn": "傀儡师"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "COA III Abyss Treasure Netherwalker/Abyss lore; COA prestige plus dark doll vibe ",
+    "obtain": "Call of the Abyss III treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Chiaki Nanami",
+     "cn": "七海千秋"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Danganronpa Essence II Ultimate Gamer sleepy gamer fits Tracy; collab fans rate high ",
+    "obtain": "Danganronpa crossover Essence II",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Mechanic has the largest wardrobe, about 54 skins with 4 S-tier and a deep B-tier bench. Lockheart, Red Hood, and Everlasting lead; decoder mains feel spoiled.",
+   "cn": "机械师衣柜最厚，约54件含4金，B级皮肤储备深。锁心、小红帽、永生花领衔，解码位玩家备受宠爱。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Mechanic/Cosmetics",
+   "https://id5.fandom.com/wiki/Lockheart",
+   "https://id5.fandom.com/wiki/Red_Riding_Hood"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "forward",
+  "counts": {
+   "S": 3,
+   "A": 10,
+   "B": 16,
+   "C": 6,
+   "Collab": 7
+  },
+  "total": 42,
+  "notable": [
+   {
+    "name": {
+     "en": "Locomotive",
+     "cn": "机车"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Last Train package 2688 plus Steam Boiler frozen train with no terminus; steampunk effects, most-wanted Forward S ",
+    "obtain": "Last Train package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Speed Skating",
+     "cn": "速滑"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 20 Essence 1 sun-melted iceman; winter-sports S praised but less iconic than Train ",
+    "obtain": "Season 20 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Hermes' Shoes",
+     "cn": "赫尔墨斯之靴"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Forward Pack 2358 myth grandeur plus Golden-Winged Ball; old paywall, model dated vs new S ",
+    "obtain": "Forward Pack / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lazy Mr. Bunny",
+     "cn": "懒惰兔先生"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 2 Essence 1 run-fast-why-not-nap meme; cheap funny bunny beloved for jokes ",
+    "obtain": "Season 2 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ryuji Sakamoto",
+     "cn": "坂本龙司"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Persona 5 Essence I Shujin sophomore uniform plus SKULL awakening; P5 fans chase ",
+    "obtain": "Persona 5 crossover Essence I",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Meituan Takeout",
+     "cn": "美团外卖"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "Meituan/McDonald's yellow delivery uniform fastest-route joke; CN-only envy, funny but not pretty ",
+    "obtain": "Meituan crossover event",
+    "server": "cn"
+   }
+  ],
+  "summary": {
+   "en": "Forward has about 42 skins, with 3 S-tier led by Locomotive. Sporty and meme A-tiers carry; collabs add hype, but overall less beauty buzz than female characters, giving a mild neglected feel.",
+   "cn": "前锋约42件时装，3金由末班车领衔。运动梗皮为主，联动加持，但颜值讨论度不如女性角色，略有冷落感。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Forward/Cosmetics",
+   "https://id5.fandom.com/wiki/Locomotive"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "the-minds-eye",
+  "counts": {
+   "S": 5,
+   "A": 8,
+   "B": 16,
+   "C": 7,
+   "Collab": 1
+  },
+  "total": 37,
+  "notable": [
+   {
+    "name": {
+     "en": "\"Architect\"",
+     "cn": "建筑师"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Just a Dream package 2688 where dreams never end plus Lost Memento; lore-rich poem effects top Helena S ",
+    "obtain": "Just a Dream package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Golden Cake",
+     "cn": "金色蛋糕"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 1 Essence 3 golden chocolate plus free Helena; 2018 limited nostalgic grail ",
+    "obtain": "Season 1 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Dark Cake",
+     "cn": "暗黑蛋糕"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Shop 10008 fragments old-gold cake; infamous grind price complained despite luxe look ",
+    "obtain": "Illusion Hall fragments",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Starlight Maiden",
+     "cn": "星光少女"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Astraea Night charity 838E for visually impaired Oct-Nov 2023; meaning plus cheap beautiful, charity praise ",
+    "obtain": "Charity Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Eversleeping Girl",
+     "cn": "永眠少女"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Season 7 Essence 1 courage-to-escape-dreams; dreamy veil beloved budget A ",
+    "obtain": "Season 7 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Gilda",
+     "cn": "吉尔达"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Promised Neverland event 1000 Friendship/1388 art-gallery blonde; account sellers list as bonus, IP fans love ",
+    "obtain": "Promised Neverland crossover event",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Mind's Eye has about 37 skins, including 5 S-tier. Architect, Golden Cake, and charity Starlight Maiden are emotional standouts; cheap A-tiers are beloved, but low pick rate gives a slightly neglected feel.",
+   "cn": "盲女约37件时装，含5金。建筑师、金蛋糕与公益星光少女最动人，便宜紫皮口碑好，但出场率低略显冷门。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/The_Mind%27s_Eye/Cosmetics",
+   "https://id5.fandom.com/wiki/Starlight_Maiden",
+   "https://id5.fandom.com/wiki/Golden_Cake"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "priestess",
+  "counts": {
+   "S": 6,
+   "A": 10,
+   "B": 21,
+   "C": 6,
+   "Collab": 2
+  },
+  "total": 45,
+  "notable": [
+   {
+    "name": {
+     "en": "Morgan the Fairy",
+     "cn": "摩根勒菲"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Long-time fan favourite S for elegant fairy model and effects; often in most-beautiful Priestess polls",
+    "obtain": "shop Package - Morgan le Fay, Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ephemeral",
+     "cn": "惊鸿"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Spring Festival shadowplay S praised for petal skirt and Chinese style; design-notes celebrated",
+    "obtain": "shop Package - Shadowplay 2022/02/02",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Golden Future",
+     "cn": "金色未来"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Rare Season 1 Essence 4 limited S that gave Priestess free; nostalgic but old model",
+    "obtain": "Season 1 Essence 4 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Guide",
+     "cn": "向导"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Early shop S with leaf/vine look; some love lore, others say model aged vs newer S",
+    "obtain": "shop Package - Guide",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Envoy of Yog-Sothoth",
+     "cn": "犹格索托斯之使"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Penrose Maze SS platinum; top lore/prestige but 7000 Nightingale Blessings grind disliked",
+    "obtain": "Penrose Maze Event Store",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Honorary Chief",
+     "cn": "名誉酋长"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "New Season 33 Essence 1 S with divine-flame theme; fresh essence pull liked",
+    "obtain": "Season 33 Essence 1",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Priestess has a very large wardrobe of about 45, including 6 top-tier skins with an SS. Morgan and Ephemeral are beloved standouts; fans do not feel neglected.",
+   "cn": "祭司时装非常多，约45套，含6件顶级品质并有虚妄杰作。摩根勒菲和惊鸿最受欢迎，玩家没有被忽视感。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Priestess/Cosmetics",
+   "https://wiki.biligame.com/dwrg/祭司",
+   "https://id5.fandom.com/wiki/Priestess/Gallery"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "perfumer",
+  "counts": {
+   "S": 5,
+   "A": 10,
+   "B": 19,
+   "C": 5,
+   "Collab": 8
+  },
+  "total": 47,
+  "notable": [
+   {
+    "name": {
+     "en": "Tonight or Never",
+     "cn": "今夜不再"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Iconic shop S, goddess purple gown with rose accessory; consensus must-have most beautiful",
+    "obtain": "shop Package - Tonight or Never",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Judith the Dove",
+     "cn": "白鸽"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 30 Essence 3 S, heroic musketeer irony theme; elegant but newer so less nostalgic",
+    "obtain": "Season 30 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Madame Coral",
+     "cn": "珊瑚夫人"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Season 1 Essence 6 limited S that gave Perfumer free; rare but outdated model",
+    "obtain": "Season 1 Essence 6 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Red Shoes",
+     "cn": "红舞鞋"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "2020 Deduction Star winner voted by players, cheap A beats many S in polls",
+    "obtain": "shop Illusion Hall, Deduction Star",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Crimson Bride",
+     "cn": "绯红新娘"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 8 Logic Path block 1528 wedding-curse A; loved for horror-romance lore",
+    "obtain": "Season 8 Logic Path",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Shiho Miyano (Ai Haibara)",
+     "cn": "宫野志保"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Detective Conan Part 1 lab-coat A; hugely popular with collab fans, crossover essence",
+    "obtain": "Detective Conan Crossover Part 1",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Perfumer has one of the richest wardrobes, about 47, with 5 non-collab S-tiers plus SS Mnemosyne's Dream. Tonight or Never and Red Shoes prove cheap A-tiers can outshine S-tiers in popularity.",
+   "cn": "调香师时装极多，约47套，含5件非联动金皮及SS记忆之梦。今夜不再和红舞鞋人气最高，便宜紫皮也能超越金皮，不被冷落。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Perfumer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/调香师"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "cowboy",
+  "counts": {
+   "S": 2,
+   "A": 6,
+   "B": 16,
+   "C": 5
+  },
+  "total": 29,
+  "notable": [
+   {
+    "name": {
+     "en": "King's Tailor",
+     "cn": "国王的裁缝"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 2 Essence 1 limited S that gave Cowboy free; trickster-king lore keeps it beloved despite age",
+    "obtain": "Season 2 Essence 1 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Exiled Immortal",
+     "cn": "谪仙"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "2025 Fires of Renewal shop S wuxia style revived interest in neglected Cowboy",
+    "obtain": "shop Package - Gallant Indulgence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Misfit",
+     "cn": "格格不入"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 9 Essence 1 Bloodline-church lore A with pale vampire look",
+    "obtain": "Season 9 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Whiplash",
+     "cn": "鞭痕"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Call of the Abyss III Abyss Treasure A; veteran-newcomer story praised",
+    "obtain": "COA III Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Brave",
+     "cn": "勇者"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Early shop A tribal warrior; obtainable but outdated, rarely in beauty polls",
+    "obtain": "shop Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Xmas Ensemble",
+     "cn": "圣诞装束"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Cheap free Christmas event B; beloved as accessible festive skin despite tier",
+    "obtain": "2021 Christmas event",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Cowboy is relatively neglected, with about 29 skins and only 2 S-tiers, and long gaps before Exiled Immortal. King's Tailor remains his soul skin.",
+   "cn": "牛仔时装较少，约29套，仅2金，长期被吐槽冷门，直到谪仙才稍有改善，国王的裁缝仍是本命。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Cowboy/Cosmetics",
+   "https://wiki.biligame.com/dwrg/牛仔"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "female-dancer",
+  "counts": {
+   "S": 5,
+   "A": 9,
+   "B": 21,
+   "C": 5,
+   "Collab": 2
+  },
+  "total": 42,
+  "notable": [
+   {
+    "name": {
+     "en": "Animal Tamer",
+     "cn": "驯兽师"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Season 2 Essence 3 starter S that gave Dancer free; nostalgic circus but old",
+    "obtain": "Season 2 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Kroto",
+     "cn": "克罗托"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 12 Essence 1 2nd-anniversary limited S; white floral beauty top-ranked",
+    "obtain": "Season 12 Essence 1 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Valkyrie",
+     "cn": "女武神"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Shop S Gjallar journey; armor Valkyrie style with strong effects",
+    "obtain": "shop Package - Valkyrie",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sylphide",
+     "cn": "林间仙女"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "2024 shop S veil of breeze/ripples/vows; soft fairy liked",
+    "obtain": "shop Package - Peck in Midst of Flowers",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ann Takamaki",
+     "cn": "高卷杏"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Persona 5 crossover uniform A from essences; loved by Persona fans",
+    "obtain": "Persona 5 Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Vile Blossom",
+     "cn": "恶之花"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Shop A Nether decay petals; cheap A often praised over old S",
+    "obtain": "shop Illusion Hall",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Female Dancer has a solid mid-size wardrobe of about 42 with 5 S-tiers. Kroto and Valkyrie are consensus beauties; she is not neglected.",
+   "cn": "舞女时装中等偏多，约42套，含5金。克罗托和女武神口碑最好，整体不受冷落。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Female_Dancer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/舞女"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "seer",
+  "counts": {
+   "S": 3,
+   "A": 12,
+   "B": 16,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 39,
+  "notable": [
+   {
+    "name": {
+     "en": "Night Owl",
+     "cn": "夜行枭"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 3 Essence 1 S that gave Seer free; night-traveler owl iconic",
+    "obtain": "Season 3 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Kid the Phantom Thief",
+     "cn": "怪盗基德"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Detective Conan Part 2 S white top-hat; top crossover desire",
+    "obtain": "Detective Conan Crossover Part 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"White\"",
+     "cn": "白"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "4th Anniversary offline $129-489 pure-white; called most beautiful but paywalled/scam-risk",
+    "obtain": "4th Anniversary offline box",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Noir\"",
+     "cn": "黑"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Truth & Inference $111 dark counterpart to White; lore pair liked",
+    "obtain": "Package - Dark Wanderer offline",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Recluse",
+     "cn": "隐士"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "2019 Deduction Star winner shop A; fan-voted proof cheap beats expensive",
+    "obtain": "shop Illusion Hall, Deduction Star",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lunar Phase",
+     "cn": "月相"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 7 Essence 2 blood-moon revelation A; solid essence pick",
+    "obtain": "Season 7 Essence 2",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Seer has roughly 39 outfits, including the SS Prophet of Yore and two non-collaboration S tiers. The White skin draws both love and criticism for its price and rarity. Fans hope for a shop S tier rather than more crossovers.",
+   "cn": "先知约39套，含虚妄杰作及两款非联动S。纯白先知因高价绝版备受争议，玩家更希望出商城金而非仅联动。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Seer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/先知",
+   "https://news.bittopup.com/identity-v-expensive-skins"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "embalmer",
+  "counts": {
+   "S": 4,
+   "A": 9,
+   "B": 12,
+   "C": 5,
+   "Collab": 5
+  },
+  "total": 35,
+  "notable": [
+   {
+    "name": {
+     "en": "Exorcist",
+     "cn": "驱魔人"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 3 Essence 3 S that gave Embalmer free; white-gold exorcist iconic",
+    "obtain": "Season 3 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Phoenix",
+     "cn": "凤凰"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Midnight Phoenix shop S weighing justice/evil alone; dark handsome favourite",
+    "obtain": "shop Package - Midnight Phoenix",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Hamlet",
+     "cn": "哈姆雷特"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "2020 Deduction Star winner; To-be-or-not-to-be voted, beloved cheap A",
+    "obtain": "shop Illusion Hall, Deduction Star",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Gatto\"",
+     "cn": "加托"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "5th Anniversary $129-489 Silent Rebel; beautiful but paywalled like Seer White",
+    "obtain": "5th Anniversary offline box",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Toru Amuro",
+     "cn": "安室透"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Detective Conan essence A blonde short hair; top Conan desire",
+    "obtain": "Detective Conan Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "FOX",
+     "cn": "福克斯"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Persona 5 event gift for 10 Souls of Resistance; greatest-artist boast fun",
+    "obtain": "Persona 5 Crossover event",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Embalmer, one of the most popular survivors, has about 35 outfits including four S tiers. Exorcist, Phoenix, and Hamlet are all beloved, so his wardrobe feels well cared for.",
+   "cn": "入殓师人气极高，约35套含四款S。驱魔人、凤凰、哈姆雷特皆受喜爱，时装待遇良好，无冷落感。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Embalmer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/入殓师"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "prospector",
+  "counts": {
+   "S": 4,
+   "A": 10,
+   "B": 13,
+   "C": 5,
+   "Collab": 4
+  },
+  "total": 36,
+  "notable": [
+   {
+    "name": {
+     "en": "Bird of Prey",
+     "cn": "枭徒"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "2024 Nymph Award winner voted by players; peacock-feather button eyes, black feather cape with gold ocelli and bird-shaped magnets, throne theme song My Throne ",
+    "obtain": "Nymph Awards 2024, Illusion Hall 2888 Echoes 2025/01/23 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Soul Catcher",
+     "cn": "引魂人"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Iconic Day of Dead skull mask with will-o-wisps and rune magnets; classic limited S must-have for accounts ",
+    "obtain": "Season 5 Essence 1 2019/03/14 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Chuya Nakahara",
+     "cn": "中原中也"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Port Mafia hat + Red Wine accessory; Bungo Stray Dogs fans prize accuracy despite 3268 Echoes package price ",
+    "obtain": "Bungo Stray Dogs Crossover Part II package 2023/02/02 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Orphan of Goetia",
+     "cn": "歌提亚孤儿"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Ashes of Memory lore S about diligent youth starting over; praised as farmable 1200 Records S with story weight ",
+    "obtain": "Ashes of Memory Part II Event Store 1200 Records 2023/11/09 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mr. Mole",
+     "cn": "鼹鼠先生"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Cute mole with gold-jewelry smell lore; beloved cheap essence A, meme favorite despite low tier ",
+    "obtain": "Season 6 Essence 3 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Summer Frisbee",
+     "cn": "盛夏飞盘"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Sporty summer charge-turn-back theme; some like beach-athlete model, others call effects plain vs Bird of Prey ",
+    "obtain": "Illusion Hall package 2688 Echoes 2024/06/20 ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Prospector has a large 36-skin wardrobe (4S, 10A, 13B, 5C, 4 collab), led by Nymph contest winner Bird of Prey (global release January 2025) and the classic Soul Catcher. Fans feel well-treated, not neglected.",
+   "cn": "共36套（4S+10A+13B+5C+4联动），由2024妙笔优选枭徒（2025年1月全球上线）和经典引魂人领衔，玩家觉得待遇好，未被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Prospector/Cosmetics",
+   "https://id5.fandom.com/wiki/Bird_of_Prey",
+   "https://id5.fandom.com/wiki/Soul_Catcher",
+   "https://wiki.biligame.com/dwrg/勘探员"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "enchantress",
+  "counts": {
+   "S": 5,
+   "A": 9,
+   "B": 13,
+   "C": 5
+  },
+  "total": 32,
+  "notable": [
+   {
+    "name": {
+     "en": "\"Fate\"",
+     "cn": "宿命"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Life is sin itself; first-anniversary S gave character free, account must-have fate or maroon crystal ",
+    "obtain": "Season 5 Essence 2 2019/04/04 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Nocturne of the Night's Chant",
+     "cn": "夜之咏叹调"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "2025 Nymph winner 2,723,200 votes with pale dream peril theme; called My Favorite Nymph Award Skin Ever ",
+    "obtain": "Nymph Awards 2025 Illusion Hall 2888 Echoes 2026/02/05 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Maroon Crystal",
+     "cn": "赭晶"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Oz Lost Girl maroon crystal shoes return to strange path; beloved essence S with Dorothy lore ",
+    "obtain": "Season 12 Essence 3 2020/09/03 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Tropical Holiday",
+     "cn": "热带假日"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Coconut juice flowers waves summer package; liked beach model but pricier 2688 package vs essence S ",
+    "obtain": "Package Island Summer Illusion Hall 2023/06/29 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Blooming Augury",
+     "cn": "绽放的预兆"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Worship love tale ending package with Lovesick Heart; pretty new S but less iconic than Fate ",
+    "obtain": "Package Fluttering Heart Illusion Hall 2026/02/12 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Guide\"",
+     "cn": "向导"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Mother-forced destiny in cursed forest lore; praised lore-heavy essence A ",
+    "obtain": "Season 10 Essence 2 ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Enchantress has 32 outfits (5S, 9A, 13B, 5C) and no collabs, but two player-voted Nymph S tiers: Fate era and Nocturne (2025 winner, global February 2026). Fans feel satisfied.",
+   "cn": "共32套（5S+9A+13B+5C），无联动，但有两款玩家投票的妙笔S：宿命和夜之咏叹调（2025优胜，2026年2月全球上线），玩家满意。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Enchantress/Cosmetics",
+   "https://id5.fandom.com/wiki/Fate",
+   "https://id5.fandom.com/wiki/Deduction_Star_%26_Nymph_Awards"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "wildling",
+  "counts": {
+   "S": 2,
+   "A": 5,
+   "B": 10,
+   "C": 5
+  },
+  "total": 22,
+  "notable": [
+   {
+    "name": {
+     "en": "Great Hero",
+     "cn": "大英雄"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Impenetrable armor or courage; first S gave Wildling free but bulky boar model divides players ",
+    "obtain": "Season 6 Essence 1 2019/05/23 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Fairyland",
+     "cn": "仙境"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Time buries kingdom hope glimmers; first S in 6 years with Home of Bees, long-neglected fans relieved ",
+    "obtain": "Package Fairyland Illusion Hall 2025/09/25 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Snowfear",
+     "cn": "雪恐"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Snow Kingdom storm monsters legend; beloved free Logic Path Block 1528 limited A ",
+    "obtain": "Season 9 Logic Path Block 1528 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Jester",
+     "cn": "弄臣"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Joy to all but choose side carefully; night-party model, average effects ",
+    "obtain": "Season 7 Essence 3 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Repairman",
+     "cn": "修理员"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Energy Corp ex-racer support lore; plain shop A 1388 Echoes, little hype ",
+    "obtain": "Illusion Hall 1388 Echoes 2021/04/22 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Wild Child\"",
+     "cn": "野孩子"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Neither walls nor barriers stifle wilderness longing; beloved 60 Echoes budget B ",
+    "obtain": "Illusion Hall 60 Echoes 2024/08/29 ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Wildling has a small 22-skin wardrobe (2S, 5A, 10B, 5C) and a six-year S-tier gap until Fairyland in 2025. His boar gameplay is unpopular, so fans feel neglected despite cheap favorites like Wild Child.",
+   "cn": "共22套（2S+5A+10B+5C），时隔6年才在2025年迎来第二款S仙境。野猪机制人气低，玩家普遍觉得被忽视，只能靠野孩子等便宜皮安慰。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Wildling/Cosmetics",
+   "https://id5.fandom.com/wiki/Great_Hero",
+   "https://id5.fandom.com/wiki/Fairyland"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "acrobat",
+  "counts": {
+   "S": 4,
+   "A": 5,
+   "B": 10,
+   "C": 5,
+   "Collab": 7
+  },
+  "total": 31,
+  "notable": [
+   {
+    "name": {
+     "en": "JOKER",
+     "cn": "JOKER"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Gift from JOKER star of show; awakened Ren Amamiya 30 Souls, returned Season33, most coveted Persona S ",
+    "obtain": "Persona 5 Crossover Part I Essence awakening 2019/08/08 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Tea Party",
+     "cn": "茶会"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Raven roses pumpkin moon tea party of two romance; praised beautiful dress + Tea Time accessory ",
+    "obtain": "Package Tea Party Invitation Illusion Hall 2022/10/27 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Rain Pearl",
+     "cn": "雨珍珠"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Precious pearl dragon gate prosperity; CNY Dragon Dance package with Dragon Lamp, festive effects ",
+    "obtain": "Package Dragon Dance Illusion Hall 2024/02/09 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ren Amamiya",
+     "cn": "雨宫莲"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Shujin sophomore uniform base for JOKER awakening; liked but overshadowed by awakened form ",
+    "obtain": "Persona 5 Crossover Part I 2019/08/08 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Kokichi Oma",
+     "cn": "王马小吉"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Ultimate Supreme Leader liar; personality match makes Danganronpa fans love it ",
+    "obtain": "Danganronpa Crossover Part III Essence 2023/08/03 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Dodger",
+     "cn": "道奇"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Hey don't worry family; 2025 Deduction Star winner Illusion Hall Jan 2026, voted favorite ",
+    "obtain": "Deduction Star 2025 Illusion Hall 1388 Echoes 2026/01/08 ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Acrobat has a large 31-skin wardrobe (4S, 5A, 10B, 5C, 7 collabs), led by Persona JOKER/CROW collaborations, original Tea Party and Rain Pearl, plus voted Dodger (2025 winner). Fans feel well-treated.",
+   "cn": "共31套（4S+5A+10B+5C+7联动），由P5的JOKER/CROW联动、原创茶会、雨珍珠和演绎道奇（2025优胜）领衔，待遇很好。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Acrobat/Cosmetics",
+   "https://id5.fandom.com/wiki/JOKER",
+   "https://id5.fandom.com/wiki/Deduction_Star_%26_Nymph_Awards"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "first-officer",
+  "counts": {
+   "S": 2,
+   "A": 5,
+   "B": 10,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 25,
+  "notable": [
+   {
+    "name": {
+     "en": "Captain Hook",
+     "cn": "胡克船长"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Little magic dangerous ending; first S gave First Officer free, pirate iconic ",
+    "obtain": "Season 7 Essence 1 2019/07/25 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Goro Akechi",
+     "cn": "明智吾郎"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "High School Detective uniform; Persona Part2 pair with CROW, detective fans favorite ",
+    "obtain": "Persona 5 Crossover Part II Essence 2019/11/07 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "CROW",
+     "cn": "CROW"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Gift from CROW forget past; awakened form 30 Souls with CROW Sword, flashier than uniform ",
+    "obtain": "Persona 5 Crossover Part II awakening 30 Souls 2019/11/07 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Departure Date",
+     "cn": "启程日"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Romance offers no safe harbor great captain; sleek shop A, liked model plain effects ",
+    "obtain": "Illusion Hall 1388 Echoes 2021/09/30 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Star Seeker",
+     "cn": "追星者"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Snow starlight guides lost travelers; cozy winter shop A ",
+    "obtain": "Illusion Hall 1388 Echoes 2023/12/14 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Inspector Lestrade",
+     "cn": "雷斯垂德探长"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Scotland Yard Lestrade costume; Conan Doyle fans like lore but model less flashy than CROW ",
+    "obtain": "Conan Doyle Estate Crossover Essence 2025/02/20 ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "First Officer has a medium 25-skin wardrobe (2S, 5A, 10B, 5C, 3 collabs), carried by Captain Hook and Persona CROW/Akechi. Original S tiers are thin—only Flicker of Life (2025, essence-only)—so fans feel mixed.",
+   "cn": "共25套（2S+5A+10B+5C+3联动），靠胡克船长和P5的CROW/明智撑场，原创S仅生命之光（2025精华限定），玩家评价两极。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/First_Officer/Cosmetics",
+   "https://id5.fandom.com/wiki/CROW",
+   "https://id5.fandom.com/wiki/Goro_Akechi"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "barmaid",
+  "counts": {
+   "S": 3,
+   "A": 9,
+   "B": 14,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 34,
+  "notable": [
+   {
+    "name": {
+     "en": "True Proof",
+     "cn": "真实证明"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Every traitor drink poison hate; first S Season8 Essence1 iconic collection list ",
+    "obtain": "Season 8 Essence 1 2019/09/30 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sea Salt Mocktail",
+     "cn": "海盐特调"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Little salt edge waves mouth; summer package with Beach Spectacles, refreshing favorite ",
+    "obtain": "Package Summer Special Illusion Hall 2022/05/19 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "So Long at the Fair",
+     "cn": "盛会落幕"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Secrets lies veil questions; 2025 Deduction Star winner 2,094,800 votes Jan 2026 ",
+    "obtain": "Deduction Star 2025 Illusion Hall 1388 Echoes 2026/01/15 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Last Dance\"",
+     "cn": "最后一舞"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Wicked Witch Black Queen crown judgment; Halloween 180 Candy Corns with glowing Jack bucket skull bottles ",
+    "obtain": "Halloween 2022 Event Store 180 Candy Corns ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Enoshima Junko",
+     "cn": "江之岛盾子"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Hope Peak Class78 Ultimate Fashionista true identity; Danganronpa fans love but others dislike face model ",
+    "obtain": "Danganronpa Crossover Part I 2020/05/28 ",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Vermouth",
+     "cn": "贝尔摩德"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Vermouth suit + sunglasses; Conan Part2 stylish but simple recolor vs original S ",
+    "obtain": "Detective Conan Crossover Part II 2020/08/27 CN 2021/12/09 GL ",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Barmaid has a large 34-skin wardrobe (3S, 9A, 14B, 5C, 3 collabs) with True Proof, summer Sea Salt, voted So Long at Fair (2025 winner, global), and Halloween's Last Dance. Fans feel well-treated.",
+   "cn": "共34套（3S+9A+14B+5C+3联动），有真实证明、夏日海盐特调、演绎盛会落幕（2025优胜全球）和万圣最后一舞，玩家满意。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Barmaid/Cosmetics",
+   "https://id5.fandom.com/wiki/Last_Dance",
+   "https://id5.fandom.com/wiki/Deduction_Star_%26_Nymph_Awards"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "postman",
+  "counts": {
+   "S": 2,
+   "A": 7,
+   "B": 10,
+   "C": 5,
+   "Collab": 2
+  },
+  "total": 26,
+  "notable": [
+   {
+    "name": {
+     "en": "The Embrace",
+     "cn": "初拥"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Limited vampire S with golden flower trail and Tome lore, highly sought in account trading looking to buy with embrace",
+    "obtain": "Season 9 Essence 1, limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Christmas Messenger",
+     "cn": "圣诞信使"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Festive Santa + fairy wings beloved but Wick default model drew complaints, updated Jan 4 2024 and split old model into pet Jingle",
+    "obtain": "Season 29 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"The Prince\"",
+     "cn": "王子"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Fairy-tale prince with sapphire eyes, gentle/cool lore, popular essence A",
+    "obtain": "Season 17 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Keyboard",
+     "cn": "键盘"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Misfit music-hell bar trap lore, quirky demon musician, essence fan pick",
+    "obtain": "Season 11 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Paperboy (COA V)",
+     "cn": "报纸怪客"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Founder of Have Fun opposing monotonous media, COA V reward",
+    "obtain": "Call of the Abyss V event reward / Event Store",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Doctor Watson",
+     "cn": "华生医生"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Retired army doctor John H. Watson look, Conan Doyle crossover essence",
+    "obtain": "Conan Doyle Estate Crossover Essence",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Postman has 26 costumes—2 S-tier, 7 A-tier, 10 B-tier, 5 C-tier, and 2 collab—headlined by limited S The Embrace and Christmas Messenger. Embrace is popular, but the Christmas Wick model drew complaints.",
+   "cn": "邮差共26件时装（2稀世/7奇珍/10独特/5罕见/2联动），以限定稀世初拥和圣诞信使为代表；初拥人气最高，圣诞犬模曾因投诉优化。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Postman/Cosmetics",
+   "https://id5.fandom.com/wiki/The_Embrace",
+   "https://id5.fandom.com/wiki/Christmas_Messenger",
+   "https://wiki.biligame.com/dwrg/邮差"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "grave-keeper",
+  "counts": {
+   "S": 2,
+   "A": 8,
+   "B": 11,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 27,
+  "notable": [
+   {
+    "name": {
+     "en": "Desolate Sand",
+     "cn": "荒芜之沙"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Limited cowboy dusk gunshots destiny judgment, gave character free, classic first S",
+    "obtain": "Season 10 Essence 1 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Half-Elf Knight",
+     "cn": "半精灵骑士"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Pursuing World Tree guidance order is light, pricey shop package",
+    "obtain": "Package Half-Elf's Journey / Illusion Hall 2888 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Epitaph",
+     "cn": "墓志铭"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Iris Faded Long Buried self-epitaph erasing discrimination, emotional lore shop hit",
+    "obtain": "Illusion Hall 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Cheese",
+     "cn": "芝士"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Soft peculiar cheese first dish inferiority utopia meme, cute vs joke",
+    "obtain": "Season 14 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Train Conductor",
+     "cn": "列车长"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Train of destiny rumbles until death, dark conductor essence",
+    "obtain": "Season 11 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Tony",
+     "cn": "托尼"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Wandering rabbit without purpose, Fabulous Beasts animal skin divisive",
+    "obtain": "Fabulous Beasts Crossover Event",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Grave Keeper has 27 costumes—2 S-tier, 8 A-tier, 11 B-tier, 5 C-tier, and 1 collab. Desolate Sand and Epitaph stand out; the steady supply means he isn't neglected.",
+   "cn": "守墓人共27件时装（2稀世/8奇珍/11独特/5罕见/1联动），荒芜之沙与墓志铭最突出，供给稳定不算被冷落。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Grave_Keeper/Cosmetics",
+   "https://id5.fandom.com/wiki/Desolate_Sand",
+   "https://wiki.biligame.com/dwrg/守墓人"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "prisoner",
+  "counts": {
+   "S": 3,
+   "A": 8,
+   "B": 13,
+   "C": 5,
+   "Collab": 5
+  },
+  "total": 34,
+  "notable": [
+   {
+    "name": {
+     "en": "Fugue for Dawn",
+     "cn": "黎明赋格"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Wanderer decay vs dawn war in name of reason, newest essence S 2025",
+    "obtain": "Season 39 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Viper",
+     "cn": "蝰蛇"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Call quits journey chill pledge remedy destiny, early S",
+    "obtain": "Season 10 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Winter Cicada",
+     "cn": "冬蝉"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Voice truth or silent fuel melts ice, frosty elegance cool intellect quiet strength wig with full-set cosplay demand",
+    "obtain": "Season 22 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Osamu Dazai",
+     "cn": "太宰治"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Limited S Armed Detective Agency costume, package 2888 Echoes huge crossover demand",
+    "obtain": "Bungo Stray Dogs Package Osamu Dazai",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Graduation Day",
+     "cn": "毕业典礼"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Robe gown truth not arduous journey, clean student shop hit",
+    "obtain": "Illusion Hall 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "L",
+     "cn": "L"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "L's Costume Global-only Death Note crossover",
+    "obtain": "Death Note Crossover",
+    "server": "global"
+   }
+  ],
+  "summary": {
+   "en": "Prisoner has 34 costumes—3 S-tier, 8 A-tier, 13 B-tier, 5 C-tier, and 5 collab—one of the richest survivor wardrobes. Winter Cicada, Dazai, and Graduation Day are fan favorites.",
+   "cn": "“囚徒”共34件时装（3稀世/8奇珍/13独特/5罕见/5联动），是求生者中时装库最富之一，冬蝉、太宰治、毕业典礼最受欢迎。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Prisoner%22/Cosmetics",
+   "https://id5.fandom.com/wiki/Osamu_Dazai",
+   "https://id5.fandom.com/wiki/Winter_Cicada",
+   "https://wiki.biligame.com/dwrg/囚徒"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "entomologist",
+  "counts": {
+   "S": 4,
+   "A": 8,
+   "B": 10,
+   "C": 5,
+   "Collab": 2
+  },
+  "total": 29,
+  "notable": [
+   {
+    "name": {
+     "en": "Sophia",
+     "cn": "索菲亚"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Raging hatred buried by snow-gentle love sun will shine, first limited S account-selling staple",
+    "obtain": "Season 11 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Ghost Candle\"",
+     "cn": "鬼烛"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Lights candle guiding souls boundless night, called SO PRETTY!! bridal veil horror beautiful",
+    "obtain": "Package Eternal Night / Illusion Hall 2888 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Konghou",
+     "cn": "箜篌"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Handicrafts easier than living things blood tears performance, Chinese instrument theme",
+    "obtain": "Season 28 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mujika",
+     "cn": "穆吉卡"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Mujika's Costume TPN crossover",
+    "obtain": "The Promised Neverland Crossover Essence II",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Datura",
+     "cn": "曼陀罗"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Named flower slumbers borders darkness blood awakens sprite",
+    "obtain": "Season 22 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Flower of the Wasteland",
+     "cn": "荒漠之花"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Untamed zephyrs highland haze ideals thrive shop pretty",
+    "obtain": "Illusion Hall 1388 Echoes",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Entomologist has 29 costumes—4 S-tier, 8 A-tier, 10 B-tier, 5 C-tier, and 2 collab. Sophia and Ghost Candle are standout beauties; her wardrobe is rich and well received.",
+   "cn": "昆虫学者共29件时装（4稀世/8奇珍/10独特/5罕见/2联动），索菲亚与鬼烛为颜值顶梁，整体时装库丰富受欢迎。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Entomologist/Cosmetics",
+   "https://id5.fandom.com/wiki/Sophia",
+   "https://wiki.biligame.com/dwrg/昆虫学者"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "painter",
+  "counts": {
+   "S": 3,
+   "A": 6,
+   "B": 8,
+   "C": 5,
+   "Collab": 4
+  },
+  "total": 26,
+  "notable": [
+   {
+    "name": {
+     "en": "Golden Ratio",
+     "cn": "黄金比例"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Red stone medium sacrifice organic inorganic miracle, so pretty I love it so much must-have account item",
+    "obtain": "Season 13 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Narcissus",
+     "cn": "水仙"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Other end river deception reflection forever out of reach",
+    "obtain": "Season 15 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Symphonic Elegy",
+     "cn": "交响挽歌"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Honor attending own funeral full dress while alive, called Amazing S Tier",
+    "obtain": "Season 42 Essence 2 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Rampo Edogawa",
+     "cn": "江户川乱步"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Armed Detective Agency costume free compensation mail",
+    "obtain": "Bungo Stray Dogs Crossover compensation",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Da Vinci",
+     "cn": "达芬奇"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Genius brush records beauty depicts future shop staple",
+    "obtain": "Illusion Hall 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sealed Chronicler",
+     "cn": "藏典"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Keeper whispers bygone dynasties memory vow, museum ticket event",
+    "obtain": "Palace Museum Classics Crossover Event Store",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Painter has 26 costumes—3 S-tier, 6 A-tier, 8 B-tier, 5 C-tier, and 4 collab. Golden Ratio and Narcissus are iconic beauties, and fans feel well treated.",
+   "cn": "画家共26件时装（3稀世/6奇珍/8独特/5罕见/4联动），黄金比例与水仙是标志性美皮，玩家觉得待遇很好。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Painter/Cosmetics",
+   "https://wiki.biligame.com/dwrg/画家"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "batter",
+  "counts": {
+   "S": 2,
+   "A": 5,
+   "B": 8,
+   "C": 5
+  },
+  "total": 20,
+  "notable": [
+   {
+    "name": {
+     "en": "Lava Cake",
+     "cn": "熔岩蛋糕"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Fighter won't succumb desire breaks sweet confinement classic first limited S",
+    "obtain": "Season 14 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Champion Helmsman",
+     "cn": "冠军舵手"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Carries trophy comrades nowhere seen package 2888 kayaking theme odd for cricketer, price high",
+    "obtain": "Package Sea Kayaking / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Tungsten",
+     "cn": "钨"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Stars not hopes phosphorescence overcomes darkness",
+    "obtain": "Season 28 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Seditious Bindings",
+     "cn": "叛逆之缚"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Endless duel over hypocritical titles playthings bondage",
+    "obtain": "Season 17 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Paratrooper",
+     "cn": "伞兵"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Dangerous stunts screams howls darkest corner courage, pricey COA grind",
+    "obtain": "Call of the Abyss VI Event Store 2700 Tokens",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Donut",
+     "cn": "甜甜圈"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Traps sugarcoated sophisticated exteriors shop cheap cute beloved cheap B example",
+    "obtain": "Illusion Hall 318 Echoes",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Batter has 20 costumes—2 S-tier, 5 A-tier, 8 B-tier, and 5 C-tier—a smaller wardrobe than most. Lava Cake is beloved, Champion Helmsman is divisive, and fans feel somewhat neglected compared with popular survivors.",
+   "cn": "击球手共20件时装（2稀世/5奇珍/8独特/5罕见），数量偏少，熔岩蛋糕最爱、冠军舵手评价分化，玩家略感被冷落。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Batter/Cosmetics",
+   "https://wiki.biligame.com/dwrg/击球手"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "toy-merchant",
+  "counts": {
+   "S": 2,
+   "A": 8,
+   "B": 13,
+   "C": 5,
+   "Collab": 2
+  },
+  "total": 30,
+  "notable": [
+   {
+    "name": {
+     "en": "Myriad Blossoms",
+     "cn": "花千树"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "2025 CNY-style S, praised as her most beautiful skin with detailed blossoms and lantern effects; Illusion Hall 2888 echoes",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Shining Feather",
+     "cn": "炽羽"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Debut S from Season 16 Essence 1, exotic desert princess with gems and golden key; older model with limited effects vs new S",
+    "obtain": "Season 16 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Hidden",
+     "cn": "藏"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Season 18 Essence 3 purple bowerbird theme, toy box with eagle; fans like cool color and lore",
+    "obtain": "Season 18 Essence 3 / Memory Sphere",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Caged Dream",
+     "cn": "匣中梦"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "2026 Backdrift series Illusion Hall 1388 echoes, dreamy diorama world; new but well received",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Miu Iruma",
+     "cn": "入间美兔"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Danganronpa Part III Essence Ultimate Inventor; loved by collab fans but disliked as it completely lacks Toy Box",
+    "obtain": "Danganronpa Crossover Part III Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Paper Wings",
+     "cn": "纸翼"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Illusion Hall leather backpack with pressure gauge, childhood false sky lore; good value 1388 echoes",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Toy Merchant has a sizable mid-size wardrobe of about 30 costumes with 2 S-tiers. Fans love Myriad Blossoms and Hidden but feel she waits long between S-tiers.",
+   "cn": "玩具商时装约30件、稀世2件，花千树和藏口碑最好，但玩家觉得S级更新慢、有被忽视感。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Toy_Merchant/Cosmetics",
+   "https://wiki.biligame.com/dwrg/玩具商"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "psychologist",
+  "counts": {
+   "S": 3,
+   "A": 7,
+   "B": 8,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 24,
+  "notable": [
+   {
+    "name": {
+     "en": "Everlasting Night",
+     "cn": "长夜"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Qixi 2022 wedding gown paired with Luminary, sea of stars when near lover; voted 6th Costume Voting 2023 and returns yearly",
+    "obtain": "Witching Hour package / Illusion Hall 2888 echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Feathered Cloak",
+     "cn": "羽衣"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Season 17 Essence 2 debut S that gave character for free; striking but older effects criticized vs Everlasting Night",
+    "obtain": "Season 17 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Everlasting Dream",
+     "cn": "长梦"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 36 Essence 3 2025 new S, continuation of Everlasting Night dream theme",
+    "obtain": "Season 36 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Juliet",
+     "cn": "朱丽叶"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Illusion Hall 1388 echoes, eternal scent lore; Deduction Star 2023 graffiti shows high popularity",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Layla",
+     "cn": "蕾拉"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Early Illusion Hall Majnun pair, I am here Majnun lore; cheap beloved couple skin",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Fern",
+     "cn": "菲伦"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Frieren: Beyond Journey's End Essence, accurate mage staff; anime fans love it",
+    "obtain": "Frieren Crossover Essence",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Psychologist is a wardrobe favorite with about 24 costumes, anchored by the Ada-Emil couple skins; Everlasting Night is routinely cited as one of the most beautiful female S-tiers.",
+   "cn": "“心理学家”时装约24件，靠与病患的情侣皮肤长夜撑起口碑，常被视为最美女皮肤之一，不存在被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Psychologist%22/Cosmetics",
+   "https://id5.fandom.com/wiki/Luminary"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "patient",
+  "counts": {
+   "S": 3,
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "total": 24,
+  "notable": [
+   {
+    "name": {
+     "en": "Luminary",
+     "cn": "发光体"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Qixi 2022 S paired with Everlasting Night, rose petals and star sea interaction; returned 2023-2026 via voting and COA champion picks",
+    "obtain": "Witching Hour / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Fugitive",
+     "cn": "逃亡者"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Limited debut S Season 17 Essence 2, formerly The Guiltless, obtainable Aug-Sep 2021",
+    "obtain": "Season 17 Essence 2 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Tracing Light",
+     "cn": "追光"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Third S completing S trio Luminary Fugitive Tracing Light",
+    "obtain": "Illusion Hall / event",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Romeo",
+     "cn": "罗密欧"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Juliet pair A, wedding couple with Psychologist Juliet; popular for lore",
+    "obtain": "Essence / Memory Sphere",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Majnun",
+     "cn": "玛季侬"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Layla pair A, cheap couple skin completing Layla-Majnun story",
+    "obtain": "Essence / Memory Sphere",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Suffered",
+     "cn": "受难者"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "B-tier listed among 8 blues including Banshee Blind Devotion; lore-heavy but plain model",
+    "obtain": "Essence",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Patient mirrors Psychologist with about 24 costumes and three S-tiers; Luminary is his defining beloved skin, and fans feel well treated as a couple character.",
+   "cn": "病患时装约24件、稀世3件，流光/发光体为代表作，作为情侣角色之一玩家满意度高。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Luminary",
+   "https://id5.fandom.com/wiki/Patient/Cosmetics"
+  ],
+  "confidence": 3,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "novelist",
+  "counts": {
+   "S": 1,
+   "A": 4,
+   "B": 12,
+   "C": 5,
+   "Collab": 4
+  },
+  "total": 26,
+  "notable": [
+   {
+    "name": {
+     "en": "Hollow",
+     "cn": "空洞"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Only non-collab S Season 19 Essence 1, pure fairytale crushed before night",
+    "obtain": "Season 19 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sherlock Holmes",
+     "cn": "夏洛克·福尔摩斯"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Conan Doyle Estate Crossover Essence legendary detective; long-requested fit for Orpheus",
+    "obtain": "Conan Doyle Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Shuichi Saihara",
+     "cn": "最原终一"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Danganronpa Part III Ultimate Detective, timid but decisive; very popular with collab fans",
+    "obtain": "Danganronpa Crossover Part III Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Wu Xie",
+     "cn": "吴邪"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Time Raiders crossover package 1958 echoes / 1388 echoes single",
+    "obtain": "Time Raiders package / Illusion Hall",
+    "server": "cn"
+   },
+   {
+    "name": {
+     "en": "Orfeo",
+     "cn": "奥尔菲欧"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Orfeo's Game B, happy endings don't exist lore; cheap lore skin for protagonist",
+    "obtain": "Orfeo's Game event",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Genesis",
+     "cn": "创世"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "COA VIII Wasteland Treasure Hunt Archivist tangled in time; effects good but grind-heavy obtain",
+    "obtain": "Call of the Abyss VIII",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Novelist has about 26 costumes but only one original S-tier, relying on collaborations; fans feel neglected for original high-tier despite rich B-tier lore.",
+   "cn": "小说家时装约26件但原创稀世仅1件，靠联动撑场面，玩家常抱怨原创高阶太少。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Novelist/Cosmetics"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "little-girl",
+  "counts": {
+   "S": 4,
+   "A": 5,
+   "B": 10,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 27,
+  "notable": [
+   {
+    "name": {
+     "en": "Moonlit Mirage",
+     "cn": "虚妄 / 月下海市"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "SS Platinum Penrose Maze 7000 Nightingale Blessings with dual form; stunning but gacha price criticized",
+    "obtain": "Penrose Maze",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Eurydice",
+     "cn": "欧律狄刻"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Package Echoes of Past 2688 echoes / 2888 echoes, Are you from memory or dream lore",
+    "obtain": "Echoes of the Past package / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Source of Evil",
+     "cn": "罪恶之源"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Season 18 Essence 3 purity lamb disguise origin of sins; iconic evil loli S",
+    "obtain": "Season 18 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Miss Pomegranate Plate",
+     "cn": "石榴碟小姐"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Season 37 Essence 1 2025 Chinese style march forward untouched by joy",
+    "obtain": "Season 37 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Six",
+     "cn": "小六"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Little Nightmares Package Six 1968 echoes / 1388 echoes, perfect chibi horror fit",
+    "obtain": "Package Six / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Rachel Gardner",
+     "cn": "瑞吉儿·加德纳"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Angels of Death Essence with handgun accessory; anime fans like it",
+    "obtain": "Angels of Death Crossover Essence",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Little Girl has a premium wardrobe of about 27 costumes, including one SS and three S-tiers; Eurydice and Source of Evil are perennial most-beautiful picks, so no neglect.",
+   "cn": "“小女孩”时装约27件、含虚妄铂金及3稀世，欧律狄刻与罪恶之源常年入选最好看榜单，富养角色。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Little_Girl%22/Cosmetics"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "weeping-clown",
+  "counts": {
+   "S": 2,
+   "A": 7,
+   "B": 4,
+   "C": 5
+  },
+  "total": 18,
+  "notable": [
+   {
+    "name": {
+     "en": "Swallow of Deception",
+     "cn": "欺诈之燕"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Limited S Season 19 Essence 3 that unlocked Weeping Clown; treacherous devil proclaims devotion lore",
+    "obtain": "Season 19 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Breezy Snail",
+     "cn": "微风蜗牛"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "2025 Whimsy Illusion Hall 2888 echoes shiny shell king; cute but criticized as too childish for Joker",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Fireworks Guy",
+     "cn": "烟花小子"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 20 Essence 2 owner exhausts top hat prosthetic leg mask for shop",
+    "obtain": "Season 20 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Heavy Bomber",
+     "cn": "重型轰炸机"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "COA VI Abyss Treasure cannon to space fantasy; COA lovers like it",
+    "obtain": "Call of the Abyss VI Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Naga",
+     "cn": "那加"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Season 32 Essence 2 best actor disguise malice as zeal",
+    "obtain": "Season 32 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Prostheses",
+     "cn": "义肢"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "Illusion Hall 288 echoes more laugh more lonely; cheap but plain",
+    "obtain": "Illusion Hall shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Weeping Clown has a small wardrobe of about 18 costumes with two S-tiers; Swallow of Deception is iconic, but fans feel neglected by long gaps and joke S-tiers like Breezy Snail.",
+   "cn": "哭泣小丑时装偏少，约18件、稀世2件，欺诈之燕经典但新S微风蜗牛偏幼稚，玩家常感被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Weeping_Clown/Cosmetics"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "professor",
+  "counts": {
+   "S": 2,
+   "A": 3,
+   "B": 6,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 17,
+  "notable": [
+   {
+    "name": {
+     "en": "Spring Heated Wine",
+     "cn": "温泉煮酒"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Free debut S with Dionysus hot-spring theme, nostalgic classic but model dated vs new S; Dionysus cult motif noted",
+    "obtain": "Season 21 Essence 1 free with character 2022/04/28-07/06",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ecdysis",
+     "cn": "蜕变"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Whimsy Series S previewed 2026/09/22, reptile-evolution to human finest specimen; hype for lore but 2888 Echoes shop price complaints, too new for consensus",
+    "obtain": "Illusion Hall Season 44 2026/09/30-10/28",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ao Lie",
+     "cn": "敖烈"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Third Prince of West Sea Dragon King line, CN-exclusive dragon prince; most requested for global return, praised model",
+    "obtain": "Package Ao Lie CN 2024/02/22",
+    "server": "cn"
+   },
+   {
+    "name": {
+     "en": "Daniel Dickens",
+     "cn": "丹尼尔·迪肯斯"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Angels of Death Danny crossover; niche anime, low essence pull rate, not iconic vs other collabs",
+    "obtain": "Angels of Death Crossover Essence 2023/05/31",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Emergency Transport",
+     "cn": "紧急运输"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "COA VII Wasteland Expedition armed vs life-devouring creatures, lore-rich apocalyptic look",
+    "obtain": "Call of the Abyss VII Abyss Treasure 2024/01/11",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Falconer",
+     "cn": "猎鹰人"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cheap B oasis market birds, cheerful budget favourite; price does not equal popularity, beloved filler",
+    "obtain": "Season 26 Essence 2 2023/05/11",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Professor has 17 costumes total per the Cosmetics table's S/A/B/C navigation; after a four-year S-tier gap from 2022 to 2026, Ecdysis arrived, yet fans feel neglected despite Ao Lie's CN popularity.",
+   "cn": "共17套，S断档4年直到蜕变，敖烈CN限定最受欢迎，粉丝多觉被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Professor/Cosmetics",
+   "https://id5.fandom.com/wiki/Spring_Heated_Wine",
+   "https://id5.fandom.com/wiki/Ecdysis",
+   "https://wiki.biligame.com/dwrg/%E6%95%99%E6%8E%88"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "antiquarian",
+  "counts": {
+   "S": 2,
+   "A": 7,
+   "B": 4,
+   "C": 5,
+   "Collab": 6
+  },
+  "total": 24,
+  "notable": [
+   {
+    "name": {
+     "en": "Bai Ze",
+     "cn": "白泽"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Supermodel-level divine beauty list includes Bai Ze; gameplay fans call so beautiful; Limited S gave character free 2022/08/04-09/22",
+    "obtain": "Season 22 Essence 2 Midsummer Misty Mountain",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Mulan",
+     "cn": "花木兰"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Venturing far to join war nothing stands in way; heroic female general, top cosplay pick",
+    "obtain": "Illusion Hall 1388 Echoes 2023/10/19",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Crow",
+     "cn": "乌鸦"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Tool of murder pawn of kingdom lost goodness; dark assassin good model but stiff flute",
+    "obtain": "Season 26 Essence 2 2023/05/11",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Paper Bride Tao Mengyan",
+     "cn": "纸嫁衣陶梦嫣"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Paper bride outfit from dream in Zangling Village; horror red marriage lore stunning, premium package",
+    "obtain": "Paper Bride Package 3268 Echoes 2026/07/02",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Qiao Ling",
+     "cn": "乔灵"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Qiao Ling costume landlady of Time Photo Studio; Link Click fans love casual faithful, others ignore",
+    "obtain": "Illusion Hall Link Click Part II 2025/02/06",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Jade Sugar Spring",
+     "cn": "玉糖清泉"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Wangzai crossover exclusive CNY gift box ¥89; cute New Year ad but slammed as milk ad paywall CN-only",
+    "obtain": "Wangzai Club CNY Gift Box 2026/01/30 CN",
+    "server": "cn"
+   }
+  ],
+  "summary": {
+   "en": "Antiquarian has 24 total costumes—S3, A10, B6, C5—including Bai Ze S, Serpent Flag S, and Crow A; her rich Chinese-style wardrobe leaves fans well-treated.",
+   "cn": "共24套（S3/A10/B6/C5），含白泽S、蛇旗S、乌鸦A，国风库存丰厚，粉丝普遍满意。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Antiquarian/Cosmetics",
+   "https://id5.fandom.com/wiki/Bai_Ze",
+   "https://news.bittopup.com/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "composer",
+  "counts": {
+   "S": 2,
+   "A": 5,
+   "B": 6,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 19,
+  "notable": [
+   {
+    "name": {
+     "en": "Dragon Hunter",
+     "cn": "屠龙者"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Descendants of dragon slayers power in veins; debut S still most iconic silver armor",
+    "obtain": "Season 24 Essence 1 2022/12/01",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Phantom Sail",
+     "cn": "幻影船帆"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Deep-sea blue uniform silk bow light elegant like waves; loved design but 2688-2888 Echoes package price slammed",
+    "obtain": "Package Sailing in the Mist 2024/04/11",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Forgotten George",
+     "cn": "遗忘的乔治"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Same notes despair vs grandeur symphonies, 2024 Deduction Star; voted winner pride",
+    "obtain": "Illusion Hall Deduction Star 2025/01/02",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Pioneer Research",
+     "cn": "先驱者研究"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Rather than rotting monotonous life embark adventure beyond shelter; solid COA team skin not flashy",
+    "obtain": "Call of the Abyss VII Abyss Treasure 2024/01/11",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Umber",
+     "cn": "赭土"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Silver moon watched over him ventured deeper night light could not follow; pretty but grindy event store",
+    "obtain": "Ode to Eternal Night Event Store 120 Pastries 2025/10/23",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Vinyl Echo",
+     "cn": "黑胶回声"
+    },
+    "tier": "C",
+    "reception": "loved",
+    "note": "Needle caresses record melody twilight lighting way home, NetEase Cloud Music custom; cheap C beloved meme",
+    "obtain": "NetEase Cloud Music Vinyl Ball 2025/08/14",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Composer has 19 total costumes—S Dragon Hunter and Phantom Sail, A5, B6, C6—and a solid mid-size wardrobe; his Deduction Star win keeps fans content.",
+   "cn": "共19套，S龙之猎人与幻影之帆，A5/B6/C6，推理之星获奖，衣柜中规中矩粉丝尚满意。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Composer/Cosmetics",
+   "https://id5.fandom.com/wiki/Phantom_Sail"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "journalist",
+  "counts": {
+   "S": 1,
+   "A": 5,
+   "B": 9,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 23,
+  "notable": [
+   {
+    "name": {
+     "en": "Eternity",
+     "cn": "永恒"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Neither redemption nor damnation merely beginning new cycle; rare skin highlight Eternity for Journalist, buyers must have eternity",
+    "obtain": "Season 26 Essence 1 2023/04/20",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Alice in Dreamland",
+     "cn": "梦境爱丽丝"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Wandering dreamlike gardens swamps uncover treasure growth, 2024 Deduction Star; voted sweet Alice lore",
+    "obtain": "Illusion Hall Deduction Star 2025/01/02",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ib",
+     "cn": "伊布"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Lost girl in art gallery 2025 Ib Crossover; pixel horror nostalgia faithful cute",
+    "obtain": "Ib Crossover Event 2025/04/17",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Miss Watson\"",
+     "cn": "华生小姐"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Perhaps just a disguise; Sherlock package elegant detective but 2688-2888 Echoes expensive",
+    "obtain": "Package An Adventure 2025/02/20",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Kaede Akamatsu",
+     "cn": "赤松枫"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Ultimate Pianist plays to see smiles; piano fits Composer more, Dangan fatigue divisive",
+    "obtain": "Danganronpa Crossover Part III Essence 2023/08/03",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Spinel",
+     "cn": "尖晶石"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Same goal different paths flame ends darkness stars guide long night; free event B beloved starry red",
+    "obtain": "Moonlight Race Event 2023/09/07",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Journalist has 23 total costumes, with S-tiers Eternity, Kaede, and Miss Watson, A-tiers Alice, Dreaded, Golden, Homeward, Ib, and Xiao Yu, and B9, a large beautiful wardrobe that spoils fans.",
+   "cn": "共23套，永恒、枫、沃森小姐为S，爱丽丝、恐怖、金色、归途、伊布、小宇为A，B9，衣柜又大又美，粉丝公认富婆。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Journalist/Cosmetics",
+   "https://id5.fandom.com/wiki/Eternity"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "aeroplanist",
+  "counts": {
+   "S": 1,
+   "A": 3,
+   "B": 5,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 15,
+  "notable": [
+   {
+    "name": {
+     "en": "Stellar Wings",
+     "cn": "星翼"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Earth life grows sky soul belongs; golden-gray goggles pipe casual unruly, pricey 3148 package split",
+    "obtain": "Package Distant Dream 2023/07/27",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Strange Dream",
+     "cn": "奇异之梦"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Minotaur broke free maze awoke sofa realistic world; blonde tips pale fun meme essence",
+    "obtain": "Season 31 Essence 1 2024/03/21",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Aviatorus",
+     "cn": "守卫"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Timid Guard fear found strength team spark ashes; COA team protect story touching",
+    "obtain": "Call of the Abyss VIII Abyss Treasure 2025/01/02",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Wang Pangzi",
+     "cn": "王胖子"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Time Raiders crossover costume login; physique different league review notes model OOC, funny free but break",
+    "obtain": "Time Raiders Crossover login 2026/07/16",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Gear Assembly",
+     "cn": "齿轮组装"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Gears turn dragging steel body endless monotonous conformity; solid steampunk filler",
+    "obtain": "Season 33 Essence 2 2024/08/22",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Failed Exploration",
+     "cn": "探索失败"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "Searching recognizable planet civilization answer beyond recognition believe fantasy; mushroom horror divisive",
+    "obtain": "Call of the Abyss VII Abyss Treasure 2024/01/11",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Aeroplanist has 15 outfits total: S Stellar Wings, A Aviatorus Rotor and Strange Wang, plus 5 B and 5 C. His small male wardrobe feels overlooked, and fans feel neglected.",
+   "cn": "共15套：金皮星翼、紫皮Aviatorus Rotor和怪奇王，蓝绿各5。男角色衣柜小、存在感低，粉丝常喊被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Aeroplanist/Cosmetics",
+   "https://id5.fandom.com/wiki/Strange_Dream",
+   "https://id5.fandom.com/wiki/Aviatorus"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "cheerleader",
+  "counts": {
+   "S": 2,
+   "A": 5,
+   "B": 7,
+   "C": 5,
+   "Collab": 3
+  },
+  "total": 22,
+  "notable": [
+   {
+    "name": {
+     "en": "Fluorite",
+     "cn": "萤石"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Abyss or paradise beyond cage see with own eyes; debut S dark crystal cage still best",
+    "obtain": "Season 28 Essence 1 2023/08/31",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Woven Heart",
+     "cn": "织心"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Bamboo threads weave year lamplight guarding loyal heart; CNY bamboo elegant premium worth 3268",
+    "obtain": "Package Woven in Bamboo 2026/02/16",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Rising Star",
+     "cn": "明日之星"
+    },
+    "tier": "A",
+    "reception": "loved",
+    "note": "Delicate desserts gowns whisper goodnight, 2024 Deduction Star; voted sweet idol",
+    "obtain": "Illusion Hall Deduction Star 2025/01/09",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Stunning My Melody",
+     "cn": "闪亮美乐蒂"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Sanrio characters crossover costume; pink dress adored Sanrio mains, childish to others",
+    "obtain": "Illusion Hall Sanrio Crossover 2024/06/27",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "OPH.LILY",
+     "cn": "OPH.LILY"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Keep on Fighting Team OPH, Esports Series Package Cheerleader 2025/04/30; sporty but 2618 paywall recolour complaints",
+    "obtain": "Esports Series Package 2025/04/30",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Crude Ore",
+     "cn": "粗矿石"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Courage most powerful chisel break bedrock reveal starlight; cheap early B nostalgic",
+    "obtain": "Package Crude Ore 798 Echoes 2023/09/07",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Cheerleader has 22 outfits: S Fluorite Woven Heart; A BISHOP, Congregator, OPH, Resonant Rising Melody, Maltese; 8 B including Haidilao. This new female is well-treated, with no neglect.",
+   "cn": "共22套：金皮萤石织心，紫皮BISHOP、Congregator、OPH、共鸣旋律、马耳他，蓝皮8件含海底捞。新女角待遇好，粉丝不觉被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Cheerleader/Cosmetics",
+   "https://id5.fandom.com/wiki/Fluorite",
+   "https://id5.fandom.com/wiki/OPH.LILY"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "puppeteer",
+  "counts": {
+   "S": 1,
+   "A": 3,
+   "B": 5,
+   "C": 5,
+   "Collab": 0
+  },
+  "total": 14,
+  "notable": [
+   {
+    "name": {
+     "en": "KING-h1",
+     "cn": "KING-h1"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Flagship chess-king S, Louis also becomes king; praised for crown/chess effects and lore fit as abandoned prince",
+    "obtain": "Season 30 Essence 2 (CN 31E2) limited essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lignarius",
+     "cn": "义体再构"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "COA VIII Abyss prosthetist body-horror; lore fans praise forbidden-realm story but bulky flesh-weave model divisive",
+    "obtain": "Call of the Abyss VIII Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Philemon's Altar",
+     "cn": "斐乐蒙的圣坛"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Alchemy bottle life-essence theme, liked for mysterious eye-opening effects",
+    "obtain": "Season 32 Essence 3 / Memory Sphere",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "ROOK-e4",
+     "cn": "ROOK-e4"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cheap chess-rook match for KING-h1; beloved affordable B package that changes Louis",
+    "obtain": "Package ROOK-e4 Illusion Hall 318 Echoes/1188 Fragments",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Boy Who Fell",
+     "cn": "坠落的男孩"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Melancholy cliff-vine story, liked for literary vibe over effects",
+    "obtain": "Season 34 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Winter Chimes",
+     "cn": "雪铃铛"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cute winter silent-partner blessing; praised as high-value event-store B",
+    "obtain": "Winter Wishes event store 100 Snow-Covered Presents",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Puppeteer has a small, curated 14-piece wardrobe: 1 S, 3 A, 5 B, 5 C. KING-h1 is the consensus standout; ROOK-e4 and Winter Chimes are beloved cheap Bs. Fans feel okay for a 2024 survivor but want a new S accessory.",
+   "cn": "共14件，1金3紫5蓝5绿，小而精。KING-h1是公认代表作，ROOK-e4和雪铃铛是便宜好蓝皮。2024求生者不亏，但盼新金挂。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Puppeteer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/KING-h1",
+   "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "fire-investigator",
+  "counts": {
+   "S": 1,
+   "A": 4,
+   "B": 4,
+   "C": 5,
+   "Collab": 1
+  },
+  "total": 14,
+  "notable": [
+   {
+    "name": {
+     "en": "Spirit Fox",
+     "cn": "灵狐"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Nine-tail fox spirit S, praised as most beautiful Florian skin with elegant white-gold effects",
+    "obtain": "Season 31 Essence 3 (CN 32E3) limited essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Caged Fire",
+     "cn": "匣中焰星"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Mark of Sun merchant incense story; COA IX treasure liked for warm candlelight lore",
+    "obtain": "Call of the Abyss IX Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "LEONARD",
+     "cn": "蛙里奥"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Frog raincoat LEONARD present; cute but 1388 direct-buy price complained",
+    "obtain": "Illusion Hall shop 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Puffing\"",
+     "cn": "“膨化”"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Caramel popcorn fireplace theme; food-skin divisive - cute vs not handsome",
+    "obtain": "Season 34 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Proposal",
+     "cn": "计划书"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Ambitious planner suit package; liked as clean affordable substitute",
+    "obtain": "Package Proposal Illusion Hall 318 Echoes/1188 Fragments",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lumina",
+     "cn": "尘光"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Free Halloween 2025 stars-dust tribute to Hermit Haze; beloved free B",
+    "obtain": "Ode to Eternal Night event store 40 Pumpkin Pastries",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Fire Investigator has a balanced 14-piece wardrobe (1 S, 4 A, 4 B, 5 C). Spirit Fox is a universally loved S; Lumina is a beloved free B. Beanie and LEONARD shop-collab As show price doesn't equal popularity.",
+   "cn": "共14件，1金4紫4蓝5绿，分布均衡。灵狐是公认最美金皮，尘光是口碑极好的免费蓝皮；红小豆和LEONARD联动商城紫皮证明贵≠最受欢迎。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Fire_Investigator/Cosmetics",
+   "https://wiki.biligame.com/dwrg/%E7%81%B5%E7%8B%90",
+   "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "faro-lady",
+  "counts": {
+   "S": 1,
+   "A": 5,
+   "B": 5,
+   "C": 5,
+   "Collab": 2
+  },
+  "total": 16,
+  "notable": [
+   {
+    "name": {
+     "en": "Mark of Prey",
+     "cn": "猎物的印记"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Emerald butcher dress offsetting crimson; praised as elegant horror-lore S",
+    "obtain": "Season 32 Essence 2 limited essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Kasumi Yoshizawa",
+     "cn": "芳泽霞"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Free P5R Shujin uniform; beloved because free Path of Truth + faithful Kasumi",
+    "obtain": "Persona 5 Royal Crossover II Path of Truth 25 Exploration Stamps",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "VIOLET",
+     "cn": "VIOLET"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "VIOLET phantom-thief suit + rifle; liked design but 1388 paywall vs free Kasumi complained",
+    "obtain": "Persona 5 Royal Crossover II Path of Investigation 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Pale Crown",
+     "cn": "苍白冠冕"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Mark of Saint mirror-talk lore; COA IX pale robes liked for solemn beauty",
+    "obtain": "Call of the Abyss IX Abyss Treasure (Season 40 Essence 3)",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Plea to the Depths",
+     "cn": "向深处求告"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Crow wings on black hat, death-silence prayer; liked for gothic hat effects",
+    "obtain": "Season 39 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lady in the Box",
+     "cn": "匣中的淑女"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Paper flowers without fragrance; melancholy box-lady liked for flavor",
+    "obtain": "Season 34 Essence 3",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Faro Lady has 16 outfits (1 S, 5 A, 5 B, 5 C), one of the fuller wardrobes among recent survivors. Mark of Prey and the double P5R collab make her feel favored, and an upcoming Deduction Star A will add more.",
+   "cn": "共16件（1金5紫5蓝5绿），在近年新角色中衣柜算丰富。猎物的印记加双P5R联动让她显得受宠，还有待上的演绎之星紫皮。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Faro_Lady%22/Cosmetics",
+   "https://wiki.biligame.com/dwrg/VIOLET",
+   "https://www.siliconera.com/persona-5-royal-kasumi-is-a-free-skin-in-identity-v/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "knight",
+  "counts": {
+   "S": 3,
+   "A": 4,
+   "B": 3,
+   "C": 5,
+   "Collab": 4
+  },
+  "total": 15,
+  "notable": [
+   {
+    "name": {
+     "en": "Himmel",
+     "cn": "辛美尔"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Faithful hero Himmel + Hero Blade; I'm glad I bought posts show love despite 2888 premium package",
+    "obtain": "Frieren crossover Package Hero Illusion Hall 2888 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Red Knight",
+     "cn": "红骑士"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Eternal-peace-to-decay oath; consensus best original S for war-forged conviction",
+    "obtain": "Season 34 Essence 2",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Wordless Exile",
+     "cn": "无言放逐"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Ornate suffering snare; new 2888 direct-buy S Aug 2026 praised look but price complaints",
+    "obtain": "Illusion Hall shop 2888 Echoes/12888 Fragments",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Edward\" Beneath the Crown",
+     "cn": "冠冕下的“爱德华”"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "2025 Deduction Star vote-won crown burden + magnificent lie; prestige liked",
+    "obtain": "Illusion Hall 1388 Echoes/4888 Fragments",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Art Dealer",
+     "cn": "艺术品商人"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "Perhaps just a disguise; Conan Doyle crossover essence liked for lore twist",
+    "obtain": "Conan Doyle Estate Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Prologue",
+     "cn": "序幕"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Silent Avalon observer; cheap 318 package liked as lore starter",
+    "obtain": "Package Prologue Illusion Hall 318 Echoes/1188 Fragments",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Knight has an S-heavy wardrobe for his age, with 15 outfits (3 S, 4 A, 3 B, 5 C). Himmel collab and Red Knight are dual flagships; KFC Asst K/Mentor K are CN-only collabs, showing server split. Fans feel favored, with Nymph and esports skins teased.",
+   "cn": "上线不久金皮已不少，共15件3金4紫3蓝5绿。辛美尔联动和红骑士双招牌；KFC的Asst K/Mentor K是国服限定。玩家受宠，宁芙和电竞皮待上。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Knight%22/Cosmetics",
+   "https://wiki.biligame.com/dwrg/%E8%BE%9B%E7%BE%8E%E5%B0%94",
+   "https://animecorner.me/identity-v-x-frieren-beyond-journeys-end-crossover-collaboration-launches-august-7/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "meteorologist",
+  "counts": {
+   "S": 2,
+   "A": 1,
+   "B": 6,
+   "C": 3,
+   "Collab": 3
+  },
+  "total": 12,
+  "notable": [
+   {
+    "name": {
+     "en": "Frieren",
+     "cn": "芙莉莲"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "Faithful Frieren outfit + upgradable Grimoire B→A→S free event; most wanted crossover S",
+    "obtain": "Frieren: Beyond Journey's End Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Windchaser",
+     "cn": "采风的仙灵"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Wind bottles preserving creativity; liked original S for gentle imagination theme",
+    "obtain": "Season 35 Essence 3",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Ms. Saucer",
+     "cn": "茶歇小姐"
+    },
+    "tier": "A",
+    "reception": "mixed",
+    "note": "Daffodil in teacup temptation; elegant tea-set but some find plain vs S",
+    "obtain": "Season 37 Essence 1",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Wiggins",
+     "cn": "维金斯"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "King of Baker Street Irregulars costume; Conan Doyle fans like street-king vibe",
+    "obtain": "Conan Doyle Estate Crossover Essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Weather Watcher",
+     "cn": "气象观测"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "Cliff sky heartbeat; beloved free event B for daily-stand lore",
+    "obtain": "Libero's Visitor from Beyond event free",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Lemon DuoDuo",
+     "cn": "柠檬多多"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "DuoDuo Lemon Tea ad costume ¥49.9 package/draw; CN-only ad divisive despite cute",
+    "obtain": "DuoDuo Lemon Tea Collaboration Package/Lucky Draw",
+    "server": "cn"
+   }
+  ],
+  "summary": {
+   "en": "Meteorologist has a compact 12-piece wardrobe (2 S, 1 A, 6 B, 3 C). The Frieren collab dominates popularity; original Windchaser is solid. The B-heavy set feels slightly neglected in A-tier variety.",
+   "cn": "共12件2金1紫6蓝3绿，很紧凑。芙莉莲联动人气断层领先，原创Windchaser不错；蓝皮多紫皮少，略显被冷落。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Meteorologist/Cosmetics",
+   "https://wiki.biligame.com/dwrg/%E8%8A%99%E8%8E%89%E8%8E%B2",
+   "https://www.finalweapon.net/2025/07/24/identity-v-details-new-frieren-collaboration/"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "archer",
+  "counts": {
+   "S": 1,
+   "A": 2,
+   "B": 5,
+   "C": 3,
+   "Collab": 2
+  },
+  "total": 11,
+  "notable": [
+   {
+    "name": {
+     "en": "The Anachronic Vilulf",
+     "cn": "不合时宜的危鲁弗"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Dusk nightmare fleet sail; flagship S praised for Viking melancholy + hull hum",
+    "obtain": "Season 36 Essence 2 (CN 37E2) limited essence",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Pinky",
+     "cn": "Pinky"
+    },
+    "tier": "Collab",
+    "reception": "loved",
+    "note": "I JUST LOVE ARCHER crossover skin PINKY hype shows beloved cute duck gift",
+    "obtain": "B.Duck Crossover shop limited 1388 Echoes",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "\"Divergent Spectrum\" R",
+     "cn": "“发散谱”R"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Raman light-arrow sparks like hope; liked for bow light effects",
+    "obtain": "Season 38 Essence 3 / COA IX champion shop 1388",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Sleepy Mytyl",
+     "cn": "睡不醒的米蒂尔"
+    },
+    "tier": "B",
+    "reception": "loved",
+    "note": "3-second book sleep Viking; beloved cheap cute meme B",
+    "obtain": "Season 39 Essence 2 (40E2 CN)",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Free Extra",
+     "cn": "自在益达"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "Extra gum linkage; activity free but ad-feel divisive",
+    "obtain": "Identity V x Extra (Wrigley) linkage event free",
+    "server": "cn"
+   },
+   {
+    "name": {
+     "en": "\"Predator\"",
+     "cn": "“猎手”"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "Who hunts whom; free IVC watch reward but EU-NA only region complaint",
+    "obtain": "Identity V Championship NA-EU 2026 watch 3 days",
+    "server": "global"
+   }
+  ],
+  "summary": {
+   "en": "Archer has the smallest wardrobe at 11 (1 S, 2 A, 5 B, 3 C). The S and Pinky carry hype; Sleepy Mytyl is a beloved B. CN Extra versus global Predator exclusives spark a neglect debate.",
+   "cn": "衣柜最小，11件1金2紫5蓝3绿。金皮和Pinky撑人气，睡不醒的米蒂尔是最爱蓝皮；国服Extra和国际服Predator独占引发偏心之争。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Archer/Cosmetics",
+   "https://wiki.biligame.com/dwrg/%E5%BC%93%E7%AE%AD%E6%89%8B",
+   "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "escapologist",
+  "counts": {
+   "S": 1,
+   "A": 1,
+   "B": 1,
+   "C": 3
+  },
+  "total": 6,
+  "notable": [
+   {
+    "name": {
+     "en": "Duat",
+     "cn": "死生之谕"
+    },
+    "tier": "S",
+    "reception": "liked",
+    "note": "Egyptian Khepri / scarab guide theme with halo, golden helmet, sand cloak and beetle box praised for lore tie to Archaeologist Egypt arc; grey disintegrating face and bald base divisive",
+    "obtain": "Season 37 Essence 2 limited global / Season 38 Essence 2 CN",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Bound Star",
+     "cn": "囚星"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "Fragile friend-seeking story; 80/130-pull essence A, standard effects but lore liked",
+    "obtain": "Season 39 Essence 3 global / Season 40 Essence 3 CN, Memory Sphere after",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Resurrected",
+     "cn": "返生者"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Cheap shop B (798 echo package / 318 echo) but beloved for Coptic 'home' ruin-entry story; good value",
+    "obtain": "shop package / Illusion Hall",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Smoky Teal",
+     "cn": "迷烟青"
+    },
+    "tier": "C",
+    "reception": "mixed",
+    "note": "Recurring green recolor quote about memory shackles; dismissed as filler but cheap to get",
+    "obtain": "Season 41 Essence 1 recurring / Season 42 Essence 1 CN",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Since May 2025, Escapologist has six skins—one limited S (Duat), one A (Qiu Xing), one B (Fanshengzhe), three C. Too new to feel neglected, but fans want more non-Egyptian A-tier.",
+   "cn": "2025年5月上线，共6件：限定金死生之谕、紫囚星、蓝返生者、3绿。太新谈不上被忽视，但玩家想要更多非埃及风紫皮。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Escapologist%22/Cosmetics",
+   "https://id5.fandom.com/wiki/Duat",
+   "https://wiki.biligame.com/dwrg/逃脱大师"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "lanternist",
+  "counts": {
+   "S": 1,
+   "A": 1,
+   "B": 3,
+   "C": 3,
+   "Collab": 1
+  },
+  "total": 9,
+  "notable": [
+   {
+    "name": {
+     "en": "Feast on This Shore",
+     "cn": "此岸盛筵"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Flagship limited S: young tyrant/hunting beast lore; Victorian lantern + steampunk glowing orb design praised",
+    "obtain": "Season 39 Essence 2 limited",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Robin",
+     "cn": "知更鸟"
+    },
+    "tier": "A",
+    "reception": "liked",
+    "note": "First purple; review says only downside slightly heavy feel; bird-secret lore, solid model",
+    "obtain": "Season 41 Essence 2 / Memory Sphere",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Dreamwalking",
+     "cn": "梦游"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Kitty-counting package B (798 echo package / 318 echo); cute cheap favorite despite B tier",
+    "obtain": "Dreamwalking package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "XIANLUOLIPU",
+     "cn": "XIANLUOLIPU（厘普联动）"
+    },
+    "tier": "Collab",
+    "reception": "mixed",
+    "note": "LiPU FRiENDS crossover A; niche IP, collectors like but non-fans ignore",
+    "obtain": "LiPU FRiENDS crossover",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Paradise Drifter",
+     "cn": "乐园漂流者"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "COA IX Abyss Treasure holy-city procession lore; event grind limits love",
+    "obtain": "Call of the Abyss IX Abyss Treasure",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Skylight Blue",
+     "cn": "天窗蓝"
+    },
+    "tier": "C",
+    "reception": "mixed",
+    "note": "Green window-to-outside recolor; C-tier dismissed but cheap",
+    "obtain": "Season 41 Essence 1 recurring",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Lanternist's wardrobe grew to nine skins in under a year—one S (Ci'an Shengyan), one A (Robin), three B (Mengyou, Leyuan, Shiyanzhe), three C, one collab—from S39E2 to S43E3. The S and Robin carry affection. Players generally like it, with no neglect narrative yet.",
+   "cn": "上线不到一年便增至9件：金此岸盛筵、紫罗宾、蓝梦游/乐园/誓言者、3绿、联动，从S39E2到S43E3。玩家普遍喜欢，暂无被忽视的说法。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Lanternist/Cosmetics",
+   "https://wiki.biligame.com/dwrg/幻灯师"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "matador",
+  "counts": {
+   "S": 1,
+   "A": 0,
+   "B": 2,
+   "C": 2,
+   "Collab": 1
+  },
+  "total": 6,
+  "notable": [
+   {
+    "name": {
+     "en": "Dasein",
+     "cn": "此在无栖"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Super long silky winged cloak gets full marks review; light-shadow fracture coronation farewell lore",
+    "obtain": "Season 41 Essence 1 limited global / Season 42 Essence 1 CN",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Li Bing",
+     "cn": "李饼"
+    },
+    "tier": "Collab",
+    "reception": "liked",
+    "note": "White Cat Legend / 大理寺日志 collab S package 2888 echo; IP bonus, cat-themed fish-pot accessory; launch Sep 30 2026 part 1",
+    "obtain": "White Cat Legend crossover shop package upcoming",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Breaking Dawn",
+     "cn": "破晓"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Storm-thunder to dreamland dawn lore, shop 1188 frag/318 echo; clean model, good value B",
+    "obtain": "Breaking Dawn package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Burden",
+     "cn": "荷负"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "'This little weight nothing to me!' Chasing Light event B; cute event free/60 echo option",
+    "obtain": "Chasing Light event / shop",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Since February 2026, Matador has six skins—one limited S (Dasein), one collab S (Li Bing), two B (Poxiao, Hefu), two C (initial outfits)—and no A yet. Dasein carries hype. Matador is strong, too new for neglect.",
+   "cn": "2026年2月上线仅6件：限定金此在无栖撑热度+联动金李饼+2蓝破晓/荷负+2绿初始旧装，无紫皮。斗牛士强度高时装少但不算被忽视。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Matador/Cosmetics",
+   "https://wiki.biligame.com/dwrg/斗牛士"
+  ],
+  "confidence": 5,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "mime-artist",
+  "counts": {
+   "S": 1,
+   "B": 1,
+   "C": 2
+  },
+  "total": 4,
+  "notable": [
+   {
+    "name": {
+     "en": "Traveler of Dreams",
+     "cn": "梦旅人"
+    },
+    "tier": "S",
+    "reception": "loved",
+    "note": "Romantic exile gathering glimmers to forget mournful sea limited S; Belle Epoque umbrella mime, CN 梦旅人限定金",
+    "obtain": "Season 42 Essence 3 limited global / Season 43 Essence 3 CN",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "The Golden Age",
+     "cn": "美好时代"
+    },
+    "tier": "B",
+    "reception": "liked",
+    "note": "Screening-room colorless world lore, shop 1188 frag/318 echo; black-grey mime keeps character, cheap favorite",
+    "obtain": "The Golden Age package / shop",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Original",
+     "cn": "初始时装"
+    },
+    "tier": "C",
+    "reception": "mixed",
+    "note": "Default already equipped; white face paint beret base divisive but iconic",
+    "obtain": "default",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Since June 2026, Mime Artist has a tiny four-skin wardrobe—one S, one B, two C—with no A yet. Dream Traveler is loved, B Meihao Shidai is cost-effective. Fans already ask for more A-tier skins and accessories despite the newness.",
+   "cn": "2026年6月上线仅4件：1金1蓝2绿，无紫皮。限定金梦旅人撑场，B美好时代性价比高。太新但已有玩家喊要新紫挂。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/Mime_Artist/Cosmetics",
+   "https://wiki.biligame.com/dwrg/默剧艺人"
+  ],
+  "confidence": 4,
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "prodigy",
+  "counts": {
+   "S": 1,
+   "B": 1,
+   "C": 1
+  },
+  "total": 3,
+  "notable": [
+   {
+    "name": {
+     "en": "Falsehood",
+     "cn": "虚妄"
+    },
+    "tier": "S",
+    "reception": "mixed",
+    "note": "Crowned-one / hamster-dirtball Pied Piper lore; limited S arrives Sep 30 with Grave Keeper/Ripper As; hype for new survivor but day-1 limited paywall divisive; essence S44E2",
+    "obtain": "Season 44 Essence 2 limited Sep 30 2026",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Voice of the Exiled",
+     "cn": "流放者之声"
+    },
+    "tier": "B",
+    "reception": "mixed",
+    "note": "Moonlit caravan ballad package upcoming Oct 8 (798 echo package /318 echo); unreleased so reception only preview, price-friendly",
+    "obtain": "Voice of the Exiled package / shop upcoming",
+    "server": "both"
+   },
+   {
+    "name": {
+     "en": "Original",
+     "cn": "初始时装"
+    },
+    "tier": "C",
+    "reception": "liked",
+    "note": "Already equipped base with daffodil crown + hamster in shoe; frail doll charm carries despite no effects",
+    "obtain": "default",
+    "server": "both"
+   }
+  ],
+  "summary": {
+   "en": "Prodigy launched on September 30, 2026, with the smallest three-skin wardrobe—one S (Falsehood), one B (Voice, arriving October 8), one C (initial). Too early for neglect, but a limited S at launch is debated.",
+   "cn": "9月30日刚上线只有3件，限定金虚妄+蓝流放者之声（10月8日）+初始。衣柜最小，还谈不上忽视，但新生日即限定金引发微词。"
+  },
+  "sources": [
+   "https://id5.fandom.com/wiki/%22Prodigy%22/Cosmetics",
+   "https://wiki.biligame.com/dwrg/神童"
+  ],
+  "confidence": 3,
+  "asOf": "2026-09-30"
+ }
+]
