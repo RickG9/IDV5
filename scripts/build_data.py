@@ -222,6 +222,11 @@ PLATFORMS = {"Reddit", "Bilibili", "NGA", "Tieba", "Zhihu", "Xiaohongshu", "NetE
 
 def set_field(s, field, value):
     """Apply a calibrated score change to a built survivor record."""
+    if field.startswith("traits."):
+        field = field.split(".", 1)[1]
+    elif field.startswith("demands."):
+        key = field.split(".", 1)[1]
+        field = "demand" + key[0].upper() + key[1:]
     if field.startswith("meta.") or field.startswith("queue."):
         grp, key = field.split(".", 1)
         lo, hi = 1, 5
@@ -273,6 +278,9 @@ def apply_round2(survivors):
         if isinstance(r.get("sentiment"), dict) and r["sentiment"].get("en"):
             s["sentiment"] = bi(r["sentiment"])
         s["confidence"] = max(s["confidence"], int(num(r.get("confidence"), 1, 5, s["confidence"])))
+    for sid, note in cal.get("notes_fix", {}).items():
+        if sid in by_id:
+            by_id[sid]["meta"]["notes"] = note
     for c in cal.get("approved", []):
         s = by_id.get(c.get("id"))
         if s and c.get("field") and c.get("to") is not None:

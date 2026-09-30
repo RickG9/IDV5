@@ -1,0 +1,483 @@
+{
+ "approved": [
+  {
+   "id": "lucky-guy",
+   "field": "meta.pro",
+   "from": 2.0,
+   "to": 2.5,
+   "proposed": 3,
+   "note": "Pro use real (IVL S25 MRC, COA9 tied to Dec nerf) but post-nerf 2026 evidence is 2 low-view clips; moderated from 3"
+  },
+  {
+   "id": "doctor",
+   "field": "meta.high",
+   "from": 2.0,
+   "to": 4,
+   "proposed": 4,
+   "note": "Strong multi-source: 58.5万 viral oppressive list, T0 videos, CN list S-band, EN top-ban; Jul-26 nerf judged mild"
+  },
+  {
+   "id": "doctor",
+   "field": "meta.mid",
+   "from": 3.0,
+   "to": 4,
+   "proposed": 4,
+   "note": "Same Nov-25 buff; forgiving + strong at mid ranks, hated by hunters across ranks"
+  },
+  {
+   "id": "doctor",
+   "field": "meta.pro",
+   "from": 1,
+   "to": 2.5,
+   "proposed": 3,
+   "note": "COA VIII only 1 use (pre-buff); 2025 IVL Doctor comps + 2026 Doctor/Enchantress IVL mentions; moderated from 3"
+  },
+  {
+   "id": "doctor",
+   "field": "traits.kite",
+   "from": 4.0,
+   "to": 5.5,
+   "proposed": 6,
+   "note": "Boosters extend chases (3-hit tank) but tankiness already scored in survivability 8; moderated from 6 to avoid double counting"
+  },
+  {
+   "id": "gardener",
+   "field": "meta.mid",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3,
+   "note": "Nov-25 shield buff; 15.6万 top-hunter debunk + nerf debate videos; Jul-26 toolkit nerf keeps it at 3"
+  },
+  {
+   "id": "gardener",
+   "field": "meta.pro",
+   "from": 1,
+   "to": 2,
+   "proposed": 2,
+   "note": "Verified: 19 uses at COA VIII (= Priestess picks); 2026 'why picked in COA' thread; notes' 'no presence' is wrong"
+  },
+  {
+   "id": "magician",
+   "field": "meta.pro",
+   "from": 1,
+   "to": 2.5,
+   "proposed": 3,
+   "note": "COA VIII 6 uses (verified) + 2026 'popular in COA' thread and IVL clips; 1->3 overshoots vs peers with 40+ uses"
+  },
+  {
+   "id": "explorer",
+   "field": "skillCeiling",
+   "from": 6.0,
+   "to": 6.5,
+   "proposed": 7.0,
+   "note": "Single pinned-note claim (32.8万) + mastery videos; moderated from 7"
+  },
+  {
+   "id": "mercenary",
+   "field": "meta.high",
+   "from": 5,
+   "to": 4,
+   "proposed": 4,
+   "note": "Multiple 5-11万 CN videos: out-of-meta in ranked, replaced by GK/Journalist; matches A+ band = 4 used for Seer/Batter/GK"
+  },
+  {
+   "id": "coordinator",
+   "field": "traits.rescue",
+   "from": 9.0,
+   "to": 8,
+   "proposed": 8.0,
+   "note": "27.5万 video + 2026 comments: better as kiter/second rescuer; flare keeps her at 8 alongside Wildling/Lucky Guy"
+  },
+  {
+   "id": "mechanic",
+   "field": "meta.high",
+   "from": 4.0,
+   "to": 5,
+   "proposed": 5,
+   "note": "T0 in S41 (57.5万) and S44 (32.8万) high-rank lists; routine ranked ban CN+EN"
+  },
+  {
+   "id": "mechanic",
+   "field": "skillFloor",
+   "from": 6.0,
+   "to": 5,
+   "proposed": 5.0,
+   "note": "70.2万/17.3万 videos: doll-first hide play gives a high guaranteed floor; average floor fits"
+  },
+  {
+   "id": "priestess",
+   "field": "meta.pro",
+   "from": 5,
+   "to": 4,
+   "proposed": 3,
+   "note": "Verified COA VIII 19 uses (tied 17th) + 'fell off' vs Warp; 1 Reddit comment for 2026 CN ban rate too thin for 3; moderated"
+  },
+  {
+   "id": "priestess",
+   "field": "meta.high",
+   "from": 5,
+   "to": 4,
+   "proposed": 4,
+   "note": "CN tier list A-, repeated 'fell off' vs mobility hunters; still top-5 Peak ban so 4 not lower"
+  },
+  {
+   "id": "perfumer",
+   "field": "meta.pro",
+   "from": 4.0,
+   "to": 3,
+   "proposed": 3,
+   "note": "Verified COA VIII 7 uses (tied 21st); CN list B+"
+  },
+  {
+   "id": "perfumer",
+   "field": "traits.rescue",
+   "from": 4.0,
+   "to": 5,
+   "proposed": 5,
+   "note": "29.1万/9.6万 buff videos: shield lets her rescue unharmed; halved near chair so only to average"
+  },
+  {
+   "id": "female-dancer",
+   "field": "meta.mid",
+   "from": 4.0,
+   "to": 3.5,
+   "proposed": 3,
+   "note": "Power-creep narrative + CN B+, but main comments are 18-85 likes; moderated from 3"
+  },
+  {
+   "id": "seer",
+   "field": "meta.pro",
+   "from": 4.0,
+   "to": 5,
+   "proposed": 5,
+   "note": "Data-based: IVL S25 ban rate far above all but Antiquarian (also pro 5); 2026 qualifier ~90% ban"
+  },
+  {
+   "id": "seer",
+   "field": "meta.high",
+   "from": 5,
+   "to": 4,
+   "proposed": 4,
+   "note": "CN list A+ (same band as Batter/Mercenary/GK -> 4), pro 小迪 calls him weak in ranked, not in Peak top-5 bans"
+  },
+  {
+   "id": "embalmer",
+   "field": "traits.survivability",
+   "from": 9.0,
+   "to": 7,
+   "proposed": 7,
+   "note": "Dev Q&A 2026 says kiting very weak; easy chase target vs Warp; rebirth keeps him above average"
+  },
+  {
+   "id": "embalmer",
+   "field": "forgiveness",
+   "from": 9.0,
+   "to": 7,
+   "proposed": 6,
+   "note": "No error margin once off-coffin (215/176/451-like comments) but self-rebirth is itself a mistake buffer; moderated from 6"
+  },
+  {
+   "id": "enchantress",
+   "field": "meta.pro",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 4.0,
+   "note": "Post-Jul-25 rework: IVL 2026 clips, IJL finals use, 10.6万 'fought over in tournaments'; COA VIII only 8 (pre-rework); 4 overshoots"
+  },
+  {
+   "id": "enchantress",
+   "field": "meta.high",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3.0,
+   "note": "Pick rate up after rework, hunters ban her with Seer, 'overtuned' threads; solo-queue limits keep +1 only"
+  },
+  {
+   "id": "enchantress",
+   "field": "traits.earlyGame",
+   "from": 5.0,
+   "to": 6,
+   "proposed": 6.0,
+   "note": "Starting Guard stack removes blank opening (25.4万 video, 756-like comment, EN 'biggest buff')"
+  },
+  {
+   "id": "wildling",
+   "field": "traits.kite",
+   "from": 7.0,
+   "to": 7.5,
+   "proposed": 8.0,
+   "note": "Boar kiting praised (T0-level solo kite, five-cipher clips) but weak on foot and short rides; moderated from 8"
+  },
+  {
+   "id": "wildling",
+   "field": "traits.rescue",
+   "from": 9.0,
+   "to": 8,
+   "proposed": 8.0,
+   "note": "Unreliable vs multi-hit/camp hunters (203-like); consistent with Coordinator 9->8"
+  },
+  {
+   "id": "acrobat",
+   "field": "traits.lateGame",
+   "from": 4.0,
+   "to": 5,
+   "proposed": 5.0,
+   "note": "Impromptu trait page (verified exists) gives +1 of each bomb (up to 6); EN 'best endgame kiter now'"
+  },
+  {
+   "id": "barmaid",
+   "field": "traits.support",
+   "from": 9.0,
+   "to": 8,
+   "proposed": 8.0,
+   "note": "Consistently 'main kite, secondary support' vs Psychologist (9); one drink per match usually"
+  },
+  {
+   "id": "entomologist",
+   "field": "meta.high",
+   "from": 4.0,
+   "to": 2,
+   "proposed": 2,
+   "note": "101万 video top comment 1.4k: never seen in high tiers; CN list B-; high 4 > mid 3 was contradictory; B+ Painter is 2"
+  },
+  {
+   "id": "painter",
+   "field": "skillFloor",
+   "from": 6.0,
+   "to": 4,
+   "proposed": 4,
+   "note": "Official difficulty 2; 60万/29万 guides call him newbie-friendly (no half-chair threshold)"
+  },
+  {
+   "id": "batter",
+   "field": "meta.high",
+   "from": 5,
+   "to": 4,
+   "proposed": 4,
+   "note": "Jan-26 CD nerf, CN list A+ (-> 4 like Seer/Mercenary); high ban rate keeps him at 4 not lower"
+  },
+  {
+   "id": "toy-merchant",
+   "field": "skillFloor",
+   "from": 7.0,
+   "to": 6,
+   "proposed": 6,
+   "note": "Nov-25 rework: trajectory preview, faster retrieval; 40.9万 reaction says entry barrier lowered"
+  },
+  {
+   "id": "patient",
+   "field": "meta.high",
+   "from": 4.0,
+   "to": 3,
+   "proposed": 3,
+   "note": "930/868/242-like comments: fell to ~T2 behind Aeroplanist; stat-neutral all-rounder power-crept"
+  },
+  {
+   "id": "patient",
+   "field": "forgiveness",
+   "from": 3.0,
+   "to": 4,
+   "proposed": 4,
+   "note": "Sep-25 uninterruptible hook + refund; '下限能兜住'; hunters complain about it"
+  },
+  {
+   "id": "professor",
+   "field": "meta.pro",
+   "from": 2.0,
+   "to": 2.5,
+   "proposed": 3.0,
+   "note": "Verified 2 MVP games IVL 2025 Autumn + 2026 clips; COA VIII 7 uses; 3 overshoots"
+  },
+  {
+   "id": "professor",
+   "field": "queue.premade",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3.0,
+   "note": "2.1k-like complaint: randoms never use scales; value rises with coordination so premade >= solo (3)"
+  },
+  {
+   "id": "composer",
+   "field": "traits.kite",
+   "from": 5.0,
+   "to": 6,
+   "proposed": 6.0,
+   "note": "Jul-26 rework: 20.6万 hunter video, S1 review; Aug bug fix + Sep nerf already priced in by +1 only"
+  },
+  {
+   "id": "composer",
+   "field": "meta.high",
+   "from": 3.0,
+   "to": 3.5,
+   "proposed": 4.0,
+   "note": "Peak-7 win rate #1 after rework (BWIKI data), but bug fix and Sep-3 nerf pulled it back; moderated from 4"
+  },
+  {
+   "id": "aeroplanist",
+   "field": "meta.pro",
+   "from": 3.0,
+   "to": 4,
+   "proposed": 4.0,
+   "note": "Verified: most-used survivor at COA VIII (83) + MVPs IVL 25 Summer/Autumn, IJL 26 Summer"
+  },
+  {
+   "id": "aeroplanist",
+   "field": "forgiveness",
+   "from": 6.0,
+   "to": 5,
+   "proposed": 5.0,
+   "note": "Range nerf lowered floor, pros shown collapsing on bad inputs, EN mains 'too punishing'"
+  },
+  {
+   "id": "puppeteer",
+   "field": "meta.high",
+   "from": 3.0,
+   "to": 3.5,
+   "proposed": 4.0,
+   "note": "Solo-queue/rescue praise (77-upvote thread, 207-like) but Apr-26 near-chair nerf and caster 'not worth a ban'; moderated from 4"
+  },
+  {
+   "id": "puppeteer",
+   "field": "meta.pro",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3.0,
+   "note": "Verified: tied 2nd most-used at COA VIII (76); still fielded by Wolves/GR in IVL 2026 after nerf"
+  },
+  {
+   "id": "puppeteer",
+   "field": "queue.solo",
+   "from": 4.0,
+   "to": 4.5,
+   "proposed": 5.0,
+   "note": "'God of solo queue' (212-like), best-solo-queue thread; moderated for Apr-26 nerf"
+  },
+  {
+   "id": "faro-lady",
+   "field": "traits.kite",
+   "from": 6.0,
+   "to": 7,
+   "proposed": 7.0,
+   "note": "329/28/38-upvote Reddit + 13.2万 Bilibili: kit built for kiting, 'half a kiter', hunters struggle"
+  },
+  {
+   "id": "faro-lady",
+   "field": "meta.mid",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3.0,
+   "note": "Post-Jul-25 buff shift to 'underrated/top of A'; several independent 2026 sources"
+  },
+  {
+   "id": "knight",
+   "field": "traits.survivability",
+   "from": 7.0,
+   "to": 5,
+   "proposed": 5.0,
+   "note": "Three popular 2026 CN videos (713/565/175 likes): weakest self-protection among rescuers"
+  },
+  {
+   "id": "knight",
+   "field": "meta.pro",
+   "from": 3.0,
+   "to": 2,
+   "proposed": 2.0,
+   "note": "<5 IVL appearances (9.2万 video); Jul-26 buff judged insufficient"
+  },
+  {
+   "id": "meteorologist",
+   "field": "meta.high",
+   "from": 5,
+   "to": 4,
+   "proposed": 4.0,
+   "note": "'Solid not dominant': T1.2-1.5, EN A-tier after nerfs, outclassed by Doctor/Cheerleader/Puppeteer"
+  },
+  {
+   "id": "meteorologist",
+   "field": "traits.support",
+   "from": 8.0,
+   "to": 7,
+   "proposed": 7.0,
+   "note": "Rain heal widely unused (1.2k/278 likes); gale peel keeps above average"
+  },
+  {
+   "id": "escapologist",
+   "field": "meta.pro",
+   "from": 3.0,
+   "to": 3.5,
+   "proposed": 4,
+   "note": "IVL Autumn 2025 picks across several series (110-upvote thread, IVL clips) but no 2026 pro data; moderated from 4"
+  },
+  {
+   "id": "lanternist",
+   "field": "meta.low",
+   "from": 2.0,
+   "to": 3,
+   "proposed": 3,
+   "note": "1804-like 'invincibility' verdict, 'not hard to play', raises floor for weaker players"
+  },
+  {
+   "id": "matador",
+   "field": "meta.low",
+   "from": 4.0,
+   "to": 4.5,
+   "proposed": 5,
+   "note": "Stable floor + T0 comments, but engagement modest (109-144 likes) and A-badge warns beginners; moderated from 5"
+  },
+  {
+   "id": "mime-artist",
+   "field": "traits.support",
+   "from": 7.0,
+   "to": 6,
+   "proposed": 6,
+   "note": "280-like analyst comment: support absent in ~80% of ranked; buffs targeted kite"
+  },
+  {
+   "id": "fire-investigator",
+   "field": "meta.pro",
+   "from": 2,
+   "to": 3,
+   "note": "editor correction: COA VIII table (Fandom) shows 50 uses, 7th most-used survivor"
+  }
+ ],
+ "rejected": [
+  {
+   "id": "magician",
+   "field": "meta.high",
+   "from": 2.0,
+   "proposed": 3,
+   "reason": "Thin: cited sources are a 0-upvote thread and 2025 Reddit posts; high-engagement Bilibili buff reactions (31万/52万) were dismissive. Pro 2.5 approved instead."
+  },
+  {
+   "id": "explorer",
+   "field": "meta.high",
+   "from": 1,
+   "proposed": 2,
+   "reason": "The batch itself says he is still bottom-tier in 七阶/巅峰; S44 high-rank list and CN list (C) keep him last; buff optimism is 2025 and mid-rank."
+  },
+  {
+   "id": "barmaid",
+   "field": "traits.kite",
+   "from": 7.0,
+   "proposed": 8.0,
+   "reason": "Evidence on the Jul-2026 rework is split (429-like top comment calls it a nerf, 167-like says buff); kite 7 already above average."
+  },
+  {
+   "id": "fire-investigator",
+   "field": "meta.high",
+   "from": 4.0,
+   "proposed": 3.0,
+   "reason": "Evidence is about low popularity, not strength: the 758-like consensus is 'actually strong but few play him'; verified COA VIII 50 uses (7th). Conflicts with the strength-based logic used elsewhere."
+  }
+ ],
+ "url_check": {
+  "checked": 43,
+  "ok": 43,
+  "notes": "Spot-checked all 9 batches. Bilibili 18/18 real (page titles, view counts and dates match claimed engagement, e.g. BV1ftB7BrEmV 573,920 views 2025-12; BV1UhoqYiEiK 1.01M; a fake control BV returned the 404 page). Reddit 11/11 via Arctic Shift API (PullPush rate-limited 429, reddit.com blocked); scores/comment counts match exactly (e.g. 1n0om3j 119/57, 1qccgfz 77/15, 1nw3mf5 110/21). YouTube 8/8 via oEmbed (titles/channels match). Fandom 6/6 pages exist via MediaWiki API (direct fetch 403); COA VIII usage table confirms Priestess 19, Perfumer 7, Aeroplanist 83, Puppeteer 76, Magician 6. No fabricated or dead URLs found; no batch rejected for sourcing. Individual comment like-counts could not be verified."
+ },
+ "field_note": "field uses full dotted paths (batch files used bare 'kite'/'rescue'/etc. for traits).",
+ "notes_fix": {
+  "fire-investigator": "COA VIII: 50 uses (7th most-used survivor, Fandom COA VIII table).",
+  "gardener": "COA VIII: 19 uses (Fandom COA VIII table); a niche but real pro pick."
+ }
+}
