@@ -52,6 +52,8 @@ export interface Survivor {
   sources: string[]
   confidence: number // 1-5
   provisional?: boolean
+  /** Round-2 community feedback: popular threads/videos with real engagement numbers. */
+  feedback?: { platform: string; title: string; url: string; engagement: string; date: string; takeaway: Bi }[]
 }
 
 export interface Hunter {

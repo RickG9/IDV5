@@ -60,6 +60,8 @@ export const T = {
   strengths: b('Strengths', '优势'),
   weaknesses: b('Weaknesses', '劣势'),
   community: b('What players say', '玩家评价'),
+  fromCommunity: b('From the community', '社区原声'),
+  moreFeedback: b('Show all', '展开全部'),
   tips: b('Tips', '上手建议'),
   sources: b('Sources', '来源'),
   kit: b('How they play', '玩法'),

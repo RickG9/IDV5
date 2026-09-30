@@ -8,7 +8,7 @@ A survivor recommender for **Identity V (第五人格)**. Players answer an adap
 - **Results:** a headliner and supporting picks, each with reasons; a ranked pool that covers each other's weaknesses; a learning path (easy start, then a bridge, then a target main, with practice tips); team comps; a full survivor × hunter matchup matrix; a skins panel; and "close, but not billed" near-misses.
 - **Three themes** (Gothic, Modern, Playful) and **EN / 中文**.
 - **Export** the bill as a PNG.
-- **Optional AI** through any OpenAI-compatible provider. The AI never decides the ranking. It only interprets free-text answers (within fixed limits) and narrates the result.
+- **Optional AI**, Muse Spark 1.3 Contributor by default, or any OpenAI-compatible provider (chat completions or Responses API). The AI never decides the ranking. It only interprets free-text answers (within fixed limits) and narrates the result, streamed live.
 
 ## How the algorithm works (`src/engine`)
 
@@ -50,14 +50,40 @@ npm test
 npm run build    # static site in dist/
 ```
 
-## Optional AI
+## Optional AI (default: Muse Spark 1.3 Contributor on OpenCode Go)
 
-Everything works without a key. To enable the AI features: **Settings & AI**, pick a provider, and paste your key. The key is stored only in your browser's localStorage and is never saved to this repo.
+Everything works without a key. With one, the app reads your free-text answers and writes a personal explanation of your bill, streamed live. The key is stored only in your browser (localStorage) and is never sent anywhere except through the relay to the provider.
 
-- **OpenCode Go** blocks direct browser calls (no CORS) and requires an `x-opencode-session` header and a custom User-Agent. Requests therefore go through a relay:
-  - **Locally:** set *Relay URL* to `/relay` while running `npm run dev`. Vite proxies the call.
-  - **Hosted:** deploy the free Cloudflare Worker in `worker/` (`cd worker && npx wrangler deploy`) and paste its `*.workers.dev` URL as the *Relay URL*. The relay only forwards to an allowlist of providers and stores nothing.
-- Note that OpenCode says Go is intended for coding-agent traffic. Keep usage personal and small.
+OpenCode Go doesn't accept calls straight from a browser (no CORS), and it wants a custom User-Agent, so requests go through a tiny **relay**. It forwards each request, adds the missing headers, streams the answer back and stores nothing.
+
+### Set up the relay (one time, ~5 minutes, free)
+
+**Option A: Cloudflare dashboard (no installs)**
+1. Sign up or log in at **dash.cloudflare.com** (the free plan is enough: 100,000 requests/day).
+2. Left menu → **Compute (Workers)** → **Workers & Pages** → **Create** → **Create Worker** (start from "Hello World").
+3. Name it `manor-relay` → **Deploy**.
+4. Click **Edit code**, delete everything in the editor, paste the whole of [`worker/relay.js`](worker/relay.js) → **Deploy**.
+5. (Recommended) Worker → **Settings** → **Variables and Secrets** → **Add**: name `ORIGINS`, value `https://rickg9.github.io,http://localhost:5173` → **Deploy**. Only your site can then use the relay.
+6. Copy the Worker URL shown at the top, e.g. `https://manor-relay.<your-subdomain>.workers.dev`.
+
+**Option B: command line**
+```bash
+cd worker
+npx wrangler login      # opens a browser to authorise Cloudflare
+npx wrangler deploy     # prints the https://manor-relay.<you>.workers.dev URL
+```
+(Edit `ORIGINS` in `worker/wrangler.toml` first if you want to lock it to your site.)
+
+### Connect the app
+1. Open the site → **Settings & AI**.
+2. Provider **OpenCode Go** → paste your OpenCode Go API key.
+3. Model `muse-spark-1.3-contributor` (default), reasoning effort **Extra high** (default; pick High/Medium for faster answers).
+4. **Relay URL**: paste the Worker URL from step 6 (no trailing path).
+5. **Test connection** → you should see `✓ OK`. Then on your bill press **Ask the manor to explain**.
+
+Running locally with `npm run dev`? Skip the Worker and set the Relay URL to `/relay` — Vite proxies the call for you.
+
+Providers with browser CORS (DeepSeek, OpenRouter) work without a relay: choose them in Settings and leave the Relay URL empty. Note that OpenCode says Go is intended for coding-agent traffic; keep usage personal and small.
 
 ## Deploy (GitHub Pages)
 

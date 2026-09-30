@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { ThumbsDown, ThumbsUp, X } from 'lucide-react'
 import type { Lang, Survivor } from '../types'
 import { T } from '../i18n'
@@ -73,6 +74,26 @@ export function SkinsPanel({ id, lang, withNote }: { id: string; lang: Lang; wit
   )
 }
 
+function CommunityFeedback({ s, lang }: { s: Survivor; lang: Lang }) {
+  const [all, setAll] = useState(false)
+  const items = all ? s.feedback! : s.feedback!.slice(0, 4)
+  return (
+    <section className="feedback" aria-label={T.fromCommunity[lang]}>
+      <h4>{T.fromCommunity[lang]}</h4>
+      <ul>
+        {items.map((f) => (
+          <li key={f.url}>
+            <span className="fb-meta"><strong>{f.platform}</strong>{f.engagement && f.engagement !== 'unknown' ? ` · ${f.engagement}` : ''}{f.date && f.date !== 'unknown' ? ` · ${f.date}` : ''}</span>
+            <span className="fb-take">{f.takeaway[lang]}</span>
+            <a href={f.url} target="_blank" rel="noreferrer" className="fb-link">{f.title}</a>
+          </li>
+        ))}
+      </ul>
+      {s.feedback!.length > 4 && !all && <button className="linkish" onClick={() => setAll(true)}>{T.moreFeedback[lang]} ({s.feedback!.length})</button>}
+    </section>
+  )
+}
+
 export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; lang: Lang; scored?: ScoredSurvivor; showSkins: boolean; onClose?: () => void }) {
   return (
     <article className="dossier" aria-label={s.name[lang]}>
@@ -116,6 +137,7 @@ export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; 
       <div style={{ marginTop: 18 }}>
         <MatchupLists s={s} lang={lang} limit={5} />
       </div>
+      {s.feedback && s.feedback.length > 0 && <CommunityFeedback s={s} lang={lang} />}
       {s.meta.changes && <p className="faint small" style={{ marginTop: 14 }}><strong>{T.recent[lang]}:</strong> {s.meta.changes}</p>}
       {s.meta.notes && <p className="faint small" style={{ marginTop: 4 }}>{s.meta.notes}</p>}
       {showSkins && (

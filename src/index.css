@@ -504,3 +504,12 @@ input[type='range']::-moz-range-thumb { width: 12px; height: 12px; border-radius
   .theme-track { min-width: 176px; }
   .theme-track button { padding: 5px 6px; }
 }
+
+/* community feedback (dossier) */
+.feedback { margin-top: 18px; }
+.feedback ul { list-style: none; padding: 0; margin: 6px 0 0; display: grid; gap: 12px; }
+.feedback li { display: grid; gap: 2px; padding-bottom: 10px; border-bottom: 1px solid color-mix(in srgb, var(--rule) 60%, transparent); }
+.feedback .fb-meta { font-size: 0.8rem; color: var(--ink-3); }
+.feedback .fb-meta strong { color: var(--ink-2); font-weight: 600; }
+.feedback .fb-take { color: var(--ink); font-size: 0.95rem; max-width: var(--measure); }
+.feedback .fb-link { font-size: 0.82rem; overflow-wrap: anywhere; }
