@@ -212,7 +212,7 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
               <li key={r.s.id}>
                 <button className="linkish ruled-name" onClick={() => toggle(r.s.id)}>{r.s.name[lang]}</button>
                 <span className="muted">{reason[lang]}</span>
-                <span className="faint">{Math.round(r.score)}</span>
+                <span className="faint">{Math.round(r.score)} {T.match[lang]}</span>
               </li>
             ))}
           </ul>

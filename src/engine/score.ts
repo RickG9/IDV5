@@ -142,8 +142,8 @@ export function scoreSurvivor(p: Profile, s: Survivor, st: RosterStats, roster: 
     den += Math.abs(d)
     const c = d * zt
     if (d > 0.35 && zt > 0.45) reasons.push({ kind: 'play', w: c, text: {
-      en: `You want ${TRAIT_LABEL[t].en} — ${name.en} rates ${f1(s.traits[t])}/10 there.`,
-      cn: `你想要${TRAIT_LABEL[t].cn}——${name.cn}在这方面是 ${f1(s.traits[t])}/10。` } })
+      en: `You want ${TRAIT_LABEL[t].en} — ${name.en} rates ${f1(s.traits[t])}/10\u00a0there.`,
+      cn: `你想要${TRAIT_LABEL[t].cn}——${name.cn}在这方面是\u00a0${f1(s.traits[t])}/10。` } })
     else if (d > 0.35 && zt < -0.6) reasons.push({ kind: 'play', w: c, text: {
       en: `You want ${TRAIT_LABEL[t].en}, but ${name.en} is below average at it (${f1(s.traits[t])}/10).`,
       cn: `你想要${TRAIT_LABEL[t].cn}，但${name.cn}在这方面偏弱（${f1(s.traits[t])}/10）。` } })
