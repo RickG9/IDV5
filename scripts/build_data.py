@@ -211,11 +211,22 @@ def build_skins():
     return out
 
 
+def load_polish(kind):
+    """Copy-edited bilingual text (facts unchanged) that replaces terse research notes."""
+    p = RES / "polish" / f"{kind}.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     survivors, sm = build_survivors()
     hunters, hm = build_hunters()
     skins = build_skins()
+    for s in survivors:
+        s["sentiment"] = load_polish("sentiment").get(s["id"], s["sentiment"])
+    polished_skins = load_polish("skins")
+    for s in skins:
+        s["summary"] = polished_skins.get(s["id"], s["summary"])
     (OUT / "survivors.json").write_text(json.dumps(survivors, ensure_ascii=False, indent=1), encoding="utf-8")
     (OUT / "hunters.json").write_text(json.dumps(hunters, ensure_ascii=False, indent=1), encoding="utf-8")
     (OUT / "skins.json").write_text(json.dumps(skins, ensure_ascii=False, indent=1), encoding="utf-8")
