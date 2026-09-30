@@ -60,6 +60,7 @@ export interface Reason {
   kind: ReasonKind
   w: number // signed contribution (for sorting)
   text: Bi
+  key?: string // what the reason is about (e.g. 'play:kite'), used to avoid repeating one reason down the bill
 }
 
 export const TRAIT_LABEL: Record<Trait, Bi> = {
@@ -129,8 +130,9 @@ export function scoreSurvivor(p: Profile, s: Survivor, st: RosterStats, roster: 
 
   // Queue shifts what "good" means: solo players need self-sufficiency.
   const desire = { ...p.desire }
-  if (p.queue === 'solo') { desire.selfSufficiency += 0.6; desire.teamDependency -= 0.35 }
-  if (p.queue === 'premade') { desire.teamDependency += 0.3 }
+  // Only when the player actually told us how they queue.
+  if (p.queueAnswered && p.queue === 'solo') { desire.selfSufficiency += 0.6; desire.teamDependency -= 0.35 }
+  if (p.queueAnswered && p.queue === 'premade') { desire.teamDependency += 0.3 }
 
   // 1 ─ Playstyle fit: desire-weighted standardised traits.
   let num = 0, den = 0
@@ -141,13 +143,13 @@ export function scoreSurvivor(p: Profile, s: Survivor, st: RosterStats, roster: 
     num += d * zt
     den += Math.abs(d)
     const c = d * zt
-    if (d > 0.35 && zt > 0.45) reasons.push({ kind: 'play', w: c, text: {
-      en: `You want ${TRAIT_LABEL[t].en} — ${name.en} rates ${f1(s.traits[t])}/10\u00a0there.`,
-      cn: `你想要${TRAIT_LABEL[t].cn}——${name.cn}在这方面是\u00a0${f1(s.traits[t])}/10。` } })
-    else if (d > 0.35 && zt < -0.6) reasons.push({ kind: 'play', w: c, text: {
-      en: `You want ${TRAIT_LABEL[t].en}, but ${name.en} is below average at it (${f1(s.traits[t])}/10).`,
-      cn: `你想要${TRAIT_LABEL[t].cn}，但${name.cn}在这方面偏弱（${f1(s.traits[t])}/10）。` } })
-    else if (d < -0.35 && zt > 0.6) reasons.push({ kind: 'play', w: c, text: {
+    if (d > 0.35 && zt > 0.45) reasons.push({ kind: 'play', w: c, key: `play:${t}`, text: {
+      en: `You value ${TRAIT_LABEL[t].en}: ${name.en} rates ${f1(s.traits[t])}/10\u00a0there.`,
+      cn: `你看重${TRAIT_LABEL[t].cn}：${name.cn}在这方面是\u00a0${f1(s.traits[t])}/10。` } })
+    else if (d > 0.35 && zt < -0.6) reasons.push({ kind: 'play', w: c, key: `play:${t}`, text: {
+      en: `You value ${TRAIT_LABEL[t].en}, but ${name.en} is below average at it (${f1(s.traits[t])}/10).`,
+      cn: `你看重${TRAIT_LABEL[t].cn}，但${name.cn}在这方面偏弱（${f1(s.traits[t])}/10）。` } })
+    else if (d < -0.35 && zt > 0.6) reasons.push({ kind: 'play', w: c, key: `play:${t}`, text: {
       en: `You'd rather avoid ${TRAIT_LABEL[t].en}, and that's a big part of ${name.en}'s job.`,
       cn: `你不太想${TRAIT_LABEL[t].cn}，而这正是${name.cn}的主要工作。` } })
   }
@@ -161,10 +163,10 @@ export function scoreSurvivor(p: Profile, s: Survivor, st: RosterStats, roster: 
   const kScore = s.kiteStyles.length ? s.kiteStyles.reduce((a, k) => a + p.kite[k], 0) / kMax / Math.sqrt(s.kiteStyles.length) : 0
   const sScore = s.supportStyles.length ? s.supportStyles.reduce((a, k) => a + p.support[k], 0) / sMax / Math.sqrt(s.supportStyles.length) : 0
   const style = clamp(kScore * 0.6 + sScore * 0.35, -1.5, 1.6)
-  if (kHits.length) reasons.push({ kind: 'style', w: 0.4 * kHits.length, text: {
+  if (kHits.length) reasons.push({ kind: 'style', w: 0.4 * kHits.length, key: `kite:${kHits.join(',')}`, text: {
     en: `Survives chases the way you like: ${kHits.map((k) => STYLE_LABEL[k].en).join(', ')}.`,
     cn: `符合你喜欢的溜鬼方式：${kHits.map((k) => STYLE_LABEL[k].cn).join('、')}。` } })
-  if (sHits.length) reasons.push({ kind: 'style', w: 0.3 * sHits.length, text: {
+  if (sHits.length) reasons.push({ kind: 'style', w: 0.3 * sHits.length, key: `support:${sHits.join(',')}`, text: {
     en: `Helps the team the way you enjoy: ${sHits.map((k) => STYLE_LABEL[k].en).join(', ')}.`,
     cn: `以你喜欢的方式帮助队伍：${sHits.map((k) => STYLE_LABEL[k].cn).join('、')}。` } })
 
@@ -217,9 +219,9 @@ export function scoreSurvivor(p: Profile, s: Survivor, st: RosterStats, roster: 
   // 5 ─ Queue viability.
   const qv = p.queue === 'solo' ? s.queue.solo : p.queue === 'premade' ? s.queue.premade : (s.queue.solo + s.queue.premade) / 2
   const queue = (qv - 3) / 2
-  if (p.queue === 'solo' && s.queue.solo >= 4) reasons.push({ kind: 'queue', w: 0.35, text: { en: 'Holds up well in solo queue with random teammates.', cn: '野排也能稳定发挥。' } })
-  if (p.queue === 'solo' && s.queue.solo <= 2) reasons.push({ kind: 'queue', w: -0.35, text: { en: 'Struggles in solo queue — best with a coordinated team.', cn: '野排较难发挥——更适合有配合的队伍。' } })
-  if (p.queue === 'premade' && s.queue.premade >= 5) reasons.push({ kind: 'queue', w: 0.35, text: { en: 'Shines in a voice premade.', cn: '在语音开黑中能大放异彩。' } })
+  if (p.queueAnswered && p.queue === 'solo' && s.queue.solo >= 4) reasons.push({ kind: 'queue', w: 0.35, text: { en: 'Holds up well in solo queue with random teammates.', cn: '野排也能稳定发挥。' } })
+  if (p.queueAnswered && p.queue === 'solo' && s.queue.solo <= 2) reasons.push({ kind: 'queue', w: -0.35, text: { en: 'Struggles in solo queue — best with a coordinated team.', cn: '野排较难发挥——更适合有配合的队伍。' } })
+  if (p.queueAnswered && p.queue === 'premade' && s.queue.premade >= 5) reasons.push({ kind: 'queue', w: 0.35, text: { en: 'Shines in a voice premade.', cn: '在语音开黑中能大放异彩。' } })
 
   // 6 ─ Personal evidence: survivors you enjoyed / disliked / have stats on.
   let evidence = 0

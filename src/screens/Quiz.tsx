@@ -25,10 +25,13 @@ export function Quiz(props: {
   const act = acts[i]
   const def = ACTS.find((a) => a.id === act)!
   const qs = props.questionsFor(act)
-  const [maxReached, setMax] = useState(i)
   const [aiBusy, setAiBusy] = useState(false)
   const [aiMsg, setAiMsg] = useState('')
-  useEffect(() => { setMax((m) => Math.max(m, i)); window.scrollTo({ top: 0, behavior: 'smooth' }) }, [i])
+  const maxReached = Math.max(st.maxAct, i)
+  useEffect(() => {
+    if (i > st.maxAct) props.set({ maxAct: i })
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }, [i])
 
   const last = i === acts.length - 1
   const freeText = (st.answers['games-text'] as string | undefined)?.trim()
@@ -66,6 +69,7 @@ export function Quiz(props: {
       <nav className="quiz-nav">
         <button className="btn" onClick={() => (i === 0 ? props.set({ screen: 'programme' }) : props.set({ actIndex: i - 1 }))}><ArrowLeft aria-hidden />{T.back[lang]}</button>
         <span className="faint small">{qs.filter((q) => st.answers[q.id] !== undefined).length}/{qs.length} {T.answered[lang]}</span>
+        {st.billed && !last && <button className="btn" onClick={() => props.set({ screen: 'verdict' })}>{T.backToBill[lang]}</button>}
         <button className="btn primary" onClick={() => props.onFinishAct(act)}>
           {last ? T.toVerdict[lang] : T.next[lang]}<ArrowRight aria-hidden />
         </button>

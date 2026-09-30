@@ -1,4 +1,4 @@
-import { BookOpen, Grid3x3, Languages, Settings } from 'lucide-react'
+import { BookOpen, Grid3x3, Languages, ScrollText, Settings } from 'lucide-react'
 import type { Lang } from '../types'
 import type { Screen, Theme } from '../state'
 import { T } from '../i18n'
@@ -11,6 +11,8 @@ export function Topbar(props: {
   onLang: () => void
   onTheme: (t: Theme) => void
   go: (s: Screen) => void
+  billed: boolean
+  screen: Screen
 }) {
   const { lang, theme } = props
   const idx = THEMES.indexOf(theme)
@@ -21,9 +23,10 @@ export function Topbar(props: {
         <small>{T.titleAlt[lang]}</small>
       </button>
       <nav aria-label="Site">
-        <button className="linkish" aria-label={T.roster[lang]} onClick={() => props.go('atlas')}><BookOpen aria-hidden /><span className="lbl">{T.roster[lang]}</span></button>
-        <button className="linkish" aria-label={T.matrix[lang]} onClick={() => props.go('matrix')}><Grid3x3 aria-hidden /><span className="lbl">{T.matrix[lang]}</span></button>
-        <button className="linkish" aria-label={T.settings[lang]} onClick={() => props.go('settings')}><Settings aria-hidden /><span className="lbl">{T.settings[lang]}</span></button>
+        {props.billed && <button className="linkish" aria-label={T.yourBill[lang]} aria-current={props.screen === 'verdict' ? 'page' : undefined} onClick={() => props.go('verdict')}><ScrollText aria-hidden /><span className="lbl">{T.yourBill[lang]}</span></button>}
+        <button className="linkish" aria-label={T.roster[lang]} aria-current={props.screen === 'atlas' ? 'page' : undefined} onClick={() => props.go('atlas')}><BookOpen aria-hidden /><span className="lbl">{T.roster[lang]}</span></button>
+        <button className="linkish" aria-label={T.matrix[lang]} aria-current={props.screen === 'matrix' ? 'page' : undefined} onClick={() => props.go('matrix')}><Grid3x3 aria-hidden /><span className="lbl">{T.matrix[lang]}</span></button>
+        <button className="linkish" aria-label={T.settings[lang]} aria-current={props.screen === 'settings' ? 'page' : undefined} onClick={() => props.go('settings')}><Settings aria-hidden /><span className="lbl">{T.settings[lang]}</span></button>
         <button className="linkish" onClick={props.onLang} aria-label="Language"><Languages aria-hidden />{T.lang[lang]}</button>
         <div className="theme-slider">
           <span className="visually-hidden" id="theme-label">{T.theme[lang]}</span>

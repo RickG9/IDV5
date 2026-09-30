@@ -262,7 +262,7 @@ export const QUESTIONS: Question[] = [
   },
   {
     id: 'button', act: 'role', quick: true, kind: 'multi', max: 2,
-    text: b('You get one magic button. Which would you pick? (up to two)', '给你一个技能按键，你选哪个？（最多两个）'),
+    text: b('You get one magic button. Which would you pick?', '给你一个技能按键，你选哪个？'),
     options: [
       { id: 'speed', label: b('Makes me suddenly faster', '让我瞬间加速'), fx: [kite('mobility', 0.9)] },
       { id: 'stun', label: b('Stuns the hunter', '眩晕监管者'), fx: [kite('stun', 0.9), des('disrupt', 0.4)] },
@@ -318,7 +318,7 @@ export const QUESTIONS: Question[] = [
   // ───────────────────────── ACT 2 · CHASE ─────────────────────────
   {
     id: 'chase-style', act: 'chase', quick: true, kind: 'multi', max: 3,
-    text: b('How do you like to survive a chase? (up to three)', '你喜欢怎么在追击中活下来？（最多三个）'),
+    text: b('How do you like to survive a chase?', '你喜欢怎么在追击中活下来？'),
     options: [
       { id: 'looping', label: b('Looping pallets and windows perfectly', '完美绕板窗'), fx: [kite('looping', 1), { t: 'ability', k: 'mapKnowledge', v: 6, w: 0.1 }] },
       { id: 'mobility', label: b('Outrunning with dashes and speed', '靠冲刺和加速拉开距离'), fx: [kite('mobility', 1)] },
@@ -434,7 +434,7 @@ export const QUESTIONS: Question[] = [
   },
   {
     id: 'support-style', act: 'team', quick: false, kind: 'multi', max: 3,
-    text: b('Which kinds of help do you enjoy giving? (up to three)', '你喜欢提供哪种帮助？（最多三个）'),
+    text: b('Which kinds of help do you enjoy giving?', '你喜欢提供哪种帮助？'),
     options: [
       { id: 'heal', label: b('Healing', '治疗'), fx: [sup('heal', 1)] },
       { id: 'shield', label: b('Shields / damage prevention', '护盾/免伤'), fx: [sup('shield', 1)] },
@@ -555,7 +555,7 @@ export const QUESTIONS: Question[] = [
   // ───────────────────────── ACT 7 · TASTE ─────────────────────────
   {
     id: 'vibe', act: 'taste', quick: false, kind: 'multi', max: 4, optional: true,
-    text: b('Which character moods draw you in? (up to four)', '哪些角色气质吸引你？（最多四个）'),
+    text: b('Which character moods draw you in?', '哪些角色气质吸引你？'),
     options: [
       { id: 'gothic', label: b('Dark & gothic', '暗黑哥特'), fx: [{ t: 'vibe', k: 'gothic', d: 1 }] },
       { id: 'elegant', label: b('Elegant & refined', '优雅精致'), fx: [{ t: 'vibe', k: 'elegant', d: 1 }] },
@@ -571,7 +571,7 @@ export const QUESTIONS: Question[] = [
   },
   {
     id: 'look', act: 'taste', quick: false, kind: 'multi', max: 3, optional: true,
-    text: b('Which character looks appeal to you? (up to three)', '哪种角色外形吸引你？（最多三个）'),
+    text: b('Which character looks appeal to you?', '哪种角色外形吸引你？'),
     options: [
       { id: 'refined', label: b('Refined, formal, aristocratic', '精致正式、贵族气质'), fx: [{ t: 'vibe', k: 'elegant', d: 0.7 }] },
       { id: 'athletic', label: b('Athletic, physical, tough', '运动健硕、强悍'), fx: [{ t: 'vibe', k: 'rugged', d: 0.7 }] },

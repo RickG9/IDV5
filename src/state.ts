@@ -28,6 +28,8 @@ export interface AppState {
   ownedOnly: boolean
   useVibe: boolean
   metaWeight: number | null // null = use the value implied by answers
+  maxAct: number // furthest act reached, so editing answers never re-locks later acts
+  billed: boolean // a bill has been revealed at least once
   ai: AiConfig
   aiAdjust?: AiAdjust
 }
@@ -51,6 +53,8 @@ export const initialState: AppState = {
   ownedOnly: false,
   useVibe: false,
   metaWeight: null,
+  maxAct: 0,
+  billed: false,
   ai: { provider: 'opencode-go', baseUrl: AI_PRESETS['opencode-go'].baseUrl, model: AI_PRESETS['opencode-go'].model, key: '', relay: '', api: 'auto', effort: 'xhigh' },
 }
 

@@ -7,6 +7,20 @@ import { GAMES, LEVELS } from '../quiz/games'
 import { SURVIVORS } from '../data'
 import { T } from '../i18n'
 
+/** ARIA radiogroup keyboard pattern: one Tab stop, arrows move and select. */
+function radioKeys(e: React.KeyboardEvent<HTMLElement>) {
+  const keys = ['ArrowRight', 'ArrowDown', 'ArrowLeft', 'ArrowUp']
+  if (!keys.includes(e.key)) return
+  const radios = Array.from(e.currentTarget.querySelectorAll<HTMLButtonElement>('[role=radio]'))
+  const i = radios.indexOf(document.activeElement as HTMLButtonElement)
+  if (i < 0) return
+  e.preventDefault()
+  const next = radios[(i + (e.key === 'ArrowRight' || e.key === 'ArrowDown' ? 1 : -1) + radios.length) % radios.length]
+  next.focus()
+  next.click()
+}
+const tabStop = (checked: boolean, idx: number, anyChecked: boolean) => (checked || (!anyChecked && idx === 0) ? 0 : -1)
+
 interface Props { q: Question; value: AnswerValue; lang: Lang; onChange: (v: AnswerValue) => void }
 
 export function QuestionView({ q, value, lang, onChange }: Props) {
@@ -42,9 +56,10 @@ export function QuestionView({ q, value, lang, onChange }: Props) {
 
 function Single({ q, value, lang, onChange }: { q: Question; value?: string; lang: Lang; onChange: (v: AnswerValue) => void }) {
   return (
-    <div className={`opts ${q.options!.length > 4 ? 'cols' : ''}`} role="radiogroup">
-      {q.options!.map((o) => (
-        <button key={o.id} type="button" role="radio" aria-checked={value === o.id} className="opt" onClick={() => onChange(value === o.id ? undefined : o.id)}>
+    <div className={`opts ${q.options!.length > 4 ? 'cols' : ''}`} role="radiogroup" onKeyDown={radioKeys}>
+      {q.options!.map((o, i) => (
+        <button key={o.id} type="button" role="radio" aria-checked={value === o.id} tabIndex={tabStop(value === o.id, i, value !== undefined)} className="opt"
+          onClick={() => onChange(value === o.id ? undefined : o.id)}>
           <span className="mark" aria-hidden>{value === o.id && <Check />}</span>
           <span>{o.label[lang]}{o.hint && <span className="hint">{o.hint[lang]}</span>}</span>
         </button>
@@ -76,9 +91,10 @@ function Multi({ q, value, lang, onChange }: { q: Question; value: string[]; lan
 
 function Scale({ labels, value, onChange, rate }: { labels: string[]; value?: number; onChange: (v: AnswerValue) => void; rate?: boolean }) {
   return (
-    <div className={`scale ${rate ? 'rate' : ''}`} role="radiogroup">
+    <div className={`scale ${rate ? 'rate' : ''}`} role="radiogroup" onKeyDown={radioKeys}>
       {labels.map((l, i) => (
-        <button key={i} type="button" role="radio" aria-checked={value === i + 1} onClick={() => onChange(value === i + 1 ? undefined : i + 1)}>{l}</button>
+        <button key={i} type="button" role="radio" aria-checked={value === i + 1} tabIndex={tabStop(value === i + 1, i, value !== undefined)}
+          onClick={() => onChange(value === i + 1 ? undefined : i + 1)}>{l}</button>
       ))}
     </div>
   )

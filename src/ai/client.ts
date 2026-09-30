@@ -61,7 +61,16 @@ export async function chat(cfg: AiConfig, messages: Msg[], opts: { json?: boolea
       ? 'Could not reach the relay. Check the relay URL in Settings.'
       : 'The browser blocked the request (CORS). This provider needs the relay — see Settings.')
   }
-  if (!res.ok || !res.body) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`)
+  if (!res.ok || !res.body) {
+    const detail = (await res.text()).slice(0, 200)
+    const hint = res.status === 401 ? 'The API key was rejected. Check it in Settings.'
+      : res.status === 403 ? 'The relay refused this site. Add it to the relay\'s ORIGINS setting.'
+      : res.status === 404 ? 'Model or endpoint not found. Check the model name and base URL in Settings.'
+      : res.status === 429 ? 'Rate or usage limit reached on your AI plan. Try again later.'
+      : res.status === 400 && /Upstream not allowed/.test(detail) ? 'The relay does not allow this provider\'s base URL.'
+      : `The AI service returned an error (${res.status}).`
+    throw new Error(`${hint} (${detail.replace(/\s+/g, ' ').slice(0, 120)})`)
+  }
 
   // Server-sent events: collect text deltas from either API shape.
   const reader = res.body.getReader()

@@ -15,13 +15,15 @@ import { Dossier, MatchupLists, Roles, SkinsPanel } from '../components/Dossier'
 import { Switch } from '../components/Switch'
 import { narrate } from '../ai/client'
 
+const siteUrl = typeof window !== 'undefined' ? (window.location.host + window.location.pathname).replace(/\/$/, '') : ''
+
 const QUEUE_LABEL = { solo: { en: 'solo-queue', cn: '野排' }, duo: { en: 'duo', cn: '双排' }, premade: { en: 'premade', cn: '开黑' } }
 const BRACKET_LABEL = { low: { en: 'Tier I–IV', cn: '一至四阶' }, mid: { en: 'Tier V–VI', cn: '五至六阶' }, high: { en: 'Tier VII+', cn: '七阶及以上' }, pro: { en: 'competitive', cn: '比赛' } }
 
 /** Longest unbreakable word, in "Latin character" units (CJK glyphs are ~1.7× wider). */
 const longestWord = (name: string, lang: Lang) => Math.max(...name.split(/\s+/).map((w) => (lang === 'cn' ? w.length * 1.7 : w.length)))
 /** vw at which a word of `n` units fills ~84% of the viewport in a condensed display face. */
-const vwFor = (n: number) => 84 / (n * 0.62)
+const vwFor = (n: number) => 92 / (n * 0.62)
 
 export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppState>) => void; lang: Lang }) {
   const profile: Profile = useMemo(() => buildProfile(st.answers, st.trials, {
@@ -29,7 +31,7 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
   }, st.aiAdjust), [st.answers, st.trials, st.challenge, st.ownedOnly, st.useVibe, st.metaWeight, st.aiAdjust])
   const ranked = useMemo(() => rankAll(profile, SURVIVORS, STATS), [profile])
   const goals = new Set(profile.goals)
-  const [open, setOpen] = useState<string | null>(null)
+  const [open, setOpenState] = useState<{ id: string; at: 'bill' | 'pool' | 'near' } | null>(null)
   const [aiText, setAiText] = useState('')
   const [aiBusy, setAiBusy] = useState(false)
   const [aiErr, setAiErr] = useState('')
@@ -42,7 +44,12 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
   const comp = useMemo(() => goals.has('team') && headliner ? teamComp(headliner.s, SURVIVORS, profile) : null, [headliner, profile])
   const near = useMemo(() => whyNot(ranked, 6), [ranked])
 
-  if (!headliner) return <p className="center muted">{lang === 'en' ? 'No survivors match the current filters.' : '没有符合当前筛选的求生者。'}</p>
+  if (!headliner) return (
+    <div className="center" style={{ paddingTop: 40 }}>
+      <p className="muted">{lang === 'en' ? 'No survivors match the current filters.' : '没有符合当前筛选的求生者。'}</p>
+      <button className="btn" onClick={() => set({ ownedOnly: false })}>{lang === 'en' ? 'Show all survivors' : '显示全部求生者'}</button>
+    </div>
+  )
 
   // Billing scale follows fit strictly: one shared cap for the whole supporting block (so ratios
   // survive narrow screens), and the headliner always outranks it by at least 1.5×.
@@ -50,13 +57,13 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
   const headVw = vwFor(longestWord(headliner.s.name[lang], lang))
   const supportVw = Math.min(vwFor(Math.max(...support.map((r) => longestWord(r.s.name[lang], lang)))), headVw / 1.5)
   const ratio = (r: ScoredSurvivor) => Math.max(0.42, Math.pow(r.score / topScore, 2.2))
-  const supportSize = (r: ScoredSurvivor) => `calc(${ratio(r).toFixed(3)} * min(4.6rem, ${supportVw.toFixed(2)}vw))`
+  const supportSize = (r: ScoredSurvivor) => `calc(${ratio(r).toFixed(3)} * min(4.6rem, ${supportVw.toFixed(2)}cqi))`
   const metaPct = Math.round((st.metaWeight ?? profile.metaWeight) * 100)
 
   const exportPng = async () => {
     if (!billRef.current) return
     const bg = getComputedStyle(document.body).backgroundColor
-    const url = await toPng(billRef.current, { pixelRatio: 2, backgroundColor: bg, cacheBust: true })
+    const url = await toPng(billRef.current, { pixelRatio: 2, backgroundColor: bg, cacheBust: true, style: { margin: '0', padding: '14px' } })
     const a = document.createElement('a')
     a.href = url
     a.download = `manor-casebook-${headliner.s.id}.png`
@@ -70,7 +77,22 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
 
   const pos = headliner.reasons.filter((r) => r.w > 0).slice(0, 4)
   const neg = headliner.reasons.filter((r) => r.w < 0).slice(0, 1)
-  const toggle = (id: string) => setOpen(open === id ? null : id)
+  const toggle = (id: string, at: 'bill' | 'pool' | 'near' = 'bill') => setOpenState(open?.id === id ? null : { id, at })
+  const isOpen = (id: string) => open?.id === id
+  const dossierAt = (at: 'bill' | 'pool' | 'near') => {
+    if (!open || open.at !== at) return null
+    const r = ranked.find((x) => x.s.id === open.id)
+    return r ? <Dossier s={r.s} scored={r} lang={lang} showSkins={goals.has('skins')} onClose={() => setOpenState(null)} /> : null
+  }
+  // Each supporting name shows its most distinctive reason, not the same line five times over.
+  const used = new Set<string>()
+  const lineFor = (r: ScoredSurvivor) => {
+    const pos = r.reasons.filter((x) => x.w > 0)
+    const pick = pos.find((x) => !x.key || !used.has(x.key)) ?? pos[0]
+    if (pick?.key) used.add(pick.key)
+    return pick
+  }
+  const thin = profile.playAnswers < 3
   const other = lang === 'en' ? 'cn' : 'en'
   const skinsReady = ranked.slice(0, 3).filter((r) => skinsById[r.s.id])
   const skinsPending = ranked.slice(0, 3).filter((r) => !skinsById[r.s.id])
@@ -81,8 +103,8 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <span className="stripe" aria-hidden />
         <div className="bill">
           <div className="billing">
-            <button onClick={() => toggle(headliner.s.id)} aria-expanded={open === headliner.s.id}>
-              <span className="bill-name headliner" style={{ fontSize: `min(9.5rem, ${headVw.toFixed(2)}vw)` }}>{headliner.s.name[lang]}</span>
+            <button onClick={() => toggle(headliner.s.id)} aria-expanded={isOpen(headliner.s.id)}>
+              <span className="bill-name headliner" style={{ fontSize: `min(9.5rem, ${headVw.toFixed(2)}cqi)` }}>{headliner.s.name[lang]}</span>
               <span className="bill-cn" style={{ fontSize: 'clamp(1rem, 3vw, 1.6rem)' }}>{headliner.s.name[other]}</span>
               <span className="bill-score">{Math.round(headliner.score)} {T.match[lang]} · {T.fit[lang]} {Math.round(headliner.fit)} · {T.meta[lang]} {Math.round(headliner.meta)}</span>
             </button>
@@ -94,24 +116,25 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
           <Rule word={T.with[lang]} />
           <div className="billing support">
             {support.map((r) => {
-              const line = r.reasons.find((x) => x.w > 0)
+              const line = lineFor(r)
               return (
-                <button key={r.s.id} onClick={() => toggle(r.s.id)} aria-expanded={open === r.s.id}>
+                <button key={r.s.id} onClick={() => toggle(r.s.id)} aria-expanded={isOpen(r.s.id)}>
                   <span className="bill-name" style={{ fontSize: supportSize(r) }}>{r.s.name[lang]}</span>
                   <span className="bill-score">{Math.round(r.score)} {T.match[lang]}{line ? ` — ${line.text[lang]}` : ''}</span>
                 </button>
               )
             })}
           </div>
+          <p className="bill-hint">{thin ? T.thinBill[lang] : T.tapHint[lang]}</p>
           <div className="bill-foot">
             <span>{lang === 'en' ? `Billed for a ${QUEUE_LABEL[profile.queue].en} ${BRACKET_LABEL[profile.bracket].en} player` : `为${BRACKET_LABEL[profile.bracket].cn}${QUEUE_LABEL[profile.queue].cn}玩家推荐`}</span>
             <span>{T.fit[lang]} {100 - metaPct}% · {T.meta[lang]} {metaPct}%{st.challenge ? ` · ${T.challenge[lang]}` : ''}</span>
-            <span>{T.title[lang]} · {T.dataAsOf[lang]} {DATA_AS_OF}</span>
+            <span>{T.title[lang]} · {T.dataAsOf[lang]} {DATA_AS_OF} · {siteUrl}</span>
           </div>
         </div>
       </div>
 
-      {open && (() => { const r = ranked.find((x) => x.s.id === open)!; return <Dossier s={r.s} scored={r} lang={lang} showSkins={goals.has('skins')} onClose={() => setOpen(null)} /> })()}
+      {dossierAt('bill')}
 
       <div className="controls" aria-label={T.controls[lang]}>
         <label className="slider">
@@ -123,9 +146,9 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <div className="switches">
           <Switch on={st.challenge} onChange={(v) => set({ challenge: v })} label={T.challenge[lang]} hint={T.challengeHint[lang]} />
           <Switch on={st.ownedOnly} onChange={(v) => set({ ownedOnly: v })} label={T.ownedOnly[lang]} disabled={!profile.owned.length}
-            hint={!profile.owned.length ? (lang === 'en' ? 'Mark owned survivors in Act VI to use this.' : '在第六幕标记已拥有的角色后可用。') : undefined} />
+            hint={!profile.owned.length ? (st.depth === 'quick' ? T.fullOnly[lang] : (lang === 'en' ? 'Mark owned survivors in The Record to use this.' : '在"战绩"一幕标记已拥有的角色后可用。')) : undefined} />
           <Switch on={st.useVibe} onChange={(v) => set({ useVibe: v })} label={T.vibe[lang]} disabled={!Object.keys(profile.vibe).length}
-            hint={!Object.keys(profile.vibe).length ? (lang === 'en' ? 'Answer the Taste act to use this.' : '回答"品味"一幕后可用。') : undefined} />
+            hint={!Object.keys(profile.vibe).length ? (st.depth === 'quick' ? T.fullOnly[lang] : (lang === 'en' ? 'Answer the Taste act to use this.' : '回答"品味"一幕后可用。')) : undefined} />
         </div>
         <div className="actions">
           <button className="btn" onClick={exportPng}><Download aria-hidden />{T.exportPng[lang]}</button>
@@ -145,7 +168,7 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
           <ol className="bill-list">
             {pool.map(({ r, why }) => (
               <li key={r.s.id}>
-                <button className="bill-line" onClick={() => toggle(r.s.id)} aria-expanded={open === r.s.id}>
+                <button className="bill-line" onClick={() => toggle(r.s.id, 'pool')} aria-expanded={isOpen(r.s.id)}>
                   <span className="bill-name" style={{ fontSize: `calc(${ratio(r).toFixed(3)} * min(3.4rem, ${supportVw.toFixed(2)}vw))` }}>{r.s.name[lang]}</span>
                   <span className="bill-cn">{r.s.name[other]}</span>
                 </button>
@@ -154,6 +177,7 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
               </li>
             ))}
           </ol>
+          {dossierAt('pool')}
         </section>
       )}
 
@@ -188,7 +212,7 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <section className="section">
           <h2 className="display">{T.matchups[lang]}</h2>
           <p className="sub">{lang === 'en' ? `For ${headliner.s.name.en}. Community-sourced matchups are shown first; the rest are estimated from kit mechanics.` : `针对${headliner.s.name.cn}。优先显示社区来源的对局，其余根据技能机制推算。`}</p>
-          <div className="panel"><MatchupLists s={headliner.s} lang={lang} limit={6} /></div>
+          <div className="panel"><MatchupLists s={headliner.s} lang={lang} limit={6} headingLevel={3} /></div>
         </section>
       )}
 
@@ -211,12 +235,13 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
           <ul className="ruled">
             {near.map(({ r, reason }) => (
               <li key={r.s.id}>
-                <button className="linkish ruled-name" onClick={() => toggle(r.s.id)}>{r.s.name[lang]}</button>
+                <button className="linkish ruled-name" onClick={() => toggle(r.s.id, 'near')} aria-expanded={isOpen(r.s.id)}>{r.s.name[lang]}</button>
                 <span className="muted">{reason[lang]}</span>
                 <span className="faint">{Math.round(r.score)} {T.match[lang]}</span>
               </li>
             ))}
           </ul>
+          {dossierAt('near')}
         </section>
       )}
     </div>

@@ -39,21 +39,21 @@ export default function App() {
   const onFinishAct = (a: Act) => {
     const i = acts.indexOf(a)
     if (a === 'hands' && st.answers.trials === 'yes') { set({ screen: 'trials', actIndex: i + 1 }); return }
-    if (i >= acts.length - 1) { set({ screen: 'verdict' }); window.scrollTo({ top: 0 }); return }
+    if (i >= acts.length - 1) { set({ screen: 'verdict', billed: true, maxAct: acts.length - 1 }); window.scrollTo({ top: 0 }); return }
     set({ actIndex: i + 1 })
   }
 
   const hasProgress = Object.keys(st.answers).length > 0
   return (
     <div className="app">
-      <Topbar lang={st.lang} theme={st.theme} onLang={() => set({ lang: st.lang === 'en' ? 'cn' : 'en' })} onTheme={(theme) => set({ theme })}
+      <Topbar lang={st.lang} theme={st.theme} billed={st.billed} screen={st.screen} onLang={() => set({ lang: st.lang === 'en' ? 'cn' : 'en' })} onTheme={(theme) => set({ theme })}
         go={(screen) => { set({ screen }); window.scrollTo({ top: 0 }) }} />
       <main className="sheet">
         {st.screen === 'programme' && (
-          <Programme lang={st.lang} depth={st.depth} acts={acts} hasProgress={hasProgress}
+          <Programme lang={st.lang} depth={st.depth} acts={acts} hasProgress={hasProgress} billed={st.billed} onBill={() => set({ screen: 'verdict' })}
             onDepth={(depth) => set({ depth })}
             onBegin={() => set({ screen: 'quiz' })}
-            onRestart={() => set({ answers: {}, trials: {}, actIndex: 0, aiAdjust: undefined, metaWeight: null, challenge: false, ownedOnly: false, useVibe: false, screen: 'quiz' })}
+            onRestart={() => { if (window.confirm(T.confirmRestart[st.lang])) set({ answers: {}, trials: {}, actIndex: 0, maxAct: 0, billed: false, aiAdjust: undefined, metaWeight: null, challenge: false, ownedOnly: false, useVibe: false, screen: 'quiz' }) }}
             onRoster={() => set({ screen: 'atlas' })} />
         )}
         {st.screen === 'quiz' && <Quiz st={st} lang={st.lang} acts={acts} questionsFor={questionsFor} set={set} onAnswer={onAnswer} onFinishAct={onFinishAct} />}
@@ -70,7 +70,7 @@ export default function App() {
         {T.title[st.lang]} · {T.dataAsOf[st.lang]} {DATA_AS_OF} · {st.lang === 'en'
           ? 'Fan-made tool. Identity V is © NetEase; no game art is hosted here.'
           : '玩家自制工具。第五人格版权归网易所有；本站不托管任何游戏美术资源。'}
-        {' '}<button className="linkish" style={{ display: 'inline', padding: 0 }} onClick={() => setSt({ ...initialState, lang: st.lang, theme: st.theme, ai: st.ai })}>{T.restart[st.lang]}</button>
+        {' '}<button className="linkish" style={{ display: 'inline', padding: 0 }} onClick={() => { if (window.confirm(T.confirmRestart[st.lang])) setSt({ ...initialState, lang: st.lang, theme: st.theme, ai: st.ai }) }}>{T.restart[st.lang]}</button>
       </footer>
     </div>
   )

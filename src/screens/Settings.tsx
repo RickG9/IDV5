@@ -48,17 +48,7 @@ export function Settings({ lang, ai, onChange }: { lang: Lang; ai: AiConfig; onC
             <option value="low">{lang === 'en' ? 'Low (fastest)' : '低（最快）'}</option>
           </select>
         </label>
-        <label style={{ flex: 1 }}>{lang === 'en' ? 'API style' : '接口类型'}
-          <select className="field" value={ai.api} onChange={(e) => onChange({ ...ai, api: e.target.value as AiConfig['api'] })}>
-            <option value="auto">{lang === 'en' ? 'Automatic' : '自动'}</option>
-            <option value="responses">Responses API</option>
-            <option value="chat">Chat completions</option>
-          </select>
-        </label>
       </div>
-      <label>{lang === 'en' ? 'Base URL' : '接口地址'}
-        <input className="field" value={ai.baseUrl} onChange={(e) => onChange({ ...ai, baseUrl: e.target.value.trim() })} />
-      </label>
       <label>{lang === 'en' ? 'Relay URL' : '中转地址'}{preset.needsRelay ? (lang === 'en' ? ' (required for OpenCode Go)' : '（OpenCode Go 必填）') : ''}
         <input className="field" value={ai.relay} onChange={(e) => onChange({ ...ai, relay: e.target.value.trim() })} placeholder="https://manor-relay.<you>.workers.dev" />
       </label>
@@ -67,6 +57,19 @@ export function Settings({ lang, ai, onChange }: { lang: Lang; ai: AiConfig; onC
           ? 'OpenCode Go does not allow direct browser calls, so requests go through a tiny pass-through relay you deploy once (free Cloudflare Worker, code in /worker in the repo). The relay never stores your key. When running locally with `npm run dev`, use relay URL "/relay" instead.'
           : 'OpenCode Go 不允许浏览器直接调用，因此请求需经过一个你自行部署的中转（免费的 Cloudflare Worker，代码在仓库 /worker 中）。中转不会保存你的密钥。本地运行 `npm run dev` 时，中转地址填 "/relay"。'}
       </p>
+      <details className="advanced">
+        <summary>{lang === 'en' ? 'Advanced' : '高级设置'}</summary>
+        <label>{lang === 'en' ? 'Base URL' : '接口地址'}
+        <input className="field" value={ai.baseUrl} onChange={(e) => onChange({ ...ai, baseUrl: e.target.value.trim() })} />
+        </label>
+        <label >{lang === 'en' ? 'API style' : '接口类型'}
+          <select className="field" value={ai.api} onChange={(e) => onChange({ ...ai, api: e.target.value as AiConfig['api'] })}>
+            <option value="auto">{lang === 'en' ? 'Automatic' : '自动'}</option>
+            <option value="responses">Responses API</option>
+            <option value="chat">Chat completions</option>
+          </select>
+        </label>
+      </details>
       <div className="row-actions">
         <button className="btn primary" onClick={test} disabled={!ai.key}>{lang === 'en' ? 'Test connection' : '测试连接'}</button>
         <button className="btn" onClick={() => onChange({ ...ai, key: '' })}>{lang === 'en' ? 'Forget key' : '清除密钥'}</button>

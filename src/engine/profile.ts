@@ -27,6 +27,9 @@ export interface Obs { v: number; w: number; src: string }
 export interface Profile {
   goals: string[]
   queue: Queue
+  queueAnswered: boolean
+  /** How many playstyle questions (Acts II–III) were answered: few answers → a less certain bill. */
+  playAnswers: number
   mode: Mode
   bracket: Bracket
   isNew: boolean
@@ -197,7 +200,7 @@ export function buildProfile(answers: Answers, trials: TrialResults, settings: S
     abilityConf[d] = clamp((w - 0.25) / 1.5, 0, 1)
   }
   // Comms is also availability: premade voice players can run coordination-heavy picks.
-  const queue = ((answers.queue as Queue) ?? 'solo')
+  const queue = ((answers.queue as Queue) ?? 'duo') // unanswered → neutral middle, not solo
   if (queue === 'premade') ability.comms = Math.max(ability.comms, 7)
 
   const isNew = experience <= 1 && rankLevel <= 1
@@ -209,6 +212,8 @@ export function buildProfile(answers: Answers, trials: TrialResults, settings: S
   return {
     goals: (answers.goals as string[] | undefined)?.length ? (answers.goals as string[]) : ['main', 'pool', 'path', 'matchups'],
     queue,
+    queueAnswered: answers.queue !== undefined,
+    playAnswers: QUESTIONS.filter((q) => (q.act === 'role' || q.act === 'chase') && answers[q.id] !== undefined).length,
     mode: ((answers.mode as Mode) ?? 'both'),
     bracket: RANK_BRACKET[rank] ?? 'low',
     isNew,
