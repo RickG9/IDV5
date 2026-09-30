@@ -98,8 +98,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved in quick match for RNG fun, hated by hunters as flare-gun menace; high-rank calls him slot-machine noob-trap turned meta pick after April buff, then annoying tax after Dec nerfs.",
-   "cn": "匹配娱乐之王，监管最恨的信号枪老六；高段位曾讥为抽奖混子，4月加强后成版本答案，12月三连砍后又被嫌拖节奏。"
+   "en": "Quick match loves him for RNG fun, and hunters hate his flare gun. High ranks once called him a slot-machine noob-trap, then a meta pick after April buffs, and an annoying tax after December nerfs.",
+   "cn": "匹配娱乐之王，监管最恨的信号枪老六。高段位曾讥为抽奖混子，4月加强后成版本答案，12月削弱后又被嫌拖节奏。"
   },
   "tips": {
    "en": [
@@ -290,8 +290,8 @@
    ]
   },
   "sentiment": {
-   "en": "Beloved beginner angel and low-rank forgiving pick; high-rank despises as healbot with no tempo, classic noob-trap that veterans call Gardener-but-worse.",
-   "cn": "新手眼中的白衣天使，低段容错之王；高段眼中的混子奶妈，无节奏纯补状态，公认的新手陷阱之一。"
+   "en": "Beginners love her as an angel and forgiving low-rank pick, while high ranks dismiss her as a tempo-less healbot. Veterans call her a classic noob-trap, Gardener-but-worse.",
+   "cn": "新手眼中的白衣天使、低段容错之王；高段却嫌她没节奏、只会补状态，是公认新手陷阱，老玩家戏称‘不如园丁’。"
   },
   "tips": {
    "en": [
@@ -492,7 +492,7 @@
    ]
   },
   "sentiment": {
-   "en": "Universally seen as tutorial character: loved by true beginners, mocked as free hit and throw pick in rank; underrated only as anti-terror niche.",
+   "en": "Universally seen as a tutorial character. True beginners love him, ranked players mock him as a free hit and throw pick, and only his anti-terror niche is underrated.",
    "cn": "公认教学角色：萌新之友，排位路人眼中的混子/演员；仅免震慑救人有点小价值，其余被群嘲。"
   },
   "tips": {
@@ -685,8 +685,8 @@
    ]
   },
   "sentiment": {
-   "en": "Classic noob-trap / meme: loved in quick match for jumpscare stuns, hated in rank as decode-debuffer. Community consensus: high effort, low reward, outclassed by every modern stunner.",
-   "cn": "典型陷阱+整活角色：匹配整活快乐，排位被嫌坑破译。公认上限吃操作、下限极低，早被现代牵制位淘汰。"
+   "en": "A classic noob-trap and meme. Quick match loves his jumpscare stuns, ranked hates his decode debuff. Consensus: high effort, low reward, outclassed by every modern stunner.",
+   "cn": "典型新手陷阱和整活角色：匹配爱他的惊吓晕眩，排位嫌他破译减速。公认高操作低收益，早被现代牵制位淘汰。"
   },
   "tips": {
    "en": [
@@ -877,8 +877,8 @@
    ]
   },
   "sentiment": {
-   "en": "Beloved mascot and tutorial friend, but community agrees she's a starter crutch. Loved by beginners, pitied by high ranks: safe but boring and low impact.",
-   "cn": "人气吉祥物+新手之友，但公认是过渡角色。新手爱、高阶嫌：混分稳但没作用、无聊。"
+   "en": "She is a beloved mascot and tutorial friend, but the community agrees she is a starter crutch. Beginners love her, high ranks pity her as safe, boring, and low-impact.",
+   "cn": "人气吉祥物、新手之友，但公认是新手拐杖。新手爱她，高阶嫌她：稳但无聊、作用低。"
   },
   "tips": {
    "en": [
@@ -1070,8 +1070,8 @@
    ]
   },
   "sentiment": {
-   "en": "Underrated solo-queue trickster: respected for outplay clips, dismissed as outdated vs modern mobility. Community likes him as honest low-effort kiter, not OP, not throw.",
-   "cn": "被低估的单排魔术师：有高光但版本老。评价诚实不超模也不坑，快乐单排位，非上分最优。"
+   "en": "An underrated solo-queue trickster. He is respected for outplay clips but dismissed as outdated against modern mobility. The community sees him as an honest, low-effort kiter, not OP, not a throw.",
+   "cn": "被低估的单排魔术师：有高光但跟不上现代机动性。评价是诚实、低操作量的牵制位，不超模也不坑，非上分最优。"
   },
   "tips": {
    "en": [
@@ -1270,8 +1270,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved meme low-rank hide-and-seek troll, widely seen as noob-trap/underpowered in high rank; underrated fun pick after 2025-26 buffs but still not trusted by teammates",
-   "cn": "低阶快乐躲猫 troll，高阶公认弱、下水道混子，新手陷阱；2025-26连续加强后有所回暖但仍被队友嫌弃、不敢信"
+   "en": "A beloved low-rank hide-and-seek troll, widely seen as a noob-trap and underpowered in high rank. After 2025-26 buffs he is an underrated fun pick, yet teammates still don't trust him.",
+   "cn": "低阶爱玩的躲猫猫整活角色，高阶普遍觉得是新手陷阱、强度低。2025-26连续加强后成了被低估的娱乐选，但队友仍不敢信。"
   },
   "tips": {
    "en": [
@@ -1455,8 +1455,8 @@
    ]
   },
   "sentiment": {
-   "en": "Universally respected as best rescuer and must-have; loved by teammates, hated by hunters as unkillable; seen as boring but reliable, skill gap in pad play obvious",
-   "cn": "公认第一救人位，队友最爱、监管最恨的打不死小强；评价枯燥但可靠，护肘玩得好不好差距巨大"
+   "en": "Universally respected as the best rescuer and a must-have. Teammates love him, hunters hate him as unkillable. He is seen as boring but reliable, with an obvious skill gap in pad play.",
+   "cn": "公认第一救人位、必选角色，队友最爱、监管最恨的打不死小强。评价枯燥但可靠，护肘玩得好不好差距巨大。"
   },
   "tips": {
    "en": [
@@ -1641,8 +1641,8 @@
    ]
   },
   "sentiment": {
-   "en": "Beloved beginner rescuer and satisfying gun moment; high-rank view as honest but one-dimensional and Excitement-check dependent; hunters find gun annoying but baitable",
-   "cn": "新手最爱救人位，开枪一时爽；高阶认为老实但单一，全看兴奋博弈；监管觉得烦但可骗可躲"
+   "en": "The Coordinator is a beloved beginner rescuer with a satisfying gunshot. Higher ranks see her as honest but one-dimensional and reliant on the Excitement check, while hunters find the gun annoying yet baitable.",
+   "cn": "新手最喜欢的救人位，开枪那一下很爽。高阶觉得她老实但单一，全看兴奋博弈；监管觉得烦，但枪可骗可躲。"
   },
   "tips": {
    "en": [
@@ -1824,8 +1824,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected S-tier decoder, hated/banned by hunters; seen as cipher-rush queen but also fragile liability if focused. Noob trap if doll wasted early.",
-   "cn": "公认T0修机位，屠夫眼中必ban的修机头子；玩得好是爹，首追倒就是团灭发动机，新手容易开局卖娃。"
+   "en": "The Mechanic is a respected S-tier decoder whom hunters hate and ban. She is the cipher-rush queen but a fragile liability once focused, and a noob trap if her doll is wasted early.",
+   "cn": "她是公认T0修机位，屠夫必ban的修机头子。玩得好是爹，首追倒就是团灭发动机；新手容易开局卖娃。"
   },
   "tips": {
    "en": [
@@ -2015,8 +2015,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved when clutch, hated when feeding. Hunters find him annoying/toxic; teammates respect high-skill Forwards but fear low-tier ball-miss machines. Classic high-ceiling showoff, not noob-friendly.",
-   "cn": "救下来是英雄，撞空是演员。监管嫌恶心，队友又爱又怕：高端前锋是定心丸，低阶就是橄榄球失踪人口，天花板极高的秀操作角色。"
+   "en": "The Forward is loved when he clutches and hated when he feeds. Hunters find him annoying or toxic, while teammates respect skilled Forwards but fear low-tier ball-miss machines, and he is a classic high-ceiling showoff, not noob-friendly.",
+   "cn": "救下来是英雄，撞空是演员。监管嫌恶心，队友又爱又怕：高端前锋是定心丸，低阶就是橄榄球失踪人口，属于天花板极高的秀操作角色，不新手友好。"
   },
   "tips": {
    "en": [
@@ -2212,8 +2212,8 @@
    ]
   },
   "sentiment": {
-   "en": "Classic noob-trap / double-edged. Teammates groan on lock-in fearing instant down; hunters love free win. Respected only as one-trick A-badge grinder, underrated as info support after 2025 buffs.",
-   "cn": "典型双刃剑/新人陷阱。秒锁盲女队友就叹气，监管则狂喜。只服专精A牌绝活哥，2025加强后报点辅助价值被低估但仍冷门。"
+   "en": "The Mind's Eye is a classic noob trap and double-edged sword. Teammates groan at the lock-in, fearing an instant down, while hunters love a free win, and she is respected only as a one-trick A-badge grinder, underrated as info support after the 2025 buffs.",
+   "cn": "她是典型双刃剑/新人陷阱。秒锁盲女队友就叹气怕秒倒，监管则狂喜；只有专精A牌绝活哥受尊重，2025加强后报点辅助价值被低估但仍冷门。"
   },
   "tips": {
    "en": [
@@ -2412,8 +2412,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected pro staple but divisive in rank: loved with voice, hated in solo where random portals feed hunter. Seen as most-nerfed yet still top-tier, high skill-gap.",
-   "cn": "职业赛公认幻神，路人局口碑两极：开黑强无敌，野排乱打洞等于送。公认被砍最多次依然T0，上限下限差距极大。"
+   "en": "The Priestess is a respected pro staple but divisive in ranked play: loved with voice chat, hated in solo when random portals feed the hunter. She has been nerfed the most yet remains top-tier, with a huge skill gap.",
+   "cn": "她是职业赛公认幻神，路人局口碑两极：开黑强无敌，野排乱打洞等于送。她被公认砍得最多却依然T0，上限下限差距极大。"
   },
   "tips": {
    "en": [
@@ -2596,8 +2596,8 @@
    ]
   },
   "sentiment": {
-   "en": "Beloved beginner-friendly kiter, sometimes called boring/overrated. Hunters find her annoying but fair; high ranks respect timing masters, low ranks waste sprays.",
-   "cn": "新手最爱、容错最高的溜鬼位，也被吐槽混子白板。监管觉得赖但可针对，高端看回香时机，低端乱喷秒没。"
+   "en": "The Perfumer is a beloved, beginner-friendly kiter, though sometimes called boring or overrated. Hunters find her annoying but fair, while high ranks respect timing masters, and low ranks waste sprays.",
+   "cn": "她是新手最爱、容错最高的溜鬼位，也被吐槽混子白板。监管觉得赖但可针对，高端看回香时机，低端乱喷秒没。"
   },
   "tips": {
    "en": [
@@ -2790,8 +2790,8 @@
    ]
   },
   "sentiment": {
-   "en": "High-light hero or thrower: a good Kevin is worshipped, a bad one is a noob-trap. Hunters hate him; teammates fear random lassos exposing position.",
-   "cn": "两极分化最大：大神凯文是英雄，菜牛仔是演员。监管最恨的救人位之一，队友怕被乱套暴露位置，典型绝活哥角色。"
+   "en": "The Cowboy is either a highlight hero or a thrower: a good Kevin is worshipped, while a bad one is a noob trap. Hunters hate him, and teammates fear random lassos exposing their position.",
+   "cn": "牛仔两极分化最大：大神凯文是英雄，菜牛仔是演员，也是新人陷阱。他是监管最恨的救人位之一，队友怕被乱套暴露位置，是典型绝活哥角色。"
   },
   "tips": {
    "en": [
@@ -2987,8 +2987,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved casual / low-rank staple: fun, pretty, easy to feel value. High-rank view: honest but outdated kiter, annoying slow aura for hunters but not ban-worthy, overshadowed by Aeroplanist/Antiquarian.",
-   "cn": "路人局人气高：好上手、有趣、混也能辅助。中高端评价：老实牵制辅助，不超模也不弱，属情怀/绝活哥角色，监管觉得恶心但不值得ban。"
+   "en": "The Female Dancer is a loved casual and low-rank staple: fun, pretty, and easy to feel useful. High ranks see her as an honest but outdated kiter whose slow aura annoys hunters, yet she is not ban-worthy and is overshadowed by Aeroplanist and Antiquarian.",
+   "cn": "她路人局火：好上手、好看、有趣、混能辅助。中高端觉得老实但过时，不超模也不弱，被飞行家/古董商压过，属情怀/绝活哥；监管觉得恶心但不值得ban。"
   },
   "tips": {
    "en": [
@@ -3178,8 +3178,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected but divisive: teammates love a good Seer, hunters hate owl as skill-negating. Seen as high-skill, high-trust pick; noob Seers who stare into walls or donate owls are memes. Often called ban-slot tax in pro.",
-   "cn": "又爱又恨：队友爱鸟，监管恨鸟，认为抵消博弈。高端信任位，新手先知贪看鸟撞墙、白给鸟被群嘲。职业赛常年ban位税。"
+   "en": "Seer is respected but divisive: teammates love a good one, hunters hate the owl for negating skills. He's a high-skill, high-trust pick, while noobs who stare at walls or donate owls are memes. In pro play, he's often called a ban-slot tax.",
+   "cn": "先知风评两极：队友爱他的鸟，监管恨鸟抵消博弈。高端局是信任位，新手贪看鸟撞墙、白给鸟会被群嘲。职业赛常被称为ban位税。"
   },
   "tips": {
    "en": [
@@ -3372,8 +3372,8 @@
    ]
   },
   "sentiment": {
-   "en": "Fashion-favorite underdog: loved for looks/lore, hunters find rebirth annoying and time-wasting. Community says noob-trap in low rank (bad coffins throw), underrated clutch in coordinated play.",
-   "cn": "颜值人气王， hunters最烦返生拖时间。评价两极：低阶坑棺材位置白给，高端开黑第二条命很香，属被低估的守墓翻盘位。"
+   "en": "The Embalmer is a fashion-favorite underdog, loved for looks and lore, while hunters find rebirth annoying and time-wasting. The community calls him a noob-trap in low ranks—bad coffins throw games—but underrated in coordinated play.",
+   "cn": "入殓师是颜值人气王，监管者最烦返生拖时间。评价两极：低阶局棺材位置差容易白给，高端开黑第二条命很香，属于被低估的棺材翻盘位。"
   },
   "tips": {
    "en": [
@@ -3562,8 +3562,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected meta kiter-support; hunter mains find magnets annoying/overrated, but high-rank consensus is strong when walls exist.",
-   "cn": "高分局公认强势牵制辅助，屠皇觉得磁铁恶心又有点被高估，有墙才是爹。"
+   "en": "Prospector is a respected meta kiter-support. Hunter mains find magnets annoying and overrated, but high-rank consensus is that he's strong when walls exist.",
+   "cn": "勘探员是高分局公认的强势牵制辅助；屠皇觉得磁铁恶心又有点被高估，有墙才是爹。"
   },
   "tips": {
    "en": [
@@ -3749,8 +3749,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved low-rank menace, seen as boring/noob-trap higher up; hunters hate 4s stun, survivors call her slow and team-value low after nerfs.",
-   "cn": "低阶恶霸，新手之友；高阶被嫌混子、没身位，屠皇恨4秒晕，求生嫌她慢。"
+   "en": "Enchantress is a loved low-rank menace but seen as boring and a noob-trap higher up. Hunters hate her 4-second stun; survivors call her slow with low team value after nerfs.",
+   "cn": "女巫是低阶恶霸、新手之友；高阶被嫌混子、没身位。屠皇恨4秒眩晕，削弱后求生者嫌她慢、团队价值低。"
   },
   "tips": {
    "en": [
@@ -3938,8 +3938,8 @@
    ]
   },
   "sentiment": {
-   "en": "Meme troll turned respected anti-camp specialist; teammates hate decode burden in solo, hunters hate endless bump-block; underrated in premade.",
-   "cn": "从混子野人逆袭为专治守椅的绝活，野排嫌拖修机，屠夫恨撞+挡，开黑才香。"
+   "en": "Wildling went from meme troll to respected anti-camp specialist. Teammates hate his decode burden in solo, hunters hate endless bump-blocking, and he's underrated in premade.",
+   "cn": "野人从混子逆袭为专治守椅的绝活；野排嫌他拖修机，屠夫恨撞人+挡路，开黑才香。"
   },
   "tips": {
    "en": [
@@ -4135,8 +4135,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected high-skill kiter, loved in montages but seen as noob-trap in low rank due to aim and bomb management; hunters find sticky/fire zones annoying but punishable.",
-   "cn": "高手向溜鬼位，观赏性强但低阶易空弹被视为坑；监管觉得黏土/燃烧弹恶心，但会绕开或远程克制。"
+   "en": "Acrobat is a respected high-skill kiter, loved in montages but seen as a noob-trap in low ranks due to aim and bomb management. Hunters find sticky/fire zones annoying but punishable.",
+   "cn": "杂技演员是高手向溜鬼位，观赏性强但低阶易空弹被视为坑；监管觉得黏土/燃烧弹恶心，但会绕开或远程克制。"
   },
   "tips": {
    "en": [
@@ -4325,8 +4325,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved by pros and rescue mains as reliable low-variance rescuer; pubs call him boring/selfish decoder-slave; hunters hate guaranteed invuln feeling uncounterable except baiting watch.",
-   "cn": "职业和高阶救人位最爱，稳定下限高；路人局嫌 boring 又拖电机；监管讨厌必救无伤，只能骗表拉出范围。"
+   "en": "First Officer is loved by pros and rescue mains as a reliable, low-variance rescuer. Pubs call him boring and a selfish decoder-slave; hunters hate his guaranteed invulnerability, feeling it's uncounterable except by baiting the watch.",
+   "cn": "大副是职业和高阶救人位最爱，稳定下限高；路人局嫌他无聊又拖电机；监管讨厌必救无伤，只能骗表拉出范围。"
   },
   "tips": {
    "en": [
@@ -4523,8 +4523,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved as sunny healer girl, underrated solo-carry in low-mid; high rank calls her decode-dragger and hunters bait drink then chip; pro sees her as situational vs poke comps.",
-   "cn": "人设讨喜的阳光奶妈，低中阶混子福音；高阶嫌拖电机、监管骗酒再补碎血；职业仅特定磨血阵容才拿。"
+   "en": "Barmaid is loved as a sunny healer girl and underrated solo-carry in low-mid ranks. High rank calls her a decode-dragger; hunters bait her drink then chip. Pros see her as situational against poke comps.",
+   "cn": "调酒师是人设讨喜的阳光奶妈，低中阶混子福音；高阶嫌她拖电机，监管骗酒再补碎血；职业仅特定磨血阵容才拿。"
   },
   "tips": {
    "en": [
@@ -4719,8 +4719,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved casual/cute pick (Wick), seen as underrated premade support but noob-trap in solo: slow value, high game-sense tax. Not hated by hunters except annoying dog slows.",
-   "cn": "路人局可爱但混子印象，开黑眼中有配合才强的冷门辅助；野排被视为陷阱，增益慢、吃意识，监管不算恨但烦狗。"
+   "en": "Postman is a beloved casual pick thanks to Wick, and while underrated as a premade support, he is a solo noob-trap with slow value and a high game-sense tax. Hunters don't hate him, though the dog's slows annoy.",
+   "cn": "邮差因威克被当休闲可爱选择，开黑辅助被低估，但野排是陷阱：增益慢、吃意识。监管不恨他，但烦狗减速。"
   },
   "tips": {
    "en": [
@@ -4897,8 +4897,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected stable second rescuer after Mercenary; loved by low-mid for easy saves, seen as boring but reliable in high/pro. Hunters find him honest, less tilting than Forward.",
-   "cn": "佣兵之下最稳二救位，低中阶最爱、高阶/职业眼中朴实可靠；监管觉得老实不恶心，不如前锋招恨。"
+   "en": "Grave Keeper is respected as the stable second rescuer after Mercenary. Low and mid tiers love his easy saves, while high and pro players see him as boring but reliable. Hunters find him honest, less tilting than Forward.",
+   "cn": "守墓人是佣兵之下最稳的二救位，低中阶喜欢他救人简单，高阶和职业觉得朴实可靠。监管认为他老实，不像前锋那么招恨。"
   },
   "tips": {
    "en": [
@@ -5075,8 +5075,8 @@
    ]
   },
   "sentiment": {
-   "en": "High-rank darling and scrim staple, low-rank noob-trap who feeds terror shocks and wastes links. Respected as brainy, blamed when link math throws priming.",
-   "cn": "高阶/职业最爱的大脑型破译，低阶易坑：乱连线、吃震慑；玩得好被夸运营，传错进度背锅。"
+   "en": "Prisoner is a high-rank darling and scrim staple, but a low-rank noob-trap who feeds Terror Shocks and wastes links. Respected as brainy, he is blamed when link math throws off priming.",
+   "cn": "囚徒是高阶和训练赛常客，低阶却是陷阱：容易吃震慑、乱连线。玩得好被夸有脑子，传错进度算错线就背锅。"
   },
   "tips": {
    "en": [
@@ -5256,8 +5256,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected as honest skill kiter, underrated after 2025 buffs; hunters find swarm annoying but fair, teammates love free pushes. Not flashy, never S-tier hype.",
-   "cn": "口碑扎实的牵制位，2025加强后被低估；监管嫌虫群恶心但认可，求生喜欢被推，强度不温不火。"
+   "en": "Entomologist is respected as an honest skill kiter and underrated after her 2025 buffs. Hunters find the swarm annoying but fair, and teammates love the free pushes. She isn't flashy and never gets S-tier hype.",
+   "cn": "昆虫学者是口碑扎实的技术牵制位，2025年加强后仍被低估；监管觉得虫群烦但公平，队友喜欢免费推。不花哨，从没被吹成T0。"
   },
   "tips": {
    "en": [
@@ -5444,8 +5444,8 @@
    ]
   },
   "sentiment": {
-   "en": "Classic noob-trap/beginner-bait: feels oppressive in low tiers, frustrating and gimmicky in high tiers. Loved for personality/art, hated by hunters as uninteractive. Seen as overrated.",
-   "cn": "典型新手陷阱：低阶乱杀高阶刮痧；人设画风讨喜，监管嫌机制赖皮，普遍认为高估。"
+   "en": "Painter is a classic noob-trap and beginner-bait: oppressive in low tiers, frustrating and gimmicky in high tiers. Loved for his personality and art, he is hated by hunters as uninteractive and widely seen as overrated.",
+   "cn": "画家是典型新手陷阱：低阶压迫感强，高阶刮痧、机制花哨让人难受。人设画风讨喜，监管嫌不互动，普遍认为被高估。"
   },
   "tips": {
    "en": [
@@ -5633,8 +5633,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved by survivors, hated by hunters as one-ball superman; high-rank consensus: skillshot monster - either game-winning or useless. Widely seen as strong but fair after repeated nerfs.",
-   "cn": "求生最爱的一球超人，监管最恨的击退；高阶共识：上下限极大的瞄准怪，多次削弱后强度在线但合理。"
+   "en": "Batter is loved by survivors and hated by hunters as a one-ball superman. High-rank consensus calls him a skillshot monster who is either game-winning or useless, widely seen as strong but fair after repeated nerfs.",
+   "cn": "击球手是求生最爱的一球超人，监管最恨的角色；高阶共识是上下限极大的瞄准怪，要么带赢要么没用。多次削弱后仍被认为强但合理。"
   },
   "tips": {
    "en": [
@@ -5820,8 +5820,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected as high-IQ underrated premade pick, annoying for hunters when mastered; seen as noob-trap in solo where catapults wasted. Loved for fun flying, hated when bad placement feeds.",
-   "cn": "被视为高上限开黑宝藏角色，玩得好监管很烦；野排常被当混子陷阱，板车白放。会飞很欢乐，放错位置会被骂。"
+   "en": "Toy Merchant is respected as a high-IQ, underrated premade pick and annoying for hunters when mastered, but a solo noob-trap where catapults go to waste. Loved for fun flying, hated when bad placement feeds.",
+   "cn": "玩具商被视为高智商开黑宝藏，玩得好监管很烦；野排是陷阱，弹射板车常白给。会飞很快乐，放错位置会被骂送。"
   },
   "tips": {
    "en": [
@@ -6008,8 +6008,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved as beginner-friendly girlfriend healer and lore couple with Patient; hunters find three-lives stalling annoying. Vets call her overrated in high rank where heals get interrupted.",
-   "cn": "新手最爱，情侣党人气高，被叫三条命混子；监管嫌拖时间，高阶认为连线容易断偏高估，但加强位移后评价回暖。"
+   "en": "Psychologist is loved as a beginner-friendly girlfriend healer and lore couple with Patient. Hunters find her three-lives stalling annoying. Veterans call her overrated in high rank where heals get interrupted, though her mobility buff improved opinions.",
+   "cn": "心理学家是新手最爱的女友型奶妈，和病患情侣人气高，被叫三条命混子；监管嫌拖时间。高阶认为连线易断偏高估，但加强位移后评价回暖。"
   },
   "tips": {
    "en": [
@@ -6202,8 +6202,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved as fun Spiderman rescuer, cool highlights; seen as high-skill underrated after 2025 buffs but still noob-trap in low rank where hooks miss. Couple lore very popular.",
-   "cn": "人气欢乐蜘蛛侠，集锦帅但下限低；低阶钩不中就是白给，加强后高阶评价上升，仍不如佣兵稳定。嗑CP玩家最爱。"
+   "en": "The Patient is loved as a fun Spider-Man-style rescuer with cool highlights, and after 2025 buffs he's seen as an underrated high-skill pick, though still a noob trap in low ranks where hooks miss. His couple lore is very popular.",
+   "cn": "人气欢乐蜘蛛侠，集锦很帅但下限低。低阶钩不中就是白给，加强后高阶评价上升，仍不如佣兵稳定。嗑CP玩家最爱。"
   },
   "tips": {
    "en": [
@@ -6401,8 +6401,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected high-skill kiter, hated by hunters as trickster; casuals find him hard and feast-or-famine, pros rate as situational S counter rather than must-ban",
-   "cn": "高分局认可的高上限溜鬼位，屠夫眼中很恶心的戏耍角色；低分局觉得难玩两极分化，被视为对策卡而非必ban"
+   "en": "The Novelist is respected as a high-skill kiter and hated by hunters as a trickster. Casuals find him hard and feast-or-famine, while pros rate him a situational S-tier counter rather than a must-ban.",
+   "cn": "高分局认可的高上限溜鬼位，屠夫觉得他戏耍人很恶心。低分局觉得难玩、两极分化，定位是对策卡而非必ban。"
   },
   "tips": {
    "en": [
@@ -6590,8 +6590,8 @@
    ]
   },
   "sentiment": {
-   "en": "Divisive underrated support: premades love decode rush, solo players hate leech Little Girls who just attach and do nothing; seen as noob-trap without comms",
-   "cn": "口碑两极：开黑眼中速修神器，野排眼中混子代表，被调侃不是所有小女孩都是混子；无沟通就是陷阱"
+   "en": "Little Girl is a divisive, underrated support: premades love her decode rush, but solo players hate leech Little Girls who attach and do nothing. Without comms she's a noob trap.",
+   "cn": "口碑两极。开黑眼里是速修神器，野排眼里是混子代表，调侃说不是所有小女孩都混。没沟通就是陷阱。"
   },
   "tips": {
    "en": [
@@ -6773,8 +6773,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved casual fun pick, beginner-friendly rescuer; high-rank sees as selfish decoder and underrated stuntman, hunters find rocket juke annoying but punishable",
-   "cn": "娱乐局快乐车头，新手友好救人位；高分局嫌弃其修机慢，但会玩的炸晕很恶心，屠夫觉得烦但可针对"
+   "en": "Weeping Clown is a loved casual fun pick and beginner-friendly rescuer. High ranks see him as a selfish decoder and underrated stuntman, while hunters find his rocket juke annoying but punishable.",
+   "cn": "娱乐局快乐车头，新手友好救人位。高分局觉得他自私修机、特技被低估，会玩的炸晕很恶心，屠夫觉得烦但可针对。"
   },
   "tips": {
    "en": [
@@ -6957,8 +6957,8 @@
    ]
   },
   "sentiment": {
-   "en": "Niche underrated duelist: loved by timing-masters, seen as noob-trap by others; hunters find well-played Professor annoying but generally prefer chasing him over Antiquarian/Forward because baitable.",
-   "cn": "冷门上限党：会玩的很秀，不会的就是白给；监管者觉得高手教授恶心，但相比古董商/前锋更愿意追，博弈骗鳞收益高。"
+   "en": "Professor is a niche, underrated duelist loved by timing masters but seen as a noob trap by others. Hunters find a well-played Professor annoying, yet generally prefer chasing him over Antiquarian or Forward because he's baitable.",
+   "cn": "冷门被低估的单挑位，卡时机的高手很秀，其他人觉得是白给。屠夫觉得高手教授恶心，但相比古董商/前锋更愿意追他，骗鳞博弈收益高。"
   },
   "tips": {
    "en": [
@@ -7145,8 +7145,8 @@
    ]
   },
   "sentiment": {
-   "en": "Consensus top-tier and most hated by hunters; viewed as overpowered/annoying but respected - high ban priority in peak and tournaments, noob-unfriendly due to aim and durability management.",
-   "cn": "公认T0、高分段和比赛热门ban位，监管最恨的角色之一；强度在线但上限高下限低，新手箫容易空+秒没耐久。"
+   "en": "Antiquarian is consensus top-tier and one of hunters' most hated survivors, viewed as overpowered and annoying yet respected. She's a high ban priority in peak and tournaments, but noob-unfriendly due to aim and durability management.",
+   "cn": "公认T0，高分段和比赛热门ban位，也是屠夫最恨的角色之一。强度在线但上限高下限低，新手箫容易空、耐久秒没。"
   },
   "tips": {
    "en": [
@@ -7335,8 +7335,8 @@
    ]
   },
   "sentiment": {
-   "en": "Respected as boring-but-efficient rank climber; solo players love free wins by hiding, hunters tunnel him first; seen as selfish decoder that needs bodyguards, buffed 2026 kite potential still unproven.",
-   "cn": "又爱又恨的速修工具人：野排躲着修机上分爽，监管必首追；路人眼中偏自私，需队友保，2026加强牵制后评价回暖但仍非热门。"
+   "en": "Composer is respected as a boring but efficient rank climber. Solo players love free wins by hiding, hunters tunnel him first, and he's seen as a selfish decoder needing bodyguards. His 2026 kite buff remains unproven.",
+   "cn": "又爱又恨的速修工具人。野排躲着修机上分爽，屠夫必首追。路人觉得他偏自私、需要队友保，2026加强牵制后评价回暖但仍非热门。"
   },
   "tips": {
    "en": [
@@ -7523,8 +7523,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved by solo survivors as beginner rescue god and basement savior, hated by hunters as risk-free rescue; high tiers call her honest but exploitable and outclassed by Mercenary/Coordinator.",
-   "cn": "路人局眼中的无伤救人神、地下室之光，监管眼中的无风险恶心角色；高阶认为下限高上限中规中矩，稳定性不如佣兵大副。"
+   "en": "Journalist is loved by solo survivors as a beginner rescue god and basement savior, while hunters hate her risk-free rescues. High tiers call her honest but exploitable, outclassed by Mercenary and Coordinator.",
+   "cn": "路人局眼里的无伤救人神、地下室之光，屠夫眼里的无风险恶心角色。高阶觉得她下限高但上限中规中矩，稳定性不如佣兵、大副。"
   },
   "tips": {
    "en": [
@@ -7715,8 +7715,8 @@
    ]
   },
   "sentiment": {
-   "en": "Seen as fun high-skill solo kiter with Patient-like upside but less team value; community loves highlights, dislikes RNG direction and lag, consensus fell from S to solid A after distance nerf.",
-   "cn": "路人眼中好玩的高操作单排溜鬼位，上限对标病患但团队价值低；随机方向和后摇被吐槽，2024削距离后从T0掉到扎实A。"
+   "en": "Players see him as a fun, high-skill solo kiter with Patient-like potential but less team value. The community loves his highlights, dislikes the random direction and lag, and has dropped him from S to solid A since the distance nerf.",
+   "cn": "路人眼中好玩的高操作单排溜鬼位，上限对标病患但团队价值低。随机方向和后摇被吐槽，2024削距离后从T0掉到扎实A。"
   },
   "tips": {
    "en": [
@@ -7912,8 +7912,8 @@
    ]
   },
   "sentiment": {
-   "en": "Adored in voice premades as meta-defining support, loathed by hunters as second-life machine; solo players call her noob-trap and frustrating because value depends entirely on teammates using stacks.",
-   "cn": "开黑眼中的版本答案、前锋击球的最佳挂件，监管眼中的自起赖子；野排口碑两极分化，用不好就是混子陷阱。"
+   "en": "Voice premades adore her as a meta-defining support, while hunters loathe her as a second-life machine. Solo players call her a frustrating noob-trap, since her value depends entirely on teammates using stacks.",
+   "cn": "开黑队伍视她为版本答案，也是前锋和击球手的最佳挂件。监管者嫌她是自起赖子。野排口碑两极分化，用不好就是混子陷阱。"
   },
   "tips": {
    "en": [
@@ -8106,7 +8106,7 @@
    ]
   },
   "sentiment": {
-   "en": "Loved as honest noob-friendly tank and safe rescue bot; disliked by healer teammates. Seen as balanced-to-strong in rank, boring but reliable, not pro-meta after chair nerf.",
+   "en": "He is loved as an honest, noob-friendly tank and safe rescue bot, though healer teammates dislike him. Ranked players see him as balanced-to-strong, boring but reliable, and not pro-meta after the chair nerf.",
    "cn": "路人局口碑好的“肉盾救人位”，新手爱玩，医生系队友嫌弃。公认排位稳但不超模，2026椅旁削弱后比赛更少见。"
   },
   "tips": {
@@ -8296,7 +8296,7 @@
    ]
   },
   "sentiment": {
-   "en": "Seen as fun mid-tier trickster, underrated by casuals, respected by high-rank loopers. Not hated, but teammates complain when bags block themselves or decode stays slow.",
+   "en": "Players see him as a fun mid-tier trickster, underrated by casuals but respected by high-rank loopers. He isn't hated, though teammates complain when bags block them or decoding stays slow.",
    "cn": "路人觉得好玩但偏弱，高阶觉得封路很恶心。队友常吐槽气囊挡自己路、破译慢，整体中游有趣角色。"
   },
   "tips": {
@@ -8481,7 +8481,7 @@
    ]
   },
   "sentiment": {
-   "en": "Divisive noob-trap/underrated trickster. Casuals find her fun but throw by rescuing; high-rank mains love outplays. Broad consensus: weak decoder, needs rework, too punishing.",
+   "en": "She is a divisive noob-trap or underrated trickster: casuals enjoy her but throw by rescuing, while high-rank mains love her outplays. The broad consensus is that she is a weak decoder who needs a rework and is too punishing.",
    "cn": "争议大的“下水道欺诈位”，新手觉得好玩但救人坑队友，绝活哥能秀五台。主流评价：破译不赚、救人坐牢，呼吁重做。"
   },
   "tips": {
@@ -8670,8 +8670,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved by survivor solo-queue as noob-friendly rescuer, hated/annoying by hunter mains as guessing-game; consensus: strong but boring, slightly underrated after nerf, not ban-worthy",
-   "cn": "路人局喜欢：救人稳混子友好；屠夫嫌恶心：猜拳恶心人；共识是救人T0但修机下水道，削后不超模，不值得ban"
+   "en": "Solo-queue survivors love him as a noob-friendly rescuer, while hunter mains find his guessing-game annoying. The consensus is that he is strong but boring, slightly underrated after the nerf, and not ban-worthy.",
+   "cn": "路人局喜欢他，救人稳、混子友好。屠夫嫌他恶心，猜拳玩法烦人。共识是救人T0但修机下水道，削后不超模，不值得ban。"
   },
   "tips": {
    "en": [
@@ -8863,8 +8863,8 @@
    ]
   },
   "sentiment": {
-   "en": "Considered overtuned on release, now respected high-skill S-tier after nerfs; survivors love, hunters call annoying gust-spam; consensus: hard but worth mastering",
-   "cn": "刚出超模被骂，后连削仍是S级牵制+辅助；路人觉得帅但难，屠夫觉得风恶心；共识：难精但练出来大腿"
+   "en": "She was considered overtuned on release, but after nerfs is now a respected high-skill S-tier. Survivors love her, while hunters call her gust-spam annoying. The consensus is that she is hard but worth mastering.",
+   "cn": "刚出超模被骂，连削后仍是S级牵制+辅助。路人觉得帅但难，屠夫觉得风恶心。共识是难精但练出来大腿。"
   },
   "tips": {
    "en": [
@@ -9052,8 +9052,8 @@
    ]
   },
   "sentiment": {
-   "en": "Hyped as broken on release, now divisive skillshot: admired by high-rank shooters, called noob-trap in low ranks; hunters hate delayed-stun mindgame",
-   "cn": "刚出被吹最强，削后评价分化：高手眼中T1射手，新手空箭陷阱；屠夫嫌延迟晕恶心，共识上限高下限低"
+   "en": "She was hyped as broken on release, but is now a divisive skillshot: high-rank shooters admire her, while low ranks call her a noob-trap. Hunters hate the delayed-stun mindgame.",
+   "cn": "刚出被吹最强，削后评价分化：高手眼中T1射手，新手空箭陷阱。屠夫嫌延迟晕恶心，共识是上限高下限低。"
   },
   "tips": {
    "en": [
@@ -9242,8 +9242,8 @@
    ]
   },
   "sentiment": {
-   "en": "respected niche rescuer, not hated; low-rank find smoke confusing for both sides, high-rank call underrated anti-camp tech but decode tax holds back",
-   "cn": "偏门救援位，不招恨；低阶觉得烟雾弹双向致盲，高阶认可为针对守椅的奇招，但修机debuff拖累"
+   "en": "Escapologist is a respected niche rescuer who isn't hated. Low-rank players find the smoke confusing for both sides. High-rank players call it underrated anti-camping tech, though the decoding penalty holds him back.",
+   "cn": "作为偏门救援位不招恨。低阶认为烟雾弹双向致盲，高阶认可其针对守椅是奇招，但修机debuff拖累强度。"
   },
   "tips": {
    "en": [
@@ -9430,8 +9430,8 @@
    ]
   },
   "sentiment": {
-   "en": "loved by high-rank support mains, hated by hunters as time-freeze stall; seen as overrated in low-rank where mistimed cancels waste value, S-tier in coordinated play",
-   "cn": "高阶辅助心头好，监管嫌拖时间恶心；低阶因取消时机差被视为花瓶，开黑体系里公认S级"
+   "en": "High-rank support mains love Lanternist, while hunters hate the time-freeze stall. Low-rank players see the character as overrated because mistimed cancels waste value, but she is S-tier in coordinated play.",
+   "cn": "高阶辅助玩家喜爱，监管者嫌拖时间恶心。低阶因取消时机差视为花瓶，开黑体系中公认S级。"
   },
   "tips": {
    "en": [
@@ -9618,8 +9618,8 @@
    ]
   },
   "sentiment": {
-   "en": "universally loved by survivors, hated/banned by hunters; seen as slightly over-tuned SS, high-rank call skill-expressive, low-rank call brainless dash",
-   "cn": "求生万人迷，监管眼中必ban；高阶认为上限高吃角度，低阶觉得无脑冲，普遍承认超模"
+   "en": "Survivors universally love Matador, while hunters hate and ban him. He is seen as slightly over-tuned SS. High-rank players call him skill-expressive; low-rank players call him a brainless dash.",
+   "cn": "求生者普遍喜爱，监管者视为必ban。高阶认为上限高、吃角度，低阶觉得无脑冲，普遍承认超模。"
   },
   "tips": {
    "en": [
@@ -9805,8 +9805,8 @@
    ]
   },
   "sentiment": {
-   "en": "Loved design (elegant eerie silent-film) but divisive: high-ceiling trickster for kite mains, noob-trap for beginners due to steep curve.",
-   "cn": "颜值 lore 好评，强度争议：会玩是口袋板区魔术师，不会玩是白板+破译debuff，新手劝退。"
+   "en": "Mime Artist's elegant, eerie silent-film design is loved, but opinions split: a high-ceiling trickster for kite mains, a noob-trap for beginners due to the steep curve.",
+   "cn": "颜值与lore好评，强度有争议：会玩是口袋板区魔术师，不会玩是白板加破译debuff，新手劝退。"
   },
   "tips": {
    "en": [
@@ -9991,8 +9991,8 @@
    ]
   },
   "sentiment": {
-   "en": "Hype + skepticism: cute rat-companion trickster with suspected high ceiling, but theory-craft only; feared noob-trap if aim/map fails.",
-   "cn": "期待+观望：啮齿伙伴人设萌，共研评价偏高操作上限，但正式服反馈极少，恐成新JKLM式陷阱。"
+   "en": "Prodigy draws hype and skepticism: a cute rat-companion trickster with a suspected high ceiling, but only theory-craft so far. Players fear a noob-trap if aim or map knowledge fails.",
+   "cn": "期待与观望并存：啮齿伙伴人设萌，共研评价认为操作上限高，但正式服反馈极少，担心成为新手陷阱。"
   },
   "tips": {
    "en": [
