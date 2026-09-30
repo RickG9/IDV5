@@ -1,0 +1,971 @@
+[
+ {
+  "id": "puppeteer",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "Puppeteer",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1qccgfz/puppeteer/",
+    "engagement": "77 upvotes · 15 comments · top comment 60",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "OP says it is 'a severe waste' not to play him: after the Tide Turner buff he still gets 3-cipher kites with a strong rebound and 'might be the best survivor for solo queue and to rank up from low-mid tier'; the top comment jokes the balance team gave him more attention than his parents, while hunter mains note chip-damage hunters and his slow healing are his real counters.",
+     "cn": "楼主直言“不玩木偶等于浪费”：搏命加强后首追照样三台、二溜也稳，“可能是单排和低中阶上分最好的求生”；高赞调侃策划给他的关爱比他父母还多，监管玩家则指出多段伤害监管和摸人慢才是他的真正克星。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Coming back after years of not playing. (rank-advice comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/",
+    "engagement": "5 upvotes (comment) · thread 11 upvotes · 13 comments",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A ranked player's roster advice names 'gravekeeper and puppeteer' as the most broken rescuers right now, ahead of Knight.",
+     "cn": "一条排位推荐评论直接点名“目前最超模的救人位是守墓人和木偶师”，排在骑士之前。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "为什么监管靠近木偶师自动扣血了？",
+    "url": "https://www.bilibili.com/video/BV1K2Ka6XEnF",
+    "engagement": "31.3万播放 · 609评论 · top comment 3.5k likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A viral clip of a Puppeteer first kite after the April nerf; the top comment (3.5k likes) sarcastically ticks off 'kite time, baited skills, didn't drag the hunter to ciphers — a perfect kite', and the 1.1k-like reply mocks the 'Puppeteer is a freeloader, don't pick him in rank' stereotype.",
+     "cn": "四月削弱后的木偶一溜切片爆火；3.5k赞热评反讽“牵制时间✓吃出技能✓不带机子✓……非常完美的一溜”，1.1k赞回复阴阳“排位千万不要掏木偶师，木偶太混子了”，说明玩家普遍认可他很稳。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "评价一下木偶强度和给木偶师哭弱的人",
+    "url": "https://www.bilibili.com/video/BV1qhuezaE7B",
+    "engagement": "9.3万播放 · 774评论 · top comment 455 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "Top comments list his counters as fast-chip hunters, being unhealable and the heal debuff, but the #2 comment (212 likes) calls him 'the god of solo queue' who can rescue and kite with no decode penalty, and another notes his value drops the longer the match runs.",
+     "cn": "高赞总结克制点是“烧血快的、摸不了的、摸队友有debuff的”；第二高赞（212赞）称“木偶真的是单排的神，能救能溜还没有修机debuff”，也有人指出对局拖得越久他越弱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "木偶师迎来了削弱TvT",
+    "url": "https://www.bilibili.com/video/BV1EjdnBtEHm",
+    "engagement": "15.6万播放 · 43评论 · top comment 55 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Coverage of the April 2026 near-chair Louis nerf; the top comment marvels that even after being terror-shocked by a Gamekeeper hook he can pop Louis and eat a second shock and still get the rescue.",
+     "cn": "2026年4月椅旁路易削弱的实测视频；热评感叹“即使被鹿头钩子震慑了，开个路易再被震慑一次还能救下来”，削弱后救人仍然很稳。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】哈皮谈为什么园丁这个角色看似很强，但是高端局不常见。木偶师这个角色ban了不划算，但是不ban又很烦人。",
+    "url": "https://www.bilibili.com/video/BV158XLBYEz6",
+    "engagement": "4.5万播放 · 217评论",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Top caster Liang Hapi sums up the high-end view: Puppeteer isn't worth spending a ban on, yet leaving him open is genuinely annoying for hunters.",
+     "cn": "头部解说凉哈皮的高端局观点：木偶师“ban了不划算，但是不ban又很烦人”，对监管来说是很膈应的存在。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【A气】浅聊现版本气象困境与三小风，为什么玩气象学家的人越来越少了？",
+    "url": "https://www.bilibili.com/video/BV1Ygc3zuEaX",
+    "engagement": "4.8万播放 · 421评论 · comment 207 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "In a Meteorologist-focused video, a 207-like comment says her strength was 'blown out by Puppeteer' — more stable at kiting, rescuing and even endgame: 'if Meteorologist is a wheelchair, Puppeteer is a super-deluxe electric wheelchair'.",
+     "cn": "气象学家视频下207赞评论：“主要强度还是被木偶爆完了，纯搏牵制不如木偶稳定，救人不如木偶稳定……如果说气象是轮椅，木偶师就是超级无敌plus电动轮椅”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "s牌木偶师单排是怎么上分的，你看了也能酷酷上分，结尾彩蛋活动在音符",
+    "url": "https://www.bilibili.com/video/BV1TToeYxEhM",
+    "engagement": "11.7万播放 · 319评论 · top comment 930 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "An S-badge Puppeteer's solo-queue climbing series is one of the most-watched Puppeteer guides; commenters discuss whether he should still bring Tide Turner since many hunters first-chase him.",
+     "cn": "S牌木偶单排上分系列是播放最高的木偶教学之一；评论区讨论没有救人位时木偶要不要补搏命，因为“蛮多监管开局追木偶的”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【卡梦】“陈明明”拯救了狼队！配配开局秒杀三叶木偶师，小明“人皇”走位硬拖喧嚣一分钟！",
+    "url": "https://www.bilibili.com/video/BV1hgTy6fEn8",
+    "engagement": "7541播放 · 9评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "2026 IVL Summer clip: Wolves' player Sanye brings Puppeteer (one of several post-nerf pro Puppeteer picks, alongside GR's Kongtiao and others), showing he still sees tournament play after the April nerf.",
+     "cn": "2026 IVL夏季赛切片：狼队三叶选用木偶师，与GR空调、玉琳等选手的木偶一样，说明削弱后他仍在职业赛场有稳定出场。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】空调木偶师稳定溜鬼，磁铁ouo古董商开门战关键牵制，配配跛脚羊根本找不到突破口。",
+    "url": "https://www.bilibili.com/video/BV1hCK36NE44",
+    "engagement": "1820播放 · 4评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Liang Hapi's IVL commentary highlights GR's Puppeteer kiting steadily against Goatman, another post-nerf pro Puppeteer appearance.",
+     "cn": "凉哈皮IVL解说：GR空调木偶师“稳定溜鬼”，跛脚羊找不到突破口，又一例削弱后的职业木偶出场。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Puppeteer is Identity V on Easy Mode",
+    "url": "https://www.youtube.com/watch?v=93VhqNm7KLE",
+    "engagement": "24k views · top comment 209 likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "DukO's release-week verdict is that Puppeteer makes the game 'easy mode'; top comments call him 'so strong', especially with Psychologist or Barmaid support, while one says he's balanced in ranked but meta in Duo Hunters.",
+     "cn": "DukO首发评测称木偶师让游戏变成“简单模式”；热评说他“强得离谱”，配心理学家或调酒师更强，也有人认为排位里还算平衡、联合狩猎里才超模。"
+    }
+   }
+  ],
+  "agrees": [
+   "Very high forgiveness / low skill floor: EN and CN players call him 'easy mode' and the solo-queue god for low-to-mid ranks.",
+   "Survivability 9 and kite 8: players report routine 3-cipher first kites plus strong rebounds after rescue.",
+   "Rescue 9: Louis still lets him tank Terror Shock (even a second one) after the April 2026 near-chair nerf.",
+   "Weaknesses confirmed: cannot be healed by teammates, slow/debuffed healing, and countered by fast chip/multi-hit hunters.",
+   "Synergy with Psychologist/Barmaid-style healers and Forward is echoed in community comments."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 3.0,
+    "to": 4.0,
+    "why": "Several popular 2026 sources treat him as a top-tier ranked rescuer rather than a balanced mid pick: a 77-upvote Reddit thread says he is 'still not nerfed' and maybe the best solo-queue survivor, an April 2026 rank-advice comment calls Gravekeeper and Puppeteer the most broken rescuers, a 207-like Bilibili comment rates him above Meteorologist, and Liang Hapi says leaving him unbanned is annoying. The April 2026 nerf only touches Louis near the chair, and a July 2026 clip (31万 views) still shows the community treating him as a reliable kiter.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1qccgfz/puppeteer/",
+     "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/",
+     "https://www.bilibili.com/video/BV1Ygc3zuEaX",
+     "https://www.bilibili.com/video/BV158XLBYEz6",
+     "https://www.bilibili.com/video/BV1K2Ka6XEnF"
+    ]
+   },
+   {
+    "field": "meta.pro",
+    "from": 2.0,
+    "to": 3.0,
+    "why": "He appears regularly in IVL rather than as a rare niche pick: multiple teams (Wolves, GR and others) fielded Puppeteer in 2026 IVL Summer after the April nerf, and Liang Hapi frames him as a character hunters must think about banning.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1hgTy6fEn8",
+     "https://www.bilibili.com/video/BV1hCK36NE44",
+     "https://www.bilibili.com/video/BV158XLBYEz6"
+    ]
+   },
+   {
+    "field": "queue.solo",
+    "from": 4.0,
+    "to": 5.0,
+    "why": "Solo-queue value is the most repeated praise across platforms: the Reddit thread calls him possibly the best survivor for solo queue, a 212-like Bilibili comment calls him 'the god of solo queue', and an S-badge solo-climb series is among the most-watched Puppeteer guides.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1qccgfz/puppeteer/",
+     "https://www.bilibili.com/video/BV1qhuezaE7B",
+     "https://www.bilibili.com/video/BV1TToeYxEhM"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Puppeteer is widely seen as one of the safest and most forgiving picks in the game: players call him a solo-queue god who can kite three ciphers and still rescue through Terror Shock, and even after the April 2026 chair nerf many rate him above flashier kiters like Meteorologist. The main gripes are that he can't be healed, heals others slowly and folds to fast chip-damage hunters, while the old 'Puppeteer is a freeloader' stereotype is now mostly something the community mocks.",
+   "cn": "木偶师在玩家眼里是全游戏最稳、最宽容的“电动轮椅”之一，单排能溜能救，开路易硬吃震慑也能把人救下，四月椅旁削弱后仍被不少人认为比气象更稳。主要槽点是不能被队友治疗、摸人慢，怕烧血快的多段伤害监管，而“木偶都是混子”的老印象如今反倒常被评论区拿来调侃。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "fire-investigator",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "Why do pro players play fire investigator??",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vgt1o9/why_do_pro_players_play_fire_investigator/",
+    "engagement": "9 upvotes · 14 comments · top comment 24",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Players explain that pros pick him in COA for consistency and specific counters (he can block Ivy's leech and handles Opera), and that he 'shoots up like 3 tiers' with 4-man voice comms but is subpar or even a hindrance with randoms.",
+     "cn": "玩家解释职业选手在COA选火调是看重稳定性和针对性（能克制艾薇吸取、打歌剧也有办法），并直言“四黑语音时他能连升三个档次，和路人排则一般甚至帮倒忙”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Any tips for Fire Investigator?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1q87hez/any_tips_for_fire_investigator/",
+    "engagement": "7 upvotes · 6 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The top reply calls Florian a versatile survivor with good enough kiting to run Tide Turner, but recommends playing him as a kiter/assist rather than a rescuer.",
+     "cn": "高赞回复称火调是很全面的角色，牵制能力足够带搏命，但更推荐当牵制/辅助位而不是救人位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】谈论角色强度，最应该避免的一种思维。火男这么强，当初为什么有人说他弱？",
+    "url": "https://www.bilibili.com/video/BV1bqUYYqEDj",
+    "engagement": "6.2万播放 · 186评论 · top comment 609 likes",
+    "date": "2024-11",
+    "takeaway": {
+     "en": "Liang Hapi argues he was underrated at launch; the top comment (609 likes) says he now fits the meta against Geisha, Disciple and Ivy with mature anti-Opera play, and another (312 likes) says his instant mobility makes him valuable in competition, with broader use than Puppeteer.",
+     "cn": "凉哈皮认为火男上线时被低估；609赞热评称他已完全适配版本，打红蝶、使徒、艾薇都有优势，打歌剧也有成熟打法；312赞评论认为他瞬发位移在比赛里很受用，“就业面比木偶更强”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "火灾调查员：我没强度会上比赛ban位？回答我！",
+    "url": "https://www.bilibili.com/video/BV1rooaYVE7m",
+    "engagement": "9.6万播放 · 123评论 · top comment 474 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Despite the meme title, top comments are self-deprecating: 'I'm a 牢火 player and have never seen anyone ban him or fight me for him' (474 likes), and 'hunters just pop my airbag and I'm a blank slate' (281), though others say he reliably holds ~60s.",
+     "cn": "标题玩梗，热评却很自嘲：“我是牢火玩家，没见过禁牢火和跟我抢牢火的”（474赞）、“一放气囊监管就打掉秒变白板”（281赞），也有人认为“强度正常，保底60秒”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【S火】全网最详细火灾调查员教学视频 成为超模火男 让全世界为之颤抖🔥🔥🔥",
+    "url": "https://www.bilibili.com/video/BV1Cuj8z2EJM",
+    "engagement": "25.8万播放 · 491评论 · top comment 758 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The most-watched S-badge tutorial; the top comment (758 likes) sums up the community view: 'Fire Investigator is actually strong, but very few people play him.'",
+     "cn": "播放最高的S火教学；758赞热评一句话概括社区看法：“火灾其实很强的，但是玩的人真的不多”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "希望不玩牢火的家人们也学会气囊用法，不要去冤枉别人",
+    "url": "https://www.bilibili.com/video/BV1KPtxe5EXw",
+    "engagement": "24.3万播放 · 499评论 · top comment 1.6k likes",
+    "date": "2024-09",
+    "takeaway": {
+     "en": "Top comments (1.5k+ likes) say he is so niche that teammates don't understand the airbags and flame him after matches, even though well-placed bags actually support the team.",
+     "cn": "热评（1.5k+赞）说火灾太冷门，队友看不懂大气囊，赛后还骂人，其实很多气囊放得相当有辅助价值。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "深渊的呼唤9火灾调查员太弱需要加强合集",
+    "url": "https://www.bilibili.com/video/BV1RM9CB5EHx",
+    "engagement": "1.8万播放 · 58评论 · top comment 491 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A COA IX-era compilation built around the line 'Fire Investigator is too weak and needs a buff'; commenters joke they can guess which pro submitted it to the dev Q&A, suggesting at least some pros still consider him underpowered in 2026.",
+     "cn": "深渊9期间以“火灾调查员太弱需要加强”为主题的合集，评论区调侃“一秒猜出是哪位职业大神填的卧谈会”，可见2026年仍有职业选手认为他偏弱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全明星OB】捏捏红蝶30s秒杀赤红火灾 出其不意摧枯拉朽四杀mrc人队！",
+    "url": "https://www.bilibili.com/video/BV1aB8z6yEdU",
+    "engagement": "5万播放 · 145评论 · comment 436 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "2026 IVL clip where MRC's Fire Investigator is quickly downed; a 436-like comment defends the ban/pick call by calling him 'a cold character they hadn't played in a year', confirming he is an occasional pro surprise pick.",
+     "cn": "2026 IVL切片，MRC赤红火灾30秒被秒；436赞评论称“谁会在bo2防一手人家一年没打的冷门角色”，说明他在职业赛场只是偶尔的奇招。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing Fire Investigator...",
+    "url": "https://www.youtube.com/watch?v=fZ2CWn_fvnQ",
+    "engagement": "35k views · top comment 410 likes",
+    "date": "2024-05",
+    "takeaway": {
+     "en": "Zeez's launch playthrough; a popular comment jokes that 'even though he does pretty much nothing useful, at least he looks cool doing it', reflecting his early 'weak but fun' reputation in the EN community.",
+     "cn": "Zeez的首发试玩；热门评论调侃“虽然他基本没啥用，但至少帅”，反映英文社区早期“弱但好玩”的印象。"
+    }
+   },
+   {
+    "platform": "Other",
+    "title": "2026年7月2日更新公告 (BWIKI)",
+    "url": "https://wiki.biligame.com/dwrg/2026%E5%B9%B47%E6%9C%882%E6%97%A5%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Live patch QoL: when he carries 0 airbags, the airbag slot can be swapped for another handheld item, and inflating airbags no longer shoves survivors — addressing the long-standing 'bags block teammates' complaint.",
+     "cn": "正式服更新：自身气囊数为0时充气气囊可替换为其他手持物，气囊膨胀不再推开求生者，回应了“气囊挡队友”的老槽点。"
+    }
+   }
+  ],
+  "agrees": [
+   "Decode 4: players repeatedly cite slow decoding as a drawback.",
+   "Premade 4 > solo 3 and teamDependency 7: he 'shoots up 3 tiers' with voice comms but is underwhelming with randoms.",
+   "Weakness confirmed: hunters simply destroy the airbag and he becomes a 'blank slate'.",
+   "Support 7: described as a rare 'passive support' who leaves airbags for teammates; good vs Ivy/Opera in pro counter-picks.",
+   "NOTE: 2026-07-02 live patch (airbag slot swappable at 0 bags; inflation no longer pushes survivors) is newer than the 'No 2025-26 changes' line in meta.changes."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 4.0,
+    "to": 3.0,
+    "why": "High-rank solo play is described as niche rather than strong: popular CN videos have players joking nobody bans or contests '牢火' and that he is 'strong but few people play him', a 2026 COA IX-era compilation suggests pros still consider him too weak and in need of a buff, and EN players say his value collapses without voice comms. His pro value comes from coordinated counter-picks, not high-rank ranked strength.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1rooaYVE7m",
+     "https://www.bilibili.com/video/BV1Cuj8z2EJM",
+     "https://www.bilibili.com/video/BV1RM9CB5EHx",
+     "https://www.reddit.com/r/IdentityV/comments/1vgt1o9/why_do_pro_players_play_fire_investigator/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Fire Investigator is regarded as a fun but niche 'passive support' whose airbags shine with voice comms and as a pro counter-pick against hunters like Ivy or Opera, yet often feel underwhelming with random teammates who don't understand them. Solo players jokingly call him '牢火' ('jailbird Fire') and complain that hunters just pop his bags, while dedicated mains insist he is stronger than his tiny pick rate suggests.",
+   "cn": "火灾调查员被看作好玩但小众的“被动辅助”，四黑语音或比赛里针对艾薇、歌剧时价值很高，路人局里却常因队友看不懂气囊而发挥有限。单排玩家自嘲“牢火”，吐槽气囊一放就被监管打掉，但懂的人坚持他“其实很强，只是玩的人少”。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "faro-lady",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "Whenever I see a Faro load up I get a dreaded feeling",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1mckhqv/whenever_i_see_a_faro_load_up_i_get_a_dreaded/",
+    "engagement": "329 upvotes · 14 comments · top comment 61",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "Survivor mains dread random Faros who drain near-finished ciphers from across the map, while a Faro main replies that her kit is really built for kiting more than decoding and pairs best with Prisoner.",
+     "cn": "求生玩家吐槽路人法罗隔着半张图把快修好的电机偷光；法罗玩家回应她的技能本质更适合牵制而非修机，和囚徒搭配最好。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "DON'T RESCUE AS FARO LADY",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1jasg9g/dont_rescue_as_faro_lady/",
+    "engagement": "248 upvotes · 30 comments",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "A viral rant about a Faro rescuing and giving an instant down; Faro players agree they only rescue under peer pressure and would rather find the dungeon than rescue with her 60% slower speed.",
+     "cn": "爆火吐槽帖：法罗救人导致秒倒；法罗玩家纷纷认同自己只是被队友逼着去救，宁可找地窖也不愿用慢60%的救人速度去救。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Is Faro Lady really as bad as everyone says?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1t2h9v9/is_faro_lady_really_as_bad_as_everyone_says/",
+    "engagement": "28 upvotes · 49 comments · top comment 40",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Top replies say her bad reputation is 'user error': she has one of the best built-in kiting kits, is 'honestly underrated', and recent ranked Faros have been 'godsends' — as long as she doesn't leech ciphers others are working on.",
+     "cn": "高赞回复认为她的差评多是“玩家问题”：自带牵制能力顶尖，“其实被低估了”，最近排位遇到的法罗都是“神队友”，前提是别去偷别人正在修的机。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Am I the only one who finds faro lady annoying?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1v7mjut/am_i_the_only_one_who_finds_faro_lady_annoying/",
+    "engagement": "38 upvotes · 27 comments · top comment 29",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A Geisha main can't catch her despite 'she's weak' posts; replies say muted footsteps make chases a guessing game, one calls her 'top of A tier and 2nd best decoder behind Mech', others call her non-interactive — though AoE hunters like Guard 26, Jack, Queen Bee and Wax handle her.",
+     "cn": "红蝶玩家抱怨明明都说法罗弱却怎么也抓不到；回复称脚步静音后追她全靠猜，有人评价她“A档顶端、仅次于机械师的第二修机位”，也有人嫌她缺乏互动，但26号守卫、杰克、女王蜂、蜡像师等范围伤害监管能处理她。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Coming back after years of not playing. (rank-advice comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/",
+    "engagement": "5 upvotes (comment) · thread 11 upvotes · 13 comments",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A ranked player says the best decoders are still Prisoner and Mechanic, 'but I'm seeing fairly good Faro Ladies lately and she's pretty fun to play'.",
+     "cn": "排位玩家表示最强修机位仍是囚徒和机械师，“但最近遇到的法罗都挺不错，而且很好玩”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "法罗女士：姐只是出场率低，不是强度低",
+    "url": "https://www.bilibili.com/video/BV157mcB2EdX",
+    "engagement": "13.2万播放 · 483评论 · top comment 560 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The top comment (560 likes) says her strength is genuinely not low — a decoder who is 'half a kiter' with top-tier self-protection among decoders — while the next ones (430/219 likes) stress that rescue is her only real weakness and a running meme.",
+     "cn": "560赞热评认为“法罗强度还真不低”，是修机位里自保非常强、能当半个牵制位的角色；430赞和219赞评论则强调她弱在救人，“我不救人”已成刻板印象梗。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "法罗全面加强！渔女加强但地下室削弱！【角色调整简评】",
+    "url": "https://www.bilibili.com/video/BV1CcTVzyEih",
+    "engagement": "8万播放 · 1003评论 · comment 420 likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "Under Ban En Bu Gou's July 2025 buff review, hunter-side comments say her kit looks weak on paper but she feels 'really uncomfortable' to chase: 'every time I chase her I get hard-controlled for tens of seconds and can't find her'.",
+     "cn": "班恩不勾对2025年7月加强的简评下，监管视角热评说“看技能感觉不是很强，但抓的时候总感觉很难受”“每次我去抓她都被硬控几十秒找不到人”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格】加强后的法罗怎么玩？法罗女士保姆级超详细教程",
+    "url": "https://www.bilibili.com/video/BV1WL3ZzmEMj",
+    "engagement": "17.2万播放 · 281评论 · top comment 338 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "Post-buff tutorial; top comments explain that her cipher-steal only pays off with team awareness, and a 332-like comment names Nightmare as a hard counter because the crows keep marking her even while cloaked.",
+     "cn": "加强后保姆级教程；热评解释偷机收益高度依赖队友意识，另一条332赞评论称“噩梦太克了”，隐身时头上乌鸦照样暴露位置。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "……算了，有人救就不错了",
+    "url": "https://www.bilibili.com/video/BV1cdKezvERA",
+    "engagement": "66.5万播放 · 753评论 · top comment 9.7k likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A viral clip of a Faro forced into an instant rescue; the 9.7k-like top comment defends her for decoding two ciphers, rescuing and opening the gate, while the 4k-like replies admit her rescue speed makes the play shaky.",
+     "cn": "法罗被迫秒救的爆火切片；9.7k赞热评替她辩护：修了两台、救了人还开了门，忙了一整局；4k赞回复也承认以法罗的救人速度这波确实难。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【联合求生】两万字长文稿分析全角色联合强度（26年5月10日版强度）",
+    "url": "https://www.bilibili.com/video/BV16Q5s6yECo",
+    "engagement": "2.9万播放 · 327评论 · comment 90 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A May 2026 Duo Hunters tier breakdown; a popular comment places Faro Lady at T0.5 as the strongest decoder in Duo Hunters mode.",
+     "cn": "2026年5月联合狩猎全角色强度分析；高赞评论把法罗列为T0.5、“联合最强修机位”。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "1st CN Faro Lady Can Kite Any Hunter After Buff?",
+    "url": "https://www.youtube.com/watch?v=TjgZDnzXxvw",
+    "engagement": "2.5k views · top comment 16 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Kuroshiro showcases the #1 CN Faro after the buff kiting varied hunters; the top viewer comment says she 'might not be too good for some people but she's absolutely good for solo ranker'.",
+     "cn": "Kuroshiro展示国服第一法罗加强后溜各类监管；热评称她“也许不适合所有人，但对单排玩家绝对好用”。"
+    }
+   }
+  ],
+  "agrees": [
+   "Rescue 2 and the 'never rescue' tip: the 60% slower rescue is the single most repeated complaint and meme on both Reddit and Bilibili.",
+   "Low comms demand / self-sufficiency: players call her a strong solo-ranker pick that needs no coordination.",
+   "Cipher-leech controversy confirmed: teammates hate Faros who drain high-progress ciphers; value depends on team awareness.",
+   "Bad matchups vs AoE/tracking hunters (Guard 26, Jack, Queen Bee, Wax) are echoed. NOTE: several players name Nightmare as a hard counter (crows mark her while cloaked), which contradicts the current 'good vs Nightmare' matchup."
+  ],
+  "changes": [
+   {
+    "field": "kite",
+    "from": 6.0,
+    "to": 7.0,
+    "why": "Across platforms players describe her kit as better for kiting than decoding: Reddit calls it 'one of the best built-in kiting abilities', a 13万-view Bilibili video's top comment calls her 'half a kiter' with top-tier self-protection, and hunters on both Reddit and Bilibili say muted footsteps plus cloak make her a guessing game that can hold them for tens of seconds.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1t2h9v9/is_faro_lady_really_as_bad_as_everyone_says/",
+     "https://www.reddit.com/r/IdentityV/comments/1mckhqv/whenever_i_see_a_faro_load_up_i_get_a_dreaded/",
+     "https://www.reddit.com/r/IdentityV/comments/1v7mjut/am_i_the_only_one_who_finds_faro_lady_annoying/",
+     "https://www.bilibili.com/video/BV157mcB2EdX",
+     "https://www.bilibili.com/video/BV1CcTVzyEih"
+    ]
+   },
+   {
+    "field": "meta.mid",
+    "from": 2.0,
+    "to": 3.0,
+    "why": "Since the July 2025 buff the consensus has moved from 'noob trap' to 'underrated': 2026 Reddit threads call ranked Faros 'godsends' and her 'top of A tier', a 2026 rank-advice comment reports fairly good Faros lately, and a popular Bilibili video argues her problem is pick rate, not strength.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1t2h9v9/is_faro_lady_really_as_bad_as_everyone_says/",
+     "https://www.reddit.com/r/IdentityV/comments/1v7mjut/am_i_the_only_one_who_finds_faro_lady_annoying/",
+     "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/",
+     "https://www.bilibili.com/video/BV157mcB2EdX"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Faro Lady's reputation has shifted since her July 2025 buffs: many players now call her underrated, a slippery, self-sufficient kiter-decoder that hunters find genuinely annoying to chase, even if her 'decoder' label still sparks arguments. Her 60%-slower rescue and cipher-draining habits remain running jokes, so teammates love a Faro who kites and decodes but groan at one who leeches primed ciphers or stumbles into a chair rescue.",
+   "cn": "七月加强后法罗的风评明显回暖，不少人认为她“只是出场率低，不是强度低”，是自保很强、能当半个牵制位的修机位，监管普遍觉得她隐身后难找又难抓。不过救人慢60%依然是全服名梗，偷高进度电机也常被吐槽，会溜会修的法罗是宝，乱偷乱救的法罗就是雷。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "knight",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "曾经非ban必选，如今IVL登场不到5次浅谈骑士强度",
+    "url": "https://www.bilibili.com/video/BV1Ko6uBqE4n",
+    "engagement": "9.2万播放 · 1013评论 · top comment 1.4k likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Once a must-ban, Knight appeared fewer than 5 times in IVL; the top comment (1.4k likes) says his 20% decode penalty is now too heavy for his nerfed kit, and a 565-like comment blames Journalist's safer rescue, poor self-protection vs camping hunters, and general survivor buffs that let kiters rescue too.",
+     "cn": "曾经“非ban必选”，如今IVL登场不到5次；1.4k赞热评称“20%减速真的太多了，被削后已经配不上”，565赞长评总结三点：记者救人更无敌、骑士自保差还被守尸屠克、版本加强让普通牵制位也能救人。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "哪些角色的强度有明显掉档？【茶余饭后】",
+    "url": "https://www.bilibili.com/video/BV1HBDKBEEv5",
+    "engagement": "16.5万播放 · 1136评论 · comment 713 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "In Ban En Bu Gou's 'who fell off' episode, a 713-like comment says Knight dropped the most — from no-damage two-hit rescues to 'the rescuer with the weakest early self-protection', with the biggest decode penalty and weakest team support; the top comment (804) notes many casual players still think he's overpowered.",
+     "cn": "班恩不勾“强度掉档”一期中，713赞评论称“骑士掉档最严重，从手法两普攻无伤救变成开局自保最弱救人位，减速最多同时辅助队友作用最差”；804赞热评则说“其实现在觉得骑士超模的人还不少”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "骑士强度拉完了",
+    "url": "https://www.bilibili.com/video/BV1sf596YEZP",
+    "engagement": "12.3万播放 · 579评论 · top comment 594 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Top comments ask to restore the 15% decode penalty and argue he is a 'team weak point': slow decoding, weak self-protection, few helmets and blank in endgame — 'you're better off playing Gravekeeper, First Officer or Journalist'.",
+     "cn": "热评呼吁“把15减速还回来”，并认为他修机慢、自保弱、怕拦截、道具少、开门战白板，“纯纯团队突破口，不如去玩守墓大副记者”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "作曲家&骑士加强！勘探医生斗牛削弱！【求生调整简评2】",
+    "url": "https://www.bilibili.com/video/BV1h5726cEEq",
+    "engagement": "7.7万播放 · 934评论 · comment 146 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "On the 2026 post-rescue decode buff, a popular comment says it 'still doesn't fix the root problem — the helmet is still a gamble' and asks for the decode penalty itself to drop to 10–15%.",
+     "cn": "关于2026年救人后修机加速的加强，146赞评论称“依旧没有改根本问题，头盔赌狗还是赌狗”，希望直接把修机减速改成10%或15%。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "骑士加强了！真的假的？",
+    "url": "https://www.bilibili.com/video/BV1aHjy69Ez2",
+    "engagement": "7.7万播放 · 101评论 · top comment 333 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Top comments mock the buff: 'why give a rescuer a decode boost?' (333 likes) and 'what is this buff even for?' (266).",
+     "cn": "热评嘲讽这次加强：“为什么要给救人位修机加速😱”（333赞）、“骑士这个加强到底有什么用”（266赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五人格骑士教程",
+    "url": "https://www.bilibili.com/video/BV1fPoyYMEh8",
+    "engagement": "92.3万播放 · 201评论 · top comment 727 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "The most-watched Knight tutorial; the top comment jokes 'I only see technique, not a shred of strength — we Knight players go against the meta', while others ask about Tide Turner Knight and being terror-shocked during a Wi-Fi rescue.",
+     "cn": "播放最高的骑士教程；727赞热评调侃“我只看到了手法，没有看到一点强度！我们骑士玩家都是逆版本而行者”，其他热评讨论搏命骑士和远程救人被震慑怎么办。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "knight final talents?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1r2d94p/knight_final_talents/",
+    "engagement": "59 upvotes · 20 comments · top comment 28",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "EN mains insist he should always run Tide Turner and save the Wi-Fi rescue for the second rescue; one argues he's 'one of the best rescues because of his double tide', while others admit his decode debuff hurts if the kiter is short.",
+     "cn": "外服骑士玩家强调必须带搏命、首救别用远程救，有人认为他凭“双搏命”是最好的救人位之一，也有人承认一溜不够长时修机减速很拖后腿。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Coming back after years of not playing. (rank-advice comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/",
+    "engagement": "5 upvotes (comment) · thread 11 upvotes · 13 comments",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A ranked player says friends prefer Knight because he's fun, but 'you'll find yourself get chased more often than other rescuers'; still a solid rescuer who gets banned a lot.",
+     "cn": "排位玩家表示朋友们都爱玩骑士因为好玩，但“你会比其他救人位更容易被首追”，不过仍是可靠救人位，而且经常被禁。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "This is why Knight is Top Banned Survivor - #identityv",
+    "url": "https://www.youtube.com/watch?v=AupRzk8vjPQ",
+    "engagement": "5.9k views",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Nubspector's ranked gameplay argues Knight is still a top-banned survivor on global servers; a commenter notes he is 'really dumb and a win-win' against hunters locked into one option (Jack, Naiad) and a 50/50 otherwise.",
+     "cn": "Nubspector的排位视频认为骑士在外服仍是高禁用求生；评论指出面对只能出单一手段的监管（杰克、渔女）他“无脑又双赢”，其他监管则是五五开。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Can Knight COUNTER All Hunters?!",
+    "url": "https://www.youtube.com/watch?v=tU2wMYrrqT4",
+    "engagement": "21.9k views · top comment 204 likes",
+    "date": "2024-10",
+    "takeaway": {
+     "en": "Kuroshiro tests Knight vs every hunter; top comments call him a perfect Naiad counter and say 'he's not as OP as people thought but he is NOT weak' — a time-waster who can also harass.",
+     "cn": "Kuroshiro测试骑士对全监管；热评称他是渔女的完美克星，“没有大家想的那么超模，但绝对不弱”，既能拖时间也能干扰。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The Definitive Knight Guide | Identity V",
+    "url": "https://www.youtube.com/watch?v=zlSD-2HIm7g",
+    "engagement": "19.4k views · top comment 96 likes",
+    "date": "2024-11",
+    "takeaway": {
+     "en": "Fred-Bread's guide; the top comment says hunters like Percy and Clown can trigger their abilities from outside his range and 'give him a good pummeling', and players struggle when hunters simply wait out the helmet.",
+     "cn": "Fred-Bread的骑士攻略；热评指出Percy、小丑这类能在骑士范围外放技能的监管会“暴打”他，玩家也反映监管直接等头盔结束很难处理。"
+    }
+   },
+   {
+    "platform": "Other",
+    "title": "2026年7月2日更新公告 (BWIKI)",
+    "url": "https://wiki.biligame.com/dwrg/2026%E5%B9%B47%E6%9C%882%E6%97%A5%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Live patch: Honorable Resonance gains a new effect — after each successful rescue Knight's own decode speed rises 10%, up to 20% — the buff players widely called insufficient.",
+     "cn": "正式服更新：外在特质荣誉共鸣新增“成功救援队友后自身破译速度提升10%，最多提升20%”，即玩家普遍认为不痛不痒的那次加强。"
+    }
+   }
+  ],
+  "agrees": [
+   "Rescue 10 and Wi-Fi/double-Tide rescue value: EN mains still call him one of the best rescuers when played with Tide Turner.",
+   "Decode 3: the 20% decode penalty is the #1 complaint in every popular CN thread.",
+   "High timing/gameSense demands: the helmet is described as a 'gamble' and 'Mind Games the character'.",
+   "Matchups: strong vs single-option hunters (Naiad, Jack); weak vs hunters who act from range or wait out the helmet.",
+   "Solo 4: still popular in casual/ranked play and frequently banned on global servers.",
+   "NOTE: 2026-07-02 live buff (post-rescue decode +10%, max +20%) is newer than the Feb 2025 entry in meta.changes."
+  ],
+  "changes": [
+   {
+    "field": "survivability",
+    "from": 7.0,
+    "to": 5.0,
+    "why": "Three popular 2026 CN videos independently describe him as the rescuer with the weakest self-protection: 'the weakest early self-protection of any rescuer' (713 likes), 'self-protection is really poor and many camping hunters counter him' (565 likes), and 'weak self-protection, scared of interception, can only run on foot' (175 likes); an EN ranked comment adds that he gets chased more than other rescuers.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1HBDKBEEv5",
+     "https://www.bilibili.com/video/BV1Ko6uBqE4n",
+     "https://www.bilibili.com/video/BV1sf596YEZP",
+     "https://www.reddit.com/r/IdentityV/comments/1sf0zx9/coming_back_after_years_of_not_playing/oeu09wl/"
+    ]
+   },
+   {
+    "field": "meta.pro",
+    "from": 3.0,
+    "to": 2.0,
+    "why": "CN coverage says the former must-ban appeared fewer than 5 times in IVL, and 2026 videos call him the character who fell off the most ('强度拉完了'), with the July 2026 buff widely judged as not addressing his problems.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1Ko6uBqE4n",
+     "https://www.bilibili.com/video/BV1HBDKBEEv5",
+     "https://www.bilibili.com/video/BV1sf596YEZP",
+     "https://www.bilibili.com/video/BV1h5726cEEq"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "On the Chinese side, Knight has gone from must-ban to 'forgotten': players say his 20% decode penalty and weak self-protection no longer match his rescue value now that Journalist and buffed all-rounders rescue just as safely, and the July 2026 post-rescue decode buff was widely mocked as missing the point. English-speaking players are kinder, still calling him a fun, solid double-Tide rescuer who hard-counters single-option hunters like Naiad and gets banned fairly often in ranked.",
+   "cn": "骑士在国服从“非ban必选”跌到“被遗忘的盆栽”，玩家普遍认为20%修机减速配不上现在的救人收益，开局自保还是救人位里最弱的，记者等角色救得一样稳。2026年7月救人后修机加速的加强被吐槽“没改根本问题，头盔还是赌狗”，不过外服玩家仍觉得他好玩、猜拳能克制渔女这类技能单一的监管，排位里也常被禁。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "meteorologist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "【A气】浅聊现版本气象困境与三小风，为什么玩气象学家的人越来越少了？",
+    "url": "https://www.bilibili.com/video/BV1Ygc3zuEaX",
+    "engagement": "4.8万播放 · 421评论 · top comment 579 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "An A-badge main explains why fewer people play her; the top comment (579 likes) says she is now bound to Tide Turner, pure-kite builds get ignored, limited durability hurts late game, and her utility and floor are 'blown out by Doctor, Cheerleader and Puppeteer'; others call her awkward to play.",
+     "cn": "A牌气象分析现版本困境；579赞热评称气象已“绑定搏命”，带纯牵制天赋监管都不追，道具有限后期劣势被放大，“功能性和下限已经被医生、拉拉、木偶爆完了”；也有人吐槽道具30秒还原、画完不能调节等设计“不好玩”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "版本弃子梅奶酒大人高燃手法博弈，看完不笑说明你是图小子",
+    "url": "https://www.bilibili.com/video/BV1R175zfEr7",
+    "engagement": "21.3万播放 · 268评论 · comment 815 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Framed as a 'version castoff' after nerfs, yet an 815-like comment calls Meteorologist 'the savior of solo-queue survivors with rough luck'.",
+     "cn": "标题称其为削弱后的“版本弃子”，但815赞评论认为“气大人是单排求生命苦人的救星”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "许久没有见过一个新求生有着如此纯粹的数值和强度了👍🏻",
+    "url": "https://www.bilibili.com/video/BV1b7FLe2EJU",
+    "engagement": "7.7万播放 · 782评论 · comment 278 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "At release she was seen as a pure-stats monster, but comments already noted limited uses and that almost everyone uses gale, sometimes cloud, while 'nobody uses rain' (278 likes).",
+     "cn": "刚上线被评为“纯粹的数值怪”，但评论已指出道具次数少，“现在基本都用强风，偶尔用层云，雨没人用”（278赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "气象学家还能这么玩？！全网首发实战",
+    "url": "https://www.bilibili.com/video/BV1pnc7ejEzA",
+    "engagement": "42.8万播放 · 1318评论 · comment 1.2k likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "A 1.2k-like comment calls her 'a very free-form kiter, basically a strict upgrade on Patient thanks to active knockback — the healing is the least noticeable part'.",
+     "cn": "1.2k赞评论：“自由度挺高的牵制位，大概是病患的完全上位，主要是有主动击退的技能，那个回血反而是最没存在感的”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "住手吧桃晚安！再秀下去气象学家要削弱了！",
+    "url": "https://www.bilibili.com/video/BV16A4gzLEvV",
+    "engagement": "15万播放 · 115评论 · top comment 1.3k likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A highlight of pro player Tao Wan'an's Meteorologist; the top comment (1.3k likes) insists it's 'all Tao's fundamentals, not the character's strength', echoed by 'don't credit the character for the player'.",
+     "cn": "职业选手桃晚安的气象高光；1.3k赞热评称“这哪是气象的强度，全是桃的基本功”，另有“选手强度勿上升角色”的共识。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "飞莎儿锐评foxnai气象学家救人震慑 觉得自己压力大的可以看下狮子和泪水",
+    "url": "https://www.bilibili.com/video/BV1F73J6XEYL",
+    "engagement": "11万播放 · 67评论 · top comment 1.5k likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "2026 IVL Summer clip of a pro Meteorologist going for a rescue and getting terror-shocked after dodging several attacks; she remains a common IVL pick as a flexible kiter/rescuer, and comments blame the player's greed rather than the character.",
+     "cn": "2026 IVL夏季赛切片：职业气象躲了一堆刺后救人吃震慑；她仍是IVL常见的牵制兼救人选择，评论把锅归于选手“躲技能躲魔怔”而非角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【联合求生】两万字长文稿分析全角色联合强度（26年5月10日版强度）",
+    "url": "https://www.bilibili.com/video/BV16Q5s6yECo",
+    "engagement": "2.9万播放 · 327评论 · comment 90 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A popular comment on this May 2026 tier breakdown puts Meteorologist in the T1.2–T1.5 group as 'still viable in both ranked and Duo Hunters' — solid, but no longer top tier.",
+     "cn": "2026年5月强度分析下的高赞评论把气象学家放在T1.2~T1.5档，评价为“排位联合都在线”——稳定可用但已非顶尖。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I'm so sad Meteorologist is getting nerfed that bad",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1lhuz1e/im_so_sad_meteorologist_is_getting_nerfed_that_bad/",
+    "engagement": "55 upvotes · 51 comments · top comment 59",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "Replies to the July 2025 nerf say she was 'still S tier meta and will remain meta (A tier) after the nerf', praising her lack of any noticeable debuff, hover on Moonlit/Lakeside and push that answers hover-counters.",
+     "cn": "针对2025年7月削弱，回复认为她“现在还是S级，削后仍是A级”，称赞她几乎没有debuff、在月亮河和湖景村能飞、击退还能反制克制飞行的监管。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Was Meteorologist a Flop of a Survivor Release?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1k1tku0/was_meteorologist_a_flop_of_a_survivor_release/",
+    "engagement": "47 upvotes · 29 comments · top comment 37",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "EN players call her a 'decent but not shiny' jack of all trades; an A-badge main notes she's only banned ~10% of the time, and a PC player says drawing with a mouse makes her 'lowkey unplayable'.",
+     "cn": "外服玩家认为她是“不错但不亮眼”的万金油；A牌玩家称她禁用率只有约10%，电脑端玩家吐槽用鼠标画图“基本玩不了”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Is it me or meteorologist is getting nerfed too many times?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1o7kg57/is_it_me_or_meteorologist_is_getting_nerfed_too/",
+    "engagement": "12 upvotes · 11 comments · top comment 27",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Players feel the repeated nerfs went too far ('she's not as strong as people say'), and a main calls the rain cloud 'basically a suicide button' that needs a buff.",
+     "cn": "玩家认为连续削弱有些过头（“没有大家说的那么强”），气象玩家直言雨云“基本是自杀按钮”，需要加强。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing Meteorologist...",
+    "url": "https://www.youtube.com/watch?v=HVRmKTuwuc8",
+    "engagement": "84k views · top comment 755 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "Zeez's release playthrough is the most-viewed EN Meteorologist video; commenters highlight a niche for pre-stacking rain Composure next to a chair to support double rescues.",
+     "cn": "Zeez的首发试玩是播放最高的英文气象视频；评论提到可在椅子旁提前放雨叠镇静值，给二救打配合的小众用法。"
+    }
+   }
+  ],
+  "agrees": [
+   "Kite 9 and high skill floor/mechanics: gale plus cloud flight is praised as top-tier distance, but drawing under pressure is hard and PC/mouse play is widely called awkward.",
+   "Meta.pro 4: she remains a common pick in 2026 IVL Summer across several teams.",
+   "Solo 4: CN players call her a savior for solo queue; EN players note she has no real debuff and slots into any team.",
+   "Patch history matches: the April and July 2025 nerfs are the reference point for 'nerfed too many times' complaints."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 5,
+    "to": 4.0,
+    "why": "Community consensus in 2025-26 is 'solid but no longer dominant' in ranked: a 2026 Bilibili deep-dive asks why fewer people play her and its top comment says her floor and utility are outclassed by Doctor, Cheerleader and Puppeteer; a May 2026 tier comment puts her in the T1.2–T1.5 'still viable' group; she was labelled a 'version castoff' after the 2025 nerfs; and EN players say she's A-tier after nerfs with a ~10% ban rate.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1Ygc3zuEaX",
+     "https://www.bilibili.com/video/BV16Q5s6yECo",
+     "https://www.bilibili.com/video/BV1R175zfEr7",
+     "https://www.reddit.com/r/IdentityV/comments/1lhuz1e/im_so_sad_meteorologist_is_getting_nerfed_that_bad/",
+     "https://www.reddit.com/r/IdentityV/comments/1k1tku0/was_meteorologist_a_flop_of_a_survivor_release/"
+    ]
+   },
+   {
+    "field": "support",
+    "from": 8.0,
+    "to": 7.0,
+    "why": "Her support value rests mostly on gale peel; the rain heal is repeatedly called weak: 'nobody uses rain' (278 likes), 'the healing is the least noticeable part' (1.2k likes), and an EN main calls the rain cloud 'basically a suicide button'. The July 2025 change also raised rain's durability cost to 50%.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1b7FLe2EJU",
+     "https://www.bilibili.com/video/BV1pnc7ejEzA",
+     "https://www.reddit.com/r/IdentityV/comments/1o7kg57/is_it_me_or_meteorologist_is_getting_nerfed_too/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Meteorologist is respected as a high-skill, versatile kiter whose gale and flight keep her a staple in 2026 IVL, but after repeated nerfs ranked players increasingly see her as solid rather than dominant: she is tied to Tide Turner, and her floor is outclassed by Doctor, Cheerleader and Puppeteer. Players love her flashy plays yet widely call the rain cloud nearly useless and the drawing controls awkward, especially on PC.",
+   "cn": "气象学家公认是手法上限很高的万金油牵制位，风和云让她在2026年IVL依旧常见，但连削之后排位里普遍认为她“还在线，但不再统治”，要绑搏命走救人流程，下限被医生、拉拉、木偶比了下去。玩家爱看她的高燃手法，却普遍吐槽雨圈几乎没用、画图操作反人类，电脑端尤其难受。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "archer",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "说弓箭手不强的自己笑了没",
+    "url": "https://www.bilibili.com/video/BV1BMX9YQEZq",
+    "engagement": "128万播放 · 2268评论 · top comment 6k likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "A viral clip of Archer at release; the top comment (6k likes) proposes she shouldn't be able to move while drawing, and a 4.1k-like comment marvels that she exists in the same game as Coordinator's flashlight — hunters see her as oppressive.",
+     "cn": "上线初期爆火切片；6k赞热评建议“给弓箭手改成蓄力时无法移动”，4.1k赞评论感叹“谁能想像这种角色跟拿手电筒照瞎监管的是同一个游戏”，监管普遍觉得她压迫感太强。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "锐评弓箭手正式服强度! PC比肩古神勘探!手搓幽默搞笑!",
+    "url": "https://www.bilibili.com/video/BV14bQwYpE7w",
+    "engagement": "33.2万播放 · 1770评论 · top comment 4.1k likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Rated god-tier on PC but 'comedic' for thumb-aiming; the top comment (4.1k likes) says even the aiming minigame is torture on touch controls, and another (1k likes) says hand-aim can't track moving hunters.",
+     "cn": "评测称电脑端可比肩勘探员、手搓却很搞笑；4.1k赞热评说“手搓别说实战了，光是射箭小游戏就让我难受的要死”，1k赞评论也说手搓瞄不准、屠夫不会站着不动。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "版本最强女OB弓箭手攻略！风评反转靠什么？",
+    "url": "https://www.bilibili.com/video/BV1aVZzYSE9j",
+    "engagement": "6.6万播放 · 257评论 · top comment 290 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "Top comments sum her up as strong at keeping teammates alive while staying safe but 'needs practice', quoting creators who call her 'very high ceiling, very low floor'; her reputation flipped once hit detection and gyro aim were improved.",
+     "cn": "热评总结她“保人强、保人时自己相对安全，缺点是要练”，引用UP主观点称她“上限很高下限很低”；判定和陀螺仪优化后风评才反转。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "无须解说的强度，现版本顶尖T0求生没有之一，下限足够且上限也高得离谱",
+    "url": "https://www.bilibili.com/video/BV1ftZhYMEoB",
+    "engagement": "2.7万播放 · 579评论 · comment 247 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A creator calls her the top T0 survivor; comments recount the core-range nerf then buffs plus gyro aim, while a 231-like dissent rates her only T1–T2 because she has no second kite after the chair.",
+     "cn": "UP主称其为“现版本顶尖T0”；评论回顾核心射程先砍后补、加入陀螺仪的过程，也有231赞反对意见认为她“下椅子必没二溜”，只在T1到T2之间。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "总决赛版本：新增未削弱弓箭手！天赋调整不上 【第五人格iVL】",
+    "url": "https://www.bilibili.com/video/BV18otdzfEgk",
+    "engagement": "7.3万播放 · 370评论 · top comment 1.5k likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "When the IVL finals patch used pre-nerf Archer, the top comment (1.5k likes) simply reads 'pre-nerf Archer — it's over', showing how strong pros consider her unnerfed kit.",
+     "cn": "IVL总决赛版本使用未削弱的弓箭手，1.5k赞热评只有一句“削前的弓箭手，完蛋了”，可见职业圈对她原版强度的忌惮。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "三岁弓箭手第一视角丝滑牵制白露杂货商157秒 开门战前吃闪三跑",
+    "url": "https://www.bilibili.com/video/BV16bNn6rE8h",
+    "engagement": "1.6万播放 · 95评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "2026 IVL Summer first-person clip of a pro Archer kiting 157 seconds; she remains a regular IVL contain/harass pick alongside many other 2026 Archer highlights.",
+     "cn": "2026 IVL夏季赛职业弓箭手第一视角牵制157秒；她仍是IVL常规的牵制/干扰选择，同期还有多段弓箭手高光。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "What do yall think of a archer and enchantress nerf",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1t6ht3d/what_do_yall_think_of_a_archer_and_enchantress/",
+    "engagement": "10 upvotes · 60 comments · top comment 10",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Players argue Archer is overtuned after hunter anti-stun nerfs because she has full decode speed and strong harass; replies say 'even despite her nerfs she's still somehow meta' and call for a decode debuff.",
+     "cn": "玩家认为监管抗晕被削后弓箭手偏超标，因为她满修速还能强干扰；回复称“削了这么多次还是版本角色”，并呼吁给她加修机减速。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Why exactly is Archer getting another nerf?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kxh46t/why_exactly_is_archer_getting_another_nerf/",
+    "engagement": "93 upvotes · 55 comments · top comment 34",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "An Archer main questions the nerfs; replies are split between 'people severely overrate Archer' and noting she gets heavy bans from peak CN/JP hunters, with her crossbow dodge seen as the truly strong part.",
+     "cn": "弓箭手玩家质疑又被削；回复两极：有人认为“大家严重高估了弓箭手”，也有人指出国服、日服巅峰监管经常禁她，臂弩躲刀才是真正强的部分。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hunters, opinions on Archer?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1jejz8g/hunters_opinions_on_archer/",
+    "engagement": "48 upvotes · 33 comments · top comment 31",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Early hunter feedback was mixed: many found her 'pretty balanced' or underwhelming against average players, but the most impactful use was sniping balloons for full laceration to drop carried survivors.",
+     "cn": "上线初期监管反馈不一：不少人觉得遇到的弓箭手“挺平衡”甚至乏力，但最致命的用法是远程射牵气球的监管，直接满撕裂打掉气球。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Is Archer good in ranked?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kqqu3u/is_archer_good_in_ranked/",
+    "engagement": "17 upvotes · 19 comments · top comment 24",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Replies say harassers are hard to pull off in solo queue and much easier on voice chat; she's 'not meta-defining but a relatively solid character' whose laceration especially punishes slow hunters.",
+     "cn": "回复认为干扰位单排很难打出效果、语音车队则容易得多；她“不算定义版本，但是个相当扎实的角色”，撕裂对慢速监管尤其致命。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Playing Archer In Rank Is SO FUN!",
+    "url": "https://www.youtube.com/watch?v=DVRo6hR9xBg",
+    "engagement": "22.5k views · top comment 198 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Zeez's ranked Archer session; a 133-like comment says she 'never felt super OP in my hunter and surv matches, she's just really, really good'.",
+     "cn": "Zeez的弓箭手排位实况；133赞评论称无论当监管还是求生，“她从没让我觉得特别超模，只是真的非常好”。"
+    }
+   },
+   {
+    "platform": "Other",
+    "title": "2026年7月2日更新公告 (BWIKI)",
+    "url": "https://wiki.biligame.com/dwrg/2026%E5%B9%B47%E6%9C%882%E6%97%A5%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Live patch nerf: Keel Bow and Crossbow cooldowns both rise from 14s to 16s, and her Dionysian trait now reduces hunter-detection range by 24%.",
+     "cn": "正式服削弱：龙骨弓与臂弩冷却均由14秒增加至16秒，外在特质酒神精神调整为对监管者的感知范围减少24%。"
+    }
+   }
+  ],
+  "agrees": [
+   "Aim 9 / skill floor 8 / forgiveness 4: CN and EN players agree she is 'high ceiling, low floor', with thumb-aiming especially punishing until gyro aim.",
+   "Meta.high 4 / pro 4: still called meta in 2026 despite repeated nerfs and a regular IVL pick in the 2026 summer season.",
+   "Queue solo 3 / premade 4: harassers are described as hard in solo queue and much stronger on voice chat.",
+   "Decode 5 (no decode penalty) is exactly what hunters complain about; calls for a decode debuff recur.",
+   "NOTE: 2026-07-02 live nerf (bow and crossbow cooldown 14s to 16s; Dionysian detection -24%) is newer than the July 2025 entry in meta.changes."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Archer is seen as a high-ceiling, low-floor harasser: CN players rank her near the top once core shots are reliable with gyro aim, and she stays a regular IVL pick into 2026, while thumb-aiming casuals find the bow minigame frustrating and hunters resent her full decode speed and delayed stuns. Repeated cooldown nerfs through July 2026 haven't changed the consensus that she is excellent in skilled hands and underwhelming otherwise.",
+   "cn": "弓箭手被视为“上限极高、下限极低”的干扰位：会用陀螺仪稳定射核心的高手眼里她是顶尖OB，2026年IVL依旧常见，手搓玩家却被射箭小游戏折磨得够呛。监管吐槽她满修速还能远程叠晕太恶心，多轮冷却削弱之后，共识仍是高手手里很强、普通玩家拿着容易空箭白给。"
+  },
+  "confidence": 4
+ }
+]

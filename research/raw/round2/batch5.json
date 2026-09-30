@@ -1,0 +1,880 @@
+[
+ {
+  "id": "toy-merchant",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "玩具商为什么屡次加强仍表现不佳？玩具商的排位困境究竟是什么？",
+    "url": "https://www.bilibili.com/video/BV1VxHLzTENE",
+    "engagement": "16.3万播放 · 1578评论 · top comment 2025 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top comment (2025 likes) calls her too extreme and polarising: hard-countered by Blink-type hunters, only oppressive against ground-bound hunters, low rank-score gain and a poor experience, with replies adding she 'either can't kite or can't run the game' (318) and has no late-game operation (151).",
+     "cn": "高赞第一（2025赞）认为玩具商太极端：被移形克死、只能针对走地屠，加分少体验差；楼中回复称她“要么溜不动要么运营不了”（318赞）、“没有后期运营能力”（151赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【共研服】直接弹射！提前预知板车落点！玩具商共研服史诗级加强！",
+    "url": "https://www.bilibili.com/video/BV1VmCuBsEa8",
+    "engagement": "40.9万播放 · 1608评论 · top comment 2828 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "Players cheered that teammates can now use items from her toy box ('Journalist with elbow pads, here we come', 2828 likes), and a 1819-like comment reads the trajectory preview and pre-launch as lowering her entry barrier to revive her popularity, with mains replying they're simply happier.",
+     "cn": "高赞调侃“护腕记者我们来了”（2828赞），队友能直接用匣中道具；1819赞评论认为预知落点、提前弹射是在降低上手难度、挽救玩具商热度，玩具商玩家回复“只会开心，更省事了”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【羊羊ob】羊羊不吃草评价新版玩具商：晋升t1强度 今后排位热门角色 从溜鬼位转变为救人位",
+    "url": "https://www.bilibili.com/video/BV1uoUHBeEP9",
+    "engagement": "1.6万播放 · 54评论",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A known streamer rates the reworked Toy Merchant T1 and predicts she'll become a hot ranked pick that shifts from pure kiter to rescue-support via item passing, but top comments note he lost both showcased games and call her a passive soft support that only thrives when the team is already winning.",
+     "cn": "主播羊羊评价新版玩具商升到T1、会成为排位热门，从溜鬼位转向靠送道具的救人辅助；但高赞吐槽视频两把都输了，认为她是太依赖队友的软辅，只能打顺风局。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "强度T2，但在冰工厂是T0",
+    "url": "https://www.bilibili.com/video/BV11u9mYDEcy",
+    "engagement": "5.1万播放 · 48评论",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "The title sums up the common take: roughly T2 overall but T0 on her best map, with commenters swapping tips on keeping glide height so hunters can't swat her out of the air.",
+     "cn": "标题概括了主流看法：综合强度T2，但到了优势图就是T0；评论区交流滑翔要保持高度，否则会被监管打下来。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "军火商！蒸蚌！",
+    "url": "https://www.bilibili.com/video/BV1Ez6LBVEzE",
+    "engagement": "33.6万播放 · 325评论 · top comment 2372 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Comments celebrate her as the 'arms dealer' of Duo Hunters mode where she can stockpile items (1876 likes), though one reply notes the tight economy and slow catapult/box response make her shaky under heavy pressure.",
+     "cn": "评论区称联合狩猎里她是“军火商”，可以一直屯道具（1876赞）；也有人指出联合经济紧张，板车和匣中道具即时性差，压力一大就容易手忙脚乱。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Toy Merchant, One of the most underrated kiter - Survivor Rank",
+    "url": "https://www.youtube.com/watch?v=YbSKPBlyJDI",
+    "engagement": "12,226 views · 405 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "EN viewers call her a sleeper pick and underrated kiter who is very annoying for hunters once catapults are set, while noting good catapult use 'takes a feat of skill'.",
+     "cn": "外服观众认为玩具商是被低估的冷门牵制位，板车用好了监管很难受，但也承认“需要相当的技术”。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "This Toy Merchant Trick should be illegal !!",
+    "url": "https://www.youtube.com/watch?v=-bggxPkmi40",
+    "engagement": "7,439 views · 440 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Commenters love the big-brain catapult repositioning that humiliates hunters, while one relatable reply ('every catapult I use throws me against a wall') highlights how execution-heavy she still is.",
+     "cn": "评论区对高智商板车转点津津乐道，觉得监管被戏耍；也有人吐槽“我用的每个板车都把我弹到墙上”，说明她依然很吃操作。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Gameplay showing some of the new surv buffs from test server!",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1owuasb/gameplay_showing_some_of_the_new_surv_buffs_from/",
+    "engagement": "98 upvotes · 97 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "The OP mocks the Perfumer buff as making her even more braindead but says they personally love the Toy Merchant buff, reflecting a warm EN reception to the item-sharing rework.",
+     "cn": "楼主吐槽调香师加强后更无脑，但表示非常喜欢这次玩具商加强，外服对道具共享改动整体好评。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Toy Merchant, Matador, Hell Ember/Batter, Faro Lady, & \"Hullabaloo\" are the 2026 Deduction Star Winners",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1sxo1or/toy_merchant_matador_hell_emberbatter_faro_lady/",
+    "engagement": "58 upvotes · 34 comments",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Toy Merchant won the 2026 Deduction Star popularity vote, confirming a large and loyal fanbase despite her middling ranked reputation.",
+     "cn": "玩具商拿下2026年演绎之星，说明她虽然排位强度中游，但粉丝基础庞大且忠实。"
+    }
+   },
+   {
+    "platform": "Zhihu",
+    "title": "第五人格玩具商玩法思路？ - 知乎",
+    "url": "https://www.zhihu.com/question/459755145",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "Answers describe her kiting as extremely terrain-dependent marathon play built entirely on catapults and glider, comfortable against short-legged hunters but heavily countered by high-mobility hunters.",
+     "cn": "回答认为玩具商的牵制极度依赖地形，靠板车和飞翼跑马拉松，打短腿监管舒服，但被高机动监管重度克制。"
+    }
+   }
+  ],
+  "agrees": [
+   "Support 9 / teamDependency 8: CN players repeatedly call her a soft support whose value depends on teammates using catapults and items.",
+   "queue.solo 2 vs premade 4: comments say the 'infinite item' effect really only shows in duo/four-stack play.",
+   "mapKnowledge 10: players say catapult spots must be memorised more precisely than Patient hook spots, and 'T2 overall, T0 on her best map' is a common verdict.",
+   "Kite 8 / survivability 7: EN players call her an underrated sleeper kiter who can 'just fly away'.",
+   "Popularity: 2026 Deduction Star winner; the Nov 2025 item-sharing rework was widely welcomed."
+  ],
+  "changes": [
+   {
+    "field": "skillFloor",
+    "from": 7,
+    "to": 6,
+    "why": "The Nov 2025 rework added a trajectory preview while moving, instant pre-launch and faster retrieval, and let teammates take items straight from her box. A highly liked CN comment thread says this lowers her entry barrier to revive her popularity, a streamer predicts she'll become a hot ranked pick, and EN players liked the buff. Map knowledge still matters, but she's no longer a 7 to pick up.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1VmCuBsEa8",
+     "https://www.bilibili.com/video/BV1uoUHBeEP9",
+     "https://www.reddit.com/r/IdentityV/comments/1owuasb/gameplay_showing_some_of_the_new_surv_buffs_from/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Toy Merchant is a cult favourite who won the 2026 Deduction Star vote, and EN players call her an underrated sleeper kiter who is miserable to chase once her catapults are pre-placed. CN veterans see her as a polarising soft support who depends on the map and her team, folds against Blink-heavy hunters and struggles to run a losing game, though the November 2025 rework is welcomed for making her easier to pick up and turning her toy box into real team support.",
+   "cn": "玩具商人气很高，拿下了2026年演绎之星，外服玩家觉得她是被低估的冷门牵制，板车提前放好监管追得非常难受。国服老玩家则认为她吃地图、吃队友，怕移形，逆风局运营乏力，属于顺风局软辅；不过25年11月的改动降低了上手难度，道具也能直接给队友用，整体评价明显回暖。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "psychologist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "现百星S1心理学家锐评角色强度",
+    "url": "https://www.bilibili.com/video/BV1V76QBPEr7",
+    "engagement": "6.1万播放 · 714评论 · top comment 805 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Before the April buff, top comments said three HP only buys her a baseline and killing her after she whistles is 'like killing a chicken' (805 likes), that random queues almost never have a Psychologist-Patient pair so the bond is wasted (419), and that playing her is 'pure jail' with Doctor's new potion an upgraded replacement.",
+     "cn": "加强前的高赞评论认为三滴血只能保证基本下限，吹完哨子杀心理“跟杀鸡一样”（805赞）；路人局基本没有心患，奔赴等于白占强度（419赞）；玩她纯坐牢，医生有了药瓶就是上位替代。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "新增位移技能！还可以带着转弯！心理学家共研服加强！",
+    "url": "https://www.bilibili.com/video/BV12MQFBBE5U",
+    "engagement": "38万播放 · 2032评论 · top comment 3162 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Players loved the new dash but joked it feels like nobody plays Patient so she has to imagine one herself (3162 likes), with replies confirming Psychologists are common around tier 5 but Patients are rare.",
+     "cn": "玩家对新位移很买账，但高赞调侃“大家都不爱玩病患，心理只能自己幻想一个”（3162赞），回复称五阶常见心理，病患却很少见。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "拉点利器！心理学家加强实测！【共研简评】",
+    "url": "https://www.bilibili.com/video/BV1sgQFBTE4b",
+    "engagement": "4.6万播放 · 477评论 · top comment 207 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Testing frames the Subjective Anchor as a repositioning tool; the pinned comment compares it to Doctor's and Bartender's speed tools, and replies say she now looks like an upgraded Bartender with a higher floor.",
+     "cn": "实测认为主观锚定是拉点利器，置顶评论把它类比医生的庄园老友和调酒师的加速酒，回复称心理下限本来就比调酒高，这下快成调酒上位替代了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "心理奔赴加强正式服已削弱要点",
+    "url": "https://www.bilibili.com/video/BV1MUdbBBEdf",
+    "engagement": "5.1万播放 · 170评论 · top comment 647 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Players noticed the live anchor was quietly toned down from the test server, with a Fool's-Gold-style snag on obstacles (647 likes) and the dash ending on contact with Patient, so it feels weaker than previewed.",
+     "cn": "玩家发现正式服锚定相比共研服偷偷削了：加了愚人金同款卡脚机制（647赞），碰到病患就结束奔赴，手感不如共研视频。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【小迪契卡】小迪老师谈目前排位先知现象：现在先知排位就是弱……还不如心理呢，心理起码能传血。",
+    "url": "https://www.bilibili.com/video/BV1Wmckz5E7h",
+    "engagement": "3.1万播放 · 368评论",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A top-rank streamer argues Seer underperforms in current ranked and that even Psychologist is better 'because she can at least transfer HP', showing her remote heal is valued as reliable, low-risk ranked value.",
+     "cn": "顶分主播认为先知现在排位偏弱，“还不如心理，心理起码能传血”，说明远程传血在排位里被视为稳定实用的价值。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "求大家对心理学家强度的看法",
+    "url": "https://www.bilibili.com/video/BV1TTHYzVE4d",
+    "engagement": "2753播放 · 86评论",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Commenters place her around T2: remote heals that need no travel and a stable 'blank' kit keep her viable, but without solid fundamentals she just hands the hunter three free hits.",
+     "cn": "评论普遍把心理放在T2左右：远程补血不用跑图、白板也能稳住版本，但没有基本功就是白给监管三刀。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "PSYCHOLOGIST IS NOW OP?! OR JUST CRAZY?! - IDENTITY V SEASON 42 CHARACTER ADJUSTMENTS",
+    "url": "https://www.youtube.com/watch?v=4wvK9VKKMbM",
+    "engagement": "6,405 views · 194 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "EN coverage frames the anchor as a big power spike, and commenters who used Psychologist to practise raw kiting are glad she finally has a kiting tool.",
+     "cn": "外服博主认为这次加强幅度很大，评论里拿心理练基本功的玩家很高兴她终于有了牵制手段。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Buffed Psychologist is OP in rank now !?",
+    "url": "https://www.youtube.com/watch?v=CnFnO2zQoGE",
+    "engagement": "10,287 views · 404 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Ranked gameplay with the anchor. The top practical comment explains how to steer the dash for maximum distance, and viewers expect the buff to make her far more usable for kiting.",
+     "cn": "排位实战展示锚定，高赞技巧评论讲解如何控制冲刺拉最远距离，观众普遍认为加强后她的牵制可用性大增。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Tips for people playing WITH a psychologist main in their match!",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1qjl9wy/tips_for_people_playing_with_a_psychologist_main/",
+    "engagement": "126 upvotes · 6 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "An ex-A-badge main says teammates waste her: let a full-stress Psychologist take first chase or rescue, don't use Tide Turner on her while stress remains, and ping when safe to be healed, so she relies heavily on team awareness.",
+     "cn": "前A牌心理玩家指出队友常浪费心理：满应激的心理可以接首追或去救人，有应激时别对她用化险为夷，安全时要报点求移情，说明她很吃队友意识。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Aren't survivors getting to easy to play and hunters harder to play? (LONG POST)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1v1f9rj/arent_survivors_getting_to_easy_to_play_and/",
+    "engagement": "47 upvotes · 40 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A champion-tier poster complains that Psychologist was 'already a 3 hit surv and yet she got a free transition skill', a hunter-side view that the anchor made an already forgiving survivor safer.",
+     "cn": "高段玩家吐槽心理“本来就是三刀人，还白送一个转点技能”，代表了监管视角：本就容错高的角色更安全了。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Survivor players are getting spoon fed",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1t9kruu/survivor_players_are_getting_spoon_fed/",
+    "engagement": "18 upvotes · 13 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A frustrated hunter lists Psychologist alongside Doctor, Priestess, Seer and Lanternist as current meta survivors after her buff.",
+     "cn": "一位监管玩家把加强后的心理和医生、祭司、先知、提灯人并列为当前版本强势求生。"
+    }
+   },
+   {
+    "platform": "IVL/COA",
+    "title": "Identity V League/2025 Summer",
+    "url": "https://id5.fandom.com/wiki/Identity_V_League/2025_Summer",
+    "engagement": "MVP listing",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "The IVL 2025 Summer match results (Aug 3, 2025) list FPX.ZQ_lin as MVP on Psychologist, confirming she still sees professional play as a support pick.",
+     "cn": "IVL 2025夏季赛赛果中FPX.ZQ_lin使用心理学家拿下MVP，说明她在职业赛场仍有辅助位出场。"
+    }
+   }
+  ],
+  "agrees": [
+   "forgiveness 9 / skillFloor 2: players describe her three effective HP as a guaranteed baseline ('稳定下限').",
+   "support 9: remote heals that don't require travelling are consistently cited as her defining value, even preferred over Seer by a top streamer.",
+   "comms 7 / teamDependency 7: EN mains stress teammates must ping and avoid misusing Tide Turner on her.",
+   "meta.pro 3: still appears in IVL with MVP games.",
+   "The April 2026 Subjective Anchor buff improved opinions (EN 'OP?!' videos, hunter complaints), matching the existing sentiment note."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Before April 2026 the Chinese community had largely written Psychologist off as a three-hit baseline healer who was dull to play, rarely paired with Patient in solo queue and outclassed by Doctor's new potion. The Subjective Anchor dash revived interest, with EN creators calling her OP again and hunters grumbling that a three-life healer got free mobility, though the live version was toned down and she still leans on teammates who ping and cooperate.",
+   "cn": "26年4月之前，国服普遍觉得心理只是靠三条命兜底的白板奶妈，玩起来坐牢，野排几乎凑不齐心患，还被带药瓶的医生上位替代。主观锚定加强后热度回升，外服直呼又强了，屠夫也吐槽三刀奶妈白送位移；不过正式服比共研服有所削弱，而且依旧很依赖队友报点配合。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "patient",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "曾经的佣兵平替？ 病患如何沦落到需要加强？【第五杂谈】",
+    "url": "https://www.bilibili.com/video/BV1eUZxYEEHM",
+    "engagement": "18.4万播放 · 1078评论 · top comment 868 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "Top comments note Patient is the only completely 'ordinary' survivor, with no debuff, healing change or decode modifier (868 likes). That makes him a jack-of-all-trades who falls behind in an inflated meta where kits need big numbers (217).",
+     "cn": "高赞指出病患是唯一一个“绝对普通人”，没有羸弱、没有治疗和修机加减速（868赞），属于万金油，但在双方都膨胀的版本里“万金油没用，有机制数值才行”（217赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "从魔术到病患，浅谈第五的强度膨胀【魔术师篇】",
+    "url": "https://www.bilibili.com/video/BV14UooYdE4a",
+    "engagement": "14.6万播放 · 1150评论 · top comment 930 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "The top comment recalls that three years ago Patient stood level with Mercenary (930 likes), with replies split between 'he sits with Magician now' and 'he's not that bad', a snapshot of how far players think power creep has pushed him down.",
+     "cn": "高赞感慨“3年前病患还能和佣兵平起平坐”（930赞），楼中有人说现在和魔术师一桌，也有人认为没那么拉，反映了玩家眼中病患被强度膨胀甩下的程度。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "病患史诗级加强！钩子无法被打断，出勾变快！落地变快！",
+    "url": "https://www.bilibili.com/video/BV11khXzpEKD",
+    "engagement": "11.1万播放 · 1149评论 · top comment 714 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "After the uninterruptible-hook buff, a 242-like comment judges him still slightly below Aeroplanist in ceiling but easier to learn with a floor that now holds, a solid Borrowed-Time kiter.",
+     "cn": "针对钩子不会被打断的加强，242赞评论认为病患上限仍略逊飞行家，但上手更简单、现在下限也能兜住，是不错的搏命溜鬼位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五杂谈】默剧艺人上线后，这两个角色将彻底沦为小丑",
+    "url": "https://www.bilibili.com/video/BV17XVA6rEaz",
+    "engagement": "7千播放 · 47评论",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A commenter points out that Patient's cumulative buffs make him stronger than his launch version, yet power creep has pushed him from a Mercenary-rivalling T0.5 down to about T2.",
+     "cn": "评论指出病患这些年的加强已经比初版还强，但当年能上T0.5、比肩佣兵，如今在角色膨胀下只能算T2。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "病患教学",
+    "url": "https://www.bilibili.com/video/BV1b3WLzeEaf",
+    "engagement": "29.3万播放 · 169评论 · top comment 905 likes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "A widely viewed hook-spot tutorial. Top comments joke about memorising spots and then forgetting them mid-chase (526 likes), and answer that hook spots are easier to learn than Toy Merchant's catapult spots (97).",
+     "cn": "播放量很高的钩点教学，高赞调侃“平时看点位，实战全忘，全凭本能下勾”（526赞）；也有人回答钩子点位比玩具商板车点位好记（97赞）。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Can I Survive Titan Rank With Patient's New S-Tier Skin? (& Buff...?)",
+    "url": "https://www.youtube.com/watch?v=_FkEIZ77sIo",
+    "engagement": "22,883 views",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A Titan-rank run before and after the April 2025 buff. Commenters who quit Patient because hunters hit them before they could hook say the buff makes him worth retrying.",
+     "cn": "泰坦段位实测加强前后的病患，评论中有人说以前总是还没钩走就被打，所以弃了病患，看到加强后想重新练。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The #1 Patient Guide! | IdentityV",
+    "url": "https://www.youtube.com/watch?v=bFp1C-INtZk",
+    "engagement": "7,195 views · 448 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The top comment, 'memorising all of the hook locations is making my brain overheat' (46 likes), sums up his heavy map-knowledge demand.",
+     "cn": "高赞评论“背所有钩点背到脑子过热”（46赞），概括了病患对地图熟悉度的高要求。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Character adjustments + others",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ndu7q6/character_adjustments_others/",
+    "engagement": "70 upvotes · 26 comments",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "The September 2025 adjustment thread highlights Patient's hook buffs ('Emil isn't the only one with buffs'), a change the EN community noticed and discussed.",
+     "cn": "25年9月调整讨论帖重点提到病患钩子加强，外服社区对此关注度较高。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Aren't survivors getting to easy to play and hunters harder to play? (LONG POST)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1v1f9rj/arent_survivors_getting_to_easy_to_play_and/",
+    "engagement": "47 upvotes · 40 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A champion-tier survivor main complains that 'Patient mains don't know how his skill works so NetEase made sure it couldn't get interrupted', which reads as the buffs raising his floor.",
+     "cn": "高段玩家吐槽“病患玩家不会用技能，所以网易直接让钩子不能被打断”，侧面说明加强抬高了病患下限。"
+    }
+   },
+   {
+    "platform": "IVL/COA",
+    "title": "Identity V League/2025 Autumn",
+    "url": "https://id5.fandom.com/wiki/Identity_V_League/2025_Autumn",
+    "engagement": "MVP listing",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "IVL 2025 Autumn results list DOU5_Chen as MVP on Patient (Nov 21, 2025), so he still gets occasional pro picks.",
+     "cn": "IVL 2025秋季赛赛果中DOU5_Chen使用病患拿下MVP（2025年11月21日），说明病患在职业赛场仍有零星出场。"
+    }
+   }
+  ],
+  "agrees": [
+   "mapKnowledge 9 / aim 9: EN and CN players alike joke about memorising hook spots; the hook is still the whole kit.",
+   "meta.pro 2: occasional IVL pick (DOU5_Chen MVP in 2025 Autumn), not a staple.",
+   "Buff history: players confirm the April 2025, September 2025 and January 2026 buffs raised his floor.",
+   "quickMatch 5 / fun: flashy Spider-Man highlights remain popular on Bilibili."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 4,
+    "to": 3,
+    "why": "Popular CN discussions through 2025–26 say Patient fell from Mercenary-level to roughly T2: a stat-neutral all-rounder left behind by power creep (930- and 868-like comments), 'still slightly below Aeroplanist' even after the Sept 2025 buff (242 likes), and 'T2 now' in May 2026. Above-average for 七阶/巅峰 isn't supported.",
+    "sources": [
+     "https://www.bilibili.com/video/BV14UooYdE4a",
+     "https://www.bilibili.com/video/BV1eUZxYEEHM",
+     "https://www.bilibili.com/video/BV11khXzpEKD",
+     "https://www.bilibili.com/video/BV17XVA6rEaz"
+    ]
+   },
+   {
+    "field": "forgiveness",
+    "from": 3,
+    "to": 4,
+    "why": "Since Sept 2025 hooks can't be interrupted by hits and are refunded if the pre-cast is broken; CN players say his floor now holds ('下限能兜住'), EN players returned to him after the buff, and hunters complain the hook was made uninterruptible for weaker mains.",
+    "sources": [
+     "https://www.bilibili.com/video/BV11khXzpEKD",
+     "https://www.youtube.com/watch?v=_FkEIZ77sIo",
+     "https://www.reddit.com/r/IdentityV/comments/1v1f9rj/arent_survivors_getting_to_easy_to_play_and/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Patient is remembered as a former Mercenary-level rescuer who power creep left behind, and CN veterans now rate him around T2: a stat-neutral all-rounder who lives or dies by memorised hook spots. The 2025–26 buffs that made his hook uninterruptible and refundable noticeably raised his floor, so players are returning to him, while hunters grumble that he was only buffed because his mains kept missing hooks.",
+   "cn": "病患曾是能和佣兵平起平坐的救人位，如今在版本膨胀下被普遍认为掉到了T2左右，身上没有任何debuff也没有机制加成，全靠背钩点和手法。25到26年的连续加强让钩子不会被打断、失败还能返还，下限明显兜住了，不少人重新练回来；屠夫则吐槽这是因为病患玩家钩不中才给加强。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "novelist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "削弱后小说家弱势合集",
+    "url": "https://www.bilibili.com/video/BV1DXVJzRE2F",
+    "engagement": "66.8万播放 · 752评论 · top comment 6265 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment sarcastically asks whether players will only be satisfied with ultra-long swaps and brainless pallet stuns (6265 likes). Others agree the April 2025 control-time nerf ended mindless swap-stuns and dropped him 0.5–1 tier, but he's still not weak thanks to his anti-intercept play and unchanged charge speed.",
+     "cn": "高赞反讽“非要超远换位无脑砸才满意对吗”（6265赞）；其他评论认为4月削0.15秒僵直后确实不能无脑换位砸了，掉了0.5到1个梯度，但防拦截能力和吸书速度还在，依然不弱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "削弱后小说家弱势合集（三），再不加强已经查无此人了",
+    "url": "https://www.bilibili.com/video/BV1aDaZzjEHE",
+    "engagement": "15.5万播放 · 235评论 · top comment 677 likes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Viewers read the 'weakness compilation' as irony. A 441-like reply mocks it as 'the king nerfed down to the top of T0', so his high-tier standing survived the nerf.",
+     "cn": "观众把“弱势合集”当反话看，441赞评论嘲讽“天王削弱到t0顶是么孩子”，说明削弱后他在高端局依旧强势。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "小说家新晋微调哥？加强对比实测！",
+    "url": "https://www.bilibili.com/video/BV1cCKKe8Evq",
+    "engagement": "21万播放 · 1001评论 · top comment 1042 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "Reacting to the Feb 2025 buff, players called it 'not a tweak but a wild buff' (119 likes) and cynically tied its timing to a Sherlock collab skin (1042 likes).",
+     "cn": "针对25年2月加强，玩家评价“这不是微调，这是狂调”（119赞），并调侃加强时间点是为了卖福尔摩斯联动皮肤（1042赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "小说家打团削弱！厂长默剧艺人调整！赛季末共研服最新调整！",
+    "url": "https://www.bilibili.com/video/BV1Ki496aEva",
+    "engagement": "13.3万播放 · 950评论 · top comment 757 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The top comment welcomes the S44 nerf to four-Novelist team-fight stacks in quick match (757 likes), saying it should cut down on stacked 4-Novelist lobbies and repair his reputation with random teammates.",
+     "cn": "高赞认为这次针对四小说家私募打团的削弱改得好（757赞），能减少四小说打团的出现，改善小说家的路人缘。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "S2使徒被小说哭丑阴四跑了，太惨了",
+    "url": "https://www.bilibili.com/video/BV1vBEq62EFJ",
+    "engagement": "22.5万播放 · 209评论 · top comment 986 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Commenters explain that double-Flywheel Novelist is common in high-tier ranked as a pressure-absorbing support (82 likes), while a single-Flywheel Novelist 'melts in minutes' against Blink in the current hunter-inflated meta (163).",
+     "cn": "评论解释双飞轮小说家在高端局很常见，通常是抗压辅助（82赞）；而在监管普遍膨胀的版本里，单飞轮小说家遇到金身分分钟速溶（163赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "以防你不知道小说家技能可以蓄力",
+    "url": "https://www.bilibili.com/video/BV1wTFfzXEtp",
+    "engagement": "39.6万播放 · 439评论 · top comment 1448 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "The video reveals Sketchbook fires on release and can be held like Flywheel. Top comments dig into release-versus-tap timing (1448 likes), showing how much input timing matters for high-level Novelist.",
+     "cn": "视频揭示小说家的书是松手释放、可以像飞轮一样蓄着，高赞讨论松手判定与点按判定的区别（1448赞），说明高端小说家很讲究出手时机。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "oMg NoVeLiSt Is ToO oP nEeD nErF - (Identity v)",
+    "url": "https://www.youtube.com/watch?v=9tZ-8cOPg5k",
+    "engagement": "14,342 views · 813 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "The tongue-in-cheek title and comments reflect the EN view after the Feb 2025 buff that Novelist was overpowered in ranked.",
+     "cn": "标题和评论调侃25年2月加强后的小说家过强，反映了外服当时的主流看法。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Novelist Seriously need nerf now - Survivor Rank",
+    "url": "https://www.youtube.com/watch?v=onGm5nyok_w",
+    "engagement": "5,574 views · 275 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "The top comment says the buff 'basically made him a guaranteed rescuer and stunner' (37 likes). A minority replies that it was needed because he'd been weak and had to be very close to swap.",
+     "cn": "高赞评论认为这次加强“基本让他成了稳定救人加控场的角色”（37赞），少数人则认为之前太弱、换位距离太短，加强是必要的。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THEY BUFFED MIME ARTIST BUT NERFED COMPOSER AND DREAM WITCH?! - Identity V Season 44 Patch Notes",
+    "url": "https://www.youtube.com/watch?v=T5iWavQYQik",
+    "engagement": "13,441 views · 202 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "EN patch coverage labels the S44 change a Novelist 'Quick Match nerf', and commenters are surprised Novelist and Composer were nerfed while Mime Artist got a page of buffs (51 likes).",
+     "cn": "外服补丁解读把S44的小说家改动称为“快速匹配削弱”，评论惊讶小说家、作曲家被削而默剧艺人获得大量加强（51赞）。"
+    }
+   },
+   {
+    "platform": "IVL/COA",
+    "title": "Identity V League/2025 Summer",
+    "url": "https://id5.fandom.com/wiki/Identity_V_League/2025_Summer",
+    "engagement": "MVP listing",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "IVL 2025 Summer results list three different players (MRC_Nanako, WBG_Persica, DOU5_Czai) as MVP on Novelist, and MRC_Nanako did it again in the 2025 Autumn season, making him a regular pro pick.",
+     "cn": "IVL 2025夏季赛中有三名不同选手（MRC_Nanako、WBG_Persica、DOU5_Czai）使用小说家拿到MVP，秋季赛Nanako再度用他拿MVP，是职业赛场常见选择。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Unofficial Deduction Star results!",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1r18n42/unofficial_deduction_star_results/",
+    "engagement": "37 upvotes · 5 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "In a 981-response fan poll, Novelist placed 2nd among survivors (100 votes), showing strong popularity in the global community.",
+     "cn": "在981人参与的非官方演绎之星投票中，小说家以100票位列求生者第二，外服人气很高。"
+    }
+   },
+   {
+    "platform": "Zhihu",
+    "title": "如何评价《第五人格》的新求生者「小说家」？ - 知乎",
+    "url": "https://www.zhihu.com/question/495641392",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "Answers say he can kite on open ground and is very strong in skilled hands, but he relies on reaction and fundamentals, and the +10%/-10% decode split is a net loss that makes him bad at holding the last cipher.",
+     "cn": "回答认为小说家能平地溜，会玩的强度非常高，但很吃反应和基本功；前半+10%后半-10%的修机总体是亏的，不适合压机。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta.high 5 / meta.pro 4: the 'weak' compilations are read as irony, he's a common double-Flywheel pressure support in top ranked, and he has repeat IVL MVPs across 2025.",
+   "skillCeiling 9 / demandTiming 8: players dig into release timing, swap angles and anti-intercept, and after the April 2025 nerf mindless swap-stuns no longer work.",
+   "Decode trait: Zhihu players still call the late-cipher -10% a net loss.",
+   "Hunters find him a nasty trickster (EN 'too OP, need nerf' videos, CN '憋笑挑战' swap-stun clips)."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Novelist is regarded as one of the strongest kiter-supports since his February 2025 rework. EN hunters joked he had become a guaranteed rescuer and stunner, and CN players treat 'Novelist is weak now' compilations as irony even after the April 2025 control-time nerf ended brainless swap-stuns. He is a regular IVL pick with several MVP games and a double-Flywheel pressure support in top ranked, and his popularity in stacked quick-match lobbies earned him a targeted S44 nerf.",
+   "cn": "小说家自25年2月加强后被公认为高上限的强势牵辅，外服屠夫调侃他是稳定救人加控场，国服即便在4月削了僵直、不能再无脑换位砸板，“削弱后弱势合集”也被当成反话看待。他在职业赛场很常见，多次拿下IVL的MVP，高端局常带双飞轮当抗压辅助；人气也高，快速匹配里四小说打团太泛滥，S44专门对此做了削弱。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "little-girl",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "小女孩书页加强有多大？小说家式加强！",
+    "url": "https://www.bilibili.com/video/BV1QEdSYuENM",
+    "engagement": "41万播放 · 2759评论 · top comment 4645 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The April 2025 page buff was dubbed a 'Novelist-style buff'. Top comments joke about Little Girl attaching to Novelist (4645 likes), and a 3165-like comment accuses NetEase of buffing her to sell skins, so players saw it as a real power spike.",
+     "cn": "25年4月书页加强被称为“小说家式加强”，高赞调侃“小女孩附身小说家”（4645赞），3165赞评论吐槽“为了卖皮肤吃相难看”，说明玩家认为这次加强幅度不小。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "之前小女孩的强度也太夸张了吧",
+    "url": "https://www.bilibili.com/video/BV1RtXzYrEnj",
+    "engagement": "34.4万播放 · 293评论 · top comment 782 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Players recall early Little Girl as an unkickable 'wheelchair' leech. The top comment says the nerfs cut her ceiling and exposed her low solo-kiting floor (782 likes).",
+     "cn": "玩家回忆早期小女孩附身踹不下来，是“轮椅中的轮椅”；高赞认为削弱砍掉了她离谱的上限后，单溜下限低的缺陷才暴露出来（782赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "不好溜就找队友，小女孩附身没什么可耻的",
+    "url": "https://www.bilibili.com/video/BV1Z5ChBxEPc",
+    "engagement": "76万播放 · 653评论 · top comment 1571 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "Top comments joke about scaring teammates with a badge-less Little Girl (1571 likes), but a 1095-like comment says leech Little Girls have become rare, and replies say Perfumer and Enchantress now draw more complaints.",
+     "cn": "高赞调侃去掉勋章穿年岁“纯吓唬队友”（1571赞），但1095赞评论指出最近已很少看到混子小女孩，回复称现在的重灾区是调香和咒术。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "小女孩角色黑真的有必要做到这种地步吗",
+    "url": "https://www.bilibili.com/video/BV1znRrBHEbT",
+    "engagement": "50.4万播放 · 1531评论 · top comment 2515 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A custom 'Little Girl practice map' built to mock her players shows how deep the character hate still runs. A 1885-like comment says no other competitive game treats a character like this, and a reply says other games blame the player rather than the character.",
+     "cn": "有人专门做了嘲讽小女孩的自制地图，可见角色黑有多严重；1885赞评论称没见过其他竞技游戏这样针对角色，回复说“其他游戏基本只说玩的人，不说玩的角色”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "额 小女孩想活不就只能附身嘛",
+    "url": "https://www.bilibili.com/video/BV1hEQGBJEv1",
+    "engagement": "21万播放 · 567评论 · top comment 2345 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Comments joke that the Geisha basically wants her ability banned, reading it as 'Little Girl is overtuned' (514 likes), and a reply adds she isn't weak and her bad reputation comes from players who can't kite.",
+     "cn": "评论调侃红蝶的意思就是“有技能不能用”，即小女孩超模（514赞）；也有人说小女孩不算弱势，只是很多玩家不会溜才导致风评差。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "一个视频来看看小女孩的强度",
+    "url": "https://www.bilibili.com/video/BV1eNh9zqEHk",
+    "engagement": "3.3万播放 · 265评论",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Commenters argue over whether the hunter's loss came from Little Girl's strength or his own misplays, and an S-badge survivor who also holds A-badge hunters flatly calls her overtuned (超标).",
+     "cn": "评论争论监管输掉是因为小女孩强度还是自身失误，一位S求生、多A牌屠夫的玩家直言“小女孩就是超标”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【锐评】第五人格哭九门 最会哭弱的九个角色群体强度永远是不够的",
+    "url": "https://www.bilibili.com/video/BV1m9g669EGe",
+    "engagement": "11万播放 · 1356评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Little Girl is listed among the nine fanbases known for crying 'too weak', but a 58-like reply notes that crying peaked in 2024 and is rarely heard now.",
+     "cn": "小女孩被列入“哭九门”之一，但58赞回复指出哭弱小女孩的高峰期在24年，现在已经很少见。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Hardest Challenge : Solo Griffin using Little Girl",
+    "url": "https://www.youtube.com/watch?v=htsG2ady41A",
+    "engagement": "7,121 views · 342 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "The video frames solo-queue Little Girl as the hardest challenge. Top comments say 'one mistake from your teammate is all it takes' (119 likes) and '3 adults got carried by a child' (101).",
+     "cn": "视频把单排小女孩当作“最难挑战”，高赞评论“队友一个失误就够了”（119赞）、“三个大人被一个孩子带飞”（101赞）。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "How to be non TOXIC Little Girl 👀 KITING, ASSIST, RESCUE! Identity V",
+    "url": "https://www.youtube.com/watch?v=LQxYOyDGvvA",
+    "engagement": "3,449 views",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A Peak Tier player teaches Little Girl as a kiter, assist and rescuer to counter her toxic-leech image, and a commenter wishes their ranked randoms were half this coordinated.",
+     "cn": "巅峰段位玩家专门教学如何当一个会溜会辅助会救人的“不毒瘤”小女孩，评论感叹排位野队要是有一半配合就好了。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "5 Ciphers kite using Little Girl SS costume \"Moonlit Mirage\"",
+    "url": "https://www.youtube.com/watch?v=nga4Q0U-UgE",
+    "engagement": "21,835 views · 904 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "A top EN kiter runs five-cipher kites with her in ranked. The new SS costume drew big engagement, and a commenter notes the hunters should have pressured ciphers instead of chasing her.",
+     "cn": "外服知名溜鬼玩家用小女孩打出五台机牵制，新SS时装热度很高；评论指出监管应该转去压机而不是死追她。"
+    }
+   },
+   {
+    "platform": "Zhihu",
+    "title": "第五人格小女孩真的只能是混子吗？",
+    "url": "https://www.zhihu.com/question/528957703",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "Answers argue she isn't only a leech: page timing, attaching to help teammates kite, tanking a hit on detach, knockback distance and teleporting to finish ciphers give her a high ceiling. Too many leech players ruined her image.",
+     "cn": "回答认为小女孩并不只能当混子，书页时机、附身帮溜、下身扛刀、弹距离、传送补机都能打出高上限，只是混子玩家太多毁了风评。"
+    }
+   },
+   {
+    "platform": "Zhihu",
+    "title": "第五人格“小女孩”惹人厌？因为太好混分 - 知乎",
+    "url": "https://zhuanlan.zhihu.com/p/530595617",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "The article explains the hate: in random matches some players attach at the start just to farm points, leaving ciphers short and turning chases into two-person kites.",
+     "cn": "文章解释小女孩惹人厌的原因：野排有人开局就附身混分，导致密码机不够，甚至撞鬼变成双人遛鬼。"
+    }
+   }
+  ],
+  "agrees": [
+   "queue.solo 2 / premade 5 and teamDependency 9: EN solo-queue content frames her as the hardest challenge ('one mistake from your teammate is all it takes').",
+   "kite 4 / selfSufficiency 3: CN players say her low solo-kite floor was exposed once her ceiling was cut.",
+   "Divisive sentiment: persistent character hate (mocking custom map, 'non-toxic Little Girl' guides) alongside defenders who say the problem is leech players, not the character.",
+   "meta mid-tier: some hunters call her overtuned in coordinated hands after the April 2025 page buff, but no source puts her in the must-pick tier."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Little Girl remains one of Identity V's most stigmatised survivors: CN creators still build custom maps mocking 'leech' players, and EN guides are literally titled how to be a non-toxic Little Girl. Players who look past the stigma rate the April 2025 page buff as a real boost, and some hunters call her overtuned in coordinated hands, but her weak solo kiting means one teammate's mistake can sink a solo game.",
+   "cn": "小女孩依旧是庄园里角色黑最重的求生之一，连自制地图都在嘲讽“马孩”，外服也有专门教人“怎么当个不毒瘤的小女孩”的视频。25年4月的书页加强被称作“小说家式加强”，不少屠夫觉得配合好的小女孩很超模，但她单溜下限低，野排队友一失误就容易崩，风评好坏基本取决于队友。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "weeping-clown",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "哭丑几乎剋制所有的守尸屠夫，望全体救人位玩家周知",
+    "url": "https://www.bilibili.com/video/BV1JPGJzvExX",
+    "engagement": "1.3万播放 · 105评论 · top comment 74 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "A 52-like comment argues his chair rescue is unstable against mid-range interception but his escorting, anti-intercept travel and item play are top-tier. It cites top player E总 calling him a 'hexagon all-rounder' while Knight is the steadier pure rescuer, and a 34-like reply says many 巅七 players used him until Knight and Journalist buffs pushed him back into obscurity.",
+     "cn": "52赞评论认为哭丑救人面对中距离拦截“很不稳定”，但陪跑保人、赶路防拦截是一流水平，并引用E总评价哭丑是“六边形优等生”、骑士才是更稳的专职救人位；34赞回复称去年巅七玩的人很多，后来记者加强、骑士登场后这个角色又沉寂了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "S2使徒被小说哭丑阴四跑了，太惨了",
+    "url": "https://www.bilibili.com/video/BV1vBEq62EFJ",
+    "engagement": "22.5万播放 · 209评论 · top comment 986 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The top comment says the Clown was the most skilful player in the match (986 likes), citing fast-reaction Borrowed Time and Flywheel play, and shows him as a high-tier pressure absorber rather than a pure rescuer.",
+     "cn": "高赞评论认为这局“最有手法的是哭丑”（986赞），超快反应金身按飞轮，体现他在高端局是能抗压的角色而非单纯救人位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "前S1哭丑的救人位实战对局教学（你炸鱼我炸鱼，六阶秒变顶分局）",
+    "url": "https://www.bilibili.com/video/BV1WkhtzjEQY",
+    "engagement": "3.7万播放 · 142评论 · pinned 52 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "An ex-S1 main recommends Flywheel plus Borrowed Time for OB, rescue and anti-double-down. Without Big Heart he says to make your mark in the early and mid game and leave most gate fights to teammates, though rockets keep him safe at the gate.",
+     "cn": "前S1哭丑推荐带飞轮搏命，OB、救人、防双倒都很强；不带大心脏的话“只露面打前中期，后半场让队友来打”，开门战有火箭也不太怕被针对。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "哭丑：我变T1...真的假的？【哭泣小丑教学--基础篇】",
+    "url": "https://www.bilibili.com/video/BV1sr421K7hp",
+    "engagement": "22.7万播放 · 400评论 · top comment 562 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "The top comment warns newcomers that fundamentals, terrain use and rotations matter more than rockets ('don't expect to out-kite hunters with the skill', 562 likes), and fans celebrate that after the July 2024 buff 'I'm not niche anymore' (377).",
+     "cn": "高赞提醒新手：想玩好哭丑最重要的还是基本功，别指望靠技能爆遛屠夫，地形和转点意识很重要（562赞）；24年7月加强后粉丝调侃“我变成非冷门了”（377赞）。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "火箭冲刺！",
+    "url": "https://www.bilibili.com/video/BV1xjFWzfEpv",
+    "engagement": "55.9万播放 · 667评论",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Comments say only Weeping Clown players know how cool he is (1112 likes), while replies note the rocket is hard to steer and easily crashes into buildings.",
+     "cn": "评论称“只有玩哭丑的才真正知道有多帅”（1112赞），也有人指出火箭本来就不好控制方向，转视角很容易撞到建筑物。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【最新】第42赛季末人类强度排行",
+    "url": "https://www.bilibili.com/video/BV1PodbBAECz",
+    "engagement": "6362播放 · 102评论",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A ranked-focused end-of-S42 tier list for roughly 50–175-star play puts Weeping Clown in T2 alongside Wildling; the top comment (22 likes) disputes those placements, while a reply to the uploader notes this season's fast decoding and shorter operation phase don't favour charge-based item survivors.",
+     "cn": "面向约50–175星排位的S42赛季末强度榜把哭丑和野人放在T2，高赞评论（22赞）对此提出异议，也有回复指出本赛季机子快、运营环节减弱，对充能型道具角色不太友好。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "I Had WAY Too Much Fun With This Character | Weeping Clown | Identity V",
+    "url": "https://www.youtube.com/watch?v=4P-oAoGuzds",
+    "engagement": "9,111 views · 628 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "An EN creator has a blast with him. Comments note he was relabelled from kiter to rescuer after his buffs (60 likes) and share a main's tip to stun and rescue through thin walls (12).",
+     "cn": "外服主播玩得非常开心，评论提到他加强后从牵制位被改标为救人位（60赞），还有哭丑玩家分享可以隔着薄墙炸晕救人的技巧。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The New BUFFED WEEPING CLOWN Makes Hunters SURRENDER",
+    "url": "https://www.youtube.com/watch?v=Pu6xMaM66Bs",
+    "engagement": "10,371 views · 618 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "The July 2024 buff (shorter cooldown, faster rocket) showcase had hunters surrendering, though a Weepy main says the new speed threw off his steering (28 likes).",
+     "cn": "24年7月加强（CD缩短、火箭更快）后的实战里监管直接投降，但也有哭丑玩家表示加速后转向手感全乱了（28赞）。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Best Weeping Clown's Support Combo Ever !! - Survivor Rank",
+    "url": "https://www.youtube.com/watch?v=iHjKbFcWjYw",
+    "engagement": "6,393 views · 340 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A ranked showcase of Weeping Clown supporting a kiter, praised as 'so clean' (36 likes), with his rocket escort and stun seen as strong team support.",
+     "cn": "排位实战展示哭丑配合队友牵制，评论称“支援太干净了”（36赞），火箭护送和炸晕被视为很强的团队辅助。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "My guide to dealing with/playing with harassers.",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1mlatic/my_guide_to_dealing_withplaying_with_harassers/",
+    "engagement": "13 upvotes · 7 comments",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "An EN harasser guide lists Weeping Clown as a harasser whose direct rocket hit counts as a stun and advises playing in open areas so he can aim; hunters are told to dodge or break line of sight behind walls.",
+     "cn": "外服骚扰位指南把哭丑列为骚扰角色：火箭直接命中算眩晕，队友要在开阔处方便他瞄准；监管则应躲火箭或借墙体规避。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Unofficial Deduction Star results!",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1r18n42/unofficial_deduction_star_results/",
+    "engagement": "37 upvotes · 5 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Weeping Clown got only 23 of 981 votes (13th) in a fan popularity poll, matching his 'niche faith' reputation.",
+     "cn": "在981人参与的粉丝人气投票中哭丑仅获23票排第13，符合他“冷门信仰”的定位。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta.high 2 / meta.pro 2: CN players say Knight is the steadier rescuer and a ranked tier list puts him in T2; he's a niche pick outshone by newer rescuers.",
+   "rescue 8 / support 8: strong escort, anti-intercept and stun value, though chair rescue is 'unstable' against mid-range interception.",
+   "decode 3: slow decode keeps him out of cipher duty; mains say to make your mark early and let teammates handle late gate fights without Big Heart.",
+   "quickMatch 5 / fun: EN and CN players describe him as extremely fun ('only Weepy players know how cool he is').",
+   "Weakness 'rocket steering clumsy': multiple players say rockets are hard to steer and crash into buildings."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Weeping Clown is a 'niche faith' pick whose mains adore his flashy rockets. CN players rate him a hexagon all-rounder with top-class escorting and anti-intercept play but a chair rescue that is shakier than Knight's. After a brief moment in the spotlight following his July 2024 buff he has slipped back to around T2 in ranked, yet EN and CN players alike still call him one of the most fun survivors to play.",
+   "cn": "哭丑是典型的冷门信仰角色，玩家很吃火箭带来的操作感；国服普遍评价他是“六边形优等生”，陪跑保人、防拦截一流，但贴椅救人不如骑士稳定。24年7月加强后短暂热门过，如今排位大致在T2，但国内外玩家都觉得他是最好玩的求生之一。"
+  },
+  "confidence": 3
+ }
+]

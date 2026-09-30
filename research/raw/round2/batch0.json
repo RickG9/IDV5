@@ -1,0 +1,972 @@
+[
+ {
+  "id": "lucky-guy",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "幸运儿史诗级削弱！七名角色迎来最新调整！",
+    "url": "https://www.bilibili.com/video/BV1ftB7BrEmV",
+    "engagement": "57.4万播放 · 3402评论 · top comment 1.8k likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The December 2025 nerf announcement drew huge attention, and the top comment says the nerf simply went too far.",
+     "cn": "12月削弱爆料播放量极高，最高赞评论直言'幸运儿削弱得有点过了'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "以防你不知道幸运儿削弱后的开箱速度",
+    "url": "https://www.bilibili.com/video/BV1XdBUBXEKG",
+    "engagement": "17.8万播放 · 639评论 · top comment 5.0k likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The top comment (≈5k likes) jokes that hunters no longer need to chase Lucky Guy first because he carries at most two 'battle-damaged' items, so post-nerf he ramps up slowly.",
+     "cn": "高赞（约5千）调侃现在监管都不用首追幸运儿了，反正他顶多两个'战损版'道具，削弱后成型明显变慢。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "从幻神到不弱！幸运儿削弱实测简评！",
+    "url": "https://www.bilibili.com/video/BV1SbBaBTEQR",
+    "engagement": "8.7万播放 · 678评论 · top comment 563 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "Analyst 班恩不勾 tested the nerf and concluded he fell from 'god-tier' to merely 'not weak'; the top comment asks for the Lucky Parcel to guarantee the wished item as compensation.",
+     "cn": "班恩不勾实测结论是'从幻神到不弱'，高赞建议把幸运包裹改成必出所许道具作为补偿。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "新版幸运儿be like:",
+    "url": "https://www.bilibili.com/video/BV1g2MEzVEhM",
+    "engagement": "25.6万播放 · 647评论 · top comment 3.0k likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "After the April 2025 chest buff the top comment called him a 'hidden T0' who is strong but low-tempo because he needs a plan to use his items.",
+     "cn": "4月加强后高赞称他是'隐藏T0'：强度够，但需要思路，节奏感不如那些显眼的强势角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "发明人：MRC小迪 发明项目：6s幸运儿",
+    "url": "https://www.bilibili.com/video/BV1j3evzaEpA",
+    "engagement": "24.7万播放 · 506评论 · top comment 3.2k likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "A viral IVL clip of MRC's 小迪 going down in 6 seconds on Lucky Guy became a meme, but it also shows pro teams were drafting him in summer 2025.",
+     "cn": "IVL夏季赛MRC小迪幸运儿6秒倒地成了名梗，但也说明当时职业队确实会拿幸运儿上场。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】年锦夏季赛首次被三跑？！DOU5人队做到了！幸运儿开局牵制1693，马尾勘探员关键ob并且成功走地窖！",
+    "url": "https://www.bilibili.com/video/BV1T1Nc6FEPP",
+    "engagement": "1.7万播放 · 87评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Caster 凉哈皮 highlights a 2026 summer-season pro match where Lucky Guy's highlight opening kite ('牵制1693') set up a three-man escape, so he is still fielded in pro play after the nerf.",
+     "cn": "凉哈皮解说2026夏季赛：幸运儿开局牵制1693助队三跑，削弱后职业赛场仍在出场。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【小迪｜可可】迪：移行什么时候改成150s啊？…迪：幸运儿现在综合能力太强了，但是只是为了平局才有的这个强度",
+    "url": "https://www.bilibili.com/video/BV1xjep68EbA",
+    "engagement": "3273播放",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Pro player 小迪 says Lucky Guy's all-round kit is now very strong, but that the strength mostly serves to secure ties rather than outright wins.",
+     "cn": "职业选手小迪认为幸运儿现在综合能力很强，但这种强度主要是用来保平局的。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【锐评】现版本的幸运儿强度如何呢？现版本还可以玩吗？",
+    "url": "https://www.bilibili.com/video/BV1mG5k6NE5H",
+    "engagement": "4.9万播放 · 139评论 · top comment 163 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Top comments mock wish RNG ('facing Disciple, wish failed, got perfume') and mourn the cut to Mechanic-doll durability, and one veteran says he has quit Lucky Guy.",
+     "cn": "高赞吐槽许愿歪道具（对面使徒却歪出香水），并怀念被砍的娃娃耐久，有老玩家直言不玩幸运儿了。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who the hell ask lucky guy needs to be nerf most of the hunters are 70% and lucky is 30%",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1n0om3j/who_the_hell_ask_lucky_guy_needs_to_be_nerf_most/",
+    "engagement": "119 upvotes · 57 comments",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Replies push back hard: he 'literally sees constant tournament play', is 'Mechanic-lite with a flare gun', and peak-tier hunters ban him often, though players doubted he could be nerfed without being gutted.",
+     "cn": "回复普遍反驳楼主：他'比赛出场不断'，相当于'带信号枪的简化版机械师'，巅峰监管也常ban他，但大家也担心一削就废。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "HUGE incoming balance changes",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1puqdqz/huge_incoming_balance_changes/",
+    "engagement": "66 upvotes · 108 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "Global players called the December nerf 'way too overkill', others blamed his COA 9 showing and extreme versatility, and an Asia-server player said he is still first-chased 80–90% of the time.",
+     "cn": "国际服玩家认为削弱'过头了'，也有人归因于COA9的表现和他过于万能；亚服玩家称削弱后他仍有八九成被首追。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I hope they nerf lucky guy synergie with new persona",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1uliy14/i_hope_they_nerf_lucky_guy_synergie_with_new/",
+    "engagement": "0 upvotes · 19 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The nerf request was downvoted, but replies agree he is a strong survivor, rated 'A+ to S-' and 'high tier in CN for a while', whose versatility is what makes him good.",
+     "cn": "要求削弱的帖子被踩，但回复一致认为他本身很强（'A+到S-'、'国服高端一直很强'），强在万能。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THEY KILLED LUCKY GUY",
+    "url": "https://www.youtube.com/watch?v=Gc2uTnUm0P4",
+    "engagement": "13,176 views",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "An EN creator's reaction to the December 2025 nerf frames it as the end of Lucky Guy's meta run.",
+     "cn": "英文区UP主对12月削弱的反应视频，认为幸运儿的版本红利被'砍死'了。"
+    }
+   }
+  ],
+  "agrees": [
+   "earlyGame 4 / lateGame 8: CN and EN both say the Dec 2025 nerf leaves him weak before he has items ('hunters don't even need to first-chase him'), while item flexibility still carries late game.",
+   "High gameSense/mapKnowledge demand: players stress it is 'all about game sense', meaning picking the right wish per hunter (perfume vs Bloody Queen/Night Watch, gun/flashlight vs Opera).",
+   "quickMatch 5: most casual content revolves around fun or frustrating RNG wishes.",
+   "Rank ban target since July 2025: confirmed by Reddit ('peak tier hunters ban him quite often').",
+   "meta.high 3 fits the post-nerf verdict of 'from god-tier to not weak' plus 2026 CN complaints about being 'forced' to play him and bad wish RNG.",
+   "Text note: meta.notes says he is 'almost never picked in IVL/COA', which is outdated (see meta.pro change)."
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 2.0,
+    "to": 3,
+    "why": "Multiple independent sources show regular pro use: MRC fielded him in IVL summer 2025, Reddit says he 'sees constant tournament play' and the Dec nerf was tied to COA 9, and 2026 summer IVL casts show DOU5 opening kites on him. MRC pro 小迪 (Sep 2026) also calls his all-round kit very strong for securing ties.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1j3evzaEpA",
+     "https://www.reddit.com/r/IdentityV/comments/1n0om3j/who_the_hell_ask_lucky_guy_needs_to_be_nerf_most/",
+     "https://www.reddit.com/r/IdentityV/comments/1puqdqz/huge_incoming_balance_changes/",
+     "https://www.bilibili.com/video/BV1T1Nc6FEPP",
+     "https://www.bilibili.com/video/BV1xjep68EbA"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Lucky Guy is seen as a versatile item gambler who leans heavily on game sense: after the April 2025 chest buff players called him a hidden T0, and he became a regular tournament pick and ranked ban target. The December 2025 nerf felt like overkill to many because he now ramps up slowly and is easy to ignore early, but by 2026 the consensus has settled on 'still strong, just not busted', with pros drafting him for his flexible items and tie-securing late game while casual players grumble about bad wish RNG.",
+   "cn": "玩家普遍认为幸运儿是吃意识、靠道具组合的万金油：2025年4月加强后被称作'隐藏T0'，一度成为比赛常客和排位ban位。12月的'史诗级削弱'让他前期成型慢、存在感低，不少人觉得砍过头了，但到2026年的共识是'依旧能打，只是不再超模'：职业队仍看重他灵活的道具和保平能力，路人则常吐槽许愿歪道具。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "doctor",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "如何评价当前版本医生强度？当之无愧的剩格调也能玩，T0天王级的角色",
+    "url": "https://www.bilibili.com/video/BV1NsFNzrEos",
+    "engagement": "7.9万播放 · 647评论 · top comment 370 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "The uploader calls post-buff Doctor a 'T0 king' who works even without her usual build, and the top comment says the worst part is that you can't control her health because one syringe undoes all chip damage.",
+     "cn": "UP主称加强后的医生是'T0天王'，不带常规天赋也能玩；高赞说最恶心的是状态控不住，一针下去专属道具还无损耗。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "反控精英！医生到底该不该削弱？【茶余饭后】",
+    "url": "https://www.bilibili.com/video/BV1WMoMBuEGG",
+    "engagement": "6.3万播放 · 1290评论 · top comment 552 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "班恩不勾's 'anti-control elite' discussion drew about 1.3k comments; the top comment calls Doctor's current power an over-tuned stopgap covering for flawed survivor-side design.",
+     "cn": "班恩不勾的'反控精英'讨论评论破千，高赞认为医生目前的高强度只是权宜之策，是被拿来遮羞的超标角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "无限流医生为何还不削弱",
+    "url": "https://www.bilibili.com/video/BV17RomBgEdB",
+    "engagement": "7.7万播放 · 357评论 · top comment 442 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "From the hunter side, commenters say Doctor is the ultimate anti-control pick: whatever health you chip off, the team is back to full the next second.",
+     "cn": "监管视角：医生反控场极强，刚控好的血条下一秒又全员满血。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五最弱势的九位求生，无法直接判赢仍需加强",
+    "url": "https://www.bilibili.com/video/BV1hMXyBgEYd",
+    "engagement": "58.5万播放 · 2740评论 · top comment 3.4k likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "This viral sarcastic 'nine weakest survivors' video actually lists the nine most oppressive picks, and Doctor appears alongside Lanternist, Prospector, Matador and Seer.",
+     "cn": "爆款反讽视频'最弱势的九位求生'实为最强九人，医生与幻灯师、勘探员、斗牛士、先知等同列。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "医生削弱效果展示",
+    "url": "https://www.bilibili.com/video/BV1zvEt6ZEYj",
+    "engagement": "34.8万播放 · 774评论 · top comment 3.0k likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The July 2026 self-heal nerf is widely seen as mild: the top comment jokes a hunter would give up long before the tenth self-heal, and another works out that the real slowdown is only about 33%.",
+     "cn": "7月削弱被普遍认为不痛不痒：高赞（3千）调侃监管打你十几刀前自己就走了，另有评论算出实际只慢约33%。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【六年S医生】详谈医生此次削弱",
+    "url": "https://www.bilibili.com/video/BV1mLEt6rEoB",
+    "engagement": "8.5万播放 · 681评论 · top comment 1.1k likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A six-year S-badge Doctor main and top commenters agree that as long as the two Medical Boosters stay, she 'can never be nerfed into uselessness' and reliably tanks three hits whether kiting or rescuing.",
+     "cn": "六年S医生及高赞评论认为：只要两个小药瓶还在就削不废，无论救人还是牵制都能稳定吃三刀。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "ZQ vs ACT 朱雀拿出医生体系！打得这么激烈到底结局如何？！",
+    "url": "https://www.bilibili.com/video/BV14Bg3zpE2J",
+    "engagement": "7.3万播放 · 145评论 · top comment 574 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "In IVL both Zhuque and WBG fielded Doctor comps in 2025, and commenters note that 'Doctor + OB' comps had been farming the top ladder even earlier.",
+     "cn": "IVL上朱雀、WBG都拿出过医生体系，评论称'医+ob'体系早在人榜前列流行。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【卡梦】4分17秒的三跑！太精彩了，这就是“第一狼队”，成都狼人全员操作怪！三叶医生天秀牵制1693苏打喧嚣…",
+    "url": "https://www.bilibili.com/video/BV1eKgY6CESP",
+    "engagement": "2.0万播放 · 11评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "In a 2026 summer-season pro match, Wolves' 三叶 pulls off a highlight kite ('天秀牵制1693') on Doctor against Hullabaloo, which shows she is a genuine pro kiter.",
+     "cn": "2026夏季赛狼队三叶用医生天秀牵制喧嚣，说明医生已是职业赛场上的正经牵制位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which survivor/s you find irritating to chase as a hunter?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+    "engagement": "22 upvotes · 47 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Hunter mains single out Doctor: the OP begs devs to 'REMOVE HER BUFF', the second-highest comment (19 upvotes) says she is fully healed by the next corner, and another calls her 'lowkey OP' against hunters who can only break pallets.",
+     "cn": "监管玩家点名医生：楼主喊'删掉她的加强'，次高赞（19）吐槽拐个弯她就满血，还有人说她对只能踩板的屠夫'有点超模'。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Gameplay showing some of the new surv buffs from test server!",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1owuasb/gameplay_showing_some_of_the_new_surv_buffs_from/",
+    "engagement": "98 upvotes · 97 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "The test-server footage of the Medical Booster alarmed players: one reply says the Doctor and Perfumer buffs 'ruined' a game that was finally balanced, while others called them fair QoL for an old kit.",
+     "cn": "共研服医生小药瓶实测引发担忧：有人认为医生和调香的加强'毁了'刚平衡的环境，也有人觉得只是老角色的合理补强。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Why some player call Joseph and Wax no skill hunter🤨 (comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1w4ytlt/why_some_player_call_joseph_and_wax_no_skill/p7b8yh6/",
+    "engagement": "comment 38 upvotes (thread 23 upvotes · 34 comments)",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "A 38-upvote reply turns the 'no-skill' label on survivors, calling Lanternist, Doctor and Perfumer 'the true definition of no-skill, no-brain characters'.",
+     "cn": "38赞回复把'无脑'标签甩回求生：幻灯师、医生、调香师才是真正的无技术无脑角色。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "This is why Doctor is Top Banned Survivor now - #IdentityV #IDV",
+    "url": "https://www.youtube.com/watch?v=_RcNJikziDI",
+    "engagement": "14,881 views",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "EN creator Nubspector frames Doctor as a top-banned survivor in ranked after her buff.",
+     "cn": "英文区UP主Nubspector称医生加强后已成排位里被ban最多的求生之一。"
+    }
+   }
+  ],
+  "agrees": [
+   "skillFloor 2 / forgiveness 9: she is universally seen as easy (called 'no-skill, no-brain' by hunters and still recommended to newcomers).",
+   "survivability 8 / support 9: confirmed ('stably eats three hits', whole-team health reset, 'anti-control elite').",
+   "Breaking Wheel remains the consensus hard counter; chip/control hunters are the ones she frustrates most.",
+   "The July 2 2026 nerf (Med Elite 30/20/10/5%, -5% self-heal per heal) is confirmed, and the community sees it as mild.",
+   "Text note: sentiment ('noob-trap, Gardener-but-worse'), weakness 'no kite tools, free first chase' and meta.notes 'zero IVL/COA picks' are outdated since the Nov 2025 Medical Booster buff."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 2.0,
+    "to": 4,
+    "why": "Since the Nov 2025 buff, CN creators call her 'T0' and an over-tuned 'anti-control elite', a viral sarcastic tier video lists her among the nine strongest survivors, EN hunters beg for her buff to be removed, and she is described as a top-banned survivor. The July 2026 nerf is seen as minor.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1NsFNzrEos",
+     "https://www.bilibili.com/video/BV1WMoMBuEGG",
+     "https://www.bilibili.com/video/BV1hMXyBgEYd",
+     "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+     "https://www.youtube.com/watch?v=_RcNJikziDI",
+     "https://www.bilibili.com/video/BV1zvEt6ZEYj"
+    ]
+   },
+   {
+    "field": "meta.mid",
+    "from": 3.0,
+    "to": 4,
+    "why": "The same buff makes her a forgiving but strong ranked pick at every mid tier: she tanks three hits, resets team health and is hated by hunters of all ranks. Several independent CN and EN sources call her meta or over-tuned.",
+    "sources": [
+     "https://www.bilibili.com/video/BV17RomBgEdB",
+     "https://www.bilibili.com/video/BV1mLEt6rEoB",
+     "https://www.reddit.com/r/IdentityV/comments/1owuasb/gameplay_showing_some_of_the_new_surv_buffs_from/",
+     "https://www.reddit.com/r/IdentityV/comments/1w4ytlt/why_some_player_call_joseph_and_wax_no_skill/p7b8yh6/"
+    ]
+   },
+   {
+    "field": "meta.pro",
+    "from": 1,
+    "to": 3,
+    "why": "Contrary to 'zero IVL/COA picks', Doctor comps were fielded by Zhuque and WBG in IVL 2025, and in the 2026 summer season Wolves' 三叶 and others kite on Doctor.",
+    "sources": [
+     "https://www.bilibili.com/video/BV14Bg3zpE2J",
+     "https://www.bilibili.com/video/BV1eKgY6CESP"
+    ]
+   },
+   {
+    "field": "kite",
+    "from": 4.0,
+    "to": 6,
+    "why": "With two Medical Boosters, players say she 'stably eats three hits' in the first chase, and pros pull off highlight kites on her in 2026 IVL. Hunters complain she is healed and gone by the next corner, so the 'no kite, free first chase' framing no longer holds.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1mLEt6rEoB",
+     "https://www.bilibili.com/video/BV1eKgY6CESP",
+     "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+     "https://www.bilibili.com/video/BV1NsFNzrEos"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Since the November 2025 Medical Booster buff, Doctor has gone from beginner healbot to one of the most complained-about survivors: CN creators call her a T0 anti-control pick who reliably tanks three hits and erases chip damage, hunters on Reddit beg for her buff to be removed, and she shows up in IVL comps and on top-ban lists. The July 2026 self-heal nerf is broadly viewed as mild, so she remains a forgiving, low-skill but genuinely strong pick whose main answers are Breaking Wheel and burst or anti-loop hunters.",
+   "cn": "自2025年11月加入小药瓶后，医生从'新手奶妈'变成了最被监管吐槽的求生之一：国服UP主称她是反控场的T0，一溜稳吃三刀、蹭血全部白打，国际服监管喊着'删掉她的加强'，职业赛场也多次出现医生体系。2026年7月的自疗削弱被普遍认为是'蚊子腿'，她依旧是上手简单、容错极高且真正强势的角色，主要怕破轮和爆发、反溜类监管。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "lawyer",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "强度下滑严重！律师已成牢角色？【天方夜谈】",
+    "url": "https://www.bilibili.com/video/BV1abbQzxEaD",
+    "engagement": "14.1万播放 · 1422评论 · top comment 2.2k likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "The top comment (2.2k likes) says 'having no debuff' is simply not an advantage at today's power level, and others add that he snowballs winning games but can't rescue losing ones.",
+     "cn": "高赞（2.2千）：'没有debuff'在如今的版本根本算不上优点；也有人说律师优势局能放大优势，劣势局无力回天。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "为什么律师要加强？囚徒电一下律师要28秒才追得上",
+    "url": "https://www.bilibili.com/video/BV1Gc1MB9E1r",
+    "engagement": "10.3万播放 · 848评论 · top comment 493 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top comment argues that Lawyer is kept weak on purpose because he is so easy to play, and that a character this simple shouldn't get high power.",
+     "cn": "高赞认为律师的问题在于上手太简单，官方不可能给这么简单的角色不该有的强度。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "律师喜提加强 谁在认为律师强",
+    "url": "https://www.bilibili.com/video/BV1yv1TBrE2e",
+    "engagement": "9.2万播放 · 433评论 · top comments 267/237 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Reactions to the October 2025 buff news are mostly mocking: commenters sarcastically call him 'a four-stack essential', and a Nightmare main laughs at Lawyers hiding in the Arms Factory big house.",
+     "cn": "对10月加强的反应多为调侃：评论反讽'四黑必备'，噩梦玩家说看到军工厂大房的律师直接笑了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "A16七阶97胜率红蝶告诉你想赢就不能抓律师！",
+    "url": "https://www.bilibili.com/video/BV178vYByEtb",
+    "engagement": "16.3万播放 · 209评论 · top comment 289 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A tier-7 Geisha with a 97% win rate argues that chasing the Lawyer first is a losing opener, and comments debate which kiter or support to pressure instead.",
+     "cn": "七阶97%胜率红蝶：想赢就别首追律师，评论区讨论开局应该先压哪个牵制位或辅助位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【锐评】律师这个版本有没有可能会加强?",
+    "url": "https://www.bilibili.com/video/BV1VQXqBZEwv",
+    "engagement": "9357播放 · 71评论",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Commenters agree he is 'just weak this version, the weakest of all decoders', though a flat speed buff would make him bully walking hunters.",
+     "cn": "评论普遍认为律师'这版本就是弱，修机位里最弱的'，也有人说若加5%移速会很欺负走地屠。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which decoder is the best for generalist, (aka they are good in any team comp/battles scenarios and are versatile)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1pzjd31/which_decoder_is_the_best_for_generalist_aka_they/",
+    "engagement": "16 upvotes · 25 comments · reply 32 upvotes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A 32-upvote reply says 'only answer is Lawyer': he is the only decoder whose buffs help kiting (3.5% speed, 12% vault) and he has Terror-Shock immunity; a second reply adds he is safer than TME or Mechanic.",
+     "cn": "32赞回复：'只能是律师'，他是唯一有牵制加成（移速3.5%、翻越12%）且免震慑的修机位；另有人补充他比盲女、机械师稳。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Does anybody have pure hatred for Lawyer/Freddy?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1pq8f24/does_anybody_have_pure_hatred_for_lawyerfreddy/",
+    "engagement": "37 upvotes · 30 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "Beyond lore hate, mains defend his kit as 'low-key peak' and say Lawyers are annoying in rank because they waste the hunter's time if not found.",
+     "cn": "除剧情上的讨厌外，玩家认为他技能'其实很顶'，排位里找不到律师会白白浪费监管时间。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Does netease hate hunters? (comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1p4rhe1/does_netease_hate_hunters/nqf7k15/",
+    "engagement": "comment 22 upvotes (thread 67 upvotes · 59 comments)",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A Bane/Ithaqua main says they still ban Lawyer in rank in case of a four-stack, since his map lets the whole team rotate perfectly.",
+     "cn": "有监管玩家表示排位仍会ban律师以防四黑，因为他的地图能让全队完美转点。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Some Things Only OG IDV Players Remember (comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1uwj5za/some_things_only_og_idv_players_remember/oxjobm8/",
+    "engagement": "comment 55 upvotes (thread 48 upvotes · 165 comments)",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Veterans recall Lawyer was 'useless for half his lifetime'; he is good for learning maps and little else.",
+     "cn": "老玩家回忆律师大半生都很没用，适合新手背地图，其他作用有限。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "How to KITE LONGER even as Decoder! Lawyer Legendary Rank + TIPS | Identity V",
+    "url": "https://www.youtube.com/watch?v=vNzX62G6cIs",
+    "engagement": "44,715 views",
+    "date": "unknown",
+    "takeaway": {
+     "en": "A popular EN guide uses a Legendary-rank Lawyer to teach how to kite longer as a decoder, which reflects the EN view that he can hold a chase better than most decoders.",
+     "cn": "英文热门教学以高段位律师为例讲解修机位如何溜得更久，反映国际服认为他比多数修机位更能牵制。"
+    }
+   }
+  ],
+  "agrees": [
+   "skillFloor 1 / forgiveness 8: consensus that he is the easiest character, 'good to learn the map with'.",
+   "meta.high 1 / meta.pro 1: CN calls him the weakest decoder of the version, and no pro usage was found.",
+   "info 9: his map gives the whole team rotation info, and some hunters still ban him against four-stacks.",
+   "Terror-Shock immunity is repeatedly cited as his one real rescue niche.",
+   "kite 3: CN says a Prisoner-zapped hunter catches him quickly; EN rates his kite only 'slightly better than Prisoner's', so it stays low overall."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "The community treats Lawyer as the easiest decoder and a map-learning tutorial character, and EN players still rate him a safe generalist whose map, speed and vault stacks and Terror-Shock immunity make him the 'best decoder for kiting'. CN players are blunter: his only selling point, 'no debuff', no longer counts for much, so he is widely called the weakest decoder of the current version, and the Oct–Nov 2025 buffs were met with mockery.",
+   "cn": "社区普遍把律师当作最简单的修机位和背地图的'教学角色'，国际服仍有人认为他凭地图、移速翻越叠层和免震慑，是最会溜的修机位。国服评价则更直接：他唯一的卖点'没有debuff'在当前版本已不算优点，普遍被称为版本最弱修机位，2025年10–11月的加强也多被调侃。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "thief",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "慈善玩家撕心裂肺的怒吼。",
+    "url": "https://www.bilibili.com/video/BV1GJL6zdEJD",
+    "engagement": "58.7万播放 · 3797评论 · top comment 9.3k likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The top comment (9.3k likes) says Thief is the one survivor with every right to complain about skins, strength and story, and launch-era players miss the days fans called him 'little angel'.",
+     "cn": "高赞（9.3千）：'全游唯一有资格哭皮肤、哭强度、哭剧情的只有慈善家'；公测老玩家怀念'克利切小天使'的年代。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "倒车视野增加！全员求生者有福了！慈善家共研服加强效果演示！",
+    "url": "https://www.bilibili.com/video/BV1bRzNBbEf7",
+    "engagement": "26.3万播放 · 902评论 · top comment 3.1k likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The January 2026 test-server buff widened the moonwalk camera (and backwards view for everyone); top comments mostly joke about it rather than treat it as a real power jump.",
+     "cn": "2026年1月共研服加大开手电倒车视野（全员倒车视野也受益），高赞多在玩梗，并不认为是质变。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "倒车视野优化，交钩容错大增！慈善病患加强实测！",
+    "url": "https://www.bilibili.com/video/BV1vPzrBuEzR",
+    "engagement": "5.7万播放 · 151评论",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Commenters describe the buff as giving the flashlight a Copycat-style wide view, which somewhat lowers the moonwalk and aiming barrier.",
+     "cn": "评论认为这次加强是把开手电视野改成模仿者那样更大更广，降低了一点倒车和瞄准门槛。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "优化型加强！慈善家&入殓师调整简评！",
+    "url": "https://www.bilibili.com/video/BV1CF786iEMt",
+    "engagement": "4.7万播放 · 228评论 · top comment 192 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The summer 2026 change that shows terrain on the radar while shining the flashlight was ridiculed: the top comment says a moonwalking Thief has no attention to spare for the minimap.",
+     "cn": "暑期'开手电时雷达显示地形'的调整被嘲：高赞说倒车照人时哪有心思看左上角的小地图。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "难道有没热度，没强度，还没二金的角色吗？",
+    "url": "https://www.bilibili.com/video/BV1gvYdzkEyV",
+    "engagement": "1.5万播放 · 134评论 · top comment 118 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "A fan video sums Thief up as having 'no popularity, no strength and no second gold skin', and commenters add he still lacks basic animations after seven years.",
+     "cn": "粉丝视频总结慈善家'没热度、没强度、没二金'，评论吐槽七年了连牵气球动作都没有。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "慈善家和飞行家，谁的强度高",
+    "url": "https://www.bilibili.com/video/BV1BBem6HEJb",
+    "engagement": "2756播放 · 34评论",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "The top comment says Thief is too easy to counter: Bane, Herztier, Opera and even Nightmare, Jack or Hell Ember all shut him down.",
+     "cn": "高赞：慈善家太容易被克制，鹿头、心兽、歌剧甚至噩梦、杰克、厂长都克他。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Is Thief a technically good decoder?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1nkabky/is_thief_a_technically_good_decoder/",
+    "engagement": "144 upvotes · 17 comments · top reply 125 upvotes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "The top reply (125 upvotes) says his extra calibrations slightly speed up team decoding if everyone hits greats, while another notes he is the hardest of the four starter survivors to play.",
+     "cn": "高赞（125）：多出的校准如果都打大成功，其实能小幅加快全队破译；也有人说他是四个初始角色里最难上手的。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "leave your tips with your mains here o/",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1mz2bgc/leave_your_tips_with_your_mains_here_o/",
+    "engagement": "36 upvotes · 44 comments",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "A self-described top-100 Thief shares tech (flashlight left on a window for a guaranteed stun, double stun with the pallet persona, silence to support teammates), while another reply says placed high-power lights rarely justify themselves.",
+     "cn": "自称前百的慈善家分享：窗边放手电保证晕、配合砸板天赋双晕、用封技能支援队友；另有评论认为固定强光灯收益很低。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Thief was the only starter survivor who had no deduction star..",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1p52wpp/thief_was_the_only_starter_survivor_who_had_no/",
+    "engagement": "179 upvotes · 15 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A popular meme post points out that Thief was the only starter survivor never given a Deduction Star, which shows how neglected fans feel he is.",
+     "cn": "高赞梗帖：慈善家是唯一没有演绎之星的初始求生，反映粉丝对他被冷落的不满。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Surv popularity in CN server (comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vcnwbu/surv_popularity_in_cn_server/p13mu7i/",
+    "engagement": "comment 4 upvotes (thread 117 upvotes · 31 comments)",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Using the CN minimum C-badge score thresholds as a rough usage proxy, a commenter places Thief among the least-played ranked survivors.",
+     "cn": "有玩家用国服C牌最低分数线粗略估算使用率，慈善家属于排位最少人玩的求生之一。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The Most Annoying Thief ever - #identityv",
+    "url": "https://www.youtube.com/watch?v=ZkBmte1aj-o",
+    "engagement": "6,329 views",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "An EN creator's clip frames a skilled Thief as 'the most annoying' opponent, which shows his flashlight is still a real nuisance in good hands.",
+     "cn": "英文区UP主把会玩的慈善家称为'最烦人的'，说明熟练玩家的手电依然很恶心人。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The official July 2026 notes confirm a small Thief change (the radar displays terrain while using the Flashlight), so his only 2026 adjustments are QoL.",
+     "cn": "官方2026年7月更新确认慈善家的小改动：使用手电筒时雷达显示地形，2026年的调整都只是优化。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta low 2 / mid 1 / high 1 / pro 1: consensus that he is weak and one of the least-played ranked survivors; no pro usage found.",
+   "skillFloor 8 / aim 9 / forgiveness 2: described as the hardest of the four starter survivors, and moonwalk aiming is the core barrier.",
+   "Counter list (Blink, ranged, Opera, burst hunters) matches CN comments naming Bane, Herztier, Opera, Nightmare, Jack and Hell Ember.",
+   "quickMatch 4: jumpscare flashlight fun, meme four-Thief squads and 'annoying' clips dominate casual content.",
+   "Text note: meta.changes says 'no 2025-26 balance change', but there was a Jan 2026 wider moonwalk-camera buff and a Jul 2026 radar-terrain buff. Both are seen as QoL, so the numbers stand. Reddit also argues the Hoarder calibration trait is a mild team decode plus for skilled players rather than purely a debuff."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Thief is remembered fondly as an early-season star but is now seen as the most neglected starter survivor: weak, easily countered by Blink, ranged and burst hunters, and short on skins and story, a mood captured by the 9k-like comment that he is 'the only one entitled to complain about skins, strength and lore'. The 2026 QoL buffs (a wider moonwalk camera and radar terrain while shining) were treated as jokes rather than real power, so he remains a high-effort, low-reward pick that only skilled mains can make genuinely annoying.",
+   "cn": "慈善家在老玩家记忆里曾是'小天使'和早期强势角色，如今却被视为最受冷落的初始求生：强度低，容易被闪现、远程和爆发型监管克制，皮肤和剧情也少，'全游唯一有资格哭皮肤哭强度哭剧情'的评论获赞近万。2026年的倒车视野和雷达显示地形等'优化型加强'被当成笑话，他依旧是高操作、低收益的角色，只有熟练玩家才能靠手电把监管恶心到。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "gardener",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】哈皮谈为什么园丁这个角色看似很强，但是高端局不常见。木偶师这个角色ban了不划算，但是不ban又很烦人。",
+    "url": "https://www.bilibili.com/video/BV158XLBYEz6",
+    "engagement": "4.5万播放 · 217评论 · top comment 365 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Top streamer 凉哈皮 says she looks strong but is rare at the very top; the top comment explains she is less 'strong' than universally safe, with no hunter hard-countering her, no comp dependency and an easy guaranteed floor, while top ranks have better options.",
+     "cn": "凉哈皮：园丁看似很强但高端局不常见；高赞：她不是强，而是万金油，没有特别克制她的监管，不吃配队，好上手、下限有保障，但高端局有更好的选择。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "屠榜第四来打破T4园丁需要加强的谬论",
+    "url": "https://www.bilibili.com/video/BV1rHjR6eEJ1",
+    "engagement": "15.6万播放 · 425评论 · top comment 369 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The #4 hunter on the leaderboard debunks the idea that Gardener is weak and needs buffs, and commenters ask how anyone is supposed to counter the Borrowed-Time 'Gardener system' of chair plays.",
+     "cn": "屠榜第四反驳'园丁T4需要加强'的说法，评论区求问'园丁体系'（带搏命冲点位拆椅）到底怎么反制。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "反映一个人水平高低，在于他认为园丁需不需要削弱",
+    "url": "https://www.bilibili.com/video/BV1W3JA6wEPC",
+    "engagement": "4.6万播放 · 697评论 · top comment 91 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A heated debate on whether she needs a nerf; the top comment says 'in any game, anything called a shield-bot is never weak', while others insist the Gardener system still needs practice and coordination.",
+     "cn": "围绕园丁该不该削的争论，高赞：'各个游戏里但凡能叫盾√的就没有弱的'，也有人强调园丁体系同样需要背点和配合。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "简评园丁削弱？晚安麻婆体系……",
+    "url": "https://www.bilibili.com/video/BV1rSjA6WEqg",
+    "engagement": "3.4万播放 · 174评论 · top comment 187 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The top comment says 80% of her strength is the shield (50-second opening shield, carried-over Recall, stun-refresh), so nerfing the toolkit protects the shield and claims she was 'nerfed to uselessness' are overblown.",
+     "cn": "高赞：园丁80%强度在盾上（开局50秒盾兜底、回想进度继承、眩晕可续盾），削工具箱是为了保住盾，'削废了'的说法太夸张。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "园丁活该削弱",
+    "url": "https://www.bilibili.com/video/BV15qJn6TE6h",
+    "engagement": "11.1万播放 · 164评论",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Gardener players concede she is strong; their real complaint is that the toolkit is now nearly useless, making her 'a Lucky Guy with a higher floor'.",
+     "cn": "园丁玩家并不否认园丁强，真正在意的是手持物彻底没用，新版相当于'下限更高的幸运儿'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "园丁秒盾继承玩法！隔板秒勾回来了！共研服六名角色加强！",
+    "url": "https://www.bilibili.com/video/BV1cfC2BrEWj",
+    "engagement": "52.4万播放 · 1418评论",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "The November 2025 test-server shield buff (Recall usable while stunned, carried-over progress) drew half a million views and started the 'Gardener is strong now' narrative.",
+     "cn": "2025年11月共研服园丁盾加强（控制中可回想、进度继承）播放破50万，'园丁变强了'的讨论由此开始。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Why is Gardener getting picked in COA?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ssmzdu/why_is_gardener_getting_picked_in_coa/",
+    "engagement": "16 upvotes · 17 comments · top reply 33 upvotes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Replies call her 'sleeper OP' and a jack of all trades: the opening shield makes her a three-hit first chase, she decodes at 100%, guarantees shield rescues, does well into Opera, and often slips past bans as a pocket pick.",
+     "cn": "回复称她是'隐形超模'的万金油：开局盾让首追变三刀，满速修机，能开盾稳救，对歌剧很好，还常作为口袋角色躲过ban位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Do high tier gardeners ever use her sabotage?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1l34owa/do_high_tier_gardeners_ever_use_her_sabotage/",
+    "engagement": "23 upvotes · 16 comments",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A former #31 Gardener says high-tier players very rarely dismantle chairs; in tournaments she is a counter-pick that guarantees baseline kite time against single-hit meta hunters.",
+     "cn": "前国服31园丁表示高端局很少拆椅；比赛中她是针对单刀强势监管、保底牵制时间的'功能卡'。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who are the best off-rescues in game?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1udm7cn/who_are_the_best_offrescues_in_game/",
+    "engagement": "104 upvotes · 31 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Gardener is named among the best off-rescuers: the shield blocks Terror Shock and detention hits, and the toolbox shapes where the hunter can chair.",
+     "cn": "园丁被列为优秀副救：盾能防震慑、挡挽留，工具箱还能左右监管挂人的位置。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "As hunter, which survivors are not a good first chase? (comment)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1pcopjt/as_hunter_which_survivors_are_not_a_good_first/nrz8cz2/",
+    "engagement": "comment 26 upvotes (thread 36 upvotes · 23 comments)",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A Naiad main reports that Gardener is 'a really bad first chase' for some hunters because of her shield, though she may be fine to chase with others.",
+     "cn": "渔女玩家表示对部分监管来说园丁是'很差的首追对象'（有盾），换别的监管则未必。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "1st Gardener After BUFF Is ACTUALLY BROKEN…",
+    "url": "https://www.youtube.com/watch?v=hgXT15JDW34",
+    "engagement": "9,555 views",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "An EN creator showcases the #1 Gardener after the shield buff and labels her 'actually broken', echoing CN talk that the buff made her sturdy.",
+     "cn": "英文区UP主展示加强后的国服第一园丁，称她'真的超模'，与国服'园丁变强'的讨论相呼应。"
+    }
+   }
+  ],
+  "agrees": [
+   "skillFloor 2 / forgiveness 9: 'easy to pick up with a guaranteed floor' is the most common description.",
+   "earlyGame 8 / survivability 7: the 50-second opening shield makes her a three-hit, 'bad' first chase.",
+   "rescue 7: listed among the best off-rescuers because the shield blocks Terror Shock and detention hits.",
+   "Chair-breaking is rarely used at high tier; her power is almost entirely the shield, so the toolkit weakness is accurate.",
+   "The July 2 2026 toolkit cooldown nerf (12s to 14s) is confirmed, and players see it as protecting the shield rather than weakening her.",
+   "meta.high 2: 凉哈皮 and top comments say she 'looks strong but is uncommon in top-end games' because better options exist."
+  ],
+  "changes": [
+   {
+    "field": "meta.mid",
+    "from": 2.0,
+    "to": 3,
+    "why": "After the Nov 2025 shield buffs, the CN consensus is that she is 'not weak, with no hard counter'. A top hunter debunked the 'T4 Gardener needs buffs' view, the 'Gardener system' prompted nerf debates and a July 2026 nerf, and her own players admit she is strong. The bottom-tier mid-rank rating no longer matches.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1rHjR6eEJ1",
+     "https://www.bilibili.com/video/BV1rSjA6WEqg",
+     "https://www.bilibili.com/video/BV15qJn6TE6h",
+     "https://www.bilibili.com/video/BV158XLBYEz6",
+     "https://www.youtube.com/watch?v=hgXT15JDW34"
+    ]
+   },
+   {
+    "field": "meta.pro",
+    "from": 1,
+    "to": 2,
+    "why": "The note 'no IVL/COA presence' is contradicted: Reddit threads ask why she is picked in COA, and describe her as a tournament counter-pick against single-hit meta hunters and Opera that often slips past bans.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1ssmzdu/why_is_gardener_getting_picked_in_coa/",
+     "https://www.reddit.com/r/IdentityV/comments/1l34owa/do_high_tier_gardeners_ever_use_her_sabotage/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Gardener is still the beloved mascot and beginner favourite, but since the November 2025 shield buffs the community sees her as a sturdy jack of all trades: the 50-second opening shield makes her a bad first chase, she decodes at full speed, rescues safely behind her shield and has almost no hard counter. High-rank opinion is split between 'looks strong, but better options exist at the top' and irritation at the chair-dismantle 'Gardener system'. She is an occasional COA counter-pick, and the July 2026 toolkit nerf was mocked because players agree nearly all her power is in the shield.",
+   "cn": "园丁仍是人气吉祥物和新手首选，但2025年11月加强盾后，社区普遍视她为万金油：开局50秒盾让她不好首追，满速修机，能开盾无伤救人，几乎没有特别克制她的监管。高端局评价分化为'看似强但顶端有更好选择'和对'园丁体系'拆椅打法的不满；她偶尔在COA作为功能卡出场，2026年7月削工具箱也被调侃，因为大家都认为她八成强度都在盾上。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "magician",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "Why is Magician popular in COA?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ucfiet/why_is_magician_popular_in_coa/",
+    "engagement": "31 upvotes · 23 comments · top reply 68 upvotes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Top replies say three wands work like three Flywheels, illusion hits feed no presence, he is consistent with a negligible decode debuff, can double as a Tide Turner, and counters meta hunters like Opera and Ivy, so pros value his high floor.",
+     "cn": "高赞：三根魔棒相当于三个飞轮，幻象挨打不给存在感，发挥稳定、破译减益可忽略，还能带搏命当二救，能针对歌剧、女王蜂等强势监管，职业队看重他的下限。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Shall magician get a slight decoding buff?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vawlb8/shall_magician_get_a_slight_decoding_buff/",
+    "engagement": "0 upvotes · 25 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The decode-buff suggestion was downvoted; replies say he is 'already very strong and balanced', 'IS picked a lot competitively', and became a good rescuer after the July 2026 buff.",
+     "cn": "给魔术师加破译的提议被踩，回复称他'已经很强且平衡''比赛里出场很多'，7月加强后还成了不错的救人位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Posting my Magician kite because he's very underrated and deserves more attention",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ki7yox/posting_my_magician_kite_because_hes_very/",
+    "engagement": "64 upvotes · 18 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "In a kite clip after the April 2025 buff, players call him underrated and 'so much fun now', though a COA viewer notes Goatman usually bullies him.",
+     "cn": "2025年4月加强后的牵制集锦，玩家称他被低估、现在很好玩；也有人指出COA里羊经常欺负魔术师。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "从魔术到病患，浅谈第五的强度膨胀【魔术师篇】",
+    "url": "https://www.bilibili.com/video/BV14UooYdE4a",
+    "engagement": "14.6万播放 · 1150评论 · top comments 930/525 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "In this pre-buff power-creep essay, comments call the wand 'primitive': a 2-second invisibility with footprints and a tiny sprint looks outdated next to modern kits.",
+     "cn": "加强前的'强度膨胀'杂谈：评论称魔术棒机制原始，两秒隐身还留脚印、加速极短，放在现在显得过时。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "0.87秒？魔术师毛毛雨级别加强",
+    "url": "https://www.bilibili.com/video/BV1qLdhYbEzS",
+    "engagement": "31.1万播放 · 1472评论 · top comment 2.2k likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The first reaction to the April 2025 buff was dismissive ('drizzle-level'); top comments joke that the 0.87-second sprint is tiny and that wand buffs help Lucky Guy more.",
+     "cn": "对2025年4月加强的第一反应是'毛毛雨'：高赞调侃0.87秒加速太短，魔术棒加强反而是'幸运儿大加强'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "魔术师史诗级加强！共研服十二名角色调整汇总！",
+    "url": "https://www.bilibili.com/video/BV1DLdVYvEi3",
+    "engagement": "52.2万播放 · 3973评论 · top comments 2.5k/2.1k likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The April 2025 buff summary drew about 4k comments; a top comment notes that whenever an old character's item gets buffed, Lucky Guy also benefits.",
+     "cn": "2025年4月加强汇总评论近4千，高赞调侃每当老角色道具加强，幸运儿也跟着吃福利。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全明星ob】过客5s魔术师，魔术史上最伟大的速溶传说！",
+    "url": "https://www.bilibili.com/video/BV1U1MUzsEfj",
+    "engagement": "27.9万播放 · 530评论 · top comment 3.2k likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A viral IVL moment of a pro Magician going down in 5 seconds became a meme, but it shows top teams do draft Magician.",
+     "cn": "IVL名场面：职业选手魔术师5秒倒地成梗，但也说明魔术师确实被顶级队伍选用。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "共研服魔术师实测调整！",
+    "url": "https://www.bilibili.com/video/BV1PEj161Evo",
+    "engagement": "19.9万播放 · 312评论 · top comment 617 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A test of the summer 2026 rescue buff (both go invisible after his first chair rescue); the top comment asks how that differs from First Officer.",
+     "cn": "暑期共研服救人加强实测（首次救人后双方隐身），高赞质疑'那请问和大副的区别是？'"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "想要问问你敢不敢相信我有前途",
+    "url": "https://www.bilibili.com/video/BV1QyEW6NExN",
+    "engagement": "2.7万播放 · 223评论 · top comment 120 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Magician main 阿昙 discusses the buff; the top comment argues it rewards him for rescuing and adds post-rescue self-protection, so Borrowed Time becomes optional.",
+     "cn": "魔术师主播阿昙谈加强，高赞长评认为加强鼓励魔术参与救人、救后自保更好，甚至可以不带搏命。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】路人王磁铁King首秀！魔术师天秀牵制ACT监管月1693，结果队友失误葬送全局！",
+    "url": "https://www.bilibili.com/video/BV1atE46CE7W",
+    "engagement": "6152播放",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "In 2026 pro play, debutant 磁铁 puts on a highlight Magician kite ('天秀牵制1693') against ACT's hunter, so Magician remains a regular pro kiter.",
+     "cn": "2026年职业赛场：磁铁首秀用魔术师天秀牵制ACT的监管，魔术师仍是职业常见牵制位。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The official July 2026 notes confirm the buff: after the Magician's first chair rescue, both he and the rescued survivor gain 2 seconds of Stealth.",
+     "cn": "官方2026年7月更新确认：魔术师首次救人后，他和被救者获得2秒隐身。"
+    }
+   }
+  ],
+  "agrees": [
+   "kite 7 / survivability 7: described as a 'guaranteed good kite' with three Flywheel-like wands.",
+   "selfSufficiency 7 / teamDependency 3: seen as a consistent solo kiter who doesn't need comp support.",
+   "decode 6: players say his calibration debuff 'doesn't exist' in practice and oppose giving him a decode buff.",
+   "Counters single-target skills; Reddit adds Opera (decoy blocks rail) and Ivy, while Goatman is noted as a bad matchup.",
+   "The July 2026 first-rescue double stealth is confirmed in the patch notes and already reflected in the kit; the community now calls him a respectable off-rescuer (rescue 6 is reasonable, 7 possible).",
+   "Text note: meta.notes 'almost zero IVL/COA picks' and changes (April 2025 only) are outdated."
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 1,
+    "to": 3,
+    "why": "The community explicitly discusses why Magician is 'popular in COA' and says he 'IS picked a lot competitively'. Bilibili shows him drafted in IVL 2025 and 2026 by several teams (e.g. 磁铁's debut against ACT). He is a regular situational pro kiter, not a zero-presence pick.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1ucfiet/why_is_magician_popular_in_coa/",
+     "https://www.reddit.com/r/IdentityV/comments/1vawlb8/shall_magician_get_a_slight_decoding_buff/",
+     "https://www.bilibili.com/video/BV1U1MUzsEfj",
+     "https://www.bilibili.com/video/BV1atE46CE7W"
+    ]
+   },
+   {
+    "field": "meta.high",
+    "from": 2.0,
+    "to": 3,
+    "why": "After the April 2025 and July 2026 buffs, EN players call him 'already very strong and balanced' and 'consistent overall', valued for his high floor against meta hunters. His regular pro use implies more than a comfort pick at top ranks.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1vawlb8/shall_magician_get_a_slight_decoding_buff/",
+     "https://www.reddit.com/r/IdentityV/comments/1ucfiet/why_is_magician_popular_in_coa/",
+     "https://www.reddit.com/r/IdentityV/comments/1ki7yox/posting_my_magician_kite_because_hes_very/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Magician is viewed as an honest, consistent kiter: his three wands act like three Flywheels, illusions feed no presence, and he counters many single-target and meta hunters, which is why pros in COA and IVL keep drafting him even though CN players once called his kit primitive. The April 2025 buff was first dismissed as 'drizzle-level', but he is now considered strong and balanced, and the July 2026 first-rescue invisibility has made him a respectable off-rescuer.",
+   "cn": "魔术师被认为是'老实稳定'的牵制位：三根魔棒相当于三个飞轮，幻象挨刀不给存在感，能针对许多单体技能和版本强势监管，所以虽然国服曾嫌他机制原始，COA和IVL的职业队仍常拿他。2025年4月的加强起初被嘲'毛毛雨'，如今普遍认为他强且平衡，2026年7月加入首次救人双方隐身后，也成了不错的副救。"
+  },
+  "confidence": 4
+ }
+]

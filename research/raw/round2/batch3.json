@@ -1,0 +1,920 @@
+[
+ {
+  "id": "prospector",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "【角色分析】站在强度的顶端，人类阵营的救世主",
+    "url": "https://www.bilibili.com/video/BV1JE421P7v9",
+    "engagement": "18万播放 · 1043评论 · top comment 992 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "The top comment (992 likes) notes that harassers like Prospector carry no decode penalty, and a reply argues that he is strong in this version because his natural counter, Bloody Queen, is rarely picked while hard-control hunters like Apostle are more common.",
+     "cn": "最高赞（992赞）指出勘探这类ob位没有修机减速；有回复认为他这版本强势是因为天敌红夫人出场少、使徒这类强控屠变多。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "为什么说勘探员是最被高估的角色 推荐练非蠢即坏",
+    "url": "https://www.bilibili.com/video/BV18ogBeyEkq",
+    "engagement": "11.6万播放 · 236评论 · top comment 509 likes",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "The comment section rejects the 'overrated' take (509 and 382 likes): after the nerfs he just needs more skill, and he can still protect both downed and standing teammates.",
+     "cn": "评论区高赞（509、382赞）普遍反驳“被高估”：削弱后只是更吃操作，保活人、保死人的能力依然在。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "理性讨论当前版本勘探员的强度",
+    "url": "https://www.bilibili.com/video/BV1LrK6zuEtZ",
+    "engagement": "3372播放 · 24评论 · top comment 29 likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "The top comment calls him one of the most complete survivors ever, with unlimited magnets, a very high ceiling, a low floor for unskilled players and strong value even after several nerfs.",
+     "cn": "高赞评论称他是最完美的角色之一：道具无限、上限极高、不会玩则下限低，被削多次依然强势。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "新版勘探员变成落魄野狗？这一期带你了解勘探员现版本强度与教学",
+    "url": "https://www.bilibili.com/video/BV1ekKP6QEnu",
+    "engagement": "4799播放 · top comment 15 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "After the July 2026 nerf, top comments say he is still strong for kiting and escorting teammates but demands more mechanics and composure, and is costly to practise but worth it; replies call him the 'king of surviving nerfs'.",
+     "cn": "2026年7月削弱后，高赞评论认为他牵制和陪跑依旧很强，只是更吃手法和心态，练习成本高但练了不亏，回复称其“耐削王”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "求生者开服到现在的强度变化，全赛季求生排名",
+    "url": "https://www.bilibili.com/video/BV1y1obBeERq",
+    "engagement": "25.3万播放 · 618评论 · comment 279 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Commenters recall that Prospector was strong from launch and has only ever been nerfed, yet is still T1 or higher today; a 279-like comment adds that his difficulty kept him niche until the Flywheel era.",
+     "cn": "评论区回忆勘探一出就超模、只被削从没加强，至今仍在T1以上；279赞评论补充说他因为难度大，飞轮版本前一直是冷门角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "让你的磁铁又长又猛！延迟吸教学（露手演示",
+    "url": "https://www.bilibili.com/video/BV1jy411i7RG",
+    "engagement": "75万播放 · 875评论 · top comment 3178 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "One of the most-watched Prospector tutorials teaches delayed-attraction tech, and the top requests (1427 likes) ask for more hand-cam lessons on slide and instant magnets, showing how technique-driven his ceiling is.",
+     "cn": "播放量最高的勘探教学之一讲延迟吸，高赞（1427赞）求更多滑磁、秒磁的露手教学，可见他的上限高度依赖手法。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全明星OB】WBG人队对战ssa蜘蛛拿下四跑！ppz勘探博弈天秀 回忆野人关键抗闪",
+    "url": "https://www.bilibili.com/video/BV1ZK8S6jEqw",
+    "engagement": "3.2万播放 · 68评论",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Pro Prospector mind-games still headline 2026 IVL highlight reels, which shows he remains a live competitive pick after the July nerf.",
+     "cn": "2026年IVL集锦里职业选手的勘探博弈依然是亮点，说明七月削弱后他仍是赛场可选角色。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which survivor/s you find irritating to chase as a hunter?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+    "engagement": "22 upvotes · 47 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The hunter-side OP lists Prospector first among harassers who are 'sooo difficult to deal with'.",
+     "cn": "监管视角的发帖人把勘探列在“极难处理”的干扰位第一位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hardest hard survivors to master",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kojd0f/hardest_hard_survivors_to_master/",
+    "engagement": "21 upvotes · 22 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The OP finds Prospector much harder to play than Acrobat even though both carry the same 2.5 official difficulty.",
+     "cn": "发帖人认为同为官方2.5难度，勘探明显比杂技更难玩。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Kiting as Rescuer Prospector isn't easy nowdays - Survivor Rank #1347 (Identity v)",
+    "url": "https://www.youtube.com/watch?v=myZBRkDwfmQ",
+    "engagement": "5.9k views · 275 likes · 22 comments",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A well-known Prospector creator says kiting with him is no longer easy after repeated nerfs, and a viewer admits he 'isn't as easy as you make it look'.",
+     "cn": "知名勘探主播直言多次削弱后勘探已不好溜，观众也表示自己上手发现远没有视频里看起来简单。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Never flywheel predict a Prospector - Identity v #identityv",
+    "url": "https://www.youtube.com/watch?v=w6TdFQkEYs4",
+    "engagement": "122k views · 3.6K likes · 49 comments",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "This viral clip of magnet mind-games punishing a hunter's read draws top comments (348 likes) sympathising with the frustrated hunter, which captures how oppressive a good Prospector feels.",
+     "cn": "病毒式传播的磁铁博弈片段中，高赞评论（348赞）都在同情被遛到崩溃的屠夫，说明会玩的勘探压迫感极强。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (July 2026 Survivor Adjustments)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The July 2026 patch widened the anti-team clause: when another survivor is within 18 m of the hunter, attraction stuns are now cut by 38% (previously 32% within 15.2 m of Prospector).",
+     "cn": "2026年7月补丁：监管者18米内有其他求生者时，相吸眩晕减少38%（原为勘探15.2米内有队友减32%）。"
+    }
+   }
+  ],
+  "agrees": [
+   "Very high skill ceiling that depends on magnet technique (delayed/swap attraction), so skillCeiling 9 fits",
+   "High practice cost and a punishing floor for unskilled players, matching skillFloor 7 and forgiveness 4",
+   "Still treated as T1+/meta-relevant in high rank and pro play despite repeated nerfs, so meta.high and meta.pro 5 hold",
+   "Hunters rank him among the most irritating harassers (disrupt 9)",
+   "No decode-speed penalty, only harder calibrations, consistent with decode 5"
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Prospector is widely seen as the survivor who keeps getting nerfed without ever becoming weak: players still rate him a top-tier harasser and escort, even after the July 2026 cut to team-assisted stuns, though he now demands even cleaner magnet technique and nerves. Hunters name him among the most irritating survivors to chase, while newcomers often find he is far harder than the highlight clips suggest.",
+   "cn": "勘探员在玩家眼里是“一直被削却从未真弱”的强势ob位，2026年7月再削团队吸晕后依旧被认为练了不亏，只是更吃磁铁手法和心态。屠夫普遍把他列为最难缠的干扰位之一，而新手往往发现他远比集锦里看起来难上手。"
+  },
+  "confidence": 4,
+  "notes": [
+   "July 2026 patch changed the attraction-stun reduction to 38% when another survivor is within 18 m of the hunter; meta.changes does not yet list it",
+   "Bilibili comments name Bloody Queen as his natural counter; she is missing from matchups.bad"
+  ]
+ },
+ {
+  "id": "enchantress",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "咒术师为何成为比赛香饽饽？【天方夜谈】",
+    "url": "https://www.bilibili.com/video/BV1A2xMz5EKK",
+    "engagement": "10.6万播放 · 654评论 · top comment 650 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Top comments say she went straight into pro play and her ranked pick rate rose after the July 2025 change (650/143 likes). A 537-like comment notes that she and Escapologist are 'called weak every day but fought over in tournaments', and replies call her a counter-pick card whose stuns many mid-rank players mistime.",
+     "cn": "高赞称改版后咒术立刻上了比赛、排位出场率也拔高（650/143赞）；537赞评论说咒术和逃脱“天天有人说弱，比赛上抢着用”，回复称其为比赛对策卡，但五阶解擦的咒术大有人在。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "新版咒术师遛鬼就是爽",
+    "url": "https://www.bilibili.com/video/BV1apGJzpEuF",
+    "engagement": "25.4万播放 · 410评论 · top comment 1179 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "A 756-like comment reads the change as a nerf to the Doctor+Enchantress combo but a clear buff to solo Enchantress, with far more early-game forgiveness. Replies to the top comment say she is now at 'normal' strength rather than her launch-era Forward-tier power.",
+     "cn": "756赞评论认为此次改动削了医咒、加强了单人咒术，前期容错大增；最高赞楼的回复称她现在是“正常强度”，而非刚出时前锋档的超模。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "牵制容错率大增！咒术单练体验简评！",
+    "url": "https://www.bilibili.com/video/BV15KKHznED5",
+    "engagement": "6.5万播放 · 529评论 · top comment 496 likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "Commenters say the starting Guard stack matters far more than most Enchantress players realise and expect it to lift her a full tier. Former mains add that she never needed a buff and now becomes 'very annoying' once her monkey is back up.",
+     "cn": "评论称开局有猴和白板差别巨大、很多咒术玩家没意识到，并预计能抬一档；老咒术玩家表示她本就不需要加强，猴续上之后“非常烦人”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "GG vs TE 咒术师当上永动机了!配配啊!",
+    "url": "https://www.bilibili.com/video/BV1pajB6XEKy",
+    "engagement": "2.2万播放 · 42评论 · top comment 53 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "In this 2026 IVL match she became a 'perpetual-motion' stunner, and commenters say Goatman players must ban Doctor or get hard-controlled all game by Doctor+Enchantress.",
+     "cn": "2026年IVL对局中咒术被称为“永动机”，评论称玩羊必须搬医生，否则会被医咒硬控一整把。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全明星ob】锁定季后赛！三岁咒术师1694三跑喧嚣",
+    "url": "https://www.bilibili.com/video/BV1jkG364EHa",
+    "engagement": "2.3万播放 · 62评论",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "A 2026 IVL playoff-clinching game was won by an Enchantress who kited Hullabaloo for four ciphers, one of several 2026 pro highlights built around her.",
+     "cn": "2026年IVL锁定季后赛的一局由咒术师一遛四台、三跑喧嚣，是她在2026职业赛场的多个高光之一。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (IJL 2026 Summer champions discount)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The official notes list Enchantress among the survivors RC used in the 2026 IJL Summer finals, which confirms she is a live pick at the top of pro play.",
+     "cn": "官方公告列出RC夺得2026 IJL夏季赛冠军时决赛使用的求生者包含咒术师，说明她在顶级职业赛中仍有出场。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "What do yall think of a archer and enchantress nerf",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1t6ht3d/what_do_yall_think_of_a_archer_and_enchantress/",
+    "engagement": "10 upvotes · 60 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "The OP argues that, after hunters' anti-stun persona nerfs, she is 'extremely overtuned': she decodes at 100% speed with negligible debuffs and can harass almost any hunter at little risk.",
+     "cn": "发帖人认为屠夫反控天赋被削后，咒术“极度超模”：修机无惩罚，几乎能低风险骚扰所有监管。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which survivor/s you find irritating to chase as a hunter?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+    "engagement": "22 upvotes · 47 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A hunter-side list singles out Enchantress because her 'infinite stuns' drive the OP insane.",
+     "cn": "监管视角列举最烦的求生者时，单独点名咒术“无限眩晕让人发疯”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hunter mains/players, how do you deal with stunners?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1q9mgc4/hunter_mainsplayers_how_do_you_deal_with_stunners/",
+    "engagement": "11 upvotes · 20 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "A struggling Mary main says she bans Enchantress (and Seer) and brings Excitement every game, yet still loses to stun-heavy teams.",
+     "cn": "一位红夫人玩家表示每局都ban咒术和先知、带兴奋，依然被多ob阵容打得只能平或输。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "ENCHANTRESS JUST GOT THE BIGGEST BUFF EVER!!! SEASON 38 META CHANGES IDENTITY V",
+    "url": "https://www.youtube.com/watch?v=hfzAi4w80t8",
+    "engagement": "18.8k views · 652 likes · 276 comments",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "An English-language creator framed the July 2025 changes as her biggest buff ever; the pinned-style correction (56 likes) notes that her first five stacks build faster while later stacks are unchanged.",
+     "cn": "英文区主播把2025年7月改动称为她史上最大加强，高赞更正指出前5层攒得更快、之后层数速度不变。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Guys, Enchantress is actually really good",
+    "url": "https://www.youtube.com/watch?v=bBQ217WN2Uk",
+    "engagement": "2.8k views · 173 likes · 19 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Comments cheer 'Enchantress meta is upon us', and one asks 'since when has she ever been bad?', reflecting her 2026 reputation shift.",
+     "cn": "评论区刷“咒术版本来了”，还有人反问“她什么时候弱过”，反映出2026年口碑的转变。"
+    }
+   }
+  ],
+  "agrees": [
+   "Easy to pick up with timing as the key skill (skillFloor 3, demandTiming 9)",
+   "Full-speed decoding with no decode debuff (decode 6)",
+   "Hunters find her repeated stuns oppressive and ban her (disrupt 8)",
+   "Doctor synergy (Doctor+Enchantress) is the defining team comp",
+   "Slow healing and short stun range remain her main weaknesses"
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 2.0,
+    "to": 4.0,
+    "why": "After the July 2025 rework she immediately entered pro play. Bilibili's top comments on a 10.6万-view analysis say she is 'fought over in tournaments', she features in multiple 2026 IVL matches (GG vs TE, a playoff-clinching game won by kiting Hullabaloo), and RC used her in the 2026 IJL Summer finals. The note 'almost never picked in IVL/COA 2025-26' is outdated.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1A2xMz5EKK",
+     "https://www.bilibili.com/video/BV1pajB6XEKy",
+     "https://www.bilibili.com/video/BV1jkG364EHa",
+     "https://id5.fandom.com/wiki/Patch_Notes/2026"
+    ]
+   },
+   {
+    "field": "meta.high",
+    "from": 2.0,
+    "to": 3.0,
+    "why": "Players report her ranked pick rate rose after the 2025 change, hunter mains ban her alongside Seer, and a 2026 Reddit thread calls her overtuned. She is still weaker in solo queue, where the hunter is unknown in advance and stuns are often mistimed, so the move is only one step.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1A2xMz5EKK",
+     "https://www.reddit.com/r/IdentityV/comments/1t6ht3d/what_do_yall_think_of_a_archer_and_enchantress/",
+     "https://www.reddit.com/r/IdentityV/comments/1q9mgc4/hunter_mainsplayers_how_do_you_deal_with_stunners/",
+     "https://www.bilibili.com/video/BV15KKHznED5"
+    ]
+   },
+   {
+    "field": "earlyGame",
+    "from": 5.0,
+    "to": 6.0,
+    "why": "Starting with 1 Guard stack removed her 'blank opening'. Top Bilibili comments (756 likes) say early forgiveness rose sharply, 班恩不勾 titled his review 'kiting forgiveness greatly increased', and EN creators called it her biggest buff.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1apGJzpEuF",
+     "https://www.bilibili.com/video/BV15KKHznED5",
+     "https://www.youtube.com/watch?v=hfzAi4w80t8"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Since the July 2025 rework gave her a starting Guard stack, Enchantress has shed her 'low-rank stun bot' image: she became a sought-after counter-pick in IVL and IJL, and hunter mains now complain about near-endless stuns and ask for nerfs. Many solo-queue players still underrate her because mistimed stuns and slow healing expose her, but those who master the timing see her as a low-risk harasser who gives up nothing on decoding.",
+   "cn": "2025年7月改版开局自带一层猴后，咒术师从“低分局混子”变成了比赛里的香饽饽，IVL、IJL都能看到医咒体系，屠夫玩家更是天天喊着要削。排位里不少人仍觉得她弱，主要是卡不准猴、治疗又慢，但会玩的咒术被公认为修机不亏、低风险高收益的ob位。"
+  },
+  "confidence": 4,
+  "notes": [
+   "meta.notes says she is 'too slow for pro; almost never banned in IVL/COA 2025-26', which conflicts with her 2025-26 IVL and IJL usage",
+   "Current sentiment text ('survivors call her slow with low team value after nerfs') reflects the pre-July-2025 view"
+  ]
+ },
+ {
+  "id": "wildling",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "【全站最细】野人机制进阶、排位教学",
+    "url": "https://www.bilibili.com/video/BV19jAbevEq9",
+    "engagement": "29.3万播放 · 1620评论 · top comment 996 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "This hour-long ranked guide covers stamina control, mount and dismount timing and spawn choice, and a 192-like tip warns that the boar is visible to everyone, so hiding before a rescue is hard.",
+     "cn": "一小时的排位教学涵盖体力把控、上下猪时机与选点，192赞补充提醒猪对所有人可见，救人前很难藏身。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "别人喧嚣有皮肤，我们野人有强度",
+    "url": "https://www.bilibili.com/video/BV1wmSqYgEX1",
+    "engagement": "18.5万播放 · 418评论 · top comment 433 likes",
+    "date": "2024-11",
+    "takeaway": {
+     "en": "The top comment (433 likes) says Wildling is 'at least T1' and is misjudged because he is unpopular and has many coasting players; others (102 likes) reply that he has nothing outstanding, drags decoding and fails rescues against Mad Eyes or Hastur.",
+     "cn": "最高赞（433赞）称野人“至少T1”，只是人气低、混子多导致误判；也有102赞认为他哪项都不突出、修机拖累，遇到疯眼、黄衣救不好人。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "被低估还是高估？如何评价现版本野人？（上）",
+    "url": "https://www.bilibili.com/video/BV1U4421Z7CF",
+    "engagement": "4万播放 · 744评论 · top comment 224 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "Top comments call him a jack-of-all-trades whose solo kiting is 'T0-level' (224 likes). A 203-like reply says his rescues are unreliable in practice and some camping hunters simply cannot be rescued.",
+     "cn": "高赞称他是“六边形战士”，单人牵制T0级（224赞）；203赞则认为实战效果一般，救人不稳，部分守椅屠根本救不下来。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "能辅能救，牵制十分超模？如何评价现版本野人？（下）",
+    "url": "https://www.bilibili.com/video/BV11T42167a4",
+    "engagement": "2.5万播放 · 340评论 · top comment 173 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "An 84-like comment calls him nearly invincible on the boar but weak on foot. It adds that he counters single-hit interceptions yet struggles against multi-hit ones, and is mostly a counter-pick (e.g. into Opera Singer) or a one-trick in ranked.",
+     "cn": "84赞评论：上猪近乎无敌但步战羸弱，克制单刀拦截却难救多刀，偏对策型（如BO1针对歌剧），排位基本是绝活在玩。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "[s1野人]队友秒倒别救保平?大错特错!越秒倒越要救，越不救越容易被四杀!",
+    "url": "https://www.bilibili.com/video/BV14oggznEZ7",
+    "engagement": "14万播放 · 1940评论 · top comment 470 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "A top-ranked Wildling argues that even early downs should be rescued; the top comment (470 likes) backs rescuing to force the hunter's Blink or Teleport, while critics say that in low ranks selling is often safer.",
+     "cn": "S1野人主张秒倒也要救，最高赞（470赞）支持通过救人逼出监管闪现、传送，反对者则认为低阶多数情况卖了更稳。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "不会反制野人而被三跑之人N1e，看完不笑说明你是先手三跑的博人",
+    "url": "https://www.bilibili.com/video/BV1sX8q64EQ9",
+    "engagement": "5697播放 · 34评论",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "In a 2026 IVL game a hunter who could not handle Wildling conceded a three-man escape; commenters note he kept chasing a boar-riding Wildling who still had Borrowed Time.",
+     "cn": "2026年IVL对局中监管不会处理野人被三跑，评论指出他还去追有搏命又有猪的野人。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Is Wildling a harasser or a rescuer?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1mn9gj0/is_wildling_a_harasser_or_a_rescuer/",
+    "engagement": "11 upvotes · 10 comments",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "A returning player notes that rides are now short and that pros mount, rescue, go back to decoding and only harass on the last cipher. He asks why not just play Knight, a better harasser and rescuer.",
+     "cn": "回坑玩家注意到骑猪时间变短，职业打法是上猪救人、回去修机、最后一台才骚扰，并质疑为何不直接玩更强的骑士。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "How to counter Wildling?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1msrwce/how_to_counter_wildling/",
+    "engagement": "11 upvotes · 16 comments",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "A hunter complains he cannot catch Wildling on the boar because it is simply faster, and that even after landing a hit, Wildling remounts and escapes.",
+     "cn": "监管玩家抱怨骑猪的野人速度比自己快根本追不上，就算打到一刀他也能重新上猪跑掉。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Peddler chases Wildling for some reason and gets 5 cipher kited",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1lk7nzw/peddler_chases_wildling_for_some_reason_and_gets/",
+    "engagement": "58 upvotes · 16 comments",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A popular clip shows a Wildling kiting a hunter for all five ciphers, which reinforces his reputation as a long-chase kiter when hunters commit to him.",
+     "cn": "高赞片段中野人一溜五台，印证了监管硬追他时他的长牵制能力。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "This is Why Wildling is the BEST HARRASSER in Identity V",
+    "url": "https://www.youtube.com/watch?v=uMtAuWR6ECc",
+    "engagement": "13.7k views · 654 likes · 55 comments",
+    "date": "2024-05",
+    "takeaway": {
+     "en": "An EN creator makes the case for Wildling as the best harasser, and commenters (35 likes) cheer the rare attention because they 'never see him in rank anymore'.",
+     "cn": "英文区主播力推野人为最强干扰位，评论（35赞）感叹终于有人关注野人，“排位里几乎见不到他了”。"
+    }
+   }
+  ],
+  "agrees": [
+   "Crippling decode (-25%) is the most cited weakness (decode 1)",
+   "Premade/counter-pick character rather than a solo-queue staple (queue.solo 2, premade 4)",
+   "Rare but real pro presence, mainly as a counter-pick (meta.pro 3)",
+   "Needs mount/stamina/timing mastery (skillFloor 6, multitask 8)"
+  ],
+  "changes": [
+   {
+    "field": "kite",
+    "from": 7.0,
+    "to": 8.0,
+    "why": "Players across platforms describe his boar kiting as near top-tier: Bilibili calls his solo kiting 'T0-level' (224 likes) and says he can 'hop around in the hunter's face even in one-hit mode' (433-like thread), hunters on Reddit say they can't catch him on the boar, and there are popular five-cipher-kite clips.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1U4421Z7CF",
+     "https://www.bilibili.com/video/BV1wmSqYgEX1",
+     "https://www.reddit.com/r/IdentityV/comments/1msrwce/how_to_counter_wildling/",
+     "https://www.reddit.com/r/IdentityV/comments/1lk7nzw/peddler_chases_wildling_for_some_reason_and_gets/"
+    ]
+   },
+   {
+    "field": "rescue",
+    "from": 9.0,
+    "to": 8.0,
+    "why": "His rescue is consistently called the unreliable part of his kit: he struggles against multi-hit or camping hunters such as Mad Eyes and Hastur, some camps 'simply can't be rescued', and Reddit asks why not play Knight as a better rescuer. He is still a strong rescuer, but not a roster-top 9.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1U4421Z7CF",
+     "https://www.bilibili.com/video/BV11T42167a4",
+     "https://www.bilibili.com/video/BV1wmSqYgEX1",
+     "https://www.reddit.com/r/IdentityV/comments/1mn9gj0/is_wildling_a_harasser_or_a_rescuer/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Wildling is regarded as a niche but genuinely strong boar rider: players call his mounted kiting close to top-tier and hunters complain they simply can't catch him, yet his -25% decode and shaky rescues against camping hunters keep him a rare, mostly one-trick pick in ranked. His fans insist he is underrated because so few people play him well, and he still turns up as a counter-pick in 2026 IVL.",
+   "cn": "野人被玩家视为冷门但真有强度的骑猪位：上猪的单人牵制被夸到T0级别，屠夫也常吐槽根本追不上；但修机-25%、遇到强守椅屠救人不稳，让他在排位里基本是绝活专属。野人玩家普遍觉得他被低估，人气低、混子多拉低了口碑，2026年IVL里也仍能作为对策卡登场。"
+  },
+  "confidence": 4,
+  "notes": [
+   "The current sentiment calls him an 'anti-camp specialist', but the community says camping and multi-hit hunters are exactly where his rescues fail",
+   "Gamekeeper matchup is disputed: one Bilibili comment (52 likes) says he 'fears Bane', while replies and EN comments say Bane is comfortable for him"
+  ]
+ },
+ {
+  "id": "acrobat",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "杂技演员强度变迁史",
+    "url": "https://www.bilibili.com/video/BV1JmKzzLEQY",
+    "engagement": "2.9万播放 · 37评论 · top comment 443 likes",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "The top comment (443 likes) says Acrobat and Hullabaloo are the strongest pair in their duo. Another (77 likes) says he is still very strong after the nerfs and 'if the hunter chases me first, we've probably won', with a reply noting he can have up to 6 bombs late game.",
+     "cn": "最高赞（443赞）认为杂技和喧嚣是同ID组合里综合强度最高的；77赞称“杂技削弱之后还是很强，开局追我这把多半有了”，回复补充后期可以有6颗球。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全网】从0到巅峰超详细杂技演员教学！这些爆弹使用技巧你都会吗？",
+    "url": "https://www.bilibili.com/video/BV1Rnw4ecEKo",
+    "engagement": "16.3万播放 · 223评论 · top comment 192 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "The guide's goal is getting every new Acrobat to 60-second kites. Viewers say learning jump balls properly got them past 60 s, but the recovery-free jump is hard to grasp.",
+     "cn": "教学目标是让萌新杂技至少牵制60秒；观众反馈学会跳球后“至少60秒起步”，但无后摇跳很难理解。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "S牌杂技的必经之路 落地无后摇教学",
+    "url": "https://www.bilibili.com/video/BV1LefqYHEpC",
+    "engagement": "23.4万播放 · 196评论 · top comment 1637 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "Recovery-free landings are presented as the must-learn technique on the road to an S badge, which highlights how much Acrobat's ceiling relies on map-specific jump tech.",
+     "cn": "“落地无后摇”被当作S牌杂技的必修技巧，说明杂技上限高度依赖地图跳点技术。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格】杂技演员全方面教学/全图跳点/天赋意识",
+    "url": "https://www.bilibili.com/video/BV1SpPAebESV",
+    "engagement": "35.8万播放 · 160评论 · top comment 654 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "The popular all-map jump-spot guide shows how much map knowledge the character needs, and the top comments joke about using bombs to reposition and 'mind-game yourself'.",
+     "cn": "高播放的全图跳点教学显示该角色对地图熟悉度要求很高，高赞调侃排位时“用球拉点”“自己和自己博弈”。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Acrobat is the Best endgame kiter now !! - #identityv",
+    "url": "https://www.youtube.com/watch?v=MmbkJO0DWt8",
+    "engagement": "4.7k views · 209 likes · 26 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "A popular EN ranked creator titles his showcase 'Acrobat is the best endgame kiter now', pushing back on the idea that he falls off late.",
+     "cn": "英文区知名排位主播直接以“杂技是现在最好的终局牵制”为题，反驳杂技后期乏力的看法。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Acrobat's Jump is so broken !! - #ManorMystery #IdentityV",
+    "url": "https://www.youtube.com/watch?v=Zq4aZ-jSe6g",
+    "engagement": "7.5k views · 290 likes · 27 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The creator calls his leap 'so broken' in a clip that shows how much distance a well-placed jump gains.",
+     "cn": "主播以“杂技的跳太超模了”为题，展示用得好的跳跃能拉开多大身位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing Acrobat...",
+    "url": "https://www.youtube.com/watch?v=fbex6mHd26I",
+    "engagement": "26.4k views · 1.6K likes · 148 comments",
+    "date": "2024-01",
+    "takeaway": {
+     "en": "A popular try-out video shows a non-main having fun with him, and Acrobat mains in the comments cheer it on, which shows his entertainment appeal.",
+     "cn": "人气试玩视频展示非本命玩家也能玩得开心，评论区杂技玩家纷纷打call，说明观赏性、娱乐性强。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hardest hard survivors to master",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kojd0f/hardest_hard_survivors_to_master/",
+    "engagement": "21 upvotes · 22 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The OP, a self-described weak player, finds Acrobat 'not too hard' compared with Prospector despite their equal official difficulty, so opinions on his entry difficulty are split.",
+     "cn": "自认水平一般的发帖人觉得杂技并不太难、明显比同难度的勘探好上手，可见入门难度存在分歧。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Impromptu",
+    "url": "https://id5.fandom.com/wiki/Impromptu",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "The trait page clarifies that he can craft one extra bomb of each type (Sticky via rescue, Nitro via 150% decode, Fire via 60 s chase), not one extra in total, so up to 6 bombs per match.",
+     "cn": "特质页明确：每种球各可额外制作一次（救人得黏土、破译150%得硝化、被追60秒得燃烧），不是全场只多一颗，一局最多6颗。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2025 (IJL 2025 Fall champions discount)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2025",
+    "engagement": "unknown",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The official notes list Acrobat among the survivors ZETA DIVISION used in the 2025 IJL Fall finals, which confirms continued pro use.",
+     "cn": "官方公告显示ZETA DIVISION夺得2025 IJL秋季赛冠军时决赛使用了杂技演员，印证其职业出场。"
+    }
+   }
+  ],
+  "agrees": [
+   "Strong early chase ('if he's chased first we've probably won'), matching earlyGame 8",
+   "Self-sufficient kiter with low comms needs (selfSufficiency 8, comms 2)",
+   "High ceiling built on jump spots and landing tech (skillCeiling 9, mapKnowledge 7, mechanics 8)",
+   "Still considered strong despite the 2021-22 nerfs, with steady pro presence (meta.high/pro 4)"
+  ],
+  "changes": [
+   {
+    "field": "lateGame",
+    "from": 4.0,
+    "to": 5.0,
+    "why": "The 'only 3+1 bombs' assumption is wrong: Impromptu grants one extra bomb of each type, so up to 6 per match. Players note he becomes a '6-ball' threat late, and EN creators call him one of the best endgame kiters now. Slower gate opening keeps him from rating higher.",
+    "sources": [
+     "https://id5.fandom.com/wiki/Impromptu",
+     "https://www.bilibili.com/video/BV1JmKzzLEQY",
+     "https://www.youtube.com/watch?v=MmbkJO0DWt8"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Acrobat is seen as a strong, flashy kiter whose bombs and leaps still hold up years after his 2022 nerfs; players joke that a hunter who chases him first has already lost, and some now call him one of the best endgame kiters once his extra bombs are earned. Opinions differ on how hard he is to pick up, but everyone agrees that map-specific jump spots and landing tech separate good Acrobats from bad ones.",
+   "cn": "杂技演员被公认为削弱后依旧很强的牵制位，玩家常说“开局追我这把多半有了”，后期攒满额外的球还能继续溜，甚至有人称他是现在最好的终局牵制之一。上手难度见仁见智，但跳点和落地无后摇等技巧决定上限，想玩精需要大量练图。"
+  },
+  "confidence": 3,
+  "notes": [
+   "Data error: kit and weaknesses say he can earn 'only one extra bomb per game' / '3+1 bombs', but Fandom Impromptu gives one extra bomb per type (up to 6 total)"
+  ]
+ },
+ {
+  "id": "first-officer",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "救人位都没啥用！为什么说大副是最被高估的角色",
+    "url": "https://www.bilibili.com/video/BV1Qd3ceCEsV",
+    "engagement": "12.1万播放 · 431评论 · top comment 777 likes",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "The comment section mocks the 'overrated' claim (777 likes), and a reply calls him the best rescuer after Mercenary, able to kite even in open ground. A 670-like comment jokes that 'FO needs no practice, just shake the watch for 60 seconds'.",
+     "cn": "评论区高赞（777赞）反讽“大副被高估”，回复称除佣兵外最好的救人位就是大副、空地也能溜；670赞调侃“大副不需要练，摇表无脑60秒”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "十个大副小知识",
+    "url": "https://www.bilibili.com/video/BV12w4m1r7jQ",
+    "engagement": "50.1万播放 · 351评论 · top comment 1049 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "Top comments share detailed watch and chair tricks (702 likes) and note that FO is very durable on the chair and has one of the longest chair-side mind games of any survivor.",
+     "cn": "高赞评论分享大量摇表、摸椅技巧（702赞），并指出大副很耐坐、是少数椅前博弈时间极长的求生者。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "学会反向拉距离击败99%少副",
+    "url": "https://www.bilibili.com/video/BV1Qtr6Y3EhV",
+    "engagement": "5.3万播放 · 141评论 · top comment 300 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "The uploader's comment (143 likes) says FO used to be the #1 rescuer after Mercenary but is no longer T0 now that Journalist and Knight have improved; replies credit his reliability to interception immunity and Lost Paradise.",
+     "cn": "UP主评论（143赞）认为大副曾是佣兵之后的救人一哥，但记者、骑士加强后已不算T0；回复称其稳定性来自防拦截和失乐园。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "哪些角色的强度有明显掉档？【茶余饭后】",
+    "url": "https://www.bilibili.com/video/BV1HBDKBEEv5",
+    "engagement": "16.5万播放 · 1136评论 · comment 221 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "In a 2026 tier-drop discussion, a 221-like comment says Knight's floor is far below that of Mercenary's elbow pads and FO's watch, which reinforces FO's reputation for reliability.",
+     "cn": "2026年“掉档”讨论中，221赞评论指出骑士的下限远不如佣兵护肘和大副怀表，再次印证大副稳定。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "救人位强度排行",
+    "url": "https://www.bilibili.com/video/BV14m421T7C2",
+    "engagement": "7.7万播放 · 365评论 · top comment 214 likes",
+    "date": "2024-05",
+    "takeaway": {
+     "en": "The top comment (214 likes) ridicules ranking FO below Grave Keeper, and a reply argues that FO fears almost no hunter if the watch is used around corners.",
+     "cn": "最高赞（214赞）嘲讽“大副不如守墓”的排名，回复认为大副拐角摇表几乎不怕任何监管。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "击碎幻境——应对大副",
+    "url": "https://www.bilibili.com/video/BV14N9iY9Efv",
+    "engagement": "10万播放 · 85评论",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "This hunter-side counter guide focuses on reading the illusion and baiting watch stages, and a commenter advises FO players to save the third stage when a Geisha is reading them.",
+     "cn": "监管视角的反制教学聚焦识破幻影、骗表，评论建议大副在被红蝶针对时别急着摇第三段。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【2026IVL夏季赛】熟悉的大副杀手！跛脚羊人柱力！",
+    "url": "https://www.bilibili.com/video/BV1TDMG6KEFE",
+    "engagement": "8109播放 · 29评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "This official Wolves clip shows FO remains a regular 2026 IVL pick, to the point that specific hunter players are known as 'FO killers'.",
+     "cn": "狼队官方片段显示大副仍是2026年IVL常见选择，甚至有选手以“大副杀手”著称。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing First Officer...",
+    "url": "https://www.youtube.com/watch?v=sFm6SR9V9uU",
+    "engagement": "25.5k views · 1.1K likes · 79 comments",
+    "date": "2024-01",
+    "takeaway": {
+     "en": "A popular try-out shows how quickly a non-main can make clean rescues. Commenters joke about the classic newbie mistake of burning every watch stage at once and then going down.",
+     "cn": "人气试玩视频展示新手也能较快打出稳定救援，评论调侃常见错误是“一口气交完所有表然后秒倒”。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Did This COA First Officer Just 5 Cipher Kite Opera Singer?!",
+    "url": "https://www.youtube.com/watch?v=DD5tzjEJsr0",
+    "engagement": "21.5k views · 871 likes · 64 comments",
+    "date": "2024-03",
+    "takeaway": {
+     "en": "A widely shared COA highlight of a pro FO kiting Opera Singer for five ciphers shows his watch also enables long chases at the top level.",
+     "cn": "广为流传的COA片段中职业大副一溜歌剧五台，说明怀表在顶级对局中同样能支撑长牵制。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (IJL 2026 Summer champions discount)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The official notes list First Officer among the survivors RC used to win the 2026 IJL Summer finals, which confirms he is still a finals-level pro pick in 2026.",
+     "cn": "官方公告显示RC夺得2026 IJL夏季赛冠军的决赛阵容含大副，说明他在2026年仍是决赛级别的职业选择。"
+    }
+   }
+  ],
+  "agrees": [
+   "Very high floor and forgiveness ('just shake the watch'), matching skillFloor 4 and forgiveness 8",
+   "Top-tier, low-variance rescue (rescue 10) and a durable chair (lateGame 9)",
+   "Consistent pro staple across IVL/IJL/COA (meta.pro 5)",
+   "Main counterplay is baiting the watch and reading the illusion (demandTiming 9)",
+   "Decode penalty needs faster decoders on the team (decode 3)"
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "First Officer is valued as the steady, low-variance rescuer: players joke that you 'don't need to practise him, just shake the watch', and his watch and Lost Paradise give him a far higher floor than riskier rescuers like Knight. Some high-rank players feel Journalist and Knight have caught up, so he is no longer the undisputed top rescuer, but he remains a regular in 2026 pro play, and hunters mostly beat him by baiting his watch stages.",
+   "cn": "大副是公认下限最高、最稳的救人位之一，玩家调侃“大副不需要练，摇表无脑60秒”，怀表加失乐园的兜底能力远胜骑士这类吃博弈的救人位。也有高分玩家认为记者、骑士崛起后他已不算T0，但2026年职业赛场上依然常见，屠夫主要靠骗表、拉出范围来针对。"
+  },
+  "confidence": 4,
+  "notes": [
+   "COA IX (June 2026) playoff most-picked survivors were Aeroplanist, Mercenary and Meteorologist (20 each); FO was not in the top 3, so pro 5 relies on IVL/IJL presence"
+  ]
+ },
+ {
+  "id": "barmaid",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "上下限更高？盘点调酒师加强的利与弊！",
+    "url": "https://www.bilibili.com/video/BV1cNj265EQc",
+    "engagement": "2.6万播放 · 376评论",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Commenters say the July 2026 Tipsy rework is a nerf only against hunters that deal quarter-hits and a buff against Hastur or Joker, 'a buff about 80% of the time', but serving drinks to rescuers now drags the tempo.",
+     "cn": "评论认为2026年微醺改动只对能打1/4伤害的屠夫算削弱，对黄衣、小丑是加强，“80%情况是加强”，但给救人位喝酒更拖节奏。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "竟还贴心改成了饮料图标！调酒师共研服加强评测！",
+    "url": "https://www.bilibili.com/video/BV1a27g6YEZs",
+    "engagement": "15.1万播放 · 315评论 · top comment 671 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "The top comment (671 likes) worries that a 30-second full heal delays second rescues, while a 593-like joke asks why a soft drink still makes you Tipsy.",
+     "cn": "最高赞（671赞）担心30秒才回满会耽误二救，593赞则调侃无酒精饮料为啥还会微醺。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "下个版本的调酒师，你认为是加强还是削弱呢",
+    "url": "https://www.bilibili.com/video/BV1Z87Q6sEjK",
+    "engagement": "5.9万播放 · 252评论 · top comment 429 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Opinion is split. The top comment (429 likes) calls it a nerf because few hunters are pure one-hit now and her limited drinks already make her 'born inferior'. Others list gains such as two Touch Effect procs and safer drinks against one-hit hunters, and a 182-like comment says it raises her kiting forgiveness but lowers her ceiling.",
+     "cn": "意见分裂：最高赞（429赞）认为是削弱，现在纯单刀屠少、有限道具天生低人一等；也有人列出触发两次触摸效应、单刀屠难打断等好处，182赞认为溜鬼容错提升但上限降低。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "调酒师加强没什么用，飞的太低了还是会被打",
+    "url": "https://www.bilibili.com/video/BV1WnTk65EXt",
+    "engagement": "5.1万播放 · 187评论 · top comment 167 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Top comments push back on the title: the buff raises both her floor and ceiling (166 likes), chains with Flywheel and Touch Effect for near-constant speed, and could lift her to T0.5, with some calling the new Barmaid 'a real wheelchair'.",
+     "cn": "高赞反驳标题：这次上下限一起加强（166赞），配合飞轮和触摸效应几乎贴地飞行，强度可能升到T0.5，还有人称新版调酒“真的轮椅”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "该如何评价当前版本调酒师的强度呢？",
+    "url": "https://www.bilibili.com/video/BV11S6bYYEKA",
+    "engagement": "2.9万播放 · 125评论 · top comment 102 likes",
+    "date": "2024-12",
+    "takeaway": {
+     "en": "Before the rework, top comments compared her with Psychologist: Psychologist is the steadier support, while Barmaid is 'main kite, secondary support' with the higher ceiling. A 73-like comment says ranked doesn't suit her unless a duo support or OB protects her against Opera Singer, Hullabaloo or Goatman.",
+     "cn": "改版前高赞把她和心理学家对比：心理更稳、是主辅助，调酒“主牵制副辅助”、上限更高；73赞认为排位环境不适配，面对歌剧、喧嚣、羊需要双排辅助或ob保。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "调酒师\"强制回酒流\"打法",
+    "url": "https://www.bilibili.com/video/BV1XAQtYKEWX",
+    "engagement": "25.4万播放 · 362评论 · top comment 1443 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "A top S-badge Barmaid's popular guide centres on self-sustain kiting, and top replies (287 likes) explain that you should drink whenever it maximises time bought, treating the drinks as extra health for kiting.",
+     "cn": "顶尖调酒的高播放教学围绕回酒自保牵制，高赞回复（287赞）指出何时喝酒都行，关键是收益最大化、把酒当作额外血量拖时间。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing Barmaid...",
+    "url": "https://www.youtube.com/watch?v=7GJjtdcjobI",
+    "engagement": "43.8k views · 1.8K likes · 101 comments",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "The top comment (407 likes) sums up her loop: get hit, drink the healing Dovlin, drink the speed base, then mix the second drink before the next hit. Mains add that you could not serve underage teammates (a rule removed in July 2026).",
+     "cn": "最高赞（407赞）总结调酒循环：吃刀→喝回血酒→喝加速酒→第二刀前调好第二瓶；调酒玩家补充不能给未成年角色喝（2026年7月已改）。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The NEW Barmaid BUFF with TOUCH EFFECT is SIMPLY IMMORAL!",
+    "url": "https://www.youtube.com/watch?v=Mkxs5GbEai8",
+    "engagement": "3.8k views · 102 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Portuguese-speaking commenters on this showcase say the July 2026 buff made her 'much stronger', especially when paired with the Touch Effect persona.",
+     "cn": "葡语区评论普遍认为2026年7月的加强让她“强了很多”，尤其是配合触摸效应天赋。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "36 Barmaid is so underrated - Survivor Rank #1584 (Identity v)",
+    "url": "https://www.youtube.com/watch?v=QPbVw9zy1qs",
+    "engagement": "3.2k views · 137 likes · 10 comments",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A well-known EN ranked creator titles a ranked Barmaid game 'Barmaid is so underrated', in line with her pub reputation as a sleeper pick.",
+     "cn": "英文区知名排位主播以“调酒师被严重低估”为题发布排位实战，与她在路人局“被低估”的口碑一致。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (July 2026 Survivor Adjustments)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The July 2026 patch split Strong Dovlin into a 25-second Tipsy with a 25% fear reduction at 15 s and another at the end. Served teammates can cancel her cast by moving, she can drink during hit reactions, and underage survivors now receive a non-alcoholic drink.",
+     "cn": "2026年7月补丁：烈性多夫林微醺25秒，15秒时先降25%恐惧、结束时再降25%；被服务的队友可移动打断前摇，受击硬直中也能喝，未成年角色改为饮用无酒精饮料。"
+    }
+   }
+  ],
+  "agrees": [
+   "Very forgiving; a mistake can be patched with a drink (forgiveness 9, skillFloor 3)",
+   "Premade-friendly: she wants a Seer, OB or support partner covering her (queue.premade 5)",
+   "Pub character rather than a pro pick (meta.pro 2)",
+   "Hunters that deal chip or multi-hit damage (Sculptor, Guard 26, Wax Artist) are her worst matchups"
+  ],
+  "changes": [
+   {
+    "field": "support",
+    "from": 9.0,
+    "to": 8.0,
+    "why": "Community comparisons consistently rate Psychologist as the steadier healer and call Barmaid 'main kite, secondary support': she usually serves only one drink per match to a teammate, serving costs travel time, and after the July 2026 rework serving rescuers is seen as tempo-dragging because the full heal now takes 30 s.",
+    "sources": [
+     "https://www.bilibili.com/video/BV11S6bYYEKA",
+     "https://www.bilibili.com/video/BV1cNj265EQc",
+     "https://www.bilibili.com/video/BV1a27g6YEZs",
+     "https://www.bilibili.com/video/BV1Z87Q6sEjK"
+    ]
+   },
+   {
+    "field": "kite",
+    "from": 7.0,
+    "to": 8.0,
+    "why": "Players describe her primarily as a self-sustain kiter, and the July 2026 rework is widely read as a kiting buff: split heals, extra Touch Effect procs, drinking during hit reactions and a Flywheel+Touch 'near-constant speed' loop. Comments say 'both floor and ceiling went up' and that she may reach T0.5.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1WnTk65EXt",
+     "https://www.bilibili.com/video/BV1Z87Q6sEjK",
+     "https://www.bilibili.com/video/BV11S6bYYEKA",
+     "https://www.youtube.com/watch?v=Mkxs5GbEai8"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Barmaid is regarded as a forgiving self-sustain kiter more than a pure healer: players call her 'main kite, secondary support' and point to Psychologist as the steadier team healer, while crediting Barmaid with the higher ceiling. Her July 2026 rework, with a two-stage heal and drinks for every teammate, sparked heated buff-or-nerf debate, but most players now see her as much harder to chase down at the cost of slower heals on rescuers.",
+   "cn": "调酒师在玩家眼里更像“主牵制、副辅助”的自保型角色，论稳定奶人不如心理学家，但上限更高、容错也足。2026年7月改版后回血拆成两段、未成年也能喝“饮料”，是加强还是削弱吵得很凶，主流看法是溜鬼容错和触摸效应收益明显提升，但给救人位喝酒拖节奏的问题更突出了。"
+  },
+  "confidence": 4,
+  "notes": [
+   "Outdated weakness: 'cannot serve Mind's Eye/Coordinator/Little Girl/Cheerleader' — since July 2026 underage survivors get a non-alcoholic beverage",
+   "meta.changes says 'No 2025-26 changes found', but the July 2026 rework exists (the kit text already reflects the 25 s Tipsy)"
+  ]
+ }
+]

@@ -1,0 +1,948 @@
+[
+ {
+  "id": "professor",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "庄园角色锐评第二期：教授",
+    "url": "https://www.bilibili.com/video/BV1xo96YvEZg",
+    "engagement": "12.6万播放 · 379评论 · top comment 2.1k likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Top comments joke that the only teammate who ever picks up his dropped scales is another Professor player, calling him a 'legendary niche info-gap character' whose scale use hunters mistake for taunting.",
+     "cn": "高赞调侃'会去捡鳞片的队友只有另一个玩教授的'，称他是'传奇冷门信息差角色'，放鳞片还会被当成做动作嘲讽。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "请教~授！不要再出现我的排位里了",
+    "url": "https://www.bilibili.com/video/BV14GewzQEP7",
+    "engagement": "10.9万播放 · 500评论 · top comment 2.4k likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Hunter-side video; the top comment calls Professor 'Nightmare's strict father', and another notes that openly banning him reveals you're bringing a single-hit hunter.",
+     "cn": "屠夫视角视频，高赞称'教授是噩梦严厉的父亲'，另有评论指出明着禁教授就暴露了自己是单刀屠。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "顶一张帅脸的卢基诺，却没有强度和排期，第五人格你坏事做尽",
+    "url": "https://www.bilibili.com/video/BV1Kj5g6VEnx",
+    "engagement": "7581播放 · 110评论 · top comment 131 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Top comments say he was gutted on the test server and two buffs only lifted him from T3 to T2.5, and one main says Matador's release left no reason to keep playing him.",
+     "cn": "高赞认为教授共研服被大砍、两次加强也只是从T3到T2.5；还有教授玩家说斗牛士出来后不知道坚持玩教授的理由。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "一个教授玩家对强度和排位现状的小小碎碎念",
+    "url": "https://www.bilibili.com/video/BV1vXeYzREWv",
+    "engagement": "1827播放 · 88评论 · top comment 34 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Mains say ranking him is masochism: even tier-6 teammates on voice don't know how to use scales or his passive, so you carry pressure from both the hunter and your own team.",
+     "cn": "教授玩家直言拿教授排位是'纯M'：六阶开麦队友都不会用鳞片、不知道被动，既要抗监管压力还要抗队友压力。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "玩教授一定不能吃压力啊",
+    "url": "https://www.bilibili.com/video/BV14CdGYtEpu",
+    "engagement": "9.9万播放 · 149评论 · top comment 312 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A 261-like comment sums up his core problem: with the longest item cooldown in the game, Professor simply cannot afford to be baited into a wasted scale.",
+     "cn": "261赞评论点出核心问题：教授是全游戏道具CD最长的角色之一，被骗一次鳞片就很难挽回。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "教授目前强度锐评",
+    "url": "https://www.bilibili.com/video/BV1vrPNzeECM",
+    "engagement": "1.2万播放 · 178评论 · top comment 163 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Comments joke about his yearly 5-second cooldown buffs; a global-server main says a successful block is now worth the cooldown, but he can do nothing against hunters whose mechanics bypass scales.",
+     "cn": "评论调侃'每年加强一次-5秒CD'；国际服玩家认为现在鳞片挡刀收益勉强配得上CD，但遇到机制克制的监管完全打不了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "GW vs TE 周末教授鳞片多次顶刀秀麻了!四跑苏打直接获胜！恭喜GW!",
+    "url": "https://www.bilibili.com/video/BV1994MzaEBC",
+    "engagement": "6.9万播放 · 157评论",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Widely shared IVL clip of GW's Professor repeatedly blocking hits to force a four-escape, showing his value in coordinated pro play.",
+     "cn": "IVL热门切片：GW教授多次鳞片顶刀打出四跑，体现他在有配合的比赛中的价值。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【ivl全明星ob】小迪教授目押女王蜂出刀完美救人～",
+    "url": "https://www.bilibili.com/video/BV1qLKj6ZEwn",
+    "engagement": "2.6万播放 · 34评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "IVL 2026 Summer highlight of MRC's Xiaodi timing a scale against Queen Bee for a clean rescue, part of a steady stream of 2025–26 pro Professor picks.",
+     "cn": "2026 IVL夏季赛切片，MRC小迪教授目押女王蜂出刀无伤救人，2025–26年职业赛场教授出场并不罕见。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Identity V League/2025 Autumn",
+    "url": "https://id5.fandom.com/wiki/Identity_V_League/2025_Autumn",
+    "engagement": "unknown",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The IVL 2025 Autumn results table lists two Professor MVP performances (GW_Lancelot and FPX.ZQ_lin), so he is an occasional but real pro pick.",
+     "cn": "IVL 2025秋季赛战绩表中有两场教授MVP（GW_Lancelot、FPX.ZQ_lin），说明他在职业赛场是偶发但真实的选择。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Tier List about Professor :)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s2588q/tier_list_about_professor/",
+    "engagement": "42 upvotes · 21 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "An ex-1st-badge Professor argues he hard-counters neutral hunters that rely on early basic attacks (Wu Chang, Cueist, Night Watch, Joseph), while an S-badge Joseph replies that faking hits easily baits his scales.",
+     "cn": "前全服第一教授认为他克制依赖前期普攻的中立屠（无常、台球手、守夜人、约瑟夫）；S牌约瑟夫则反驳假出刀就能轻松骗掉鳞片。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hardest hard survivors to master",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kojd0f/hardest_hard_survivors_to_master/",
+    "engagement": "21 upvotes · 22 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "An A-rank main names Professor among the hardest survivors: you run camera-backwards for a 1-second scale window, and it's 'too easy to bait the scales and attack a second later'.",
+     "cn": "A段玩家认为教授是最难的角色之一：要倒着视角跑、鳞片只有1秒判定窗口，'太容易被骗鳞后补刀'。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Professor is not as weak as you think - #identityv",
+    "url": "https://www.youtube.com/watch?v=C4qtlUUNjpk",
+    "engagement": "6.1k views",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Nubspector's ranked showcase pushes back on the 'weak' label; commenters agree he feels great until you meet mechanic counters like Smiley Face, Breaking Wheel, Bloody Queen and Percy.",
+     "cn": "Nubspector排位实战反驳'教授很弱'的印象；评论认为教授很好玩，直到遇到小丑、破轮、红夫人、博士这类机制克制。"
+    }
+   }
+  ],
+  "agrees": [
+   "Extreme timing/reaction demands and low forgiveness: 1-second scale window, easily baited, among the longest cooldowns (Reddit, Bilibili).",
+   "Low low/mid meta: CN players call him a cold, T2.5-level pick that you rarely see in ranked.",
+   "Anti-single-hit archetype confirmed: he punishes Nightmare, Wu Chang and other early basic-attack hunters.",
+   "Weak into mechanic counters (Smiley Face, Breaking Wheel, Bloody Queen, Percy), which supports his low lateGame.",
+   "Team shield value depends on teammates actually using his dropped scales; solo randoms usually ignore them."
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 2.0,
+    "to": 3.0,
+    "why": "Professor shows up in pro play more often than 'almost never': two IVL 2025 Autumn MVP games (GW_Lancelot, FPX.ZQ_lin), a viral GW vs TE four-escape clip, and several IVL 2026 Summer Professor highlights (MRC Xiaodi, Wolves). CN mains even say casual viewers overrate him because of how often he appears in tournaments.",
+    "sources": [
+     "https://id5.fandom.com/wiki/Identity_V_League/2025_Autumn",
+     "https://www.bilibili.com/video/BV1994MzaEBC",
+     "https://www.bilibili.com/video/BV1qLKj6ZEwn"
+    ]
+   },
+   {
+    "field": "queue.premade",
+    "from": 2.0,
+    "to": 3.0,
+    "why": "The most-liked CN complaints are about solo teammates who never pick up dropped scales or understand his passive, even on voice, while coordinated IVL teams get real value from him. His team value clearly rises with coordination, so premade shouldn't sit below solo (3).",
+    "sources": [
+     "https://www.bilibili.com/video/BV1xo96YvEZg",
+     "https://www.bilibili.com/video/BV1vXeYzREWv",
+     "https://www.bilibili.com/video/BV1qLKj6ZEwn"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Professor is seen as a niche mind-game duelist: well-timed scales can hard-counter single-hit hunters like Nightmare and Wu Chang, but his long cooldowns, bait-prone one-second window and teammates who ignore his dropped scales make him exhausting to rank with. Players joke that he's the game's neglected child, still only 'T2.5' after two buffs, yet pro teams keep bringing him out in IVL for highlight blocks.",
+   "cn": "教授在玩家眼里是冷门博弈位，鳞片目押能克制噩梦、无常这类依赖普攻的单刀屠，但CD长、容易被骗鳞、野队也不会捡鳞片，排位玩起来又累又坐牢。玩家调侃他是'捡来的孩子'，两次加强也只到T2.5，不过IVL赛场上仍常有选手用教授打出顶刀名场面。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "antiquarian",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "为什么说古董商是最被高估的角色 如何评价削弱后跌下神坛的古董商",
+    "url": "https://www.bilibili.com/video/BV1kRV5ezEHa",
+    "engagement": "10.4万播放 · 382评论 · top comment 339 likes",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "Top comments reject the 'overrated' take: even after nerfs she's 'at least T1', has a very high ceiling and counters most hunters, especially two-hit ones.",
+     "cn": "高赞反驳'被高估'：即使削弱后古董'起码也是T1'，上限高、克制绝大部分监管，尤其克制双刀屠。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "盘点一下那些强度严重被高估的角色 古董商",
+    "url": "https://www.bilibili.com/video/BV1WMVE6oEwb",
+    "engagement": "3.7万播放 · 290评论 · top comment 75 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A 2026 debate: some viewers mock the 'needs a buff' framing, while a detailed comment argues her ceiling is capped by Detention and her team value in double-harass comps is lower, making her a durable but inconsistent 'non-stick' staller.",
+     "cn": "2026年争论：有人嘲讽'不超模就要加强'的说法；也有长评认为古董上限被止戈锁住、双OB收益不如其他OB位，更像一个耐打但不稳定的'不粘锅'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全网】从0到巅峰！古董商超详细教学！各种棍法样样精通！",
+    "url": "https://www.bilibili.com/video/BV1sK421C7Ff",
+    "engagement": "82万播放 · 561评论 · top comment 2.0k likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "The most-liked comments are long lists of advanced flute tech, and a 978-like comment admits a month of practice still meant going down in ten seconds until the guide.",
+     "cn": "高赞是一长串进阶棍法技巧；978赞评论坦言玩了一个月古董还是十秒速溶，看完攻略才能溜一分钟。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格】古董商保姆级教程 从入门到入土",
+    "url": "https://www.bilibili.com/video/BV1irPkeSEkR",
+    "engagement": "40万播放 · 324评论 · top comment 372 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "A year-long main says she really does demand hand skill, and plays less like a Batter/Prospector harasser and more like a staller who buys time for self-revive.",
+     "cn": "玩了快一年的古董玩家表示她真的很吃手法，不像击球手、勘探员那样偏OB，更多是拖时间等自起。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "耐ban王驾到！2025IVL夏季赛常规赛全角色禁用率数据汇总",
+    "url": "https://www.bilibili.com/video/BV1bvYkzNEmo",
+    "engagement": "7586播放 · 40评论",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "In the IVL 2025 Summer ban-rate compilation, commenters note Seer and Antiquarian as the two survivors banned far above everyone else.",
+     "cn": "2025 IVL夏季赛禁用率汇总中，评论总结'先知古董两断层'，是被ban最多的两个求生者。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "ZQ VS MRC 感觉赤红还行啊，古董商给到压力了",
+    "url": "https://www.bilibili.com/video/BV1DS7Q6rEPd",
+    "engagement": "2.6万播放 · 23评论",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "IVL 2026 Summer casting clip; Antiquarian keeps appearing as a core pressure pick across ZQ, WBG, Wolves, GR and ACT survivor lineups.",
+     "cn": "2026 IVL夏季赛解说切片，古董商依旧是ZQ、WBG、狼队、GR、ACT等队伍求生阵容的核心施压选择。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "还一直在被小丑骗棍子然后吃锯速溶？人榜绝活1万5千分古董商教你如何应对小丑！",
+    "url": "https://www.bilibili.com/video/BV15PDaBBEwp",
+    "engagement": "38万播放 · 142评论 · top comment 123 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A high-rank Antiquarian says Smiley Face is much harder than people think on short-pallet maps, and advises decoding safely first and flute-guarding already-rescued teammates.",
+     "cn": "历史A万分古董认为打小丑没想象中好溜，短板区压力很大，建议先找安全点修机，之后再去保已救下的队友。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】哈皮谈斗牛士及其他求生强度，“调香古董飞行家拉拉队员都眉清目秀了”",
+    "url": "https://www.bilibili.com/video/BV1PBXaBwE88",
+    "engagement": "1.9万播放 · 134评论",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Pro caster Liang Hapi says once-feared picks like Perfumer, Antiquarian, Aeroplanist and Cheerleader now look tame next to newer power-crept survivors, and commenters blame the Opera Singer arms race.",
+     "cn": "解说凉哈皮认为调香、古董、飞行家、拉拉队员在新角色面前'都眉清目秀了'，评论区把问题归咎于歌剧演员引发的军备竞赛。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "I'm Obsessed With Playing Antiquarian...",
+    "url": "https://www.youtube.com/watch?v=HdHtOmZraYY",
+    "engagement": "29k views · top comment 335 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The top comment describes being forced onto Antiquarian as the team's harasser and failing every flute hit and every window jump, badly enough that the hunter went friendly.",
+     "cn": "高赞评论讲述被队友要求玩古董当干扰位，结果每一棍、每次翻窗都失误，惨到监管直接放了她。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Why do people consider antiquarian S tier?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1p4hp0r/why_do_people_consider_antiquarian_s_tier/",
+    "engagement": "16 upvotes · 15 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "Answers: 'stick is life' (stun, speed, vault, and it destroys hunter projectiles), and she's among the best kiters, supports and harassers with no decoding penalty.",
+     "cn": "回答总结'棍子就是生命'：能晕、能加速、能翻越、还能打掉监管的投射物，是没有破译惩罚的顶级牵制+辅助+干扰位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Hardest hard survivors to master",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kojd0f/hardest_hard_survivors_to_master/",
+    "engagement": "21 upvotes · 22 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment (33) and several replies single out Antiquarian's clunky controls: her abilities are simple, but it's easy to use the wrong swing.",
+     "cn": "最高赞(33)和多条回复都指出古董操作别扭：技能本身不复杂，但很容易出错棍。"
+    }
+   }
+  ],
+  "agrees": [
+   "kite/disrupt 10 and meta.pro 5: consensus top harasser, a co-top IVL ban with Seer, and a core IVL 2026 pick.",
+   "High aim/mechanics demands and skillFloor 7: clunky controls and a steep learning curve are the most common complaints.",
+   "meta.low 3 below high/pro: newcomers struggle to land hits or jumps.",
+   "Strong self-sufficiency: CN players call her a durable 'non-stick' staller.",
+   "Some matchups (Smiley Face, Detention) cap her; she isn't an unconditional T0."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Antiquarian is still regarded as one of the best harassers in the game, since her flute stuns, speeds, vaults and breaks hunter projectiles with no decode penalty, and she remains a top ban and core pick in IVL. Her clunky controls and aim make her notoriously hard to learn, and some CN veterans argue that Detention caps her ceiling and her team value, so she plays more like a durable staller than an unstoppable T0.",
+   "cn": "古董商依旧被公认为顶级干扰牵制位，棍子能晕、能加速、能翻越还能打掉技能，在IVL里常年是和先知并列的断层ban位和核心选角。但她的手法门槛很高，新手练一个月还是十秒倒；也有老玩家认为她上限被止戈锁住、团队收益不如其他OB位，更像稳定拖时间的'不粘锅'。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "composer",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "孩子们，我24%移速也跑不过作曲家",
+    "url": "https://www.bilibili.com/video/BV1KKbQ6wEbs",
+    "engagement": "20.6万播放 · 1203评论 · top comment 1.2k likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Hunter-side video after the July rework: even with a speed boost the hunter can't catch Composer, and top comments joke that he now takes a hit on purpose just to trigger his speed zone.",
+     "cn": "7月调整后的屠夫视角视频，带24%加速也追不上作曲家；高赞调侃'给你一刀不是失误，是为了吃受击加速'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "[锐评]作曲家强度逆天居然是bug导致的，致敬咱们的草台班子策划",
+    "url": "https://www.bilibili.com/video/BV1Nkbi6HEZz",
+    "engagement": "14.8万播放 · 1055评论 · top comment 2.7k likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Part of his post-rework dominance came from a direction bug; an 835-like comment argues the fix only forces him to run straight, so with three big notes and the long fork he stays strong.",
+     "cn": "作曲家超模部分源于转向bug；835赞评论认为修复后只是需要走直线才能吃满加速，三个大音符和超长音叉还在，强度不会有本质变化。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "强度依旧没眼看",
+    "url": "https://www.bilibili.com/video/BV1j33o6HECY",
+    "engagement": "6.6万播放 · 891评论 · top comment 268 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Hunter complaint video; top comments mock that the Composer won with 'zero mind games, never even turned his camera around', while others defend it as good pathing and double-stun use.",
+     "cn": "屠夫吐槽视频，高赞嘲讽作曲'整局博弈为零、视角都没往后转过'，也有人认为是拉点思路和双弹利用好。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "加强还是削弱？S1作曲简评作曲家调整",
+    "url": "https://www.bilibili.com/video/BV1ReND6SECo",
+    "engagement": "7.7万播放 · 484评论 · top comment 676 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "An S1 Composer's review of the rework; a 336-like comment says the segmented speed bursts raised both his floor and ceiling, while others ask for a bigger note chart.",
+     "cn": "S1作曲简评调整，336赞评论认为加速分段和爆发增强作用很大，'下限上限都高了'；也有人吐槽谱面太小看不清。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "孩子们，不要再ban弱势角色作曲家了，急需加强",
+    "url": "https://www.bilibili.com/video/BV1HubS6HEyG",
+    "engagement": "4.2万播放 · 334评论 · top comment 581 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "A sarcastic title about Composer being banned in ranked; a 488-like comment says to ignore hunter complaints and recommend him to low and mid-rank players.",
+     "cn": "反讽标题反映作曲家开始在排位被ban；488赞评论称不必理会屠夫抱怨，直接把作曲安利给中低段玩家。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第44赛季第6周巅七胜率+勋章数据，作曲家胜率大涨近6%",
+    "url": "https://www.bilibili.com/video/BV14fgH6BESS",
+    "engagement": "3636播放 · 20评论 · top comment 21 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "BWIKI editors' official-data recap shows Composer's Peak-7 win rate jumping about 6 points; the top comment says anyone who wants stress-free ranked should play Composer, since a tie is the floor if you don't misplay.",
+     "cn": "BWIKI编辑整理的官方小程序数据显示作曲家巅七胜率大涨近6%；高赞称想不受委屈排位就玩作曲，不失误基本平局起步。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "作曲家首次迎来削弱，一刀削回解放前",
+    "url": "https://www.bilibili.com/video/BV1mH836QETt",
+    "engagement": "2.2万播放 · 149评论 · top comment 75 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Top comments insist the August change was a bug fix rather than a real nerf, meaning his intended post-buff strength is still in place.",
+     "cn": "高赞认为8月的改动'不叫削弱，只是把bug修回来'，作曲家加强后的预期强度依然保留。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "A曲锐评作曲共研服削弱，削废了需要丨加强",
+    "url": "https://www.bilibili.com/video/BV1Vj496LEyi",
+    "engagement": "1.2万播放 · 50评论 · top comment 148 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "An A-rank Composer main thinks the further CN test-server nerf guts him; a top comment calls the change going 'from an automatic to a manual wheelchair' and complains about a wave of bandwagon Composers throwing games.",
+     "cn": "A级作曲玩家认为共研服再削'削废了'；高赞形容是'从自动轮椅变手动轮椅'，并吐槽跟风的伪作曲坑队友。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Composer is starting to get banned and is considered really strong",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vspzkc/composer_is_starting_to_get_banned_and_is/",
+    "engagement": "6 upvotes · 12 comments",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The OP rates him A+ to low S and a ban target when paired with Cheerleader; replies cite CN ranked data showing the highest win and tie rate and top pick rate, and note that part of it was a since-fixed bug.",
+     "cn": "楼主认为作曲是A+到S-，与拉拉搭配时值得ban；回复引用国服排位数据称其胜率、平局率和出场率第一，并指出部分强度来自已修复的bug。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Composer nerf feels underwhelming?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vzw0kn/composer_nerf_feels_underwhelming/",
+    "engagement": "0 upvotes · 41 comments",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Heated EN debate: some say he's still OP after the bug fix and 'far better than Faro Lady', while others argue he only beats low-mobility hunters that were already weak.",
+     "cn": "外服激烈争论：有人认为修bug后仍超模、强于法罗女士，也有人认为他只是克制本来就弱的低机动屠夫。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "They Said Composer Is Broken So Let's Get Some Free Rank Wins Before His Nerf?",
+    "url": "https://www.youtube.com/watch?v=wkHo2gk2CTw",
+    "engagement": "12.6k views · top comment 115 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "TracyBun farms ranked wins on Composer before the nerf; an 80-like comment explains you just run level 3 until auto-tuning takes over, and another says the rework finally let him control his own speed boosts.",
+     "cn": "TracyBun趁削弱前用作曲上分；80赞评论说明要用三档叠满后自动调律，另有评论称重做后作曲终于能自己掌控加速时机。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THEY BUFFED MIME ARTIST BUT NERFED COMPOSER AND DREAM WITCH?! - Identity V Season 44 Patch",
+    "url": "https://www.youtube.com/watch?v=T5iWavQYQik",
+    "engagement": "13.4k views · comment 54 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Kuroshiro's Season 44 patch breakdown; EN commenters were surprised by the nerf ('NERF COMPOSER?? WHAT'), showing global players saw his rework as a fair buff rather than broken.",
+     "cn": "Kuroshiro的第44赛季调整解读；外服评论对作曲被削感到意外（'NERF COMPOSER?? WHAT'），说明外服更多视其为正常加强而非超模。"
+    }
+   }
+  ],
+  "agrees": [
+   "decode 10 and selfSufficiency 8: still valued first as a fast decoder (level-3 auto-tuning).",
+   "Low aim demand; low-mobility hunters are the ones who struggle against him.",
+   "Hunters still target him first; EN players warn he can be 'jumped' when caught off his fork.",
+   "Note for meta.changes: Fandom Patch Notes/2026 show the July 2 2026 rework (base CD 47s) and a Sept 3 2026 nerf that cut the Melody Calibration CD refund from 10s to 6s; CN test server has a further nerf pending."
+  ],
+  "changes": [
+   {
+    "field": "traits.kite",
+    "from": 5.0,
+    "to": 6.0,
+    "why": "Since the July 2026 rework, popular CN hunter-side videos complain they can't catch him even with speed buffs, S1 mains say the segmented speed bursts raised both floor and ceiling, and EN players note high-tier Composers now bring Tide Turner because he 'doesn't struggle with kiting'. The bug fix and the Sept 3 refund nerf trim this, so I'm proposing +1 rather than more.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1KKbQ6wEbs",
+     "https://www.bilibili.com/video/BV1ReND6SECo",
+     "https://www.reddit.com/r/IdentityV/comments/1vspzkc/composer_is_starting_to_get_banned_and_is/",
+     "https://www.bilibili.com/video/BV1Nkbi6HEZz"
+    ]
+   },
+   {
+    "field": "meta.high",
+    "from": 3.0,
+    "to": 4.0,
+    "why": "Official Peak-7 data (via BWIKI editors) showed his win rate jumping about 6 points to #1, CN players report bans in ranked, and EN/CN threads rate him A+ to T0.5. His win rate fell back about 3 points after the bug fix and was nerfed again on Sept 3, but he's still described as strong, so 4 fits better than 3.",
+    "sources": [
+     "https://www.bilibili.com/video/BV14fgH6BESS",
+     "https://www.bilibili.com/video/BV1HubS6HEyG",
+     "https://www.reddit.com/r/IdentityV/comments/1vspzkc/composer_is_starting_to_get_banned_and_is/",
+     "https://www.reddit.com/r/IdentityV/comments/1vzw0kn/composer_nerf_feels_underwhelming/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "The July 2026 rework turned Composer from a boring, tunnel-bait decoder into one of the season's biggest stories: hunters complained they couldn't catch him even with speed boosts, Peak-7 data showed his win rate topping the charts, and he started getting banned. A direction-bug fix and the Sept 3 cooldown-refund nerf pulled him back from 'broken' to 'still strong', and players now see him as an efficient decoder who can genuinely kite, although mains worry the pending CN test-server nerf will overcorrect.",
+   "cn": "7月调整后作曲家从'修机工具人'一跃成为版本热门，屠夫吐槽'24%移速都跑不过'，巅七胜率一度登顶，排位里也开始被ban。修复转向bug和9月削减音叉返还后强度回落到T0.5左右，大家普遍认为他仍是能修能溜的上分利器，但作曲玩家担心共研服的后续削弱会削过头。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "journalist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "救人位强度排行理智分析！没有算强辅ob位只算了主救位和二救位哦",
+    "url": "https://www.bilibili.com/video/BV1P92YBEENH",
+    "engagement": "11万播放 · 448评论 · top comment 603 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A 235-like tier comment puts Journalist at T0.5 with Weeping Clown, behind only Grave Keeper; another stresses that ranked now rewards no-damage rescues like hers because solo teammates are unreliable.",
+     "cn": "235赞评论给出'T0守墓，T0.5记者哭丑'；另一高赞强调现在排位要求无伤救，记者、守墓都有这个能力，而排位队友最靠不住。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "现版本救人位强度排行",
+    "url": "https://www.bilibili.com/video/BV1itXbB3EvM",
+    "engagement": "2.5万播放 · 77评论 · top comment 40 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Commenters call Grave Keeper, Puppeteer and Journalist 'the three hooligans of current rescuers', noting Journalist can rescue almost damage-free against single-hit hunters.",
+     "cn": "评论称'守墓、木偶、记者是现版本三个救人位里的流氓'，并指出记者救单刀屠时基本能无伤救。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【救人位强度对比】记者 VS 骑士",
+    "url": "https://www.bilibili.com/video/BV1mfcgeTEur",
+    "engagement": "1.7万播放 · 171评论 · top comment 145 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "The top comment picks Knight as the more stable rescuer since hitting her body cancels the phantom state; replies say Journalist is rare in pro and high ranked games because of weak self-defence, 'not terrible but not that strong'.",
+     "cn": "高赞认为骑士更稳，因为记者本体被打会掉状态；回复指出记者自保问题导致'比赛和高阶排位都很少见'，'没有弱到离谱但也没那么强'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【记者教学】全网超全0基础保姆级记者教学！牵制救人辅助一网打尽！",
+    "url": "https://www.bilibili.com/video/BV19Z421a7JA",
+    "engagement": "48万播放 · 321评论 · top comment 960 likes",
+    "date": "2024-03",
+    "takeaway": {
+     "en": "Top comments note that solo Journalists basically always run Borrowed Time + Tide Turner, and that her 2024 buff (four phantoms) gives her guaranteed Orpheus-based kiting.",
+     "cn": "高赞指出单排记者基本都是'搏命大心脏'，且加强后四个奥菲保底牵制，定位开始往牵制兼二救发展。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "单排救人位第五次上巅七🥺开心",
+    "url": "https://www.bilibili.com/video/BV1N7G1zQEVz",
+    "engagement": "24.7万播放 · 237评论 · top comment 2.2k likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A popular solo-rescuer climb video; a 633-like comment says a first-time Journalist reached tier 7 solo at a 40% win rate after learning from it.",
+     "cn": "热门单排救人位上巅七视频；633赞评论称自己第一次玩记者、单排40%胜率也上了七阶。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五人格：长达10000分的超断层记者！让我们普通玩家情何以堪？",
+    "url": "https://www.bilibili.com/video/BV1Sfuhz1E5g",
+    "engagement": "53万播放 · 81评论 · top comment 406 likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "Showcases a leaderboard Journalist far ahead of everyone else, though a 281-like comment warns that this aggressive Orpheus playstyle is actually high-risk.",
+     "cn": "展示人榜断层第一的记者，但281赞评论提醒这种打法风险其实很高。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "4 Journalist TRICK that will SAVE YOUR LIFE! 🔥 ex S Badge Asia Server Identity V",
+    "url": "https://www.youtube.com/watch?v=I5u0d6lMm7I",
+    "engagement": "18k views · cited comment 22 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "GEISHAGAMING's tricks video; viewers say it 'is not as simple as you see here': insta-Orpheus body blocks need practice, timing and precision, and only occasionally make you feel like a pro.",
+     "cn": "GEISHAGAMING技巧视频，观众表示'没看起来那么简单'，瞬放奥菲卡位需要练习、时机和精准度，偶尔成功才有职业选手的感觉。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Identity V League/2025 Summer",
+    "url": "https://id5.fandom.com/wiki/Identity_V_League/2025_Summer",
+    "engagement": "unknown",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "IVL 2025 Summer results list an MRC_HuaC Journalist MVP game, showing she appears in pro play but only occasionally.",
+     "cn": "IVL 2025夏季赛战绩中有一场MRC_HuaC记者MVP，说明她在职业赛场偶有出场。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Season 36 Hunters & Survivors Tier List",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1hrph2k/season_36_hunters_survivors_tier_list/",
+    "engagement": "25 upvotes · 187 comments",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "In a heavily discussed CN tier-list thread, Journalist sits at T1; commenters call her 'pretty decent, not the best at kiting or rescuing, but good enough for rank', with phantoms usable like Seer's owl if placed well.",
+     "cn": "在热议的国服梯度帖中记者为T1；评论认为她'还不错，牵制和救人都不是最强，但排位够用'，幻影放得好可以像先知的鸟一样用。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who do you ban?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1js12o1/who_do_you_ban/",
+    "engagement": "23 upvotes · 13 comments",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "Hunter mains suggest banning Journalist because she's popular in ranked and her doll body blocks 'can make you suffer'.",
+     "cn": "屠夫玩家建议ban记者，因为她在排位很热门，娃娃卡位'很让人难受'。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which bans do you get clowned on for and why do you ban them?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vhkd13/which_bans_do_you_get_clowned_on_for_and_why_do/",
+    "engagement": "22 upvotes · 20 comments",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "An S-badge Feaster still bans Priestess, Seer and Journalist, and survivors mock it as a '2020 ahh ban', so hunters still fear her rescues while survivors no longer rate her that highly.",
+     "cn": "S牌饕餮玩家仍然ban祭司、先知、记者，被求生嘲笑是'2020年的ban位'，说明屠夫仍怕她的救人，但求生不再觉得她很强。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "What characters are good?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1uqcbsy/what_characters_are_good/",
+    "engagement": "5 upvotes · 13 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The top reply says Journalist isn't that strong because her best outcomes depend on luck-and-timing body blocks, and recommends First Officer (Coordinator) instead.",
+     "cn": "最高回复认为记者没那么强，最佳收益依赖运气和极好时机的卡位，更推荐大副。"
+    }
+   }
+  ],
+  "agrees": [
+   "rescue 9, forgiveness 8, skillFloor 3: safe, near no-damage rescues and a beginner-friendly solo climber.",
+   "meta.low 5 falling to pro 2: a ranked 'rescuer hooligan' that is rare in pro and high-tier play because of weak self-defence.",
+   "queue.solo 4: solo players rely on her, and hunters still ban her in ranked.",
+   "demandTiming 6: body blocks with the phantom need timing and practice."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Journalist is viewed as one of the safest rescuers in ranked, because her phantom enables near no-damage chair saves and auto pallet stuns, and CN rescuer lists put her around T0.5 next to Grave Keeper. Players add that phantom body blocks take real timing, her self-defence is limited and she's rarely seen in pro play, so she's more of a reliable ranked climber than a tournament staple.",
+   "cn": "记者被视为排位里最稳的救人位之一，幻影能实现近乎无伤救人和自动砸板，救人位榜单里常与守墓人同列T0.5，被称为'救人位流氓'。不过幻影卡位需要时机，自保能力一般，比赛和高阶局很少出场，更像单排上分的可靠选择而不是赛场常客。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "aeroplanist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "飞行家教程，角色所有机制详解",
+    "url": "https://www.bilibili.com/video/BV1KKVezsE5h",
+    "engagement": "15万播放 · 460评论 · top comment 494 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment calls him a high-tier ace who is almost never seen below tier 6, and a 267-like comment notes the propel-range nerf aimed at his ceiling also lowered his floor, raising an already high barrier.",
+     "cn": "高赞称他'基本上属于高端局王牌，六阶以下几乎见不到'；267赞评论指出削喷射距离本想压上限，结果连下限也降低了，门槛更高。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "飞行家：联赛事故率第二的角色！",
+    "url": "https://www.bilibili.com/video/BV1o1Tq6QEGz",
+    "engagement": "3.1万播放 · 89评论 · top comment 276 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "An IVL blooper compilation ranks him the league's #2 'accident-prone' survivor; a 144-like comment explains he demands fast reactions and players who pre-plan inputs fall apart when something unexpected happens.",
+     "cn": "IVL事故集锦把他列为联赛事故率第二的角色；144赞评论解释他对操作和反应要求很高，预设操作一出意外就'猪脑过载'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第42赛季人类强度排行榜",
+    "url": "https://www.bilibili.com/video/BV1bPfVBPEE6",
+    "engagement": "12.1万播放 · 856评论 · top comment 407 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "The top comment on this popular Season 42 tier list argues Aeroplanist, Puppeteer and Gardener fit multi-Borrowed-Time comps and are underrated at T1.5.",
+     "cn": "热门42赛季排行下的高赞认为飞行家、木偶、园丁都适配多搏命阵容，放T1.5屈才了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五人格44赛季初求生者梯度排行",
+    "url": "https://www.bilibili.com/video/BV1KK3k6bEhc",
+    "engagement": "1.6万播放 · 218评论",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A commenter rates Aeroplanist 'upper-mid T1' in the Season 44 meta once you discount weak players and his low pick rate dragging his stats down.",
+     "cn": "评论认为不考虑部分神人拉低强度和出场率的话，飞行家在44赛季属于T1中略偏上。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "一局一次限制不了你本身的强度",
+    "url": "https://www.bilibili.com/video/BV1Xz4azFEFC",
+    "engagement": "2.9万播放 · 36评论 · top comment 157 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top reply quips that a once-per-match hover 'doesn't limit his strength, but what about his popularity?', and others note that fairly standard hover spots surprise most viewers.",
+     "cn": "高赞调侃'确实限制不了强度，但是热度呢'，也有人指出常规点位都被大量扣问号，说明飞行家热度低。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "职业选手AKa歌剧名古屋亚运被泰国飞行家公式化稳遛",
+    "url": "https://www.bilibili.com/video/BV1f8a96PE7P",
+    "engagement": "1.8万播放 · 18评论 · top comment 275 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "At the 2026 Asian Games, Thailand's Aeroplanist kites pro hunter AKa 'by formula'; the top comment points out his team still got four-killed, so a long kite alone doesn't win.",
+     "cn": "2026亚运会上泰国队飞行家公式化稳遛职业选手AKa的歌剧，但高赞指出最后仍被四抓，单人长牵制不等于胜利。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Why Nobody Plays Aeroplanist Anymore - Identity V Charles Holt",
+    "url": "https://www.youtube.com/watch?v=lA4X6PhZ7VM",
+    "engagement": "812 views",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "EN mains say he's very strong in high-tier matches but under-used at lower tiers; others call him too punishing and 'powercrept by Meteorologist, Patient and more'.",
+     "cn": "外服玩家认为他在高端局很强但低段很少人用，也有人觉得他惩罚性太强、被气象学家、病患等角色'强度碾压'。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "I'm FINALLY An S Badge AEROPLANIST!",
+    "url": "https://www.youtube.com/watch?v=QJnyGeX_9HI",
+    "engagement": "13.7k views · top comment 146 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "Zeez's S-badge grind; viewers praise how far his Aeroplanist came, which frames the survivor as a long-term mastery project.",
+     "cn": "Zeez的S牌之路，观众感叹他飞行家进步巨大，侧面说明这个角色需要长期练习才能精通。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Identity V Japan League/2026 Summer",
+    "url": "https://id5.fandom.com/wiki/Identity_V_Japan_League/2026_Summer",
+    "engagement": "unknown",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "IJL 2026 Summer results list a DFM_Felix Aeroplanist MVP game, adding to IVL 2025 Summer/Autumn MVP games by MRC_HuaC, Wolves_Jelly and GG_18.",
+     "cn": "IJL 2026夏季赛战绩中有DFM_Felix飞行家MVP，此外IVL 2025夏/秋季赛也有MRC_HuaC、Wolves_Jelly、GG_18的飞行家MVP。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who are the best off-rescues in game?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1udm7cn/who_are_the_best_offrescues_in_game/",
+    "engagement": "104 upvotes · 31 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Aeroplanist is the top-voted answer, and one reply ranks Aeroplanist, Matador and Gardener as the best Tide-Turner kiters thanks to his reliable distance.",
+     "cn": "最高赞回答就是飞行家，另有回复把飞行家、斗牛士、园丁列为当前最好的带大心脏牵制位。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Season 36 Hunters & Survivors Tier List",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1hrph2k/season_36_hunters_survivors_tier_list/",
+    "engagement": "25 upvotes · 187 comments",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "A commenter argues Aeroplanist is 'highly disregarded' in NA/EU even though his kit makes him a solid T1 (debatably T1.5), and that his low popularity says nothing about his strength.",
+     "cn": "评论认为飞行家在外服被严重忽视，但凭技能组是稳定T1（可争议为T1.5），冷门并不代表弱。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta.low 2 rising to high 4: a 'high-tier ace' almost never seen below tier 6.",
+   "mechanics 8, reaction 8, skillFloor 7 and skillCeiling 9: a steep barrier and a long mastery curve.",
+   "Very self-sufficient kiter with low team support; an off-rescue with Tide Turner rather than a support.",
+   "Low popularity and random propel directions are recurring complaints; the 2024 range nerf still defines perception."
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 3.0,
+    "to": 4.0,
+    "why": "He's a steady pro pick well beyond 'niche': MVP games in IVL 2025 Summer (MRC_HuaC, Wolves_Jelly), IVL 2025 Autumn (GG_18) and IJL 2026 Summer (DFM_Felix); enough IVL 2026 appearances for a 'league's #2 accident rate' compilation; and a featured Thai Aeroplanist at the 2026 Asian Games.",
+    "sources": [
+     "https://id5.fandom.com/wiki/Identity_V_Japan_League/2026_Summer",
+     "https://www.bilibili.com/video/BV1o1Tq6QEGz",
+     "https://www.bilibili.com/video/BV1f8a96PE7P"
+    ]
+   },
+   {
+    "field": "forgiveness",
+    "from": 6.0,
+    "to": 5.0,
+    "why": "Popular CN comments say the range nerf lowered his floor and raised an already high barrier, pros are shown collapsing when inputs go wrong, and EN mains call him 'too punishing'. That fits at or below the roster average, not above it.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1KKVezsE5h",
+     "https://www.bilibili.com/video/BV1o1Tq6QEGz",
+     "https://www.youtube.com/watch?v=lA4X6PhZ7VM"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Aeroplanist is regarded as a high-skill, high-reward kiter whose jetpack distance frustrates hunters and earns him regular picks in IVL, IJL and even the 2026 Asian Games, yet he's almost never seen below tier 6. Players describe him as punishing, since random propel directions and the 2024 range nerf raised an already steep floor, and his low popularity has become a running joke even among fans.",
+   "cn": "飞行家被看作高操作高回报的牵制位，喷射拉距离让屠夫头疼，在IVL、IJL乃至2026亚运会上都有出场，但六阶以下几乎见不到。玩家普遍认为他容错很低，随机方向加上削弱喷射距离后门槛更高，联赛'事故率'都排第二，热度低也成了粉丝自嘲的梗。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "cheerleader",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "拉拉队员有强度已经是上辈子的事了",
+    "url": "https://www.bilibili.com/video/BV1eYj1zLEUG",
+    "engagement": "7.5万播放 · 711评论 · top comment 583 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Top comments push back that she didn't get weaker, there are just more strong survivors now; a 309-like comment compares her to Jack ('two games and you're at 90% of your skill'), and another says her strength is support with passable kiting.",
+     "cn": "高赞反驳'不是拉拉弱了，是强势角色太多了'；309赞评论把她比作'求生里的杰克，玩两把就有90%水平'，另有评论称'强度在辅助，牵制也达标'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【医拉组合】一个吃近时代红利的组合，快叫上你的双排来试试吧！",
+    "url": "https://www.bilibili.com/video/BV1qmUUBsEyF",
+    "engagement": "56.5万播放 · 89评论 · top comment 297 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "The viral Doctor+Cheerleader duo guide after her buff; top comments say the hunter's only answer is to switch targets the moment she starts stacking, and that the buff made her viable even in competitive comps.",
+     "cn": "加强后爆火的医拉双排攻略；高赞称屠夫的反制只能是拉拉一来叠激励就换抓，也有人认为加强后她在比赛阵容里也有出场机会。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "\"飞搏\"拉拉效果如何",
+    "url": "https://www.bilibili.com/video/BV161UjBiEc3",
+    "engagement": "8万播放 · 50评论 · top comment 159 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "Top comments are solo-queue pain: teammates burn stacks sprinting during the red circle, and one tier-7 player stacked 25 on a Prisoner twice without him ever using the revive.",
+     "cn": "高赞全是单排之痛：队友红圈乱用加速把层数用光，巅七玩家两次给囚徒叠满25层他都不用。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【txz系列】同为T1.5拉拉队员加强宿伞削弱？rxz策划就是没得洗！",
+    "url": "https://www.bilibili.com/video/BV1VMY3zpEav",
+    "engagement": "8380播放 · 71评论 · top comment 24 likes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "On the September 2025 test-server buff, the title reflects the common CN view that she was around T1.5 beforehand, and commenters mock anyone who thinks she needed it.",
+     "cn": "针对2025年9月共研服加强，标题反映国服普遍认为她此前约为T1.5，评论嘲讽'觉得拉拉强的来了'。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】哈皮谈斗牛士及其他求生强度，“调香古董飞行家拉拉队员都眉清目秀了”",
+    "url": "https://www.bilibili.com/video/BV1PBXaBwE88",
+    "engagement": "1.9万播放 · 134评论 · top comment 215 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "Liang Hapi says Cheerleader now looks tame next to newer survivors, but a 109-like comment says Doctor+Batter and Doctor+Cheerleader mutual-protection duos leave hunters helpless.",
+     "cn": "凉哈皮认为拉拉队员在新角色面前'眉清目秀'，但109赞评论指出'医击医拉'互保体系让屠夫打得没脾气。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【S1】“盲拉”组合有多权威？七阶双排首选阵容！",
+    "url": "https://www.bilibili.com/video/BV1bg19BLE5a",
+    "engagement": "2.7万播放 · 127评论 · top comment 414 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A Blind Lady+Cheerleader tier-7 duo showcase; the top comment credits Blind Lady's fundamentals and says Cheerleader only provided the kind of support any character could, showing her value is coordination-dependent.",
+     "cn": "七阶'盲拉'双排展示；高赞认为主要是盲女基本功硬，拉拉只起到了任何辅助都有的作用，说明她的价值依赖配合。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【ivl】关于晚安奈奈bo3拉拉队员跳地窖失败",
+    "url": "https://www.bilibili.com/video/BV1ZrNV6JEqf",
+    "engagement": "3.1万播放 · 68评论 · top comment 541 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "An IVL 2026 Summer clip of MRC's Nana on Cheerleader in a best-of-3 decider, showing she remains part of pro survivor lineups.",
+     "cn": "2026 IVL夏季赛MRC奈奈在BO3关键局使用拉拉队员的切片，说明她仍在职业求生阵容里。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Identity V Japan League/2026 Summer",
+    "url": "https://id5.fandom.com/wiki/Identity_V_Japan_League/2026_Summer",
+    "engagement": "unknown",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "IJL 2026 Summer results list an AWG_Emmko Cheerleader MVP game, confirming her pro presence after the January 2026 nerf.",
+     "cn": "IJL 2026夏季赛战绩中有AWG_Emmko拉拉队员MVP，说明2026年1月削弱后她仍有职业出场。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Veteran’s Return, which is the best character to claim?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1p4k5aj/veterans_return_which_is_the_best_character_to/",
+    "engagement": "46 upvotes · 27 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "EN players overwhelmingly recommend Cheerleader as the strongest claim ('insanely solid support': speed, cooldown resets, extra health state), though one warns a returning player boosting at the wrong time gives a free hit.",
+     "cn": "外服玩家几乎一致推荐拉拉队员为最强选择（加速、刷新道具、额外血量的'超稳辅助'），也有人提醒回归玩家乱用加速会白送一刀。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which survivor/s you find irritating to chase as a hunter?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+    "engagement": "22 upvotes · 47 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "One hunter says they hate Cheerleader because she's fast with a near-nonexistent debuff and spams pallets, 'annoying if you chase her, and even more annoying if you don't' because of her cooldown resets.",
+     "cn": "屠夫玩家吐槽拉拉加速几乎没有代价、还能疯狂砸板，'追她烦，不追她更烦'，因为她会给队友刷新道具。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "What are you even supposed to do in this situation ?I kited for 2 minutes",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1phalnc/what_are_you_even_supposed_to_do_in_this/",
+    "engagement": "243 upvotes · 41 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A highly upvoted solo-queue horror story where a gate-camping Cheerleader ignores a basement ping; replies like 'not all cheerleaders, but always a cheerleader' show a solo-queue stereotype about her players.",
+     "cn": "高赞单排惨案：拉拉队员守门不理地窖信号；'不是所有拉拉，但总是拉拉'这类回复反映了单排里对拉拉玩家的刻板印象。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "All buffs and nerfs for the upcoming test server",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1qk0aqe/all_buffs_and_nerfs_for_the_upcoming_test_server/",
+    "engagement": "31 upvotes · 56 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Discussing the January 2026 test-server list, players see her 'adjustment' as mostly a net positive, with the only real nerf being her speed while cheering.",
+     "cn": "讨论2026年1月共研服调整时，玩家认为拉拉的'调整'整体偏正面，唯一实质削弱是激励时的移速加成。"
+    }
+   }
+  ],
+  "agrees": [
+   "support 10, teamDependency 9, comms 9: her value depends entirely on teammates using speed and 25-stack revives.",
+   "queue.premade 5 vs solo 2: Doctor+Cheer and Blind Lady+Cheer duos thrive, while solo players complain randoms waste her stacks.",
+   "meta.pro 4: still picked in IVL and IJL 2026 (AWG_Emmko MVP).",
+   "survivability 7: hunters find her fast and hard to pin down.",
+   "Patch history matches: Sept 2025 buff, then a mild Jan 2026 nerf that players read as roughly net-neutral."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Cheerleader is widely seen as the strongest pure support when teammates actually use her stacks: EN players call her the best pick for returning players, and the Doctor+Cheerleader duo became a CN ranked staple after her September 2025 buff. Hunters find her speed and cooldown resets exhausting, but solo players complain that randoms waste her 25-stack revive, and CN veterans consider her easy to pick up and no longer oppressive after the January 2026 nerf.",
+   "cn": "拉拉队员被认为是队友会配合时最强的辅助之一，2025年9月加强后'医拉'双排一度成为排位热门，外服玩家也普遍推荐她。屠夫嫌她加速和刷新道具太烦，但单排常遇到队友红圈乱用加速、叠满25层也不用；国服玩家还觉得她上手容易，2026年1月削弱后已经不算超模。"
+  },
+  "confidence": 4
+ }
+]

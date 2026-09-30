@@ -1,0 +1,887 @@
+[
+ {
+  "id": "postman",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "邮差六种信件强度排行，排名第一的竟是他……",
+    "url": "https://www.bilibili.com/video/BV1XztBz7E33",
+    "engagement": "5.8万播放 · 384评论 · top comment 668 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Top comments recall that Postman was 'above Mechanic' before his decode letter was nerfed, beg teammates to ping who is being chased so letters are not wasted (451 likes), and praise the permanent Inspiring letter for shoring up frail decoders.",
+     "cn": "高赞回忆“修机信没削时邮差是机械师上位”，并呼吁队友溜鬼及时发信号，否则信不知道送给谁（451赞）；激励信被夸是给羸弱角色续命的“永久小肌哥”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "如何评价当前版本的空军和邮差的强度？对策牌罢了",
+    "url": "https://www.bilibili.com/video/BV1ScFkzQEo7",
+    "engagement": "4.8万播放 · 189评论",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "A 2026 take framing Postman as a counter-pick card rather than a blind pick, with commenters calling him a versatile all-rounder whose strength is 'solidly online'.",
+     "cn": "2026年的版本评价把邮差定位为“对策牌”而非万能首选，评论区认为他是万金油，强度在线。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "逆天硬控1秒！送信犬进化成猴头菇！共研服邮差送信犬测试！",
+    "url": "https://www.bilibili.com/video/BV1hT421Y7fh",
+    "engagement": "38万播放 · 3997评论 · top comment 3.8k likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "The most-liked comment on the 2024 dog-pounce rework worries that buffing Wick's 1s entangle overshoots a character who should be letter-focused, while the runner-up (3.4k likes) salutes Postman as a 'legendary multi-purpose support' and another notes the dog, unlike Prisoner's shock, must be aimed and misses easily.",
+     "cn": "送信犬改1秒禁锢的视频下，最高赞（3.8k）担心狗加强过头、邮差本该偏信件辅助；次高赞致敬“传奇多功能辅助位”，另有高赞指出狗不像囚徒的电，需要瞄准容易空。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "为什么说邮差加强可有可无 顶级玩家不推荐任何人练邮差！因为弱",
+    "url": "https://www.bilibili.com/video/BV1zS421R7dZ",
+    "engagement": "6.4万播放 · 191评论 · top comment 325 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "Top commenters argue Postman's core problem is that he is too easy to kill and loses spawn priority to Lawyer/Prisoner/Seer, with most letters besides gate and rescue feeling awkward, though a former A-badge main (287 likes) insists the entangle rework is a real buff because the old slowing dog never handled fast hunters like Clown or Opera Singer.",
+     "cn": "高赞认为邮差最大问题是“太好杀”，选点抢不过律师囚徒先知，除开门信和救人信外其他信都尴尬；曾A牌邮差（287赞）则坚持这次改动是大加强，因为原来的减速狗终究溜不动小丑、歌剧这类角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "「S邮差」挑战从头到尾不上挂",
+    "url": "https://www.bilibili.com/video/BV1smZxBbECm",
+    "engagement": "24.5万播放 · 341评论 · top comment 4.3k likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Under an S-badge Postman's no-chair challenge, a 1.7k-like comment laughs at viewers crediting 'comfy Postman rotations' when the kite is really the player's fundamentals, and another (532 likes) calls Postman a 'version trap' whose players basically all run the Knee-Jerk + Flywheel kiting build.",
+     "cn": "S牌邮差全程不上挂的视频下，1.7k赞评论笑称弹幕夸“邮差转点舒服”其实全靠基本功和博弈，另有532赞直言“邮差这个角色真的是版本陷阱，基本上都是双飞（双弹飞轮）”。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THE BIGGEST Survivor Tier List 2026 (Kuroshiro Gaming)",
+    "url": "https://www.youtube.com/watch?v=FQnDim_FQAE",
+    "engagement": "29.6k views · Postman comment 23 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A highly liked comment on this 5-hour 2026 tier list says Postman's strength rises sharply as team skill improves, that it is very hard to make three teammates understand his letters, and that he is well-liked on the CN server; another asks for Postman to be placed much higher.",
+     "cn": "这份2026长篇梯度的高赞评论指出：邮差的强度随团队水平显著提升，但很难让三个队友看懂他的信；他在国服评价不错，另有评论认为邮差应被大幅上调。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2 (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+    "engagement": "4.5k views · chapter list 19 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "In this walkthrough of a popular CN survivor tier list, Postman sits in the A- tier (third band, alongside Lucky Guy, Archer, Faro Lady and Priestess), i.e. above the roster middle.",
+     "cn": "该视频解读的国服求生者梯度中，邮差位于A-档（第三档，与幸运儿、弓箭手、法罗女士、祭司同档），高于中位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "So, I Tried Playing Postman... (Zeez Vov Gee V)",
+    "url": "https://www.youtube.com/watch?v=DqBYjkA5Ock",
+    "engagement": "31.2k views · top comment 391 likes",
+    "date": "2024-10",
+    "takeaway": {
+     "en": "Fans adore Victor and Wick, one 202-like comment explains that even a missed Wick dash zones the hunter, and another (58 likes) laments the recent 'postman hate' compared with how loved he was in 2020.",
+     "cn": "粉丝非常喜爱维克多和威克，202赞评论指出狗即使扑空也能逼监管让位，另有58赞评论感叹如今邮差被嫌弃，而2020年人人都爱他。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I support newbies and I'm always understanding... (randoms whined about me picking Postman in rank)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1uc1cuu/i_support_newbies_and_im_always_understanding_and/",
+    "engagement": "28 upvotes · 14 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A Postman main vents that low-level randoms called Postman 'absolutely useless' in ranked and demanded they not pick him, illustrating the solo-queue stigma he carries.",
+     "cn": "邮差玩家吐槽排位里低等级野队友说邮差“完全没用”、不许他选，反映出邮差在野排的偏见。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Postmans clutch letter",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1nply4c/postmans_clutch_letter/",
+    "engagement": "42 upvotes · 15 comments",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "An A-badge Postman says the Hope letter's 15% gate-opening speed wins far more games than its dungeon reveal and asks whether ranked players even know about it.",
+     "cn": "A牌邮差表示希望信的开门加速15%比显示地窖更能决定胜负，并感叹排位里很多人不知道这个效果。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Never Underestimate Postman as Kiter (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=Dv4X3FzU-aQ",
+    "engagement": "5.2k views · top comment 19 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "Commenters call Postman underrated and solid against some hunters, but the top comment notes he is powerless against Bloody Queen.",
+     "cn": "评论认为邮差被低估、对部分监管有不错的牵制，但最高赞指出遇到红夫人他就无能为力。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "I HATE POSTMAN | Identity V (TracyBun)",
+    "url": "https://www.youtube.com/watch?v=CUztESGFP4k",
+    "engagement": "7.2k views · top comment 94 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "In a popular EN creator's all-out Postman roast, even fans agree: a 32-like comment says 'I like Victor but I low-key respect the hate, he actually does need a HUGE rework', and another Postman main says they are 'so here for' the criticism.",
+     "cn": "英文区主播整期吐槽邮差的视频下，连粉丝也认同：32赞评论说“我喜欢维克多，但这些黑点我服，他确实需要大改”，另有邮差玩家表示完全接受这些吐槽。"
+    }
+   }
+  ],
+  "agrees": [
+   "Heavy team dependency and comms tax: players repeatedly say letters are wasted unless teammates signal and understand them (teamDependency 9, comms 8, queue.solo 2).",
+   "Fragile body and weak first chase: 'too easy to kill' is the most common complaint (survivability 4, kite 3).",
+   "Hope letter's gate-speed bonus is valued as a clutch endgame tool (lateGame 7).",
+   "Wick's pounce must be aimed and misses easily (aim 7).",
+   "Postman is beloved as a character and for Wick even when his strength is debated.",
+   "Mixed high-rank verdict: CN tier lists put him in A- while EN creators and commenters call for a rework, so the below-average meta.high 2 is contested but not clearly wrong."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Postman splits opinion: CN players and coordinated teams tend to see him as an underrated, versatile letter support whose value climbs with team skill (a popular CN tier list puts him in A-), while EN creators and many solo-queue players call him useless or in need of a huge rework, and some CN players label him a version trap whose kiting depends on raw fundamentals. Wick is universally adored and letters like Hope are valued by those who learn them, but his fragile body and reliance on teammates who understand the letters keep him a niche pick.",
+   "cn": "邮差的评价很两极：国服和有配合的车队多认为他是被低估的信件万金油，队伍水平越高越能体现价值，国服梯度也给到A-；外服主播和野排玩家却常说他没用、急需大改，国内也有人直言他是“版本陷阱”，溜鬼全靠个人基本功。威克人见人爱，希望信开门加速等细节被老玩家称道，但身板脆、吃队友理解，注定只是小众辅助。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "grave-keeper",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格】现版本最强主救人位，打击面极广",
+    "url": "https://www.bilibili.com/video/BV131H5zvEoP",
+    "engagement": "6.6万播放 · 205评论 · top comment 252 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top comment asks 'how did Grave Keeper get this strong after I quit for a few months?', and a 155-like analysis explains that repeated buffs fixed his slow burrow, wasted shovels and short durability, so hunters must now burn through multiple shovels.",
+     "cn": "最高赞感叹“退游三四个月，守墓人怎么这么强了”，155赞分析指出多次优化加强解决了下铲慢、被打断废铲、道具不耐用等问题，监管现在必须硬打掉好几次铲子。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格】为什么大副比赛出场率比守墓高是有原因的",
+    "url": "https://www.bilibili.com/video/BV1xdvYBoE3B",
+    "engagement": "14万播放 · 153评论",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "A 2026 breakdown of why First Officer still out-picks Grave Keeper in pro play, while a former A-badge First Officer admits many games 'would have been won with Grave Keeper instead'.",
+     "cn": "2026年解析职业赛场大副出场率高于守墓的原因；曾A牌大副玩家则坦言“好多局换成守墓就能赢”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【共研服】移动土豆雷！守墓人史诗级加强！远程OB队友！",
+    "url": "https://www.bilibili.com/video/BV1CTBvYzEgL",
+    "engagement": "36万播放 · 989评论 · top comments 3.3k/2.8k likes",
+    "date": "2024-11",
+    "takeaway": {
+     "en": "Reaction to the late-2024 emerge-knockback buff was euphoric: a 2.8k-like joke letter from Andrew tells Soul Weaver he has 'squeezed into the harasser role' and can no longer be farmed.",
+     "cn": "对2024年底定点出土击退加强的反响热烈，2.8k赞的“安德鲁致宿伞的信”调侃他已经挤进ob位，宿伞再也不能拿他开一阶了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "守墓人/祭司全地图实用偷人点位干货",
+    "url": "https://www.bilibili.com/video/BV1JtXgBbEG1",
+    "engagement": "27万播放 · 302评论 · 913 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A popular basement-steal guide whose top comments (913 likes) conclude 'if there's a Grave Keeper, the basement gets stolen, so chase the Grave Keeper first', showing hunters now prioritise him.",
+     "cn": "全图地下室偷人点位干货视频，高赞（913）总结“有守墓挂地下室会被偷，所以先抓守墓”，说明监管开始优先针对他。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "守墓人和宿伞之间并不存在任何克制关系……",
+    "url": "https://www.bilibili.com/video/BV1C1NVe7EbA",
+    "engagement": "1.2万播放 · 266评论 · top comment 137 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "Top comments agree Soul Weaver is not a hard counter if Grave Keeper stays alert, but warn that a hunter who catches him early and breaks a shovel gains outsized presence.",
+     "cn": "高赞认为宿伞并不硬克守墓，但守墓必须提前防备；一旦被突脸打掉一把铲子，监管收益和存在感会非常高。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "邦邦破轮、昆虫守墓考虑加强！【二月卧谈会简评】",
+    "url": "https://www.bilibili.com/video/BV1UCPeejE6p",
+    "engagement": "5.7万播放 · 2282评论",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "In a heavily discussed dev-talk recap, a 372-like comment defends giving Grave Keeper a small forgiveness buff (interrupted burrow not wasting the shovel), which shipped in April 2025.",
+     "cn": "在热议的卧谈会简评下，372赞评论支持给守墓“下铲被打断不消耗道具”的小加强以提高容错，该改动已于2025年4月上线。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "S AND A+ TIER! | EXPLAINING THE MOST CONTROVERSIAL CN SURVIVOR TIERLIST PART 1!! (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=CqpQEqtO6E0",
+    "engagement": "11.2k views · chapter list 44 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The CN tier list puts Grave Keeper at the head of A+ (just below the S tier of Forward, Lanternist, Prospector, Doctor, Cheerleader and Mechanic), ahead of Mercenary.",
+     "cn": "国服梯度把守墓人列为A+档第一位，仅次于前锋、提灯、勘探、医生、拉拉、机械师组成的S档，排在佣兵之前。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "GraveKeeper is an INCREDIBLY STRONG Rescue Now (Kuroshiro Gaming)",
+    "url": "https://www.youtube.com/watch?v=qqCm69Zvduk",
+    "engagement": "3.1k views · top comment 15 likes",
+    "date": "2024-12",
+    "takeaway": {
+     "en": "Viewers celebrate the buff for no-damage rescues, while the top comment jokes the change makes him 'even more permabannable' for Breaking Wheel players.",
+     "cn": "观众庆祝加强让无伤救人更容易，最高赞调侃这让破轮玩家更想永久ban掉守墓。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Aren't survivors getting to easy to play and hunters harder to play? (LONG POST)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1v1f9rj/arent_survivors_getting_to_easy_to_play_and/",
+    "engagement": "47 upvotes · 40 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A champion/titan-rank survivor main arguing survivors are over-buffed singles out 'First Officer & Gravekeeper being so overtuned I don't even know where to start'.",
+     "cn": "一位冠军/泰坦段求生玩家在长帖中抱怨求生被加强过头，点名“大副和守墓人超模到不知从何说起”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Best survivor in each category in your opinion",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1tpe2wn/best_survivor_in_each_category_in_your_opinion/",
+    "engagement": "11 upvotes · 16 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Asked for the single best survivor per role for both solo and team play, the OP picks Grave Keeper as the best rescuer.",
+     "cn": "发帖人按“单排和组排胜率”为每个定位选出唯一最佳角色，救人位选择了守墓人。"
+    }
+   }
+  ],
+  "agrees": [
+   "Easiest, most forgiving rescuer to pick up (skillFloor 2, forgiveness 9).",
+   "Top-tier rescue and survivability after the 2024-25 buffs (rescue 9, survivability 9).",
+   "Strong but not S-tier: CN list puts him at the top of A+, consistent with meta 4 across brackets.",
+   "Pros still sometimes prefer First Officer, fitting meta.pro 4 rather than 5.",
+   "Weak decode and little team support beyond rescue (decode 2, support 3)."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "After a run of buffs through late 2024 and 2025, Grave Keeper is widely seen as one of the strongest and most forgiving main rescuers, with returning players stunned at how strong he has become and some high-rank survivors even calling him overtuned. He tops the A+ band of CN tier lists and remains easy to learn, though pros sometimes prefer First Officer and hunters increasingly first-chase him to strip his shovels.",
+   "cn": "经过2024年底到2025年的连续加强，守墓人被普遍认为是当前最稳、容错最高的主救之一，回坑玩家都惊讶“守墓怎么这么强了”，连高阶求生都有人直呼超模。国服榜单把他排在A+档首位，上手依旧简单，不过职业赛场有时更偏好大副，监管也越来越爱开局首追守墓逼掉铲子。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "prisoner",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "第五人格修机位从夯到拉排行榜！",
+    "url": "https://www.bilibili.com/video/BV17JpAz2EbJ",
+    "engagement": "13.7万播放 · 518评论 · 611 likes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "A 611-like comment on this decoder ranking gives the community order as Mechanic > Prisoner > Faro Lady > Composer > Mind's Eye > Lawyer > Explorer, i.e. Prisoner is the second-best decoder.",
+     "cn": "修机位排行视频下611赞的个人排名为：机械＞囚徒＞法罗＞作曲＞盲女＞律师＞冒险家，囚徒稳居修机位第二。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "七阶排位零沟通选出胜局四速修阵容...",
+    "url": "https://www.bilibili.com/video/BV1LzPDzYEvS",
+    "engagement": "42.7万播放 · 133评论 · 389 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "In a 7th-tier no-comms game with four fast decoders, a 389-like comment argues that in the current version everyone goes down fast, so 'reformist' survivors run fast-decode comps that have already won tournaments.",
+     "cn": "七阶零沟通四速修阵容的视频下，389赞评论认为当前版本人类都秒倒，与其“古法救人位坐牢”，不如四修机，速修阵容已经拿过比赛冠军。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "历巅204星S咒术不会修机，六阶心理不会用囚徒传输，队友你们就继续阴我吧",
+    "url": "https://www.bilibili.com/video/BV1N5d8Y3EmJ",
+    "engagement": "43.5万播放 · 1769评论 · 1.7k likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A viral 6th-tier teammate roast where a 1.7k-like comment notes the ciphers would have been enough had the Prisoner not wandered off to harass, echoing complaints about mid-tier Prisoners and link misuse.",
+     "cn": "这个爆火的六阶队友吐槽视频里，1.7k赞评论估算“囚徒不去ob电机似乎是够的”，印证了中低阶囚徒乱跑、传输用不好的吐槽。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全网】最全最细最简单的囚徒教学--囚徒本人看了都说好！！",
+    "url": "https://www.bilibili.com/video/BV1Vw411p7pV",
+    "engagement": "49.8万播放 · 327评论 · top comment 2.3k likes",
+    "date": "2023-11",
+    "takeaway": {
+     "en": "The top comment (2.3k likes) says the best part of Prisoner is that cipher progress is always visible so you know exactly who threw, and a 1.2k-like joke says he can be a kiter, rescuer or harasser 'but never a decoder' in solo games.",
+     "cn": "最高赞（2.3k）说玩囚徒最好的一点是密码机进度一目了然，输了死得明明白白；1.2k赞调侃野排囚徒“可以是牵制位、救人位甚至ob位，唯独不是修机位”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "囚徒的强度养活了多少七阶混子？",
+    "url": "https://www.bilibili.com/video/BV1JL411S7gW",
+    "engagement": "2.7万播放 · 178评论 · top comment 167 likes",
+    "date": "2023-03",
+    "takeaway": {
+     "en": "Top comments call Prisoner strong yet simple: he evens out the last two ciphers for the whole map, remote-fills a chaired teammate's machine to save rotation time, and always has a stun ready for self-peel.",
+     "cn": "高赞认为囚徒强度高又简单：能协调全场密码机均匀压机，队友上挂可远程补机省去跑图，还随时有电可以自保。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "约瑟夫逆袭登顶！小女孩反超囚徒！宁芙奖最新战况速报",
+    "url": "https://www.bilibili.com/video/BV1cqR7BWEDy",
+    "engagement": "3.7万播放 · 496评论",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Prisoner was one of the front-runners in the 2026 Nymph Award popularity vote, confirming he is one of the most beloved survivors in CN.",
+     "cn": "2026宁芙奖投票中囚徒一直处于第一梯队，说明他是国服人气最高的求生之一。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2 (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+    "engagement": "4.5k views · chapter list 19 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The CN survivor tier list places Prisoner in B+ (mid-pack), below Mechanic in S and Faro Lady in A-, a reminder that decoders rarely reach the top bands.",
+     "cn": "该国服梯度把囚徒放在B+（中游），低于S档的机械师和A-档的法罗女士，说明修机位很难进最高档。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "For the low tier survs",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1po19nr/for_the_low_tier_survs/",
+    "engagement": "16 upvotes · 14 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A low-tier player says 'elk doctors and prisoners give me PTSD… stop trying to harass and go back to your cipher, we're at five ciphers'.",
+     "cn": "低阶玩家吐槽“麋鹿段的医生和囚徒让我有PTSD……别去骚扰了回去修机，还剩五台机呢”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Asking High tier players as a low tier: Is it possible or impossible to kite Bloody Queen as a Prisoner? (or any decoder?)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1p0eyvv/asking_high_tier_players_as_a_low_tier_is_it/",
+    "engagement": "12 upvotes · 27 comments",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A low-tier Prisoner main reports most kites against Bloody Queen last under 60 seconds and asks whether decoders must simply rely on harassers or bans, reflecting Prisoner's fragility in chase.",
+     "cn": "低阶囚徒玩家表示面对红夫人大多撑不过60秒，询问修机位是否只能靠ob队友或直接ban，反映囚徒被追时的脆弱。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I'm a newbie, which survivor should I get?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ueyjz6/im_a_newbie_which_survivor_should_i_get/",
+    "engagement": "13 upvotes · 18 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A new player notes 'Prisoner is the most common decode char I encounter' but found his playstyle unappealing when testing him.",
+     "cn": "新手玩家表示“囚徒是我遇到最多的修机角色”，但试玩后不太喜欢他的玩法。"
+    }
+   }
+  ],
+  "agrees": [
+   "Elite team decoder and second only to Mechanic among decoders (decode 9, support 7).",
+   "Premade engine: fast-decode and double-decoder comps are a known high-tier strategy (queue.premade 5, meta.high high).",
+   "Low-tier players misuse him by leaving ciphers to harass or mismanaging links (meta.low 3, gameSense 9, forgiveness 2).",
+   "Fragile in chase with only a short stun (survivability 2, kite 4).",
+   "Still appears in 2026 pro matches (meta.pro 4)."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Prisoner is regarded as the second-best decoder after Mechanic and the backbone of fast-decode and double-decoder comps in high-tier and pro play, where remote cipher transfers make the whole team's decoding efficient, and he is also one of the most popular survivors in CN. He is fragile when chased, though, and lower-tier players often complain about Prisoners who leave ciphers to harass or mismanage links, while CN tier lists place him mid-pack rather than at the very top.",
+   "cn": "囚徒被公认为仅次于机械师的修机位，是高阶和职业速修、双修阵容的核心，远程传电让全队修机效率大增，同时也是国服人气最高的求生之一。但他被追时很脆，低阶常被吐槽不修机跑去ob或乱连线，国服梯度也只把他放在B+中游而非顶尖。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "entomologist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "超适合萌新上手的拉点角色～从此再也不怕杰克、小丑",
+    "url": "https://www.bilibili.com/video/BV1UhoqYiEiK",
+    "engagement": "101万播放 · 341评论 · top comment 1.4k likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "On a million-view video pitching Entomologist as a beginner-friendly kiter, the top comment (1.4k likes) says she is great in low tiers but runs out of steam in high tiers, and a 706-like reply adds she is almost never seen at high rank.",
+     "cn": "百万播放的“萌新拉点角色”视频下，最高赞（1.4k）说“低阶很适合，上了高阶就乏力了”，706赞补充“中低阶还有昆虫，高阶几乎看不到”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "牵制容错提高！昆虫加强实测简评！",
+    "url": "https://www.bilibili.com/video/BV1ULa5znENj",
+    "engagement": "4.2万播放 · 346评论 · top comment 225 likes",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Even after the September 2025 Circling Swarm buff, the top comment says 'without a four-stack you still can't play this', while others argue she was never weak.",
+     "cn": "即便是2025年9月的虫群加强实测，最高赞仍是“不开四黑这玩意还是玩不了”，也有人认为她本来就不弱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【s1昆虫/星星】最后一次评价现版本昆虫，静待加强",
+    "url": "https://www.bilibili.com/video/BV18NRGY8Eyu",
+    "engagement": "3.6万播放 · 448评论 · top comment 412 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "An S1 main's pre-buff review; the top comment (412 likes) says soft supports like the swarm suffer because teammates cannot see them, and another notes she is so niche that hunters don't know how to hit the swarm.",
+     "cn": "S1昆虫加强前的评价视频，最高赞（412）认为昆虫这类软辅太吃信息差、队友看不到虫群；另有高赞说昆虫太冷门，监管都不知道怎么打虫。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "新版昆虫真的很弱吗？绝对的T0！",
+    "url": "https://www.bilibili.com/video/BV1JU5ezUE7r",
+    "engagement": "2.9万播放 · 184评论 · top comment 332 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The 'she's T0!' title is met with a sarcastic 332-like 'T0 at being funny', and a 113-like comment says her real problems are wind-up/recovery animations, losing the swarm when downed and cooldown, not durability.",
+     "cn": "“绝对的T0”标题下最高赞（332）调侃“昆虫论招笑确实T0”，113赞指出她的问题根本不是耐久，而是前后摇、倒地收虫和CD。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "时代的眼泪 为什么说昆虫学者是最被高估的角色",
+    "url": "https://www.bilibili.com/video/BV1W331epEqt",
+    "engagement": "9.6万播放 · 344评论 · top comment 740 likes",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "Top comments explain the fragrance debuff exists because Circling Swarm leaves no footprints, complain her item score is low, and call the swarm's long cooldown her most fatal flaw.",
+     "cn": "高赞解释萦绕状态没脚印所以才有香气debuff，并吐槽昆虫道具加分低、收虫CD长是最致命的问题。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "该如何评价当前版本昆虫学者的强度呢？",
+    "url": "https://www.bilibili.com/video/BV1QDzDBZEwM",
+    "engagement": "1149播放 · 5评论",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "A 2026 comment argues her swarm is held back by code (many hunters ignore the slow, skill-blocking is unreliable) and that nearly everyone still playing her is a one-trick specialist.",
+     "cn": "2026年评论认为昆虫“牢在代码”，很多监管不吃减速、挡技能判定不稳，现在玩昆虫的基本都是绝活玩家。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全明星ob】听取哇声一片！神坠昆虫天秀推砸扭转局势！",
+    "url": "https://www.bilibili.com/video/BV1f511BzEno",
+    "engagement": "7.8万播放 · 110评论",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A widely shared high-level highlight of 神坠's Entomologist pushing the hunter into a pallet stun shows she can still swing top-level games in expert hands.",
+     "cn": "神坠的昆虫“推砸”名场面广泛传播，说明在高手手里昆虫依然能扭转高端局。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【s1昆虫】用北极熊口音教你玩昆虫",
+    "url": "https://www.bilibili.com/video/BV1FMxQzFENc",
+    "engagement": "108万播放 · 262评论 · top comment 2.5k likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A million-view S1-Entomologist guide whose top comments call the play 'strong and hilarious', showing a devoted main community around skilled swarm play.",
+     "cn": "S1昆虫百万播放的教学视频，高赞称“又强又搞笑”，体现了围绕高手虫群操作的忠实玩家群体。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (August combat change)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Apart from bug fixes, her only 2026 change raises the maximum score from swarm pushes on survivors or hunters, addressing the long-standing complaint that Entomologist earns little item score.",
+     "cn": "2026年除修复外，她唯一的改动是提高虫群推动求生者或监管者可获得的得分上限，回应了“昆虫道具加分很低”的长期吐槽。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "B- and C TIER! | FIRST OFFICER FELL OFF?!! CN SURVIVOR TIERLIST EXPLANATION FINALE (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=KKRTOCVjRzI",
+    "engagement": "2.4k views · comments up to 25 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "The CN list puts Entomologist in B- (second-lowest band), and commenters lament 'Melly worse than Thief' and note how many former pro-play darlings (Coordinator, Melly, Barmaid, Ada) have fallen there.",
+     "cn": "该国服梯度把昆虫学者放在B-（倒数第二档），评论感叹“梅莉居然比小偷还低”，并指出空军、昆虫、调酒师、律师、心理学家等昔日比赛宠儿都掉到了这一档。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "The Quest For S1 Entomologist Continues... (Zeez Vov Gee V)",
+    "url": "https://www.youtube.com/watch?v=A3ZmzeyLRPA",
+    "engagement": "25.7k views · top comment 284 likes",
+    "date": "2024-10",
+    "takeaway": {
+     "en": "A popular EN creator grinding for S1 Entomologist; a 45-like comment says the true test of an Entomologist is ranking on the Asia server.",
+     "cn": "英文区主播冲S1昆虫的系列视频，45赞评论表示真正考验昆虫水平的是去亚服排位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Entomologist tips and tricks from former S badge! (lilintabris)",
+    "url": "https://www.youtube.com/watch?v=3v3eTY5w0g4",
+    "engagement": "5.1k views",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A former S-badge guide; commenters add that the swarm can block Naiad's dash, as seen in tournament commentary.",
+     "cn": "前S牌昆虫的技巧视频，评论补充虫群还能挡渔女冲刺，这在比赛解说中也出现过。"
+    }
+   }
+  ],
+  "agrees": [
+   "Beginner-friendly swarm kiter that is strong in low tiers (meta.low 4, forgiveness 7).",
+   "High multitask and mechanics demand; remaining players are mostly specialists (demandMultitask 8, skillCeiling 8).",
+   "Fragrance exposure and long swarm downtime are her key weaknesses.",
+   "Still produces occasional pro highlight plays (meta.pro 3).",
+   "Rarely banned and never hyped as S-tier."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 4,
+    "to": 2,
+    "why": "The top comments on her most-viewed 2025 video (1.4k and 706 likes) say she runs out of steam and is almost never seen in high tiers, a 2026 CN tier list ranks her B- (second-lowest band) even after the 2025 buffs, and post-buff Bilibili discussion says she is unplayable without a four-stack and now played almost only by one-tricks; a high-rank rating above her mid-rank rating contradicts all of this.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1UhoqYiEiK",
+     "https://www.youtube.com/watch?v=KKRTOCVjRzI",
+     "https://www.bilibili.com/video/BV1ULa5znENj",
+     "https://www.bilibili.com/video/BV1QDzDBZEwM"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Entomologist is seen as a beginner-friendly swarm kiter who dominates low-tier chases but fades in high tiers, where she is rarely picked and CN tier lists rank her near the bottom (B-) despite two 2025 buffs. She keeps a devoted base of skilled one-trick mains and the odd pro highlight play, but most players regard her as a former pro darling whose swarm is hard to leverage without a coordinated team.",
+   "cn": "昆虫学者被视为适合萌新上手的拉点牵制位，低阶很好用，一到高阶就乏力、几乎见不到，即便2025年两次加强，国服梯度仍把她放在B-。如今玩昆虫的基本都是绝活玩家，偶尔有职业选手打出推砸名场面，但多数人觉得她是“过气的比赛宠儿”，不开黑很难发挥虫群的价值。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "painter",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "十个画家小知识",
+    "url": "https://www.bilibili.com/video/BV1U7t1eKEg3",
+    "engagement": "60万播放 · 223评论 · top comment 1.2k likes",
+    "date": "2024-09",
+    "takeaway": {
+     "en": "The top comment notes Painter over half chair progress cannot be embalmed, and a 222-like comment calls him newbie-friendly because with no half-chair threshold his rescuers face little pressure.",
+     "cn": "最高赞（1.2k）提醒画家挂过半后入殓师无法入殓；222赞评论认为画家很适合新手，没有过半一说，队友救人压力很小。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【全网】从0到巅峰超详细画家教学！这些画板使用技巧你都会吗？",
+    "url": "https://www.bilibili.com/video/BV1gz421d7KS",
+    "engagement": "29万播放 · 187评论 · top comment 536 likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "The top comment (536 likes) from a rescue main says Painter is very easy to rescue since you needn't time the half-chair, 'but I see one Painter in ten games'.",
+     "cn": "最高赞（536）的救人位玩家说救画家不用压血条很好救，可惜“十把不见一把画家”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "画家教学：颜值与强度同时具备的，更适合萌新体质的求生者",
+    "url": "https://www.bilibili.com/video/BV1Sb421H7Ah",
+    "engagement": "1.3万播放 · 31评论",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "A guide pitching Painter as 'better suited to beginners', whose top comment says the player doesn't mind teammates complaining about a fast first down because Painter's second kite is 'rock solid'.",
+     "cn": "这期教学把画家定位为“更适合萌新体质的求生者”，最高赞评论表示不在乎队友嫌自己一溜秒倒，因为画家二溜“稳得要命”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "画家技巧",
+    "url": "https://www.bilibili.com/video/BV1MYvsB6ERh",
+    "engagement": "22.8万播放 · 197评论 · top comment 1.5k likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The top comments (1.5k and 884 likes) ask what Painter can do when the hunter brings Excitement (金身) or warps over and pops it, underlining how easily the board is countered.",
+     "cn": "高赞（1.5k、884）连问“监管带金身怎么办”“监管移形过来开金身你咋玩”，说明画板很容易被针对。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "蒙上双眼——应对画家",
+    "url": "https://www.bilibili.com/video/BV1SFjuzwEXZ",
+    "engagement": "23.5万播放 · 225评论 · top comment 1.2k likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "In this hunter-side 'how to handle Painter' video, commenters joke that good Painters circle the board with you and that Bloody Queen loves chasing Painter because he can't even finish a painting.",
+     "cn": "监管视角“应对画家”视频下，高赞调侃会玩的画家会和你绕画板，另有评论说红夫人最喜欢抓画家，让他连画都画不出来。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "5月21更新后画家加强",
+    "url": "https://www.bilibili.com/video/BV1MqLh6VExp",
+    "engagement": "5.8万播放 · 96评论 · top comment 477 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "After the May 2026 update, the top comment (477 likes) says Painter was 'stealth-buffed' because hunters now get pulled far more reliably, while a 344-like reply says it merely fixed the ability to match its description.",
+     "cn": "2026年5月更新后，最高赞（477）认为画家被“暗改加强”、吸画判定明显更稳；344赞回复则认为这只是让实际表现与技能描述相符的修复。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026 (May bug fixes)",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "The official notes list a May 2026 fix for hunters sometimes not being attracted to the Drawing Board from certain top-down camera angles, the change players read as a quiet buff.",
+     "cn": "官方2026年5月修复了部分俯视视角下监管看到画板不触发吸引的问题，玩家将其视为隐性加强。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "I Put The PAIN In Painter… | Identity V (TracyBun)",
+    "url": "https://www.youtube.com/watch?v=E9xShkaYKJQ",
+    "engagement": "8.2k views · top comment 98 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "EN Painter mains in the comments want boards to be re-collectable like Female Dancer's, admit 'seeing someone slander your favorite character knowing it's all true' (62 likes), and say he 'needs that rework so badly'.",
+     "cn": "英文区画家玩家在评论里希望画板能像舞女盒子一样回收，62赞评论说“看别人黑自己本命却句句属实”，还有人直言画家急需重做。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2 (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+    "engagement": "4.5k views · chapter list 19 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The CN tier list opens its B+ band with Painter, placing him in the lower-middle of the roster.",
+     "cn": "该国服梯度把画家列为B+档首位，大致处于全角色的中下游。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Never chase Painter as Peddler - Survivor Rank #1604 (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=KGAUk85iImo",
+    "engagement": "6.0k views",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Commenters point out Painter 'counters Peddler so hard', questioning why the hunter switched from Mechanic to the Painter.",
+     "cn": "评论指出画家非常克制杂货商，质疑监管为何从机械师换追画家。"
+    }
+   },
+   {
+    "platform": "Zhihu",
+    "title": "第五人格画家为什么好像没什么人玩？如何玩好画家？",
+    "url": "https://www.zhihu.com/question/424647189",
+    "engagement": "unknown",
+    "date": "unknown",
+    "takeaway": {
+     "en": "A Zhihu thread on why Painter is so rarely played, where answers point to hunters countering boards with Excitement or by turning their camera away and to his weak value against control and multi-hit camping hunters at high tiers.",
+     "cn": "知乎讨论“画家为什么没什么人玩”，回答认为监管用金身或转视角不看画就能化解画板，高端局面对控场和多刀守尸屠时画家价值有限。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I'm a newbie, which survivor should I get?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ueyjz6/im_a_newbie_which_survivor_should_i_get/",
+    "engagement": "13 upvotes · 18 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A player only days into the game, drawn by Painter's lore, finds his kiter/support style similar to Gardener's and the one that comes most naturally, illustrating his appeal to newcomers.",
+     "cn": "一名刚入坑几天的玩家因人设喜欢画家，试玩后觉得他和园丁一样是牵制兼辅助、玩起来最顺手，体现了画家对新手的吸引力。"
+    }
+   }
+  ],
+  "agrees": [
+   "Rarely seen in ranked or pro and considered weak at the top (meta.high 2, meta.pro 2).",
+   "Board is easily countered by Excitement, camera-turning and hunters like Bloody Queen, matching his forgiveness 3 and trick kite style.",
+   "Only two boards per match and he needs a rework per his own mains.",
+   "Friendly to low-tier and new players (meta.low 4).",
+   "Loved for his lore and design more than his strength."
+  ],
+  "changes": [
+   {
+    "field": "skillFloor",
+    "from": 6,
+    "to": 4,
+    "why": "Popular Bilibili guides' top comments call Painter newbie-friendly because he has no half-chair threshold and is easy to rescue (222 and 536 likes on 600k/290k-view videos), a dedicated guide pitches him as 'better suited to beginners', new players on Reddit find his style natural, and his official difficulty is only 2; an above-average floor of 6 contradicts the consensus that he is easy to get basic value from even though he falls off at high tiers.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1U7t1eKEg3",
+     "https://www.bilibili.com/video/BV1gz421d7KS",
+     "https://www.bilibili.com/video/BV1Sb421H7Ah",
+     "https://www.reddit.com/r/IdentityV/comments/1ueyjz6/im_a_newbie_which_survivor_should_i_get/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Painter is viewed as an approachable, newbie-friendly kiter-support whose two boards and lack of a half-chair threshold make him easy to rescue, yet he is rarely seen in ranked and many EN mains openly say he needs a rework. Hunters counter him easily with Excitement or by turning their camera, so CN tier lists keep him in the lower-middle (top of B+), and a May 2026 fix that made boards pull more reliably was welcomed as a quiet buff.",
+   "cn": "画家被看作上手友好的牵制辅助位，两幅画加上没有过半机制，队友救他压力很小，萌新也容易玩出效果，但排位里“十把不见一把画家”，外服主玩家也直言他急需重做。监管带金身或转视角就能轻松化解画板，国服梯度只给到B+，2026年5月修复吸画判定后，不少人调侃画家被“暗改加强”了。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "batter",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "第五人格是一个会因为玩家太强削弱角色的游戏！",
+    "url": "https://www.bilibili.com/video/BV1vpzKBuEE6",
+    "engagement": "11.6万播放 · 2591评论 · top comment 727 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Reacting to the Jan 2026 nerf, the top comment jokes Batter's stats may rise because 'most low-score Batters are bad anyway, now he's a high-score exclusive', and a 345-like comment says Batter is taking the hit for Doctor and Cheerleader.",
+     "cn": "针对2026年1月削弱，最高赞（727）调侃“低分大多是唐击手，这下变成高分特供，别越削数据越好”；345赞认为击球是在替医生和拉拉挡刀。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "击球手和台球手削弱回调！角色调整上线！【更新简评】",
+    "url": "https://www.bilibili.com/video/BV1jm67B1EEh",
+    "engagement": "9.5万播放 · 631评论 · top comment 539 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The live Jan 2026 patch softened the test-server nerf; top comments mock the 'raise it then halve it' approach and wonder why Doctor was left untouched.",
+     "cn": "2026年1月正式服对击球的削弱相比共研服有所回调，高赞调侃“先调高再下调一半”，并质疑为什么医生不削。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【阿星】锐评共研服削弱！纯纯策划看击球不顺眼",
+    "url": "https://www.bilibili.com/video/BV1tNzYBiEgH",
+    "engagement": "7.9万播放 · 329评论 · top comment 1.3k likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "Top comments (1.3k and 763 likes) say Batter should not have been nerfed and that even top hunters called a 40% cooldown increase absurd, while a hunter main (506 likes) says the truly annoying survivors are Cheerleader and Doctor.",
+     "cn": "高赞（1.3k、763）认为击球不该削，连很多屠皇都觉得直接加40%CD离谱；一位监管玩家（506赞）表示真正恶心的是拉拉和医生。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "削弱后击球手玩家必看大电影！3w分S1击球手樱花残雨断层实录",
+    "url": "https://www.bilibili.com/video/BV1z5QtBMECs",
+    "engagement": "7.5万播放 · 167评论 · top comment 388 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "The top comment (388 likes) says Batter is one of the few survivors who can carry a team alone, but every play is 'dancing on a knife's edge' with little margin for error and heavy mechanical demands.",
+     "cn": "最高赞（388）指出击球是少有能靠个人实力带飞全队的角色，但很多操作都是“刀尖起舞”，容错不高且很吃手法。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【樱花残雨／击球手】全网最嚣张的击球强度黑，人榜排名和击球不可得兼",
+    "url": "https://www.bilibili.com/video/BV1PA8H61E5x",
+    "engagement": "2.3万播放 · 77评论 · 100 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "Commenters say far too many people play Batter badly because his fundamentals and game-sense demands are 'extremely high', making him a high-variance pick that turns draws into wins or losses.",
+     "cn": "评论认为击球玩得烂的人太多，因为他对基本功和思路要求“太太太高”，是会把平局打成输赢的高波动角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "凭什么大削？击球手很吃操作和意识，就应该有OB强度……",
+    "url": "https://www.bilibili.com/video/BV1GQBZB7E7c",
+    "engagement": "7100播放 · 88评论",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "A dissenting comment argues 'ban rate doesn't lie': Batter's high ban and pick rates prove his overall strength regardless of how hard he is to master.",
+     "cn": "一条反对意见认为“ban率不会说谎”，击球的高ban率和高pick率证明了他的整体强度，无论多吃操作。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "我说实话，当前版本的击球手处于一个较低的强度",
+    "url": "https://www.bilibili.com/video/BV1GbkBBKEXu",
+    "engagement": "1.6万播放 · 89评论",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "A late-2025 opinion video arguing that, even before the 2026 nerf, Batter sat at a relatively low strength level in the current version.",
+     "cn": "2025年底的观点视频认为，即使在2026年削弱之前，当前版本的击球手也处于相对较低的强度。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五人格三十八赛季全段位ban率前十的求生者",
+    "url": "https://www.bilibili.com/video/BV1DmG3zAEnW",
+    "engagement": "13.8万播放 · 695评论 · top comment 2.8k likes",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "A Season 38 all-rank survivor ban-rate top 10 built from NetEase's official mini-program data; the 2.8k-like top comment recaps the list with Batter ('需要击球') at #8.",
+     "cn": "基于网易官方小程序数据的第三十八赛季全段位求生者ban率前十，2.8k赞的置顶式评论复述榜单，击球手（“需要击球”）排第8。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【第五人格/教学】击球手怎么玩？陪跑OB思路参考",
+    "url": "https://www.bilibili.com/video/BV14U411Z7dz",
+    "engagement": "32.8万播放 · 396评论 · top comment 1.3k likes",
+    "date": "2024-05",
+    "takeaway": {
+     "en": "The most-liked advice (1.3k likes) on this popular guide is 'your life is worth more than the ball': never risk yourself to retrieve a cricket ball.",
+     "cn": "这部热门教学下最高赞（1.3k）的建议是“命＞球”，球捡不回来就别捡，状态第一。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "S AND A+ TIER! | EXPLAINING THE MOST CONTROVERSIAL CN SURVIVOR TIERLIST PART 1!! (Zeus IDV)",
+    "url": "https://www.youtube.com/watch?v=CqpQEqtO6E0",
+    "engagement": "11.2k views · chapter list 44 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "In the post-nerf CN tier list Batter sits in A+ (second band) rather than S, alongside Grave Keeper, Mercenary and Seer.",
+     "cn": "削弱后的国服梯度中，击球手位于A+（第二档）而非S档，与守墓人、佣兵、先知同档。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "Patch Notes/2026",
+    "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+    "engagement": "unknown",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "Official notes confirm the Jan 2026 nerf (batting cooldown 10s to 12s, Burst 40s to 50s), list Batter among the six 2026 Deduction Star winners chosen by player vote in April, and add a July change letting him swap the bat for another item once all balls are used.",
+     "cn": "官方公告确认2026年1月削弱（击球CD 10→12秒、爆发CD 40→50秒），4月击球手当选玩家投票的2026演绎之星，7月又允许球用完后把球棒换成其他道具。"
+    }
+   }
+  ],
+  "agrees": [
+   "Very high skill floor and aim demands, with most low-tier Batters playing him poorly (skillFloor 7, demandAim 9, meta.low 3).",
+   "Low forgiveness: players describe his plays as 'dancing on a knife's edge' (forgiveness 3).",
+   "Carry-level rescue and disrupt ceiling in coordinated teams (rescue 9, disrupt 9, queue.premade 5).",
+   "Frequently banned in ranked and a fixture of pro play (meta.pro 4).",
+   "Very popular with players, confirmed by his 2026 Deduction Star win."
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 5,
+    "to": 4,
+    "why": "The Jan 2026 nerf raised his batting and Burst cooldowns by 20-25%, a popular post-nerf CN tier list places him in A+ rather than S, and a late-2025 Bilibili video already argued he sat at a relatively low strength level; his high ban rate and carry potential keep him well above average, but the maximum 5 overstates his current high-rank standing.",
+    "sources": [
+     "https://www.youtube.com/watch?v=CqpQEqtO6E0",
+     "https://id5.fandom.com/wiki/Patch_Notes/2026",
+     "https://www.bilibili.com/video/BV1GbkBBKEXu",
+     "https://www.bilibili.com/video/BV1tNzYBiEgH"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Batter is a fan favourite, voted a 2026 Deduction Star, and a high-skill carry who can single-handedly swing games, though players stress his thin margin for error and joke that most low-tier Batters play him badly. The January 2026 cooldown nerf was widely criticised as excessive, even by many hunter players, and he now sits just below the top in CN tier lists (A+) while still drawing frequent ranked bans.",
+   "cn": "击球手人气很高，拿下2026演绎之星，是能靠个人实力带飞全队的高上限角色，但玩家普遍强调他容错极低、刀尖起舞，并调侃低分段大多是“唐击手”。2026年1月的加长CD削弱连不少屠夫玩家都觉得砍得太狠，目前国服梯度把他放在S档之下的A+，排位ban率依然不低。"
+  },
+  "confidence": 4
+ }
+]

@@ -1,0 +1,772 @@
+[
+ {
+  "id": "escapologist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "查无此人？逃脱大师疑似最弱救人位！【天方夜谈】",
+    "url": "https://www.bilibili.com/video/BV1vCtdzBEvH",
+    "engagement": "16.4万播放 · 1067评论 · top comment 938 likes",
+    "date": "2025-08",
+    "takeaway": {
+     "en": "Before the September 2025 buff he was widely mocked as the weakest rescuer; top comments joke he belongs with the other forgotten survivors and that the people who once called him T0 were wrong.",
+     "cn": "9月加强前被普遍认为是最弱救人位，高赞评论调侃“三位难兄难弟”“当时觉得逃脱大师T0的人可不少”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "低泛用对策卡？如何评价逃脱大师？",
+    "url": "https://www.bilibili.com/video/BV1juj2zDEmB",
+    "engagement": "11.1万播放 · 595评论 · top comment 490 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Top comments rate him an above-average counter-pick that rewards thinking players, and a 210-like comment says he suits tournaments far more than ranked because both the chair swap and smoke need pre-planned communication.",
+     "cn": "高赞认为他泛用一般、对策性强、适合科研型玩家；另一条210赞评论称他“绝对适合上比赛但不适合排位”，换椅和烟雾都太吃沟通。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "逃脱大师——最能催眠自己的角色，出道即牢门",
+    "url": "https://www.bilibili.com/video/BV18e7pzgEaD",
+    "engagement": "4.2万播放 · 129评论 · top comment 223 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment says the smoke is hard to use for teammates and actually blocks the Escapologist's own vision while kiting.",
+     "cn": "高赞吐槽烟雾辅助队友时机难找，自己溜鬼时还会挡住自己视野。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "评价逃脱大师 无内耗救人 死远点 离近点",
+    "url": "https://www.bilibili.com/video/BV1Jo1VBDEWb",
+    "engagement": "3.6万播放 · 102评论 · top comment 131 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "After the buff, top comments say his strategic value reached a new level and he is 'quietly climbing ranks' as a no-double-down rescuer, though a 41-like reply still calls his self-kiting a joke.",
+     "cn": "加强后高赞认为其战略强度“达到新高度”、“绝无双倒之人，已经偷偷上分了”，但也有评论称牵制“还是太幽默了”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第五人格最新全救援位综合强度排名及详细讲解角色（1）",
+    "url": "https://www.bilibili.com/video/BV1xFB3BiE5Q",
+    "engagement": "3.5万播放 · 438评论 · comment 125 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A top comment rates Escapologist's rescue as very strong alongside Puppeteer, but warns that on a pure Borrowed Time build at weak kiting spots he melts against counter hunters.",
+     "cn": "高赞认为光头与木偶救援非常强力，但带纯搏命在烂点位时很容易被克制监管速溶。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "逃脱大师还能吞掉棺材？有用的知识增加了！【IVL】",
+    "url": "https://www.bilibili.com/video/BV1KhkXBwEVU",
+    "engagement": "4.5万播放 · 100评论 · top comment 1350 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "An IVL clip of Escapologist's chair transfer interacting with other rescue effects; commenters note that the new character's mechanics override older ones, which shows he was being used in pro play.",
+     "cn": "IVL赛事中逃脱术与其他救援机制叠加的片段，评论称“新角色机制在老角色之上”，说明他在职业赛场有实际登场。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【凉哈皮】惊呆了！MRC人队“底层逻辑”这一块真离谱了……笑笑这个逃脱大师的搏命立大功！",
+    "url": "https://www.bilibili.com/video/BV1MgUKBDEU5",
+    "engagement": "4.6万播放 · 88评论 · top comment 821 likes",
+    "date": "2025-11",
+    "takeaway": {
+     "en": "In an IVL match cast by 凉哈皮, the MRC Escapologist's preserved Borrowed Time and passive decided a three-escape endgame, and the top comment praises the half-second-rescue detail.",
+     "cn": "凉哈皮解说IVL中MRC逃脱大师保住搏命和被动打出三跑，高赞称赞“过半秒救保住光头搏命和被动”的细节。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Peddler and Escapologist in Autumn IVL",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1nw3mf5/peddler_and_escapologist_in_autumn_ivl/",
+    "engagement": "110 upvotes · 21 comments",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "On IVL opening day, Escapologist appeared in several series (Wolves vs WBG, GG vs MRC, GR vs FPX.ZQ), which EN players noted as proof of pro interest after the buff.",
+     "cn": "英文社区统计IVL秋季赛首日逃脱大师在多场BO中登场（狼队、GG、GR等），证明加强后职业队有兴趣。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "How do We Feel about Escapologist after His release?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1mcxglq/how_do_we_feel_about_escapologist_after_his/",
+    "engagement": "37 upvotes · 13 comments",
+    "date": "2025-07",
+    "takeaway": {
+     "en": "Pre-buff, EN players felt the smoke did little for allies and the free hit was wasted on rescues, but called chair swapping a genuinely game-changing rescue tool.",
+     "cn": "加强前英文玩家认为烟雾对队友帮助不大、救人会白丢免伤，但转椅能救下原本救不了的人，是真正的亮点。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Sigh...Escapologists in rank am I right...🫠",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ppozxu/sighescapologists_in_rank_am_i_right/",
+    "engagement": "41 upvotes · 12 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A solo-ranked player complains about a random Escapologist misusing his ability at the worst moment, reflecting that he is risky in uncoordinated teams.",
+     "cn": "单排玩家吐槽路人逃脱大师在最关键时刻乱用技能，反映他在无沟通队伍里容易亏节奏。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Escapologist is so underrated in rank !! - #identityv (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=xPUmKhSlt64",
+    "engagement": "3,960 views · top comment 23 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "Commenters agree his potential is huge but he feels underwhelming next to stronger picks, noting that solo ranked favours self-reliant survivors over one who covers teammates.",
+     "cn": "评论认为他潜力很大但对比强势角色显得乏力，单排更偏爱能自保的角色，而不是靠技能照顾队友的逃脱大师。"
+    }
+   }
+  ],
+  "agrees": [
+   "rescue 8: post-buff players call him a no-stress rescuer, and chair transfer is repeatedly singled out as his real value.",
+   "teamDependency 7 / demandComms 7: the most-liked analysis says his chair swap and smoke need pre-planned communication and lose value without it.",
+   "decode 3: the -15% decode penalty is accepted as his main drag.",
+   "queue.solo 3 < queue.premade 4: solo-ranked complaints and 'good for tournaments, not ranked' comments both support the gap.",
+   "meta.high 4: 2025-26 comments say he is quietly climbing ranks, and hunters admit to banning him.",
+   "kite 6 is not contradicted enough to change, but post-buff comments still call his self-kiting weak, so it should not be raised."
+  ],
+  "changes": [
+   {
+    "field": "meta.pro",
+    "from": 3,
+    "to": 4,
+    "why": "He was picked in multiple IVL Autumn 2025 series right after the buff (Reddit tally, Bilibili IVL clips), and the most-liked analysis says he suits competitive play more than ranked. With meta.high at 4, a pro rating of 3 inverts the community consensus.",
+    "sources": [
+     "https://www.reddit.com/r/IdentityV/comments/1nw3mf5/peddler_and_escapologist_in_autumn_ivl/",
+     "https://www.bilibili.com/video/BV1KhkXBwEVU",
+     "https://www.bilibili.com/video/BV1MgUKBDEU5",
+     "https://www.bilibili.com/video/BV1juj2zDEmB"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "\"Escapologist\" launched to jokes that his smoke blinds his own side and was briefly called the weakest rescuer, but the September 2025 buff turned his chair transfer and free hit into a quietly effective, low-stress rescue kit that players say climbs ranks without fanfare. He is valued most in coordinated and tournament play, where he has appeared in IVL, while his weak self-kiting and reliance on callouts still frustrate solo-queue teammates.",
+   "cn": "“逃脱大师”刚上线时被调侃烟雾先熏瞎自己人，一度被称为最弱救人位，但2025年9月加强后转椅加免伤让他成了“偷偷上分”的无内耗救人位。玩家普遍认为他更适合开黑和比赛（IVL已有登场），单排里牵制偏弱又太吃沟通，路人局容易亏节奏。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "lanternist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "幻灯师整治屠榜中",
+    "url": "https://www.bilibili.com/video/BV1pesEzuEDY",
+    "engagement": "66.7万播放 · 1329评论 · top comment 1804 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top comment, from a hunter main, says her spirit form is true invisibility, her personal strength is unprecedented and activating the skill is effectively invincibility except against a few specific hunters, while her team utility is slightly below classic supports.",
+     "cn": "高赞纯屠夫玩家评价：灵体是真正完全隐身，个人素质“前无古人”，除极少数监管外“开技能就等于真无敌”，团队作用略低于全盛期的辅助位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "一点不削！排位上分就选幻灯师大人！",
+    "url": "https://www.bilibili.com/video/BV12jsGz4EY5",
+    "engagement": "14.7万播放 · 908评论 · top comment 1064 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "The top comment is shocked she entered ranked completely unchanged, noting even the usually survivor-friendly analyst 电脑l简单 thinks she needs a straight nerf.",
+     "cn": "高赞震惊她“原封不动直接上排位”，连电脑简单都认为需要纯削弱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "幻灯师上排一周 强度你觉得如何",
+    "url": "https://www.bilibili.com/video/BV1Gk1MBdE3Q",
+    "engagement": "7.2万播放 · 651评论 · top comment 606 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "After a week in ranked, the top comment says she 'was born at the right time' and won't be nerfed until survivors as a whole recover.",
+     "cn": "上排一周后高赞认为幻灯师“生对了时代”，在人类整体回暖前不会被削。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【小迪契卡】半夜加播幻灯后评：遛鬼强度很高，打配合很厉害，双排四黑强度可以，单排也就那样",
+    "url": "https://www.bilibili.com/video/BV19ZsazFERE",
+    "engagement": "1.3万播放 · 50评论 · top comment 86 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Pro player 小迪 rates her kiting very high and her teamwork excellent in duos and premades but only okay in solo queue; comments add that she raises the floor for weaker players but has little rescue or support impact in low ranks.",
+     "cn": "职业选手小迪评价遛鬼强、配合强、双排四黑强，单排一般；评论补充她“给菜的人玩也可以兜下限”，但低阶救人辅助作用有限。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "舆论高，强度低。幻灯师超模在哪？",
+    "url": "https://www.bilibili.com/video/BV1zoWrzZESi",
+    "engagement": "2.7万播放 · 248评论 · top comment 180 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A contrarian early take; the top comment breaks her kite into repeated remote timing reads, and another says her rescue mind-games are near zero but her anti-intercept is top-tier.",
+     "cn": "早期唱反调视频；高赞把她的牵制拆解为8秒内多次远程目押，另一条评论称其救人博弈几乎为零，但防拦截能力顶尖。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "幻灯师史诗级削弱，心兽你无视了规则。",
+    "url": "https://www.bilibili.com/video/BV16NgN66EbC",
+    "engagement": "19.9万播放 · 347评论 · top comment 3008 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The new hunter Herztier can hit her projection and stun her real body, which the top comment compares to Coordinator shooting a Bloody Queen mirror, so players see it as the first real hard counter.",
+     "cn": "新监管心兽打灵体能让本体吃控制，高赞比喻为“空军打红夫人镜像本体会晕”，被视为她第一个真正的硬克制。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who's the most unbalanced hunter/survivor for you?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1q86ezh/whos_the_most_unbalanced_huntersurvivor_for_you/",
+    "engagement": "31 upvotes · 131 comments",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The OP names Lanternist as the most unbalanced survivor because she was barely touched by nerfs.",
+     "cn": "发帖者认为幻灯师是最失衡的求生者，因为削弱几乎没伤到她。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Survivor players are getting spoon fed",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1t9kruu/survivor_players_are_getting_spoon_fed/",
+    "engagement": "18 upvotes · 13 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A hunter-side post lists 'Lanternist and Matador's non-existent nerfs' and puts Lanternist in the current survivor meta alongside Doctor, Priestess and Seer.",
+     "cn": "屠夫视角帖子吐槽幻灯师和斗牛士“等于没削”，并把幻灯师列入医生、祭司、先知同档的当前强势求生。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "how can I counter lanternist????",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1oajfya/how_can_i_counter_lanternist/",
+    "engagement": "25 upvotes · 26 comments",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "A hunter says that even with traps they cannot interrupt her rescues because she is invisible, and calls the kit absurd.",
+     "cn": "监管玩家表示连陷阱都拦不住隐身救人，认为技能设计离谱。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Lanternist is Completely BROKEN.. WHY IS NO ONE IS COMPLAINING?! (Kuroshiro Gaming)",
+    "url": "https://www.youtube.com/watch?v=oDEYWNutOM0",
+    "engagement": "5,031 views · top comment 95 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Top comments call her kit's concept inherently broken because pallet mind-games fail against her invincible real body, though others note that most NA/EU Lanternists still throw and kite for only about 15 seconds.",
+     "cn": "高赞认为其机制本身就超模（定格本体无敌，无法板区博弈），但也有评论指出欧美服多数幻灯师仍会“送”，只能溜15秒左右。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "This is Why Identity V Players HATE Lanternist... (DukO)",
+    "url": "https://www.youtube.com/watch?v=5AvCSwaxFRE",
+    "engagement": "11,555 views · top comment 102 likes",
+    "date": "2025-10",
+    "takeaway": {
+     "en": "Commenters stress that she can speed up decoding, chair and gate time so her decode debuff barely matters, and a 60-like reply says she is 'not hard to play' though beatable once hunters learn her.",
+     "cn": "评论强调她能加速修机、救人和开门，修机debuff几乎无影响；60赞评论称她“不难上手”，但监管熟悉后也能应对。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta.high 5 / meta.pro 4: CN and EN players alike call her one of the most overtuned survivors, and she remains a routine ban.",
+   "queue.premade 5 > queue.solo 4: pro 小迪 and comments say she is strong in duos and premades but only okay solo.",
+   "survivability 8 / kite 8: 'activating the skill is true invincibility' is the most-liked verdict.",
+   "demandTiming 9: players describe her kite as repeated timing reads and manual cancels.",
+   "support 8: she accelerates ciphers, chairs and gates, and players say this cancels her own decode debuff.",
+   "The Herztier matchup (hits on her projection stun her body) is a new widely-shared counter worth adding to bad matchups."
+  ],
+  "changes": [
+   {
+    "field": "meta.low",
+    "from": 2,
+    "to": 3,
+    "why": "A rating of 2 treats her as weak in low ranks, but the most popular feedback describes her as unusually safe: a 1804-like hunter verdict says 'activating the skill is true invincibility', a 147k-view video sells her as the ranked climbing pick, a pro player's viewers say she 'raises the floor for weaker players', and EN comments call her 'not hard to play'. EN hunters note that many low-skill Lanternists still throw, so this is a one-step move rather than a jump.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1pesEzuEDY",
+     "https://www.bilibili.com/video/BV12jsGz4EY5",
+     "https://www.bilibili.com/video/BV19ZsazFERE",
+     "https://www.youtube.com/watch?v=5AvCSwaxFRE"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Lanternist is widely regarded as one of the most overtuned survivors in the game: hunters on Bilibili and Reddit describe her freeze-frame as near-total invincibility, and players joke that two nerfs barely touched her. She peaks in premades and high-rank play, where she is a routine ban, though solo players who mistime her cancels still go down fast and the new hunter Herztier finally gives hunters a real answer.",
+   "cn": "幻灯师被普遍视为版本最超模的求生之一，屠夫玩家直言“开技能就等于真无敌”，两次削弱也被调侃“削了跟没削一样”，稳坐监管ban位。她在双排四黑和高端局上限最高，单排仍看目押和博弈，新监管心兽打灵体能影响本体，算是少有的硬克制。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "matador",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "上限、全能性、难度都不低的一个求生者，近年来最满意的设计",
+    "url": "https://www.bilibili.com/video/BV18TctzLEo3",
+    "engagement": "5.4万播放 · 568评论 · top comment 366 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "The analyst 电脑l简单 praises his high ceiling, versatility and difficulty; the top comment argues the dash lacks i-frames and narrow terrain or wall collisions can waste it entirely.",
+     "cn": "电脑l简单评价其上限、全能性、难度都不低；高赞指出冲刺无无敌帧，狭窄点位撞墙卡脚会直接废掉技能。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "斗牛士强在哪？斗牛士该怎么削？——第五杂谈之斗牛士",
+    "url": "https://www.bilibili.com/video/BV1TVPxz5E6E",
+    "engagement": "1.1万播放 · 87评论 · top comment 109 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The top comment says his raw kit is not absurd, but it fits the patch so well that even players who can't reach his ceiling get a stable floor; an Opera Singer main says his floor is 'too high' and the post-dash slow feels like a stun.",
+     "cn": "高赞认为本体强度不算离谱，但道具完美契合版本，“打不出上限也能打出稳定的下限”；歌剧玩家称其“下限太高”，冲刺后减速对歌剧几乎等于眩晕。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "斗牛士教学:特质组联动极强的t0全面求生。",
+    "url": "https://www.bilibili.com/video/BV12ncXzkENb",
+    "engagement": "9.9万播放 · 179评论 · top comment 144 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A self-described low-rank player says Matador is the most comfortable survivor they have played for both kiting and rescuing, and an A-badge main warns beginners not to blindly body-block rescues but to save the dash to protect second chases.",
+     "cn": "低阶玩家表示斗牛士溜鬼救人都好用、特别顺手；A牌斗牛补充新手常犯盲目撞救的错误，应把技能留给保队友二溜。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "辅助机制大砍！转型牵制位？斗牛士削弱实测",
+    "url": "https://www.bilibili.com/video/BV1tPQFB3EAB",
+    "engagement": "7.8万播放 · 495评论 · top comment 144 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "After the April nerf, top comments complain that the chase-only Courage condition is strange and hard to trigger twice per match, but agree he is 'still playable' and clearly weaker than launch.",
+     "cn": "四月削弱后高赞吐槽“追击判定太离奇”，一局不一定能用出两次展布，但也认为“没削太废，勉强能玩”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "斗牛士整体强度挨刀！前锋自保&OB小幅削弱！共研服人类角色最新调整",
+    "url": "https://www.bilibili.com/video/BV1q2DfB9EQ6",
+    "engagement": "2.3万播放 · 83评论 · top comment 65 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "The top comment sums up the April nerf as moving him 'from T0+ to T0', and another calls it painless.",
+     "cn": "高赞总结四月削弱为“从T-0削到T0”，另一条称“不痛不痒”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【联合求生】两万字长文稿分析全角色联合强度（26年5月10日版强度）",
+    "url": "https://www.bilibili.com/video/BV16Q5s6yECo",
+    "engagement": "2.9万播放 · 327评论 · comment 90 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A popular tier breakdown comment calls Matador 'brainlessly overtuned in both ranked and Joint Survival', placing him at T0.5 even after the nerf.",
+     "cn": "热评将斗牛士列为T0.5，称其“不管排位还是联合都是无脑超模”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【WBG的回声】斗牛士精彩牵制助力三跑，队友发出好溜的声音",
+    "url": "https://www.bilibili.com/video/BV1kyjA6oEUD",
+    "engagement": "2.0万播放 · 123评论",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "An official WBG esports clip shows a Matador kite setting up a three-escape in IVL Summer 2026, one of many pro-match Matador highlights that season.",
+     "cn": "WBG官方发布的IVL夏季赛斗牛士牵制助力三跑片段，是该赛季众多职业赛斗牛士高光之一。"
+    }
+   },
+   {
+    "platform": "IVL/COA",
+    "title": "2026 IVL 夏季赛",
+    "url": "https://wiki.biligame.com/dwrg/2026_IVL_%E5%A4%8F%E5%AD%A3%E8%B5%9B",
+    "engagement": "unknown",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "The 2026 IVL Summer Season ran on the post-nerf 5/8 build with Matador newly selectable, confirming his tournament availability right after the April nerf.",
+     "cn": "2026 IVL夏季赛使用5月8日正式服版本，斗牛士为新增可选角色，削弱后即进入职业赛场。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Which survivor/s you find irritating to chase as a hunter?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+    "engagement": "22 upvotes · 47 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "The hunter-side OP lists 'Matador and Lanternist (we all know why. both are broken.)' among the most irritating survivors to chase.",
+     "cn": "屠夫玩家发帖列出最难追的求生，直言“斗牛士和幻灯师，大家都懂，都超模”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who are the best off-rescues in game?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1udm7cn/who_are_the_best_offrescues_in_game/",
+    "engagement": "104 upvotes · 31 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "EN players name Matador as a model 'off-rescuer', a kiter whose kit is strong enough to rescue without a decode penalty.",
+     "cn": "英文社区把斗牛士列为典型“副救人位”，即技能足以救人且无修机减速的牵制位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "oMg MaTaDoR iS tOo Op NeEd NeRf - #ManorHeartbeat #IdentityV (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=P-GZz1Za0z0",
+    "engagement": "165,509 views · top comment 464 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The most-viewed EN Matador video; top comments marvel at him dragging survivors off the rollercoaster and say he makes Painter useless, and one hunter vows to ban him on sight in ranked.",
+     "cn": "英文区播放最高的斗牛士视频，高赞惊叹他能把人从过山车上拽下来、让画家显得多余，也有监管表示上排位见到就ban。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Matador still OP after his big NERF !? - #IdentityV (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=ET5u8l-k5iY",
+    "engagement": "5,491 views · top comment 20 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "EN viewers say they 'don't see a difference' after the April nerf and are relieved it wasn't bigger.",
+     "cn": "英文观众表示四月削弱后“看不出区别”，庆幸削得不重。"
+    }
+   }
+  ],
+  "agrees": [
+   "meta.high 5 / meta.pro 5: still called T0 after the April nerf, a routine hunter ban, and a frequent IVL Summer 2026 pick.",
+   "skillCeiling 9 / demandMapKnowledge 8: analysts call his ceiling and difficulty high, and terrain (walls, narrow spots) can waste the dash.",
+   "selfSufficiency 9 / teamDependency 4 / demandComms 4: EN players frame him as an off-rescuer whose kit works without a team setup.",
+   "disrupt 8 / rescue 8: the Muleta forced-vault and cleave body-block are the most-cited hunter complaints.",
+   "queue.solo 5 and quickMatch 5: low-rank players say he is the most comfortable survivor to pick up."
+  ],
+  "changes": [
+   {
+    "field": "meta.low",
+    "from": 4,
+    "to": 5,
+    "why": "Several popular sources describe his floor, not just his ceiling, as the problem: players who can't reach his ceiling still get 'a stable floor', an Opera main calls his floor 'too high', a self-described low-rank player finds him the easiest survivor to kite and rescue with, and he is still rated T0 or T0.5 ('brainlessly overtuned in ranked') after the April nerf.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1TVPxz5E6E",
+     "https://www.bilibili.com/video/BV12ncXzkENb",
+     "https://www.bilibili.com/video/BV16Q5s6yECo",
+     "https://www.bilibili.com/video/BV1q2DfB9EQ6"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Matador is seen as the defining survivor of 2026: his dash, slow and bodyguard carry give even low-rank players a high floor, and the April nerf only moved him 'from T0+ to T0' in the community's eyes, while he became a staple in IVL Summer. Hunters treat him as a near-permanent ban, and experienced mains stress that clean dash angles, terrain reading and saving the skill for second chases separate a good Matador from a reckless one.",
+   "cn": "斗牛士被公认为2026年的“版本之子”，冲刺减速加带人位移让低阶玩家也能打出稳定下限，四月削弱后仍被调侃“从T-0削到T0”，IVL夏季赛也频繁登场。屠夫基本当必ban处理，而高手强调冲刺角度、地形判断和留技能保二溜，才是拉开差距的关键。"
+  },
+  "confidence": 5
+ },
+ {
+  "id": "mime-artist",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "月亮河最无脑打法！默剧艺人超模牵制！",
+    "url": "https://www.bilibili.com/video/BV1cvGo6fEu3",
+    "engagement": "87.8万播放 · 1153评论 · top comment 4014 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "Her most-viewed test-server showcase sold her as an overtuned kiter; top comments joke that anyone who didn't laugh must be a hunter main.",
+     "cn": "共研服最高播放展示把她包装成超模牵制，高赞调侃“看了不笑说明你是屠夫玩家”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "紧急削弱！超高强度技能官方认证！默剧艺人最新削弱爆料",
+    "url": "https://www.bilibili.com/video/BV18rGx6WE8A",
+    "engagement": "11.4万播放 · 532评论 · top comment 1626 likes",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "On the pre-release umbrella nerf, the top comment says one Mime Artist match takes as many inputs as ten Dentist matches, which highlights how mechanically demanding she is.",
+     "cn": "针对上线前的伞削弱，高赞吐槽“玩一把默剧艺人的操作量够我玩0.1把牙医”，凸显操作量极大。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "依旧薄纱层云？默剧艺人拉点强度测评！",
+    "url": "https://www.bilibili.com/video/BV14WV96YEVc",
+    "engagement": "3.1万播放 · 187评论 · top comment 128 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "After launch the top comment says 'lesson learned, not spending money, this character is genuinely weak', and others joke she can only beat her own pre-nerf self.",
+     "cn": "上线后高赞“学费了，不氪了……这个角色是真的弱”，评论调侃她“只是比不过巅峰的自己”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "默剧艺人加强！厂长考虑调整！七月卧谈会简评",
+    "url": "https://www.bilibili.com/video/BV1Td3q6SESo",
+    "engagement": "4.8万播放 · 1210评论 · comment 280 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A 280-like comment, apparently from the uploader (a popular analyst), says her kit is well designed, but in 80% of ranked games she can't deliver her support value and plays like an anti-tunnel kiter with a decode debuff; it adds she is promising for competitive play.",
+     "cn": "高赞长评认为技能模组不错，但排位80%的局打不出辅助效果，只能当带修机减速的不粘锅；比赛环境未来可期，排位远低于预期。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【吐槽】7月卧谈会依旧稳定发挥什么叫颜值配不上强度?选问题给我选好的啊！",
+    "url": "https://www.bilibili.com/video/BV1gQ3q6WEVB",
+    "engagement": "16.4万播放 · 1586评论 · top comment 1907 likes",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "The official July dev Q&A picked a player question saying her looks outclass her strength, which became a community meme; top comments joke that NetEase will fix it by making her model uglier.",
+     "cn": "七月卧谈会选了“颜值配不上强度”的问题并成为梗，高赞调侃“冈易：懂了，这就把默剧艺人的建模改丑”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "强度配不上颜值！默剧艺人该如何加强？",
+    "url": "https://www.bilibili.com/video/BV17ouA6PECA",
+    "engagement": "2.3万播放 · 135评论 · top comment 109 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "A 102-like comment explains that players research many umbrella jump spots that almost never work in real matches, because the umbrella has a long wind-up and teammates can't steer it like Toy Merchant's catapult, so its support value collapses.",
+     "cn": "102赞长评指出大家研究的伞跳点实战几乎用不上：伞前摇长易被打断，队友用伞也难控落点，不如玩具商板车，辅助收益大打折扣。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "冲刺秒砸头！越晕越来劲！默剧艺人加强简评",
+    "url": "https://www.bilibili.com/video/BV1yv4k6YEDf",
+    "engagement": "5.3万播放 · 266评论 · top comment 317 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The top comment says she was ignored for a whole season and the late-summer buff finally lifts her 'from T2 to T1', fixing pain points that should have been fixed at launch.",
+     "cn": "高赞称默剧“冷了一整个赛季”，这次加强终于让她“从T2到T1”，很多毒点早该在上线时解决。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【大神】加强后的默剧艺人！人榜局表现！",
+    "url": "https://www.bilibili.com/video/BV16ebN6xE3d",
+    "engagement": "5930播放 · 29评论 · top comment 28 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Even after the September buff, top comments say she is still 'nowhere to be seen' in ranked and that the buffs targeted her kite floor while her support still depends on teammates.",
+     "cn": "九月加强后高赞仍称“加强后依旧查无此人”，且加强针对牵制下限，辅助依旧看队友脸色。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Mime nerf was overkill",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1tq62b9/mime_nerf_was_overkill/",
+    "engagement": "0 upvotes · 34 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "A contested thread argues that removing her umbrella's reach to second floors gutted her main strength while Matador and Lanternist escaped similar nerfs.",
+     "cn": "争议帖认为移除伞飞二楼的能力砍掉了她最大优势，而斗牛士、幻灯师却没被这样削。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "After seeing mime in game she honestly doesn't seem as bad",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1tonod6/after_seeing_mime_in_game_she_honestly_doesnt/",
+    "engagement": "12 upvotes · 9 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "An EN player finds she has plenty of counterplay, rarely lands flights against mobile hunters and burns items fast, though the stun and permanent wall still felt overtuned.",
+     "cn": "英文玩家实战后认为她有不少反制空间，对位移型监管很难飞起来、道具消耗快，但眩晕和永久墙偏强。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Mime Artist GUIDE | Identity V (Sgushenka Studio)",
+    "url": "https://www.youtube.com/watch?v=IesFmAcMCns",
+    "engagement": "12,127 views · top comment 23 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "EN commenters call her 'genuinely so versatile' and good for rescues with a wall and pallet next to the chair, while others say she is strong but 'might need some sort of buff'.",
+     "cn": "英文评论称她“非常全能”，救人时在椅旁放墙放板很强，也有人认为她强但可能还需要加强。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THEY BUFFED MIME ARTIST BUT NERFED COMPOSER AND DREAM WITCH?! - Identity V Season 44 Patch Notes (Kuroshiro Gaming)",
+    "url": "https://www.youtube.com/watch?v=T5iWavQYQik",
+    "engagement": "13,441 views · top comment 123 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "EN viewers note that Mime Artist received 'an entire page worth of buffs' and hunter mains question buffing her while Lanternist is left untouched.",
+     "cn": "英文观众注意到默剧艺人获得“整整一页的加强”，屠夫玩家质疑加强她却放着幻灯师不管。"
+    }
+   }
+  ],
+  "agrees": [
+   "skillFloor 7 / demandMechanics 8 / forgiveness 4: the most-liked comment says one Mime match takes more inputs than ten Dentist matches.",
+   "skillCeiling 9 / demandMapKnowledge 9: players research many jump and wall spots but rarely pull them off in real matches.",
+   "meta.low 2 / meta.mid 3: she was widely called weak and rarely seen after launch, and the 'prettier than she is strong' meme reached the official Q&A.",
+   "meta.pro 2: analysts call her 'promising' for competitive play but she has no established pick.",
+   "kite 8 / earlyGame 8: the September buffs targeted her kite floor, lifting her to roughly T1."
+  ],
+  "changes": [
+   {
+    "field": "support",
+    "from": 7,
+    "to": 6,
+    "why": "Multiple sources say her support rarely materializes in practice: a 280-like comment (apparently the analyst uploader's) says 80% of ranked games deliver no support effect, a detailed 102-like comment explains that teammates can't steer the umbrella, and post-buff comments say her support 'still depends on teammates' because the buffs targeted kiting. Her kit gives her support tools, so this is only a one-step trim.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1Td3q6SESo",
+     "https://www.bilibili.com/video/BV17ouA6PECA",
+     "https://www.bilibili.com/video/BV16ebN6xE3d"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Mime Artist was hyped as overtuned on the test server, but the pre-release umbrella nerf left her feeling clunky and rarely seen, and the joke that she is prettier than she is strong even made it into an official developer Q&A. The late-summer buffs lifted her to roughly tier one as a kiter, yet players still say her umbrella support is hard to use with random teammates, so she rewards dedicated mains who study spots more than casual picks.",
+   "cn": "默剧艺人在共研服被视为超模，但上线前伞的削弱让她手感变差、排位几乎“查无此人”，“颜值配不上强度”甚至成了官方卧谈会的梗。八九月的全面加强让她的牵制回到T1左右，但伞的辅助路人很难用好，更适合愿意钻研点位的绝活玩家。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "prodigy",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "全新【求生者】——“神童”将于9月20日上线共研服，技能介绍视频公开！",
+    "url": "https://www.bilibili.com/video/BV1Tne46VEy6",
+    "engagement": "42.7万播放 · 6721评论 · top comment 3354 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "The official skill reveal drew huge attention, but the top comments focus on the skin fantasy and mock the vague 'some skills' wording rather than praising the kit.",
+     "cn": "官方技能介绍热度极高，但高赞多在聊皮肤联想、吐槽“部分技能”描述含糊，对技能本身少有好评。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "动觉展演！神童首发实战！",
+    "url": "https://www.bilibili.com/video/BV19geB6UEGk",
+    "engagement": "50.5万播放 · 1414评论 · top comment 742 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "On the most-viewed test-server gameplay, the top comment says showcasing against weak-chasing Night Watch was a red flag, and another calls him the weakest test-server release in memory.",
+     "cn": "共研服最高播放实战下，高赞称“看到拿守夜人当演示对象就知道强度不妙”，另有评论称“第一次见到共研服这么弱的”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "手感有些稀碎！溜鬼卡位有点幽默！共研服神童技能演示！",
+    "url": "https://www.bilibili.com/video/BV1Abh66eEQE",
+    "engagement": "11.4万播放 · 560评论 · top comment 794 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "The top comment calls the kit a design failure that makes you busy without knowing what for, and others say every part of it has a better replacement in existing survivors.",
+     "cn": "高赞认为“操作繁琐忙半天不知道在忙什么”，是设计失败；其他评论称其技能“全部都有上位替代”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【杂谈】第五人格的当务之急是重新设计神童技能",
+    "url": "https://www.bilibili.com/video/BV1iFhb69Egb",
+    "engagement": "12.4万播放 · 198评论 · comment 134 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Players say the ball-pushing kit lacks design appeal and clashes with the character's lie and animal-control theme, and many call for a full rework.",
+     "cn": "玩家认为推球技能组毫无设计美感，与谎言、操控动物的人设脱节，呼吁重做。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "神童调整：土球数值加强！体力消耗减少！【共研简评】",
+    "url": "https://www.bilibili.com/video/BV1Z7aw6nExN",
+    "engagement": "5.4万播放 · 407评论 · top comment 388 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "On the mid-test buff (bigger, sturdier balls and lower stamina cost), the top comment says that when even hunter mains find a survivor laughable, it really is weak.",
+     "cn": "针对共研中期加强（土球加速加固、耐久消耗降低），高赞称“监管玩家都觉得幽默的就是真区了”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "神童首次加强？！加强后军工厂实战！",
+    "url": "https://www.bilibili.com/video/BV1aFaK6JETu",
+    "engagement": "15.7万播放 · 391评论 · top comment 1007 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Even after the buff, the top comment reports the creator needed more than 20 games over two hours to record one good clip, and says the clunky inputs only match what other survivors get from a single tap.",
+     "cn": "加强后高赞仍称UP主打了二十多把两小时才录到一个素材，“用无敌繁琐卡手的操作打出其他求生点一下的收益”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【锐评】如何评价新求生神童阿开强度不够问题?这角色到底后续到底如果加强",
+    "url": "https://www.bilibili.com/video/BV1u5h46qEHq",
+    "engagement": "1.4万播放 · 78评论 · top comment 86 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Commenters worry he sits in the crowded kiter slot where stronger options will replace him, and wish he had been a decoder instead.",
+     "cn": "评论担心他仍是牵制位，处在最卷的位置，容易被一堆上位替代，希望当初做成修机位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "New Survivor \"Prodigy\" gameplay - #identityv (Nubspector)",
+    "url": "https://www.youtube.com/watch?v=HamnTH83Abs",
+    "engagement": "18,224 views · top comment 59 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "EN test-server reactions call him 'the first survivor released that needs a buff', say the non-rechargeable ball resource runs out too fast, and compare him to a harder, worse Fire Investigator.",
+     "cn": "英文共研反馈称他是“第一个需要加强的新求生”，土球资源不可充能、消耗太快，像更难用更弱的火灾调查员。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "THESE 3 PRODIGY BUFFS FIXED EVERYTHING (Kuroshiro Gaming)",
+    "url": "https://www.youtube.com/watch?v=4lJsYuTqAaQ",
+    "engagement": "7,487 views · top comment 23 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "EN viewers welcome the buffs, especially that his ball can now absorb hits, but the top comment doubts he will reach the top of the meta next to Matador, Mime Artist and Lanternist.",
+     "cn": "英文观众欢迎加强（尤其土球能挡伤害了），但高赞认为有斗牛士、默剧、幻灯师在，他难进版本顶端。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "[Identity V] The strongest new survivor, \"Prodigy,\" has been released! (ピアソン 唯のん)",
+    "url": "https://www.youtube.com/watch?v=VJChdDMHUAo",
+    "engagement": "32,440 views · top comment 136 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "Day-one JP reactions are more positive: a hunter-side comment says he has more tools than expected and could enter the meta, and another says chasing him felt at least as annoying as Matador.",
+     "cn": "日服首日反馈更积极：有监管视角评论认为他道具比想象多、可能进环境，另有人称追他“至少和斗牛士一样烦”。"
+    }
+   },
+   {
+    "platform": "Fandom",
+    "title": "\"Prodigy\"",
+    "url": "https://id5.fandom.com/wiki/%22Prodigy%22",
+    "engagement": "unknown",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "The wiki confirms a normal 81s decode, Grime stacks that let the hamster stun hunters at 100, pushing and riding ball states, and a bonus to healing calibrations, which gives him more assist utility than a pure kiter.",
+     "cn": "Wiki确认他破译81秒无惩罚，尘垢满100层仓鼠可眩晕监管，有推球与骑球两种状态，并在治疗队友时更易触发校准，辅助属性比纯牵制略多。"
+    }
+   }
+  ],
+  "agrees": [
+   "skillFloor 8 / forgiveness 3 / demandMechanics 8: the most-liked CN comments call his inputs clunky ('busy without knowing what for'), with long wind-ups before value.",
+   "meta.low 2 / meta.mid 2 / meta.pro 1: test-server consensus on Bilibili and YouTube was that he was weak and replaceable, and the buffs only partly changed that.",
+   "decode 5: he has a normal 81s decode with no penalty.",
+   "Contain-first identity: players see him as another kiter in the most crowded role.",
+   "meta.high 3 is at the generous end of CN opinion but matches day-one JP/EN reactions, so it should be held until live data arrives."
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "\"Prodigy\" drew huge attention for his design, but test-server players were blunt that his dirt-ball kit felt clunky, slow to set up and outclassed by existing kiters, and some mocked him as a 'dung beetle' for pushing balls around. Late test-server buffs and day-one matches have softened that verdict, with some Japanese and English players calling him sticky and annoying to chase, so his real standing is still unsettled.",
+   "cn": "“神童”凭人设和建模赚足关注，但共研服普遍评价技能操作繁琐、前摇长、收益低，被调侃成“屎壳郎”，还被认为处处有上位替代。共研服加强后评价有所回暖，日服和外服首日也有人觉得他粘人难追，但正式服真实强度仍需观察。"
+  },
+  "confidence": 3
+ }
+]

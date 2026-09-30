@@ -1,0 +1,923 @@
+[
+ {
+  "id": "explorer",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "Explorer main here looking for updated tips",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1vf2pr4/explorer_main_here_looking_for_updated_tips/",
+    "engagement": "28 upvotes · 3 comments",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "A long-time Explorer main says Kurt's run of buffs, including his first real decode buff, has changed him so much that plain decoding can now beat page-hunting, and asks how to stay useful to a 2026 team.",
+     "cn": "老冒险家玩家表示连续几赛季的加强（包括他第一次拿到的修机加成）让玩法大变，现在老实修机甚至比挖书页更划算，想知道2026版冒险家怎么才能对团队更有用。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "10 minutes trying to find the explorer (and failing miserably)",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1lfotj1/10_minutes_trying_to_find_the_explorer_and/",
+    "engagement": "12 upvotes · 5 comments",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A Duo Hunters pair wiped the other survivors in six minutes, then spent eleven more failing to find one Explorer even with Tinnitus active and gave up.",
+     "cn": "双监管玩家六分钟抓完其他人，却带着耳鸣找了十一分钟都没找到冒险家，最后直接放弃。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Will you surrender or will you endure 17 minutes of 5v5 match because of an Explorer just to draw it out?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1j0wafa/will_you_surrender_or_will_you_endure_17_minutes/",
+    "engagement": "46 upvotes · 19 comments",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Players debate whether to surrender or sit through a 17-minute match that a hiding Explorer dragged out just to force a draw, a common frustration with his stall play.",
+     "cn": "玩家讨论遇到靠躲把一局拖到17分钟只为打平的冒险家时，是该投降还是硬耗，反映了大家对冒险家拖局的无奈。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "五年只玩一个角色的玩家究竟有多恐怖",
+    "url": "https://www.bilibili.com/video/BV1Tv421C7gW",
+    "engagement": "525万播放 · 1419评论 · top comment 3.3万 likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "The most-watched Explorer video shows a years-long Explorer one-trick; top comments joke that he has played nothing but Explorer for years, marvel at a map trick for slipping through Naiad's vapour gap, and admit hunters get infuriated while survivors get scared.",
+     "cn": "冒险家最高播放视频，展示多年只玩冒险家的绝活；高赞评论调侃“退游前他在玩冒险家，退游后他还在玩”，惊叹从渔女水汽缝隙穿过的细节，并吐槽“玩监管被气死，玩求生被吓死”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "冒险家，唯一1个不吃操作吃意识的角色",
+    "url": "https://www.bilibili.com/video/BV1Ej421X7Kg",
+    "engagement": "35.9万播放 · 130评论 · top comment 1295 likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "Framed as the one survivor who relies on awareness rather than mechanics; the top comment says an Explorer's biggest fear is random teammates who never read his information.",
+     "cn": "视频定位冒险家是“唯一不吃操作吃意识”的角色；高赞评论称冒险家最怕的是路人队友，他们常常根本不看信息。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "一期视频告诉你为什么单排冒险家要谨慎再谨慎",
+    "url": "https://www.bilibili.com/video/BV1gSHSeuEd6",
+    "engagement": "16.5万播放 · 110评论 · top comment 268 likes",
+    "date": "2024-09",
+    "takeaway": {
+     "en": "Explains why solo-queue Explorer must play extra carefully; the top comment is a hunter who wasted a whole cipher hunting the Explorer before switching to instantly down someone else, and a hunter main adds that (pre-buff) Explorer was out of the meta, could safely be ignored, and was played mainly by loyalists.",
+     "cn": "讲单排冒险家为什么要谨慎再谨慎；最高赞是监管视角：找冒险家找了一台机，换追心理学家直接秒倒；还有监管玩家认为（加强前的）冒险家已脱离版本，放着不管也修不快，坚持玩的基本是信仰玩家。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "拉拉振奋增加提示！冒险家全方位加强！共研服八名求生者最新调整！",
+    "url": "https://www.bilibili.com/video/BV1rZBfBwEau",
+    "engagement": "64.3万播放 · 2381评论 · top comment 1265 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The January 2026 co-research patch billed as an all-round Explorer buff drew one of the season's biggest audiences, and its top comments joke about other characters' nerfs rather than objecting to Kurt's buff.",
+     "cn": "26年1月共研服“冒险家全方位加强”爆料播放量很高，高赞评论都在调侃别的角色被削，几乎没人反对给冒险家加强。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "冒险家的加强真的合理吗？【调整实测&简评】",
+    "url": "https://www.bilibili.com/video/BV133oMYoEK7",
+    "engagement": "7.3万播放 · 380评论 · top comment 870 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "Review of the April 2025 Explorer buff; the top comment notes that while other decoders are becoming athletes who can kite, Explorer and Mind's Eye buffs only test the hunter's eyesight, and another jokes that his ceiling and floor come down to calibration luck.",
+     "cn": "班恩不勾实测25年4月冒险家加强；高赞评论说别的修机位都在往能溜鬼的方向加强，只有冒险家和盲女在考验监管的眼力，也有人吐槽上下限居然靠校准运气。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "玩了六年冒险家，第一次吃到版本红利",
+    "url": "https://www.bilibili.com/video/BV19FLCzKEfw",
+    "engagement": "7.9万播放 · 95评论 · top comment 1870 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A veteran Explorer creator says Kurt is finally benefiting from the version after six years; commenters add that Explorer, Lawyer and Mind's Eye can now counter-loop safely.",
+     "cn": "老冒险家UP主称玩了六年第一次吃到版本红利；评论补充现在冒险家、律师、盲女都能无痛防反绕了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "当前版本最超模的9名求生，学会之后嘎嘎上分，轻松冲上巅七",
+    "url": "https://www.bilibili.com/video/BV1FcFMeLEAS",
+    "engagement": "11.4万播放 · 1038评论 · top comment 1123 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "An ironic 'most overpowered' list of weak survivors; highly liked replies say only Explorer and Mind's Eye on it are genuinely weak and rank Lucky Guy, Explorer ('mushroom') and Mind's Eye as the bottom three who melt instantly.",
+     "cn": "反讽式“最超模九人”榜；高赞回复认为榜上真正弱的只有冒险家和盲女，并把幸运儿、蘑菇（冒险家）、盲女列为“速溶咖啡”下三门。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第44赛季多位准人屠皇经讨论得出的人类强度排行榜",
+    "url": "https://www.bilibili.com/video/BV1AT8g65E62",
+    "engagement": "32.8万播放 · 2654评论 · pinned note 457 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "In the pinned note of this Season 44 high-rank tier list, the author says expert friends complained Explorer was ranked too low because his ceiling in their games is very high, but they placed him lower to reflect his weak floor in lower ranks.",
+     "cn": "S44强度榜作者置顶说明：高手朋友吐槽冒险家排低了，因为在他们那个分段上限非常高，但考虑到低分段的下限才往低了放。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "An Explorer Guide from an S Badge \"Pro\" | Identity V",
+    "url": "https://www.youtube.com/watch?v=ACLS_qFWsPo",
+    "engagement": "2.6k views · 114 likes · 41 comments",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Commenters thank the S-badge creator because almost nobody makes new Explorer guides, and the pinned note warns that Queen Bee's bees detect him even while tiny.",
+     "cn": "S牌冒险家的英文攻略，评论感谢终于有人做新的冒险家教程；置顶补充提醒女王蜂的蜜蜂在缩小状态下也能发现冒险家。"
+    }
+   }
+  ],
+  "agrees": [
+   "Stealth hide-and-decode identity: hunters report spending 10+ minutes failing to find a shrunken Explorer and matches dragged out for a draw",
+   "Demands awareness and map knowledge far more than mechanics (\"不吃操作吃意识\")",
+   "Risky in solo queue: random teammates often ignore his info and he melts if found early",
+   "Still widely listed among the weakest decoders; near-zero pro presence",
+   "2025-04 and 2026-01 buffs (decode buff, sprint, vault/rescue while tiny) are recognised as meaningful"
+  ],
+  "changes": [
+   {
+    "field": "skillCeiling",
+    "from": 6.0,
+    "to": 7.0,
+    "why": "The Season 44 high-rank tier-list author (32.8万 views) notes top-level players think Explorer is under-ranked because his ceiling in their games is very high; the most-viewed Explorer content (525万-view one-trick video, 35.9万-view 'awareness not mechanics' video) celebrates deep map and route mastery that keeps paying off at high skill.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1AT8g65E62",
+     "https://www.bilibili.com/video/BV1Tv421C7gW",
+     "https://www.bilibili.com/video/BV1Ej421X7Kg"
+    ]
+   },
+   {
+    "field": "meta.high",
+    "from": 1,
+    "to": 2,
+    "why": "After the 2025-04 and 2026-01 buffs, players describe Explorer as finally benefiting from the version, high-rank players argue he is ranked too low, and mains say plain decoding with him is now efficient; he remains bottom-tier in 七阶/巅峰 but is no longer considered non-viable.",
+    "sources": [
+     "https://www.bilibili.com/video/BV19FLCzKEfw",
+     "https://www.bilibili.com/video/BV1AT8g65E62",
+     "https://www.reddit.com/r/IdentityV/comments/1vf2pr4/explorer_main_here_looking_for_updated_tips/",
+     "https://www.bilibili.com/video/BV1rZBfBwEau"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Explorer is a cult favourite whose devoted one-tricks and multi-million-view hide-and-seek clips show how much map sense and patience can squeeze out of a shrinking decoder, and hunters openly dread wasting whole matches searching for him. Most players still rate him among the weakest survivors in ranked and warn that random teammates rarely use his information, though the 2025–26 buffs have convinced a vocal minority of high-rank players that his ceiling is higher than tier lists admit.",
+   "cn": "冒险家是典型的信仰角色，五百万播放的躲猫猫视频和几年如一日的绝活玩家，证明这个角色吃意识、吃地图理解，监管找他找到红温也是常事。主流评价仍把他放在排位弱势修机位，单排还得看路人会不会看信息，但25–26年连续加强之后，也有高分玩家认为他的上限被强度榜低估了。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "mercenary",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "难以理解“佣兵退环境论”",
+    "url": "https://www.bilibili.com/video/BV1tWE3z3EWS",
+    "engagement": "7.9万播放 · 977评论 · top comment 1429 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment argues that 'Mercenary is out of the meta' does not mean he is weak: he is still the most stable rescuer, but in a version full of powerful items Journalist, Knight and similar rescuers replace him better, and another popular reply says a mid-field Mercenary is now the easiest pick to catch.",
+     "cn": "高赞评论认为“佣兵退环境”不等于没强度，他依旧稳定，但在道具满天飞的版本里记者、骑士等救人位更好用；另一条高赞说一群角色里最好抓的就是中场佣兵。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "救人位强度排行理智分析！没有算强辅ob位只算了主救位和二救位哦",
+    "url": "https://www.bilibili.com/video/BV1P92YBEENH",
+    "engagement": "11万播放 · 448评论 · top comment 603 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "The top comment says Mercenary is now the weakest tier of rescuer (slow decoding, a breakthrough target, worse items, no offensive tools), and another popular ranking puts Grave Keeper at T0, Journalist and Weeping Clown at T0.5 and Mercenary at T1.",
+     "cn": "高赞评论直言佣兵已是最弱一档救人位：修得慢、是控场突破口、道具不如别的救人位、没有OB能力；另一条高赞排为守墓T0、记者哭丑T0.5、佣兵T1。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "救人位数据排行榜简评【第四十赛季】",
+    "url": "https://www.bilibili.com/video/BV1YB2xBLEdv",
+    "engagement": "4.9万播放 · 664评论 · top comment 344 likes",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "Season 40 rescuer data review; popular replies note ranked players now prefer rescuers without decode penalties and quip that the 'imagined' rescuer T0 is Journalist/Grave Keeper/Mercenary while the actual ranked T0 is Meteorologist/Lanternist/Puppeteer.",
+     "cn": "S40救人位数据简评；高赞回复称排位玩家更喜欢没有修机减速的救人位，并调侃“你以为的救人位T0是记者守墓佣兵，排位实际T0是气象幻灯木偶”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【走走停停】现版本佣兵为何被人唾弃",
+    "url": "https://www.bilibili.com/video/BV1rsEtzyEWb",
+    "engagement": "7.5万播放 · 1046评论 · top comment 644 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Commenters say Mercenary's small Borrowed Time can't keep up with power creep and his experience is poor, though one popular reply denies he is out of the meta; another notes teams with a Mercenary rarely get three escapes because of his decode speed and near-zero peel.",
+     "cn": "评论认为佣兵的小搏命跟不上数值膨胀、体验感差，也有高赞不同意“退环境”只说数值略低；还有人指出有佣兵的局因为修机慢、几乎不能保人，很难三跑。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【版本锐评】佣兵退环境&不粘锅队友",
+    "url": "https://www.bilibili.com/video/BV1rh75zgEQw",
+    "engagement": "2.3万播放 · 603评论 · top comment 140 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Top replies say Mercenary isn't weak and still works in organised four-stacks and tournaments, but in ranked he is the survivor most dragged down by unreliable randoms and needs strong kiting teammates to be worth picking.",
+     "cn": "高赞回复认为佣兵不弱，比赛和四黑依旧能玩，但排位里他是最容易被“伪人”队友影响的求生，选佣兵的前提是队友牵制够强。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "团队最大累赘 为什么说佣兵是最被高估的角色！千万别练！",
+    "url": "https://www.bilibili.com/video/BV17W421R7fQ",
+    "engagement": "13万播放 · 727评论 · top comment 1327 likes",
+    "date": "2024-07",
+    "takeaway": {
+     "en": "A contrarian 'most overrated' video that the comment section rejects: the top replies list how every other rescuer can be denied, and credit Mercenary's high-rank pick rate to his basement-proof, anti-intercept, anti-double-down rescues and stable kite floor.",
+     "cn": "唱反调说佣兵“最被高估”，评论区一边倒反驳：高赞列举其他救人位各自会被震慑、拦截、双倒，指出佣兵在高阶登场率第一是因为无视地下室、防拦截防双倒、牵制下限稳定。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "当前版本体验感最好的九位人类———爽九门",
+    "url": "https://www.bilibili.com/video/BV11aADz5Eik",
+    "engagement": "28.3万播放 · 1220评论 · top comment 3016 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "In a 2026 thread about the best-feeling survivors, the top comment names the three worst-feeling picks as a Mechanic without her doll, Mercenary and Mate.",
+     "cn": "在“当前版本体验感最好的九位人类”视频下，最高赞列出体验感最差前三：无娃机械师、佣兵、大副。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Rescue main for 5 years",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1k6y90a/rescue_main_for_5_years/",
+    "engagement": "154 upvotes · 16 comments",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "A five-year Mercenary main's rescue highlight reel was one of the subreddit's better-received gameplay posts, showing the elbow-pad rescue play players admire.",
+     "cn": "五年佣兵救人位玩家分享救人集锦，获得较高点赞，体现了大家对佣兵护腕救人操作的认可。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "How do you rescue against a patient Ann?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1pc8xb1/how_do_you_rescue_against_a_patient_ann/",
+    "engagement": "123 upvotes · 25 comments",
+    "date": "2025-12",
+    "takeaway": {
+     "en": "A Mammoth-rank Mercenary asks how to avoid a farmed rescue against a patient high-level Disciple who stuns the chaired survivor instead of him, showing how hunters can play around his tank rescue.",
+     "cn": "猛犸段位佣兵求助：高水平使徒不打他反而用猫晕椅子上的人，导致救人被“卖”，说明监管有办法绕开佣兵的扛刀救人。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Why do hunters never chase rescuer in rank?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1r5zk6n/why_do_hunters_never_chase_rescuer_in_rank/",
+    "engagement": "31 upvotes · 23 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "A Mercenary main notices ranked hunters skip him in favour of kiters like Puppeteer or Antiquarian even when there is no decoder, sparking discussion of how hunters avoid wasting time on a tanky rescuer.",
+     "cn": "佣兵玩家发现排位里监管宁愿追木偶、古董商等牵制位也不来追他，引发关于监管为何不在耐打救人位身上浪费时间的讨论。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Congratulations to Mercenary and Gardner for winning Nymph awards on the Chinese server! Exclusive songs will be released for both of them when their costumes have been announced.",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kf3hox/congratulations_to_mercenary_and_gardner_for/",
+    "engagement": "36 upvotes · 5 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "Mercenary won the 2025 CN community Nymph (Best Performance) vote, a sign of how beloved he remains among players.",
+     "cn": "佣兵拿下2025年国服年度最佳演绎（宁芙奖）投票，说明他在玩家中的人气依旧很高。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Identity V: A Comprehensive Mercenary Guide!",
+    "url": "https://www.youtube.com/watch?v=I6KR0vVCQ_I",
+    "engagement": "7.5k views · 322 likes · 12 comments",
+    "date": "2025-06",
+    "takeaway": {
+     "en": "A well-liked English guide that treats elbow-pad timing, basement rescues and saving pads for the chair approach as the core of Mercenary play.",
+     "cn": "英文圈高赞佣兵攻略，把护腕时机、地下室救人和留护腕赶椅子视为佣兵的核心技巧。"
+    }
+   }
+  ],
+  "agrees": [
+   "Seen as the most stable, basement-proof, anti-double-down rescuer thanks to delayed damage and pads",
+   "Very slow decoding is his defining drawback and a common complaint",
+   "Beloved and iconic (won the 2025 CN Nymph/Best Performance vote)",
+   "Still strong in organised premades and tournaments (premade 5)",
+   "Skill gap lies in pad timing and chair play"
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 5,
+    "to": 4,
+    "why": "Multiple popular 2025–26 CN videos and rescuer-data reviews (4.9万–11万 views, key replies up to 1.4k likes) describe Mercenary as '退环境' in high-rank ranked: Grave Keeper, Journalist and no-decode-penalty rescuers are ranked above him, and even defenders concede he is stable but replaceable. He remains solid, so a drop to 4 rather than lower.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1tWE3z3EWS",
+     "https://www.bilibili.com/video/BV1P92YBEENH",
+     "https://www.bilibili.com/video/BV1YB2xBLEdv",
+     "https://www.bilibili.com/video/BV1rsEtzyEWb"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Mercenary remains one of the most beloved survivors: he won the 2025 CN Best Performance vote and players still credit him with the most reliable, basement-proof rescues in the game. Since 2025, however, high-rank Chinese discussion increasingly calls him out of the meta in ranked, arguing that slow decoding, no peel and reliance on strong kiting teammates let Grave Keeper, Journalist and support-heavy rescuers outperform him, even though he stays a dependable pick in coordinated teams.",
+   "cn": "佣兵依然是人气最高的救人位之一，拿下过2025年度最佳演绎，护腕稳救、无视地下室的可靠性一直被人津津乐道。但从2025年起高阶圈子里“佣兵退环境”的声音越来越多，修机慢、没有保人能力、吃队友牵制，排位里常被守墓人、记者这类救人位压过一头，不过在车队和比赛里依旧是稳定的选择。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "coordinator",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "评价一下空军的强度如何？",
+    "url": "https://www.bilibili.com/video/BV1h2Etz8EJ6",
+    "engagement": "27.5万播放 · 2118评论 · top comment 888 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The top comment calls the flare an open threat that forces hunters to give up a trait, like nuclear deterrence, while the second most-liked asks who in 2025 still treats Coordinator as a rescuer, calling her a fine kiter or second rescuer but not enough as the main rescuer.",
+     "cn": "高赞评论称空军对屠夫是“阳谋”，像核威慑一样逼监管在天赋里取舍；第二高赞反问“2025年还有人坚持空军是救人位吗”，认为她当牵制位、二救位不错，但做主救真的不够看。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "如何评价当前版本的空军和邮差的强度？对策牌罢了",
+    "url": "https://www.bilibili.com/video/BV1ScFkzQEo7",
+    "engagement": "4.8万播放 · 189评论 · top comment 169 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "Commenters agree the unused gun is a permanent worry for hunters and that she is not weak thanks to solid kiting and a uniquely stable tempo-break, but she falls off in late-game, has few items and slow decoding, and struggles against the current meta hunters.",
+     "cn": "评论认为只要那把枪不交就是监管心里的疙瘩，空军牵制在线、断节奏独一档所以不弱，但后期运营乏力、道具少修机慢，打版本主流监管很吃力。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "锐评现版本空军强度和下赛季空军天赋调整",
+    "url": "https://www.bilibili.com/video/BV1QE7N6jEYt",
+    "engagement": "3.3万播放 · 361评论 · top comment 214 likes",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A former leaderboard S-badge Coordinator says she is balanced and 'the most normal-strength survivor', only feeling weak because others are overtuned; another popular reply says her plain kit is why she polls last in Nymph popularity, and players suggest trimming her decode penalty.",
+     "cn": "前人榜S空军在高赞里表示空军其实很平衡，只是比她超模的角色太多才显得容错低；另有高赞说技能不够有趣导致宁芙人气垫底，也有人建议把军伍情深的修机减益降下来。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "网易第五人格为什么不加强空军",
+    "url": "https://www.bilibili.com/video/BV1sm411D7po",
+    "engagement": "42.2万播放 · 388评论 · top comment 4394 likes",
+    "date": "2024-02",
+    "takeaway": {
+     "en": "The overwhelming top reply, 'Even if it scares me to death, they can't buff Coordinator', captures how much hunters already dread her flare.",
+     "cn": "最高赞“吓死我也不能加强空军啊”，道出监管对空军那一枪的忌惮。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Do you think coordinators flare gun should be rechargeable?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1kmboxp/do_you_think_coordinators_flare_gun_should_be/",
+    "engagement": "35 upvotes · 35 comments",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "A heavily discussed thread on whether her single flare should recharge at least twice per match, reflecting the common feeling that she is one-dimensional once the shot is spent.",
+     "cn": "热议帖讨论空军信号枪是否应该一局能充能两次，反映出大家普遍觉得她一枪交完就很单一。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Who is the best rescue character rn?",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1nh040v/who_is_the_best_rescue_character_rn/",
+    "engagement": "10 upvotes · 31 comments",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "A new player who bought Coordinator as a first rescuer says she 'kinda feels weak' and asks which rescuers are actually good now.",
+     "cn": "新手买了空军当救人位却觉得“有点弱”，发帖询问现在哪些救人位真正好用。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I CANT CHOOSE",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s1gxdd/i_cant_choose/",
+    "engagement": "9 upvotes · 6 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A player hesitates to spend a free S-tier card on Coordinator because after using her gun she becomes a raw kiter carrying a decode debuff for most of the match.",
+     "cn": "玩家纠结要不要把免费S皮卡用在空军上，因为开完枪后她基本就是个裸溜的角色，而且大半局都背着修机减益。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Better Rescuer Type",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1nhrcmo/better_rescuer_type/",
+    "engagement": "7 upvotes · 5 comments",
+    "date": "2025-09",
+    "takeaway": {
+     "en": "Players group Coordinator with Mercenary, Officer and Grave Keeper as 'consistent' rescuers, contrasted with Knight, Weeping Clown and Journalist who extend later kites.",
+     "cn": "玩家把空军与佣兵、守墓人等归为“稳定型”救人位，与能延长二溜三溜的骑士、哭泣小丑、记者对比。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Coordinator Is SO FUN To Play In Rank!",
+    "url": "https://www.youtube.com/watch?v=S81retNMTG0",
+    "engagement": "21.6k views · 1.1k likes · 76 comments",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "A popular English ranked showcase that frames Coordinator as a fun, satisfying pick whose flare swings rescues.",
+     "cn": "英文圈热门排位视频，把空军定位为好玩、爽快、一枪就能改变救人局面的角色。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "TOP 3 BEST RESCUERS in 2026 | IDENTITY V",
+    "url": "https://www.youtube.com/watch?v=aglM0CNZNfg",
+    "engagement": "4.6k views · 346 likes · 27 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "On this 2026 top-three rescuer video, where commenters name Faro Lady as number one, a well-liked comment reacts to Coordinator with a heartbroken 'La coordinadora 👁️👁️💔' and another argues Mercenary deserved a spot for tanking three hits.",
+     "cn": "2026年三大救人位视频，评论区认为第一是法罗女士；高赞评论对空军的处境发出心碎表情“La coordinadora 👁️👁️💔”，也有人认为能扛三刀的佣兵应该上榜。"
+    }
+   }
+  ],
+  "agrees": [
+   "The single flare is a real deterrent that forces hunters to plan around it or bring Excitement",
+   "Falls off late once the shot is spent; decode penalty and few tools are recurring complaints",
+   "Beginner-friendly and fun, with a satisfying gunshot",
+   "Solid vault-based kiting keeps her from being weak",
+   "Only modest high-rank and pro relevance"
+  ],
+  "changes": [
+   {
+    "field": "rescue",
+    "from": 9.0,
+    "to": 8.0,
+    "why": "Popular 2025–26 CN discussion (27.5万-view video, top replies 500+ likes) says she is no longer enough as a main rescuer and is better as a kiter/second rescuer, and new players report she feels weak as a rescuer; her one-shot rescue tool still keeps her well above average.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1h2Etz8EJ6",
+     "https://www.bilibili.com/video/BV1ScFkzQEo7",
+     "https://www.reddit.com/r/IdentityV/comments/1nh040v/who_is_the_best_rescue_character_rn/"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Coordinator is valued for a flare gun that works like nuclear deterrence, since hunters bend their trait choice around it, and many players see her as an honest, fun and fairly balanced pick. The prevailing 2025–26 view, however, is that she has slipped from main rescuer to a kiter or second rescuer who fades late once her single shot is spent, so newer players who buy her expecting a carry rescuer often come away disappointed.",
+   "cn": "空军那一枪是对监管的“阳谋”，逼对面在天赋上做取舍，不少人觉得她强度正常、玩起来也爽。但25–26年的主流看法是她已经从主救位退成了牵制兼二救，一枪交完后期就乏力、道具少修机慢，萌新冲着救人位买她往往会觉得落差很大。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "mechanic",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "第41赛季多位准人屠皇经讨论得出的人类强度排行榜",
+    "url": "https://www.bilibili.com/video/BV12mk7BaEMa",
+    "engagement": "57.5万播放 · 4300评论 · pinned note 537 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "In this Season 41 tier list for high-rank play, the author's pinned tier chart places Mechanic in the top T0 row alongside Forward.",
+     "cn": "S41多位准人屠皇联合排的人类强度榜，作者置顶的梯度图把机械师与前锋一起放在最顶端的T0。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "第44赛季多位准人屠皇经讨论得出的人类强度排行榜",
+    "url": "https://www.bilibili.com/video/BV1AT8g65E62",
+    "engagement": "32.8万播放 · 2654评论 · pinned note 457 likes",
+    "date": "2026-08",
+    "takeaway": {
+     "en": "The author's pinned note says Mechanic's high ranked ban rate comes from ground-based hunters being unable to deal with her, while hunters that kill easily treat a fragile Mechanic as a free breakthrough, and rates her roughly T0.5–T1.",
+     "cn": "S44强度榜作者置顶解释：排位里机械ban率高是因为走地屠夫根本打不了她，但对好杀的屠夫来说脆皮机械又是纯突破口，整体大约在T0.5–T1。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "机械为何非ban必选？这修机速度恐怖如斯",
+    "url": "https://www.bilibili.com/video/BV1xeQPYoEXA",
+    "engagement": "17.3万播放 · 232评论 · top comment 626 likes",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "Top comments say her floor is simply too high: a guarded doll forces the hunter into a two-way choice that bleeds about 60 seconds, 'her floor is Composer's ceiling', and leaving both Prisoner and Mechanic unbanned is asking for trouble.",
+     "cn": "高赞认为机械师主要是下限太高：保娃流逼监管二选一，一来一回就是六十秒；还有人说“这角色的下限就是作曲的上限”，囚徒机械师两个修机位都放出来简直离谱。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "唯一真神？如何评价现版本机械师？",
+    "url": "https://www.bilibili.com/video/BV1NJikYoEgr",
+    "engagement": "8.7万播放 · 865评论 · top comment 686 likes",
+    "date": "2024-12",
+    "takeaway": {
+     "en": "The top comment says designers didn't dare buff her much for fear she'd be overtuned, yet she became overtuned anyway, and another notes Mechanic with Prisoner is nearly unbeatable when every decoder can also kite.",
+     "cn": "高赞评论：策划不敢多加强机械师怕超模，结果她还是顺顺利利超模了；也有人说机械师配囚徒几乎无解，开局就是“六个人修机”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "开局放娃娃的机械师，才是好机械师",
+    "url": "https://www.bilibili.com/video/BV1M7AseJExP",
+    "engagement": "70.2万播放 · 935评论 · top comment 2709 likes",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "Commenters call instant-doll, hide-first play the most stable style, with one saying it earned six straight solo draws even when teammates went down instantly: 'if you don't want to suffer in solo queue, play her'.",
+     "cn": "评论认为开局直接放娃、本体苟修是最稳的打法，有人说用这套单排连平六局、队友秒倒也能拖平，“单排不想吃苦就玩她”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【版本讨论】机械师的调整可以被视作“纯加强”吗？",
+    "url": "https://www.bilibili.com/video/BV1Yk27YcEVd",
+    "engagement": "9.1万播放 · 623评论 · top comment 836 likes",
+    "date": "2024-10",
+    "takeaway": {
+     "en": "Top replies say her kit is so tightly tuned that any small change causes trouble, calling her 'the classic case of low-rank survivors crying weak while high-rank hunters suffer'.",
+     "cn": "高赞认为机械师的机制属于“稍微动一下就要出事”的级别，是典型的“低阶求生哭弱、高阶监管遭殃”的角色。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "现版本机械师应该炸机流修机？这事是谁传出去的！",
+    "url": "https://www.bilibili.com/video/BV1M2Q1BgE7P",
+    "engagement": "26.6万播放 · 538评论 · top comment 1470 likes",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A popular 2026 debate on whether Mechanic should deliberately blow calibrations to balance doll and body ciphers; the top reply argues for it on bucket-effect logic, showing how much optimisation depth players see in her.",
+     "cn": "26年热门讨论：机械师该不该“炸机流”平衡娃娃和本体的机子进度；最高赞用木桶效应论证应该炸修，体现了玩家眼中机械师的运营深度。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Hunters Keep Banning Mechanic So Let's Doctor Rank? | Identity V",
+    "url": "https://www.youtube.com/watch?v=C8BZXedMHRM",
+    "engagement": "20k views · 981 likes · 116 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "An S-badge Mechanic main's ranked session opens with hunters repeatedly banning Mechanic, and commenters joke about being 'tracybanned', echoing her status as a routine ranked ban on global servers too.",
+     "cn": "S牌机械师英文主播的排位视频以“监管一直ban机械师”为题，评论调侃“tracybanned”，说明国际服排位里机械师同样是常驻ban位。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Winning The Mechanic Ban War (Somewhat) | Identity V",
+    "url": "https://www.youtube.com/watch?v=61tGXChGBNg",
+    "engagement": "15.6k views",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "A popular Mechanic main's latest ranked video frames getting Mechanic through the pick-ban phase as a 'ban war', underlining how routinely hunters ban her.",
+     "cn": "英文圈人气机械师主播的最新排位视频把“机械师能不能躲过ban”形容为一场“ban位战争”，说明监管ban她已是常态。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "Best survivor in each category in your opinion",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1tpe2wn/best_survivor_in_each_category_in_your_opinion/",
+    "engagement": "11 upvotes · 16 comments",
+    "date": "2026-05",
+    "takeaway": {
+     "en": "In a thread picking the single best survivor per role for solo and team play, the OP names Mechanic the best decoder.",
+     "cn": "在“各定位最强求生”讨论帖中，楼主把机械师选为最强修机位。"
+    }
+   }
+  ],
+  "agrees": [
+   "Best cipher-rusher in the game; 'double decode' is the core of her value",
+   "A routine ranked ban on both CN and global servers",
+   "Fragile once found; losing the doll wrecks both value and experience",
+   "Mechanic + Prisoner is seen as a near-unbeatable decode core in organised play",
+   "Rewards careful doll management and optimisation (multitask/game sense)"
+  ],
+  "changes": [
+   {
+    "field": "meta.high",
+    "from": 4.0,
+    "to": 5,
+    "why": "Popular high-rank tier lists place her at T0 (S41, 57.5万 views) or roughly T0.5–T1 with a noted high ranked ban rate (S44, 32.8万 views); a series of 'why is Mechanic always banned in high rank' videos, the popular 'low-rank survivors cry weak while high-rank hunters suffer' comment and English creators complaining of constant bans all say she is at her strongest in 七阶/巅峰.",
+    "sources": [
+     "https://www.bilibili.com/video/BV12mk7BaEMa",
+     "https://www.bilibili.com/video/BV1AT8g65E62",
+     "https://www.bilibili.com/video/BV1xeQPYoEXA",
+     "https://www.bilibili.com/video/BV1Yk27YcEVd",
+     "https://www.youtube.com/watch?v=C8BZXedMHRM",
+     "https://www.youtube.com/watch?v=61tGXChGBNg"
+    ]
+   },
+   {
+    "field": "skillFloor",
+    "from": 6.0,
+    "to": 5.0,
+    "why": "Players repeatedly describe her power floor as 'too high': a simple doll-first, hide-first Mechanic still forces hunter choices and guaranteed cipher progress ('her floor is Composer's ceiling'), and that style is recommended as the least painful way to climb in solo queue.",
+    "sources": [
+     "https://www.bilibili.com/video/BV1xeQPYoEXA",
+     "https://www.bilibili.com/video/BV1M7AseJExP"
+    ]
+   }
+  ],
+  "sentiment": {
+   "en": "Mechanic is widely regarded as the strongest decoder in the game: high-rank tier lists put her at or near T0, she is a near-permanent ranked ban, and players joke that her floor is other decoders' ceiling. The main complaints are that weaker players waste or sell the doll and that a doll-less Mechanic is miserable to play, but doll-first safe play is praised as one of the most reliable ways to win in solo queue.",
+   "cn": "机械师几乎是公认的最强修机位，高阶强度榜基本放在T0附近，排位非ban必选，玩家戏称“她的下限就是作曲的上限”。吐槽主要集中在乱卖娃、没娃时体验极差，但开局放娃、保娃苟修的打法被认为是单排最稳的上分方式之一。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "forward",
+  "feedback": [
+   {
+    "platform": "Bilibili",
+    "title": "第41赛季多位准人屠皇经讨论得出的人类强度排行榜",
+    "url": "https://www.bilibili.com/video/BV12mk7BaEMa",
+    "engagement": "57.5万播放 · 4300评论 · pinned note 537 likes",
+    "date": "2026-01",
+    "takeaway": {
+     "en": "The author's pinned tier chart for high-rank play puts Forward first in the T0 row, above every other survivor group.",
+     "cn": "S41多位准人屠皇联合排的强度榜，作者置顶梯度图把前锋放在T0第一位。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "斗牛士整体强度挨刀！前锋自保&OB小幅削弱！共研服人类角色最新调整",
+    "url": "https://www.bilibili.com/video/BV1q2DfB9EQ6",
+    "engagement": "2.3万播放 · 83评论 · top comment 65 likes",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "Covering the April 2026 co-research nerf to Forward's self-defence and offensive tools, the top comment sums it up as 'nerfed from T-0 to T0'.",
+     "cn": "介绍26年4月共研服前锋自保和OB小幅削弱，最高赞一句话总结：“从T-0削到T0”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "地图大调整！前锋削弱！心理&杂货商加强……二月最新角色&平衡调整大爆料！",
+    "url": "https://www.bilibili.com/video/BV1VnA8zwE6x",
+    "engagement": "14.1万播放 · 1485评论 · top comment 727 likes",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "In the widely watched February 2026 nerf announcement, a popular reply wonders what else can even be cut from Forward, since his ball count and decode penalty were already tuned, guessing at longer wind-up or shorter stuns.",
+     "cn": "26年2月“前锋削弱”爆料视频播放量很高，高赞评论吐槽前锋还能削啥：球的数量不能动、修机减速也改过了，只能加前摇或减眩晕。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "\"我宁愿他被骂狗锋也不愿意他回到那个人人叹气的版本了\"",
+    "url": "https://www.bilibili.com/video/BV1JDJAzyE9C",
+    "engagement": "17.7万播放 · 894评论 · top comment 2019 likes",
+    "date": "2025-05",
+    "takeaway": {
+     "en": "The uploader notes that Forward mains used to be flamed by teammates when he was weak and now, with him overtuned, get flamed by both teammates and hunters, while the top comment jokes about his mocking emotes.",
+     "cn": "UP主在评论区感慨：前锋弱的时候被队友骂，现在超模了队友和监管一起骂；最高赞调侃前锋跳舞、躺地动作太“超模”。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "锐评机械师和前锋孝子的哭弱行为，前锋机械的强度究竟如何？前锋真的还需要加强？",
+    "url": "https://www.bilibili.com/video/BV1TsmEYxE4H",
+    "engagement": "5.1万播放 · 1059评论 · top comment 280 likes",
+    "date": "2024-10",
+    "takeaway": {
+     "en": "The top comment says Forward is overtuned against some hunters but struggles against others, his solo and four-stack value are completely different, his offensive plays carry the highest risk, and his slow decoding drags if he fails to produce.",
+     "cn": "高赞评论：前锋对部分屠夫甚至超模、对另一些非常吃力，单排和四黑收益完全割裂，OB收益高但风险也最高，修机慢打不出收益就是拖累。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "前锋——熟练度与强度成巨大正比的角色",
+    "url": "https://www.bilibili.com/video/BV1DN9bY6EYB",
+    "engagement": "2万播放 · 47评论",
+    "date": "2025-03",
+    "takeaway": {
+     "en": "The title states the common view that Forward's strength scales enormously with proficiency, and commenters say they're about to start practising him.",
+     "cn": "标题即玩家共识：前锋是熟练度与强度成巨大正比的角色，评论里不少人表示准备开练。"
+    }
+   },
+   {
+    "platform": "IVL/COA",
+    "title": "【COA高光选手】：那个从18年开始，打了八年前锋的男人",
+    "url": "https://news.17173.com/content/04202026/170211295.shtml",
+    "engagement": "unknown",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "A COA 2026 feature on an eight-year Forward specialist whose key stuns in the deciding round broke the hunter's rhythm and bought time for ciphers, showing his continued pro impact.",
+     "cn": "COA 2026高光选手专访：一位打了八年前锋的选手在决胜局多次关键撞晕，打乱监管节奏、为队友争取修机时间，体现前锋在职业赛场的影响力。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "2026-4-16 Balance update discussion",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1sn6beg/2026416_balance_update_discussion/",
+    "engagement": "17 upvotes · 20 comments",
+    "date": "2026-04",
+    "takeaway": {
+     "en": "The global patch discussion thread for the Rugby Ball cooldown increase from 5 to 6 seconds, the main Forward nerf of 2026.",
+     "cn": "国际服2026年4月16日平衡调整讨论帖，前锋橄榄球冷却从5秒增加到6秒，是他今年的主要削弱。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "I think I have hunter anxiety, help",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1s55opr/i_think_i_have_hunter_anxiety_help/",
+    "engagement": "25 upvotes · 32 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A stressed hunter main says the game feels survivor-sided, complaining that even Forward, Mercenary and Coordinator can now cipher-rush, and that the usual answer he gets in chat is simply 'they should nerf the Forward'.",
+     "cn": "一位焦虑的监管玩家认为游戏过于偏向求生，吐槽连前锋、佣兵、空军都能压机了，而别人给他的回复往往只有一句“该削前锋”。"
+    }
+   },
+   {
+    "platform": "Reddit",
+    "title": "The last OMNI vs USL match has to be one of the worst COA matches of all time.",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1rhuh5f/the_last_omni_vs_usl_match_has_to_be_one_of_the/",
+    "engagement": "31 upvotes · 12 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A COA match breakdown where the Forward's too-early rescue in an open area got both survivors downed, illustrating how harshly his misplays are punished at pro level.",
+     "cn": "COA比赛复盘：前锋在空旷处过早救人导致双倒，说明前锋的失误在职业赛场上会被严重惩罚。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "How to COUNTER EXCITEMENT as forward (Identity V Forward/William Guide tips and tricks)",
+    "url": "https://www.youtube.com/watch?v=d92UO8rv1GI",
+    "engagement": "3.3k views · 113 likes · 23 comments",
+    "date": "2025-02",
+    "takeaway": {
+     "en": "An English guide devoted to baiting and playing around Excitement, the trait players treat as Forward's hard counter.",
+     "cn": "英文攻略专讲前锋如何骗兴奋、绕开兴奋，玩家普遍把兴奋视为前锋的硬克制。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "How To Play Forward Guide! | Gameplay",
+    "url": "https://www.youtube.com/watch?v=slD_XbfKDks",
+    "engagement": "3.9k views · 204 likes · 27 comments",
+    "date": "2026-02",
+    "takeaway": {
+     "en": "A 2026 beginner-oriented Forward guide; its framing of positioning and ball timing as the core of the character reinforces that he takes practice to learn.",
+     "cn": "2026年的前锋入门攻略，强调站位和拉球时机，说明这个角色需要大量练习才能上手。"
+    }
+   }
+  ],
+  "agrees": [
+   "Top-meta high-rank rescuer/disruptor (T0 on a popular 2026 high-rank tier list; still 'T0' after the April 2026 nerf)",
+   "Extremely high skill floor and ceiling; strength scales with proficiency",
+   "Far stronger in coordinated premades than in solo queue (solo 3 / premade 5)",
+   "Hard countered by Excitement and some hunters; misplays such as early rescues or missed dashes are punished hard",
+   "Slow decoding is a real liability when he fails to produce",
+   "Continued pro relevance (COA 2026 highlight plays)"
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "Forward is seen as a top-meta disruptor in 2025–26: a popular high-rank tier list rated him T0, players quipped that the 2026 cooldown nerf merely 'dropped him from T-0 to T0', and he keeps appearing in COA highlight plays. Players stress that his value swings wildly with proficiency, matchup and coordination, so a missed dash or early rescue gets punished hard and he is far stronger in voice-chat premades than in solo queue, and hunters and teammates alike love to complain about him.",
+   "cn": "前锋在25–26年被视为版本强势的干扰救人位，高热度强度榜直接放进T0，26年加CD后评论区调侃“从T-0削到T0”，COA赛场上也频频有前锋高光。大家普遍认为他熟练度与强度成正比、吃对局吃配合，撞空或救早就要吃大亏，四黑和单排几乎是两个角色，监管和队友都爱吐槽他。"
+  },
+  "confidence": 4
+ },
+ {
+  "id": "the-minds-eye",
+  "feedback": [
+   {
+    "platform": "Reddit",
+    "title": "The situation with The Mind's Eyes is sad.",
+    "url": "https://www.reddit.com/r/IdentityV/comments/1ufl47l/the_situation_with_the_minds_eyes_is_sad/",
+    "engagement": "125 upvotes · 27 comments",
+    "date": "2026-06",
+    "takeaway": {
+     "en": "A well-upvoted vent that while others get strong reworks, Mind's Eye only got trails fading one second faster, useless unless you can hide like Explorer; she has been considered weak since launch and every new hunter counters her more.",
+     "cn": "高赞吐槽帖：别的角色都拿到大加强和重做，盲女只得到“足迹早消失1秒”这种几乎没用的加强（只有冒险家这种能躲的角色才吃得到）；她从开服起就被认为弱，新监管还越出越克制她。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "【榜前盲女玩家联名上书】六年下水道强度背后的艰辛，温冷门角色被忽视的困境",
+    "url": "https://www.bilibili.com/video/BV1EFfoYjEv4",
+    "engagement": "6.8万播放 · 1322评论 · top comment 1244 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "Leaderboard Mind's Eye players' joint petition for buffs; the top comment claims her real decode pace is even slower than Composer's because he can travel faster, and another popular reply says her core problem is the extreme split between top solo decoding and near-zero kiting, which is unpleasant for hunters too.",
+     "cn": "盲女榜前玩家联名上书；最高赞称盲女实战修机甚至不如能用音叉赶路的作曲家，牵制也被作曲家爆杀；另一条高赞认为问题在于极端性——单修极强、牵制极弱，被苟输对监管也不好受。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "恭喜盲女加强即封√，建议下次加强把方向键扣了成为真正的轮椅角色",
+    "url": "https://www.bilibili.com/video/BV1WfdzYwEyx",
+    "engagement": "9.5万播放 · 743评论 · top comment 1466 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "Around the April 2025 buff, popular replies say she still 'melts on contact' after the buff and that she is extremely weak in the current version and needs more.",
+     "cn": "25年4月盲女加强后，高赞评论认为加强后仍是“入口即化”，盲女在当今版本极其弱势，还需要继续加强。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "夫人玩家对盲女加强的看法",
+    "url": "https://www.bilibili.com/video/BV1SbdQYgE3k",
+    "engagement": "12.3万播放 · 971评论 · top comment 955 likes",
+    "date": "2025-04",
+    "takeaway": {
+     "en": "The top reply rejects a Bloody Queen main's complaint about the buff, saying Mind's Eye has been weak for many seasons by the agreement of both survivor and hunter players and needs her Strike at the start just to identify the hunter.",
+     "cn": "最高赞反驳红夫人玩家对盲女加强的抱怨：盲女弱了这么多赛季是人屠公认的，开局必须敲杖确认监管，不可能为了防镜子不用。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "基本功不好的人其实更适合玩盲女",
+    "url": "https://www.bilibili.com/video/BV1A34QerEKg",
+    "engagement": "76万播放 · 658评论 · top comment 7453 likes",
+    "date": "2024-09",
+    "takeaway": {
+     "en": "A leading Mind's Eye creator argues weak-mechanics players suit her; the top comment agrees hiding may not need fundamentals but says it demands a lot of talent and intuition.",
+     "cn": "头部盲女UP主认为基本功差的人更适合玩盲女；最高赞补充：苟也许不需要很多基本功，但需要很多天赋和灵性。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "老叟戏顽童？如何评价现版本盲女？",
+    "url": "https://www.bilibili.com/video/BV1Mve26vE54",
+    "engagement": "2.1万播放 · 334评论 · top comment 77 likes",
+    "date": "2026-09",
+    "takeaway": {
+     "en": "The latest evaluation of Mind's Eye draws the top reply 'just play Composer', and another says that online people call her fine, but in game hunters grin when they see her picked.",
+     "cn": "最新的现版本盲女评价，最高赞一句“不如玩作曲家”；还有人说网上都说盲女强度还行，实际游戏里对面看到选盲女脸都要笑裂了。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "当前版本最超模的9名求生，学会之后嘎嘎上分，轻松冲上巅七",
+    "url": "https://www.bilibili.com/video/BV1FcFMeLEAS",
+    "engagement": "11.4万播放 · 1038评论 · top comment 1123 likes",
+    "date": "2025-01",
+    "takeaway": {
+     "en": "In this ironic 'most overpowered' list, popular replies say only Explorer and Mind's Eye are genuinely weak and put Mind's Eye in the bottom three who 'melt instantly'.",
+     "cn": "反讽式“超模九人”榜，高赞回复认为其中真正弱的只有冒险家和盲女，把盲女列入“速溶咖啡”下三门。"
+    }
+   },
+   {
+    "platform": "Bilibili",
+    "title": "要多弱才算弱？盲女和冒险家的强度也算合格？【茶余饭后】",
+    "url": "https://www.bilibili.com/video/BV1fZ421W7ii",
+    "engagement": "5万播放 · 1154评论 · top comment 541 likes",
+    "date": "2024-06",
+    "takeaway": {
+     "en": "Popular replies say the designers seem to consider Mind's Eye and Explorer the 'proper' strength for decoders while Prisoner and Composer are the genuinely balanced ones.",
+     "cn": "高赞认为策划似乎觉得盲女、冒险家就是修机位应有的强度，而真正平衡的修机位是囚徒和作曲家。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "oMg MiNdS eYe Is ToO wEaK iN HiGh TiEr - #identityv",
+    "url": "https://www.youtube.com/watch?v=70lA0raDYRg",
+    "engagement": "5.8k views · 264 likes · 15 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "A high-rank Asia-server creator mocks the 'too weak in high tier' consensus with a strong game; the top comment says no survivor is weak if you master them, and others add she can bully Bloody Queen.",
+     "cn": "亚服高分主播用反讽标题“盲女高阶太弱了”展示了一局好操作；最高赞说“练透了就没有弱角色”，也有人说盲女在高阶能欺负红夫人。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "Hunters Are ALLERGIC To My Minds Eye? | Identity V",
+    "url": "https://www.youtube.com/watch?v=rBkAd4rxiYg",
+    "engagement": "13.8k views · 528 likes · 44 comments",
+    "date": "2026-03",
+    "takeaway": {
+     "en": "A popular English streamer's Mind's Eye ranked games where hunters avoid chasing her; the top comment jokes hunters can 'smell' a kiter main playing a decoder, suggesting her results depend heavily on the player.",
+     "cn": "英文圈人气主播的盲女排位，监管居然都不追她；最高赞调侃监管能“闻出”这是个会溜鬼的人在玩修机位，说明盲女的表现很吃玩家本身。"
+    }
+   },
+   {
+    "platform": "YouTube",
+    "title": "IDENTITY V SURVIVOR TIER LIST - Season 43",
+    "url": "https://www.youtube.com/watch?v=3foxbgOKF-8",
+    "engagement": "8.3k views · 156 likes · 34 comments",
+    "date": "2026-07",
+    "takeaway": {
+     "en": "In a Season 43 survivor tier list, commenters say they accept defeat when a Mind's Eye appears in their ranked team and that it's humbling some people still think she belongs in the meta, while a main replies she can still force ties if the first kite holds.",
+     "cn": "S43求生强度榜视频评论区：有人说排位里队友选盲女就默认输了，也有人感叹居然还有人觉得盲女能进版本；盲女玩家则回应只要一溜不崩也能拿平。"
+    }
+   }
+  ],
+  "agrees": [
+   "Near-universal agreement she is one of the weakest ranked survivors; hunters are happy to see her picked",
+   "Extreme profile: top static decoding but almost no escape once found (low forgiveness)",
+   "Needs little mechanical skill but a great deal of game sense and map knowledge",
+   "Essentially absent from pro play",
+   "The 2025–26 buffs (Strike cooldown, footprints) did not change perception",
+   "Good results come mainly from dedicated one-tricks and players who can hide or kite anyway"
+  ],
+  "changes": [],
+  "sentiment": {
+   "en": "The Mind's Eye is almost universally considered one of the weakest survivors, with survivor and hunter players agreeing she has been underpowered for years and that the small 2025–26 buffs barely changed that; hunters openly grin when she is picked. Her dedicated mains show that hiding and full-map calls can still steal games, and many note she needs little mechanical skill but a great deal of game sense, while others argue Composer now out-decodes and out-kites her.",
+   "cn": "盲女几乎是人屠双方公认的弱势求生，常年“下水道”，25–26年的小加强也没改变多少，对面选到盲女监管都要笑出声。盲女绝活玩家证明静步苟修加全图报点照样能偷分，她不太吃基本功却极吃意识，但也有不少人认为现在作曲家修机和牵制都把她比下去了。"
+  },
+  "confidence": 4
+ }
+]
