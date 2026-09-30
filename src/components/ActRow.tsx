@@ -10,8 +10,13 @@ export function ActRow(props: { acts: Act[]; current: number; lang: Lang; onJump
   const listRef = useRef<HTMLOListElement>(null)
   const [light, setLight] = useState({ left: 0, width: 0 })
   useLayoutEffect(() => {
-    const el = listRef.current?.children[props.current] as HTMLElement | undefined
-    if (el) setLight({ left: el.offsetLeft + el.offsetWidth * 0.3, width: el.offsetWidth * 0.4 })
+    const measure = () => {
+      const el = listRef.current?.children[props.current] as HTMLElement | undefined
+      if (el) setLight({ left: el.offsetLeft + el.offsetWidth * 0.3, width: el.offsetWidth * 0.4 })
+    }
+    measure()
+    window.addEventListener('resize', measure)
+    return () => window.removeEventListener('resize', measure)
   }, [props.current, props.acts.length])
   return (
     <nav className="acts" aria-label="Acts">
@@ -30,7 +35,7 @@ export function ActRow(props: { acts: Act[]; current: number; lang: Lang; onJump
         })}
       </ol>
       <span className="track" aria-hidden />
-      <span className="light" aria-hidden style={{ left: light.left, width: light.width }} />
+      <span className="light" aria-hidden style={{ width: light.width, transform: `translateX(${light.left}px)` }} />
     </nav>
   )
 }

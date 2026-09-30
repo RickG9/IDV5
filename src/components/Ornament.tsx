@@ -12,10 +12,11 @@ export function Fleuron() {
   )
 }
 
-export function Rule() {
+/** A billing rule; with `word`, the conjunction ("with") is set on the rule itself. */
+export function Rule({ word }: { word?: string }) {
   return (
-    <div className="rule" aria-hidden="true">
-      <Fleuron />
+    <div className={`rule ${word ? 'has-word' : ''}`} aria-hidden={word ? undefined : true}>
+      {word ? <span className="rule-word">{word}</span> : <Fleuron />}
     </div>
   )
 }

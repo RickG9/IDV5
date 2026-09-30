@@ -46,7 +46,7 @@ export function MatchupLists({ s, lang, limit = 6 }: { s: Survivor; lang: Lang; 
   )
 }
 
-export function SkinsPanel({ id, lang }: { id: string; lang: Lang }) {
+export function SkinsPanel({ id, lang, withNote }: { id: string; lang: Lang; withNote?: boolean }) {
   const sk = skinsById[id]
   if (!sk) return <p className="faint small">{T.noSkins[lang]}</p>
   return (
@@ -68,7 +68,7 @@ export function SkinsPanel({ id, lang }: { id: string; lang: Lang }) {
           </li>
         ))}
       </ul>
-      <p className="faint small" style={{ marginTop: 8 }}>{T.skinNote[lang]}</p>
+      {withNote && <p className="faint small" style={{ marginTop: 8 }}>{T.skinNote[lang]}</p>}
     </div>
   )
 }
@@ -121,7 +121,7 @@ export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; 
       {showSkins && (
         <div style={{ marginTop: 18 }}>
           <h4>{T.skins[lang]}</h4>
-          <SkinsPanel id={s.id} lang={lang} />
+          <SkinsPanel id={s.id} lang={lang} withNote />
         </div>
       )}
       <p className="sources" style={{ marginTop: 16 }}>

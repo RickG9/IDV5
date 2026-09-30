@@ -8,14 +8,20 @@ import { buildProfile } from '../engine/profile'
 import { rankAll } from '../engine/score'
 import type { ScoredSurvivor } from '../engine/score'
 import { buildPool, learningPath, teamComp, whyNot } from '../engine/plan'
-import { DATA_AS_OF, MATRIX, STATS, SURVIVORS } from '../data'
+import { DATA_AS_OF, MATRIX, skinsById, STATS, SURVIVORS } from '../data'
 import { T } from '../i18n'
 import { Rule } from '../components/Ornament'
-import { Dossier, MatchupLists, Meter, Roles, SkinsPanel } from '../components/Dossier'
+import { Dossier, MatchupLists, Roles, SkinsPanel } from '../components/Dossier'
+import { Switch } from '../components/Switch'
 import { narrate } from '../ai/client'
 
 const QUEUE_LABEL = { solo: { en: 'solo-queue', cn: '野排' }, duo: { en: 'duo', cn: '双排' }, premade: { en: 'premade', cn: '开黑' } }
 const BRACKET_LABEL = { low: { en: 'Tier I–IV', cn: '一至四阶' }, mid: { en: 'Tier V–VI', cn: '五至六阶' }, high: { en: 'Tier VII+', cn: '七阶及以上' }, pro: { en: 'competitive', cn: '比赛' } }
+
+/** Longest unbreakable word, in "Latin character" units (CJK glyphs are ~1.7× wider). */
+const longestWord = (name: string, lang: Lang) => Math.max(...name.split(/\s+/).map((w) => (lang === 'cn' ? w.length * 1.7 : w.length)))
+/** vw at which a word of `n` units fills ~84% of the viewport in a condensed display face. */
+const vwFor = (n: number) => 84 / (n * 0.62)
 
 export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppState>) => void; lang: Lang }) {
   const profile: Profile = useMemo(() => buildProfile(st.answers, st.trials, {
@@ -38,11 +44,13 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
 
   if (!headliner) return <p className="center muted">{lang === 'en' ? 'No survivors match the current filters.' : '没有符合当前筛选的求生者。'}</p>
 
+  // Billing scale follows fit strictly: one shared cap for the whole supporting block (so ratios
+  // survive narrow screens), and the headliner always outranks it by at least 1.5×.
   const topScore = headliner.score
-  // Billing scale follows fit, but a name must never break mid-word on a narrow screen.
-  const longestWord = (r: ScoredSurvivor) => Math.max(...r.s.name[lang].split(/\s+/).map((w) => (lang === 'cn' ? w.length * 1.7 : w.length)))
-  const fitVw = (r: ScoredSurvivor) => (84 / (longestWord(r) * 0.62)).toFixed(2)
-  const sizeFor = (r: ScoredSurvivor, base: number) => `min(${Math.max(1.5, base * Math.pow(r.score / topScore, 2.2)).toFixed(2)}rem, ${fitVw(r)}vw)`
+  const headVw = vwFor(longestWord(headliner.s.name[lang], lang))
+  const supportVw = Math.min(vwFor(Math.max(...support.map((r) => longestWord(r.s.name[lang], lang)))), headVw / 1.5)
+  const ratio = (r: ScoredSurvivor) => Math.max(0.42, Math.pow(r.score / topScore, 2.2))
+  const supportSize = (r: ScoredSurvivor) => `calc(${ratio(r).toFixed(3)} * min(4.6rem, ${supportVw.toFixed(2)}vw))`
   const metaPct = Math.round((st.metaWeight ?? profile.metaWeight) * 100)
 
   const exportPng = async () => {
@@ -61,15 +69,20 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
 
   const pos = headliner.reasons.filter((r) => r.w > 0).slice(0, 4)
   const neg = headliner.reasons.filter((r) => r.w < 0).slice(0, 1)
+  const toggle = (id: string) => setOpen(open === id ? null : id)
+  const other = lang === 'en' ? 'cn' : 'en'
+  const skinsReady = ranked.slice(0, 3).filter((r) => skinsById[r.s.id])
+  const skinsPending = ranked.slice(0, 3).filter((r) => !skinsById[r.s.id])
 
   return (
     <div>
       <div className="bill-frame" ref={billRef}>
+        <span className="stripe" aria-hidden />
         <div className="bill">
           <div className="billing">
-            <button onClick={() => setOpen(open === headliner.s.id ? null : headliner.s.id)} aria-expanded={open === headliner.s.id}>
-              <span className="bill-name" style={{ fontSize: `min(9.5rem, ${fitVw(headliner)}vw)` }}>{headliner.s.name[lang]}</span>
-              <span className="bill-cn" style={{ fontSize: 'clamp(1rem, 3vw, 1.6rem)' }}>{headliner.s.name[lang === 'en' ? 'cn' : 'en']}</span>
+            <button onClick={() => toggle(headliner.s.id)} aria-expanded={open === headliner.s.id}>
+              <span className="bill-name headliner" style={{ fontSize: `min(9.5rem, ${headVw.toFixed(2)}vw)` }}>{headliner.s.name[lang]}</span>
+              <span className="bill-cn" style={{ fontSize: 'clamp(1rem, 3vw, 1.6rem)' }}>{headliner.s.name[other]}</span>
               <span className="bill-score">{Math.round(headliner.score)} {T.match[lang]} · {T.fit[lang]} {Math.round(headliner.fit)} · {T.meta[lang]} {Math.round(headliner.meta)}</span>
             </button>
           </div>
@@ -77,15 +90,17 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
             {pos.map((r, i) => <li key={i}>{r.text[lang]}</li>)}
             {neg.map((r, i) => <li key={`n${i}`} className="neg">{r.text[lang]}</li>)}
           </ul>
-          <Rule />
-          <div className="bill-with">{T.with[lang]}</div>
-          <div className="billing">
-            {support.map((r) => (
-              <button key={r.s.id} onClick={() => setOpen(open === r.s.id ? null : r.s.id)} aria-expanded={open === r.s.id}>
-                <span className="bill-name" style={{ fontSize: sizeFor(r, 4.6) }}>{r.s.name[lang]}</span>
-                <span className="bill-score">{Math.round(r.score)} {T.match[lang]}</span>
-              </button>
-            ))}
+          <Rule word={T.with[lang]} />
+          <div className="billing support">
+            {support.map((r) => {
+              const line = r.reasons.find((x) => x.w > 0)
+              return (
+                <button key={r.s.id} onClick={() => toggle(r.s.id)} aria-expanded={open === r.s.id}>
+                  <span className="bill-name" style={{ fontSize: supportSize(r) }}>{r.s.name[lang]}</span>
+                  <span className="bill-score">{Math.round(r.score)} {T.match[lang]}{line ? ` — ${line.text[lang]}` : ''}</span>
+                </button>
+              )
+            })}
           </div>
           <div className="bill-foot">
             <span>{lang === 'en' ? `Billed for a ${QUEUE_LABEL[profile.queue].en} ${BRACKET_LABEL[profile.bracket].en} player` : `为${BRACKET_LABEL[profile.bracket].cn}${QUEUE_LABEL[profile.queue].cn}玩家推荐`}</span>
@@ -98,20 +113,25 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
       {open && (() => { const r = ranked.find((x) => x.s.id === open)!; return <Dossier s={r.s} scored={r} lang={lang} showSkins={goals.has('skins')} onClose={() => setOpen(null)} /> })()}
 
       <div className="controls" aria-label={T.controls[lang]}>
-        <label>
-          <span>{T.metaSlider[lang]}: {100 - metaPct} / {metaPct}</span>
-          <input type="range" min={0} max={50} step={5} value={metaPct} onChange={(e) => set({ metaWeight: Number(e.target.value) / 100 })} aria-describedby="meta-hint" />
+        <label className="slider">
+          <span>{T.metaSlider[lang]}: <strong>{100 - metaPct} / {metaPct}</strong></span>
+          <input type="range" min={0} max={50} step={5} value={metaPct} onChange={(e) => set({ metaWeight: Number(e.target.value) / 100 })} aria-describedby="meta-hint"
+            style={{ ['--pct' as string]: `${metaPct * 2}%` }} />
           <span id="meta-hint" className="faint small">{T.metaHint[lang]}</span>
         </label>
-        <div style={{ display: 'grid', gap: 8 }}>
-          <label className="toggle" title={T.challengeHint[lang]}><input type="checkbox" checked={st.challenge} onChange={(e) => set({ challenge: e.target.checked })} />{T.challenge[lang]}</label>
-          <label className="toggle"><input type="checkbox" checked={st.ownedOnly} disabled={!profile.owned.length} onChange={(e) => set({ ownedOnly: e.target.checked })} />{T.ownedOnly[lang]}</label>
-          <label className="toggle"><input type="checkbox" checked={st.useVibe} disabled={!Object.keys(profile.vibe).length} onChange={(e) => set({ useVibe: e.target.checked })} />{T.vibe[lang]}</label>
+        <div className="switches">
+          <Switch on={st.challenge} onChange={(v) => set({ challenge: v })} label={T.challenge[lang]} hint={T.challengeHint[lang]} />
+          <Switch on={st.ownedOnly} onChange={(v) => set({ ownedOnly: v })} label={T.ownedOnly[lang]} disabled={!profile.owned.length}
+            hint={!profile.owned.length ? (lang === 'en' ? 'Mark owned survivors in Act VI to use this.' : '在第六幕标记已拥有的角色后可用。') : undefined} />
+          <Switch on={st.useVibe} onChange={(v) => set({ useVibe: v })} label={T.vibe[lang]} disabled={!Object.keys(profile.vibe).length}
+            hint={!Object.keys(profile.vibe).length ? (lang === 'en' ? 'Answer the Taste act to use this.' : '回答"品味"一幕后可用。') : undefined} />
         </div>
-        <div style={{ display: 'grid', gap: 8 }}>
+        <div className="actions">
           <button className="btn" onClick={exportPng}><Download aria-hidden />{T.exportPng[lang]}</button>
           <button className="btn" onClick={() => set({ screen: 'quiz', actIndex: 0 })}><Pencil aria-hidden />{T.editAnswers[lang]}</button>
-          <button className="btn" onClick={askAi} disabled={aiBusy || !st.ai.key} title={!st.ai.key ? T.aiNoKey[lang] : undefined}><Sparkles aria-hidden />{aiBusy ? T.thinking[lang] : T.narrate[lang]}</button>
+          {st.ai.key
+            ? <button className="btn" onClick={askAi} disabled={aiBusy}><Sparkles aria-hidden />{aiBusy ? T.thinking[lang] : T.narrate[lang]}</button>
+            : <button className="btn ghost" onClick={() => set({ screen: 'settings' })}><Sparkles aria-hidden />{lang === 'en' ? 'Add an AI key to get a written explanation' : '添加 AI 密钥以获得文字解说'}</button>}
         </div>
       </div>
       {aiErr && <p className="error center">{aiErr}</p>}
@@ -121,16 +141,18 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <section className="section">
           <h2 className="display">{T.pool[lang]}</h2>
           <p className="sub">{lang === 'en' ? 'Picked to cover each other: different roles, different hunter weaknesses, so one ban doesn\'t sink you.' : '互相补位：不同定位、不同的监管者弱点，一个被禁也不慌。'}</p>
-          <div className="pool">
+          <ol className="bill-list">
             {pool.map(({ r, why }) => (
-              <div className="pool-item" key={r.s.id}>
-                <h3>{r.s.name[lang]}<span className="cn">{r.s.name[lang === 'en' ? 'cn' : 'en']}</span></h3>
+              <li key={r.s.id}>
+                <button className="bill-line" onClick={() => toggle(r.s.id)} aria-expanded={open === r.s.id}>
+                  <span className="bill-name" style={{ fontSize: `calc(${ratio(r).toFixed(3)} * min(3.4rem, ${supportVw.toFixed(2)}vw))` }}>{r.s.name[lang]}</span>
+                  <span className="bill-cn">{r.s.name[other]}</span>
+                </button>
                 <Roles s={r.s} lang={lang} />
-                <Meter label={T.match[lang]} v={r.score} max={100} />
-                <p className="muted small" style={{ marginTop: 8 }}>{why[lang]}</p>
-              </div>
+                <p className="line-note">{Math.round(r.score)} {T.match[lang]} — {why[lang]}</p>
+              </li>
             ))}
-          </div>
+          </ol>
         </section>
       )}
 
@@ -138,17 +160,15 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <section className="section">
           <h2 className="display">{T.path[lang]}</h2>
           <p className="sub">{lang === 'en' ? 'Start forgiving, finish where your fit is highest.' : '从容错高的角色起步，最终走向最适合你的角色。'}</p>
-          <div className="path">
+          <ol className="path">
             {path.map((step) => (
-              <div className="panel" key={step.stage}>
-                <div className="stage">{T.stage[step.stage][lang]}</div>
-                <h3>{step.r.s.name[lang]}<span className="cn">{step.r.s.name[lang === 'en' ? 'cn' : 'en']}</span></h3>
-                <Meter label={T.skillFloor[lang]} v={step.r.s.skillFloor} alt />
-                <p className="muted small" style={{ marginTop: 8 }}>{step.why[lang]}</p>
-                {step.practise.length > 0 && <><div className="faint small" style={{ marginTop: 10 }}>{T.practise[lang]}</div><ul>{step.practise.map((x, i) => <li key={i}>{x[lang]}</li>)}</ul></>}
-              </div>
+              <li className="path-step" key={step.stage}>
+                <h3>{step.r.s.name[lang]}<span className="cn">{step.r.s.name[other]}</span></h3>
+                <p className="line-note"><strong>{T.stage[step.stage][lang]}.</strong> {step.why[lang]}</p>
+                {step.practise.length > 0 && <ul>{step.practise.map((x, i) => <li key={i}>{x[lang]}</li>)}</ul>}
+              </li>
             ))}
-          </div>
+          </ol>
         </section>
       )}
 
@@ -175,26 +195,27 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
         <section className="section">
           <h2 className="display">{T.skins[lang]}</h2>
           <p className="sub">{T.skinNote[lang]}</p>
-          <div className="pool">
-            {ranked.slice(0, 3).map((r) => (
+          <div className="wardrobe">
+            {skinsReady.map((r) => (
               <div className="panel" key={r.s.id}><h3>{r.s.name[lang]}</h3><SkinsPanel id={r.s.id} lang={lang} /></div>
             ))}
           </div>
+          {skinsPending.length > 0 && <p className="faint small center" style={{ marginTop: 10 }}>{lang === 'en' ? 'Skin notes pending' : '时装数据待补充'}: {skinsPending.map((r) => r.s.name[lang]).join(', ')}</p>}
         </section>
       )}
 
       {near.length > 0 && (
         <section className="section">
           <h2 className="display">{T.whyNot[lang]}</h2>
-          <div className="pool" style={{ marginTop: 16 }}>
+          <ul className="ruled">
             {near.map(({ r, reason }) => (
-              <div className="pool-item" key={r.s.id}>
-                <h3>{r.s.name[lang]}</h3>
-                <Meter label={T.match[lang]} v={r.score} max={100} />
-                <p className="muted small" style={{ marginTop: 8 }}>{reason[lang]}</p>
-              </div>
+              <li key={r.s.id}>
+                <button className="linkish ruled-name" onClick={() => toggle(r.s.id)}>{r.s.name[lang]}</button>
+                <span className="muted">{reason[lang]}</span>
+                <span className="faint">{Math.round(r.score)}</span>
+              </li>
             ))}
-          </div>
+          </ul>
         </section>
       )}
     </div>
