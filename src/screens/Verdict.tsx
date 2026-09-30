@@ -64,7 +64,8 @@ export function Verdict({ st, set, lang }: { st: AppState; set: (p: Partial<AppS
   }
   const askAi = async () => {
     setAiBusy(true); setAiErr('')
-    try { setAiText(await narrate(st.ai, lang, profile, ranked)) } catch (e) { setAiErr((e as Error).message) } finally { setAiBusy(false) }
+    setAiText('')
+    try { setAiText(await narrate(st.ai, lang, profile, ranked, setAiText)) } catch (e) { setAiErr((e as Error).message) } finally { setAiBusy(false) }
   }
 
   const pos = headliner.reasons.filter((r) => r.w > 0).slice(0, 4)

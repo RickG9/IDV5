@@ -12,6 +12,8 @@ export interface AiConfig {
   model: string
   key: string
   relay: string // optional pass-through relay URL (needed for providers without browser CORS)
+  api: 'auto' | 'chat' | 'responses' // auto: Responses API for muse-spark / gpt / grok models
+  effort: 'low' | 'medium' | 'high' | 'xhigh' // reasoning effort (Responses API models)
 }
 
 export interface AppState {
@@ -31,7 +33,7 @@ export interface AppState {
 }
 
 export const AI_PRESETS: Record<AiConfig['provider'], { baseUrl: string; model: string; needsRelay: boolean }> = {
-  'opencode-go': { baseUrl: 'https://opencode.ai/zen/go/v1', model: 'deepseek-v4-flash', needsRelay: true },
+  'opencode-go': { baseUrl: 'https://opencode.ai/zen/go/v1', model: 'muse-spark-1.3-contributor', needsRelay: true },
   deepseek: { baseUrl: 'https://api.deepseek.com/v1', model: 'deepseek-chat', needsRelay: false },
   openrouter: { baseUrl: 'https://openrouter.ai/api/v1', model: 'deepseek/deepseek-chat', needsRelay: false },
   custom: { baseUrl: '', model: '', needsRelay: false },
@@ -49,7 +51,7 @@ export const initialState: AppState = {
   ownedOnly: false,
   useVibe: false,
   metaWeight: null,
-  ai: { provider: 'opencode-go', ...AI_PRESETS['opencode-go'], key: '', relay: '' },
+  ai: { provider: 'opencode-go', baseUrl: AI_PRESETS['opencode-go'].baseUrl, model: AI_PRESETS['opencode-go'].model, key: '', relay: '', api: 'auto', effort: 'xhigh' },
 }
 
 const KEY = 'manor-casebook:v1'
@@ -63,7 +65,10 @@ export function loadState(): AppState {
       return { ...initialState, lang: zh ? 'cn' : 'en' }
     }
     const saved = JSON.parse(raw) as Partial<AppState>
-    return { ...initialState, ...saved, ai: { ...initialState.ai, ...(saved.ai ?? {}) }, screen: saved.screen === 'trials' ? 'quiz' : (saved.screen ?? 'programme') }
+    const ai = { ...initialState.ai, ...(saved.ai ?? {}) }
+    // Move anyone still on the old default model to the new default (Muse Spark).
+    if (ai.provider === 'opencode-go' && ai.model === 'deepseek-v4-flash') ai.model = AI_PRESETS['opencode-go'].model
+    return { ...initialState, ...saved, ai, screen: saved.screen === 'trials' ? 'quiz' : (saved.screen ?? 'programme') }
   } catch {
     return initialState
   }
