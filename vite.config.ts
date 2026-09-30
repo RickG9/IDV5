@@ -12,11 +12,11 @@ export default defineConfig({
       '/relay': {
         target: 'https://opencode.ai',
         changeOrigin: true,
-        rewrite: () => '/zen/go/v1/chat/completions',
         configure: (proxy) => {
           proxy.on('proxyReq', (proxyReq, req) => {
             const base = new URL(String(req.headers['x-target-base'] ?? 'https://opencode.ai/zen/go/v1'))
-            proxyReq.path = base.pathname.replace(/\/+$/, '') + '/chat/completions'
+            const suffix = String(req.url ?? '').endsWith('/responses') ? '/responses' : '/chat/completions'
+            proxyReq.path = base.pathname.replace(/\/+$/, '') + suffix
             proxyReq.setHeader('User-Agent', 'manor-casebook/1.0')
             proxyReq.removeHeader('origin')
             proxyReq.removeHeader('x-target-base')

@@ -9,3 +9,4 @@ dist
 .impeccable/review/
 # Cloudflare
 worker/.wrangler/
+.impeccable/live/server.json

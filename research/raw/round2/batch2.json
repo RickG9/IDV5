@@ -1,0 +1,929 @@
+[
+  {
+    "id": "priestess",
+    "feedback": [
+      {
+        "platform": "Reddit",
+        "title": "What are the most banned survivors these days?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/",
+        "engagement": "14 upvotes · 18 comments (top comment 15 upvotes)",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Players say Priestess is still one of the most commonly banned survivors in ranked, citing CN data that puts her in the top-5 bans at Peak/Dragon tier and the highest ban rate in S40, but a commenter tracking the 2026 CN qualifiers says she was only picked or banned about once every 30 matches in pro play.",
+          "cn": "玩家反馈祭司在排位里依旧是最常被ban的求生之一，引用的国服数据显示她在巅峰/龙阶禁用前五、S40禁用率第一；但有人统计2026年国服预选赛，她大约每30场才被选或被ban一次。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Which survivor/s you find irritating to chase as a hunter?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+        "engagement": "22 upvotes · 47 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Hunters list Priestess as irritating mainly on big maps such as Moonlit River Park and Lakeside Village, and one says a ban slot is 'always blocked by priestess', though another adds that Seer and Priestess players are usually just good players on good characters.",
+          "cn": "监管玩家认为祭司主要在月亮河、湖景村这类大图最恶心，有人说自己一个ban位“永远被祭司占着”，也有人表示玩祭司、先知的大多只是会玩的人用了好角色。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【角色分析】现版本祭司：顶尖一批的强度，烂的一批的排位体验",
+        "url": "https://www.bilibili.com/video/BV1Hx421f7Zi",
+        "engagement": "7.5万播放 · 421评论 · top comment 422 likes",
+        "date": "2024-03",
+        "takeaway": {
+          "en": "The top comment, from a 5000-rating Priestess, says her solo-queue situation is only mediocre even though her ceiling is high, and the second (313 likes) argues her power is bought with practice, awareness and coordination that only a four-stack reliably provides.",
+          "cn": "最高赞（422赞）的5000分祭司玩家表示单排祭司处境很一般、但有机会摸到上限；第二高赞（313赞）认为祭司是拿熟练度、意识和配合换强度，只有四黑能稳定补足。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "你们觉得祭司现在强度怎么样呢？",
+        "url": "https://www.bilibili.com/video/BV1MUx5zTEw1",
+        "engagement": "8,638播放 · 51评论 · top comment 68 likes",
+        "date": "2025-10",
+        "takeaway": {
+          "en": "The top comment says she 'fell off long ago': most hunters now have mobility or Warp, short-portal stuns were cut and placing portals is slow, so solo Priestess is miserable and her bans come from low-rank stereotypes.",
+          "cn": "最高赞（68赞）认为祭司“早就不行了”：七成屠夫自带位移还有移形，短洞眩晕被削、打洞慢，单排纯吃苦，ban她多是低阶刻板印象。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【萌新教学】各个地图的长难洞怎么打？",
+        "url": "https://www.bilibili.com/video/BV1HE421A7jD",
+        "engagement": "72.8万播放 · 367评论 · top comments 1.1k / 852 likes",
+        "date": "2024-06",
+        "takeaway": {
+          "en": "A top comment (852 likes) jokes that learning each map's long portal spots is one thing but actually pulling them off in ranked is another, underlining her map-knowledge and execution demands.",
+          "cn": "高赞评论（852赞）调侃“学会是一件事，排位能放出来又是另一件事”，说明祭司对地图洞位和临场执行的要求很高。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "2024年新手入门求生者推荐！最适合新人玩家的角色！",
+        "url": "https://www.bilibili.com/video/BV1Jv421y7Eu",
+        "engagement": "124万播放 · 1563评论 · top comment 3.1k likes",
+        "date": "2024-02",
+        "takeaway": {
+          "en": "The top comment lists Priestess as a support option, but its most-liked reply (52 likes) tells beginners to skip her because portals need deliberate practice while new players should be building fundamentals.",
+          "cn": "最高赞把祭司列为辅助位推荐，但点赞最高的回复（52赞）劝新手别碰：打洞不刻意练真打不好，新手更该先练基本功。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "How should Hunter counter Priestess?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1ii2skq/how_should_hunter_counter_priestess/",
+        "engagement": "8 upvotes · 28 comments (top comment 22 upvotes)",
+        "date": "2025-02",
+        "takeaway": {
+          "en": "Hunters say Priestess herself is easily killable and her real threat is the Ultra-Long Passage; high-mobility or map-pressure hunters handle her best, and one would still rather ban her because her portals and healing bonus also shut down camping on urban maps.",
+          "cn": "监管玩家认为祭司本人很好抓，真正的威胁是超长通道；高机动或控图屠夫最能处理她，也有人表示仍会选择ban她，因为她的洞和治疗加成在城区图还能限制守尸。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2",
+        "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+        "engagement": "4,493 views · 102 likes · 26 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "This walkthrough of a CN community tier list places Priestess only in A-, and a Priestess main in the comments says the mobility- and Warp-heavy hunter meta makes her portals give little distance and leaves her fragile and spawn-dependent.",
+          "cn": "该视频解读的国服社区梯度把祭司放在A-；评论区的祭司玩家表示当前热门屠夫位移、传送太多，洞拉不开距离，祭司脆且很吃出生点。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "THE BIGGEST Survivor Tier List 2026",
+        "url": "https://www.youtube.com/watch?v=FQnDim_FQAE",
+        "engagement": "29,654 views · 637 likes · 90 comments",
+        "date": "2026-05",
+        "takeaway": {
+          "en": "Commenters joke that 'priestess and friends' did not make it to 2026, and a 12-like comment argues Priestess should be placed much lower in the current meta.",
+          "cn": "评论区调侃“祭司和她的朋友们”没能活到2026年，12赞评论认为当前版本祭司应该排得更低。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "IDENTITY V SURVIVOR TIER LIST - Season 43",
+        "url": "https://www.youtube.com/watch?v=3foxbgOKF-8",
+        "engagement": "8,285 views · 156 likes · 34 comments",
+        "date": "2026-07",
+        "takeaway": {
+          "en": "A 13-like comment is surprised Priestess still ranks high, saying that if you first-chase her she is 'cooked' after using one portal.",
+          "cn": "13赞评论惊讶祭司还排这么高，认为只要首追她，用掉一个洞后基本就没了。"
+        }
+      },
+      {
+        "platform": "IVL/COA",
+        "title": "Call of the Abyss VIII Global Finals – Most Used Survivor",
+        "url": "https://id5.fandom.com/wiki/Call_of_the_Abyss_VIII/Global_Finals",
+        "engagement": "unknown",
+        "date": "2025-05",
+        "takeaway": {
+          "en": "Tournament stats show Priestess used only 19 times at COA VIII Global Finals (tied 17th), far behind Aeroplanist (83), First Officer and Puppeteer (76).",
+          "cn": "COA VIII全球总决赛数据显示祭司仅出场19次（并列第17），远低于飞行家（83次）、大副和木偶师（76次）。"
+        }
+      }
+    ],
+    "agrees": [
+      "Solo queue is a poor experience while coordinated stacks unlock her ceiling, matching queue.solo 2 and queue.premade 5",
+      "Portal spots require deliberate study and practice, supporting demandMapKnowledge 9 and skillFloor 6",
+      "Her value depends on teammates using her portals, consistent with teamDependency 8 and demandComms 8",
+      "Hunters still ban her frequently in high-rank ranked games, especially on big maps, so she remains a feared pick"
+    ],
+    "changes": [
+      {
+        "field": "meta.pro",
+        "from": 5,
+        "to": 3,
+        "why": "Pro presence is mid-pack rather than S-tier: she had only 19 uses (tied 17th) at COA VIII Global Finals, a Reddit commenter tracking the 2026 CN qualifiers says she was picked or banned about once every 30 matches, the 2026 CN community tier list places her A-, and popular Bilibili comments say the mobility/Warp meta has left her behind.",
+        "sources": [
+          "https://id5.fandom.com/wiki/Call_of_the_Abyss_VIII/Global_Finals",
+          "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/",
+          "https://www.youtube.com/watch?v=8zoxa9dupzA",
+          "https://www.bilibili.com/video/BV1MUx5zTEw1"
+        ]
+      },
+      {
+        "field": "meta.high",
+        "from": 5,
+        "to": 4,
+        "why": "She is still a top-5 ban at CN Peak/Dragon tier, but the 2026 CN tier list rates her A- (roughly mid-roster), Chinese and English players repeatedly say she 'fell off' against mobility/Warp hunters, and several tier-list comments argue she should rank lower, so 4 fits better than the maximum.",
+        "sources": [
+          "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/",
+          "https://www.youtube.com/watch?v=8zoxa9dupzA",
+          "https://www.bilibili.com/video/BV1MUx5zTEw1",
+          "https://www.youtube.com/watch?v=FQnDim_FQAE",
+          "https://www.youtube.com/watch?v=3foxbgOKF-8"
+        ]
+      }
+    ],
+    "sentiment": {
+      "en": "Priestess is still feared and frequently banned in high-rank ranked play, especially on big maps, but many players now say the mobility- and Warp-heavy meta has worn her down, leaving her around A- in community tier lists with little presence in pro matches. Her portals demand deliberate map study and teammates who follow them, so she shines in coordinated stacks while solo queue often feels frustrating and low-value.",
+      "cn": "祭司在高阶排位里依旧让监管忌惮，大图常被ban，但越来越多玩家认为在位移、移形横行的版本里她已经不复当年，社区梯度只给到A-，比赛里也很少露面。打洞需要专门背点，还得队友会跟洞，开黑时上限很高，单排则常常打得憋屈、收益有限。"
+    },
+    "confidence": 4
+  },
+  {
+    "id": "perfumer",
+    "feedback": [
+      {
+        "platform": "Reddit",
+        "title": "Which survivor/s you find irritating to chase as a hunter?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+        "engagement": "22 upvotes · 47 comments (top comment 25 upvotes)",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "The top comment sarcastically complains about Perfumer and Lanternist extending kites 'for almost no cost', and another hunter says that after her buff she gets value whether or not she uses the perfume correctly, while others reply that chip-damage hunters or simply waiting out the perfume still work.",
+          "cn": "最高赞（25赞）反讽调香师和提灯人几乎零成本就能延长牵制；另有监管表示加强后她香水用得对不对都有收益，也有人回复说带小刀伤害的屠夫或等香水结束仍能处理她。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Makimg sense of the character buffs",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1owt5ia/makimg_sense_of_the_character_buffs/",
+        "engagement": "40 upvotes · 19 comments",
+        "date": "2025-11",
+        "takeaway": {
+          "en": "Discussing the late-2025 buff list, a 10-upvote comment calls the Perfumer buff 'stupid' because the new shield is better than a normal perfume and can even tank Terror Shock or Naiad's humidity, and another jokes the buff exists to justify her many skins.",
+          "cn": "在讨论2025年底加强名单的帖子里，10赞评论认为调香的加强“很蠢”：新护盾比普通香水还好用，连震慑和渔女水汽都能抗；另有评论调侃这是为了给她卖皮肤找理由。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "CHEERLEADER & PERFUMER IS OP NOW?! SEASON 41 CHARACTER ADJUSTMENT IDENTITY V",
+        "url": "https://www.youtube.com/watch?v=cdlI1rfFMJs",
+        "engagement": "17,103 views · top comment 234 likes",
+        "date": "2026-01",
+        "takeaway": {
+          "en": "The most-liked comments mock 'the concept of perfumer getting another buff' (234 likes) and ask why she keeps being buffed when she was already a good survivor (102 likes).",
+          "cn": "高赞评论调侃“调香师居然又加强了”（234赞），并质疑她本来就是好角色为什么还一直加强（102赞）。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "调香师的强度困境该如何解决？【天方夜谈】",
+        "url": "https://www.bilibili.com/video/BV1yWxaz7E93",
+        "engagement": "5.5万播放 · 755评论 · top comment 465 likes",
+        "date": "2025-10",
+        "takeaway": {
+          "en": "Before the late-2025 buffs players openly discussed her 'strength dilemma', and the top comment (465 likes) proposed letting a half-HP perfume trigger a mini Borrowed Time, showing she was seen as behind the power curve.",
+          "cn": "在2025年底加强前，玩家公开讨论她的“强度困境”，最高赞（465赞）提议半血用香触发小搏命，说明当时普遍认为她跟不上版本。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【共研服】不惧一刀斩和震慑！调香师共研服史诗级加强！",
+        "url": "https://www.bilibili.com/video/BV1fbCTBZEU8",
+        "engagement": "29.1万播放 · 2100评论 · top comment 2.7k likes",
+        "date": "2025-11",
+        "takeaway": {
+          "en": "The top comment (2.7k likes) would have accepted a half-HP shield but not the full version, and a 934-like comment complains that she can now survive Terror Shock at full HP in a game where 'everyone except rescuers is good at rescuing'.",
+          "cn": "最高赞（2.7k赞）表示改成半血用香有盾还能接受；934赞评论吐槽满血吃震慑都不会倒，“除了救人位谁都适合救人”。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "调香/玩具/祭司/园丁加强! 律师/木偶/教授加强!医生调整!牛仔优化! 人类阵营最新角色超级大调整!",
+        "url": "https://www.bilibili.com/video/BV17xCxBCEaM",
+        "engagement": "9.6万播放 · 1131评论 · top comment 443 likes",
+        "date": "2025-11",
+        "takeaway": {
+          "en": "The top comment says the change lets Perfumer double as a rescuer, since one perfume lets her rescue unharmed unless the hunter intercepts at the chair.",
+          "cn": "最高赞（443赞）认为这次改动后调香师完全可以转救人位，只要不被拦截贴椅，消耗一瓶香水就能无伤救人。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "香水强度质变！调香恐成二救位？【共研测评】",
+        "url": "https://www.bilibili.com/video/BV1aCCTBEEJb",
+        "engagement": "6.1万播放 · 517评论 · top comment 414 likes",
+        "date": "2025-11",
+        "takeaway": {
+          "en": "Commenters called the test-server version 'outrageous' and warned it would create a brainless rescue monster (414 likes), while a 412-like comment lamented losing the classic perfume-breaking counterplay.",
+          "cn": "评论认为共研服版本“实在逆天”，担心造出无脑救人的怪物（414赞）；另有412赞评论惋惜破香这个角色记忆点被改没了。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "第五人格最不值得练习的求生者！萌新千万别上手这几个角色",
+        "url": "https://www.bilibili.com/video/BV1Nb4aetErd",
+        "engagement": "35.5万播放 · 693评论 · top comment 1.1k likes",
+        "date": "2024-09",
+        "takeaway": {
+          "en": "The top comment (1.1k likes) says a flashy 50-second perfume kite leaves rescuers facing a tier-2 hunter and that Perfumer has no second-chase ability, while a 552-like comment argues she is excellent for training beginners' fundamentals.",
+          "cn": "最高赞（1.1k赞）吐槽调香50秒三重余韵很帅，却给救人位留下二阶监管，而且没有二溜能力；552赞评论则认为调香非常适合新手练转点和板区博弈基本功。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2",
+        "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+        "engagement": "4,493 views · 102 likes · 26 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Even after her buffs, the CN community tier list explained here puts Perfumer only in B+, behind most supports and harassers.",
+          "cn": "即使加强之后，该视频解读的国服社区梯度仍只把调香师放在B+，排在大多数辅助位和干扰位之后。"
+        }
+      },
+      {
+        "platform": "IVL/COA",
+        "title": "Call of the Abyss VIII Global Finals – Most Used Survivor",
+        "url": "https://id5.fandom.com/wiki/Call_of_the_Abyss_VIII/Global_Finals",
+        "engagement": "unknown",
+        "date": "2025-05",
+        "takeaway": {
+          "en": "Perfumer was used only 7 times (tied 21st) at COA VIII Global Finals, confirming she was a rare pro pick before the buffs.",
+          "cn": "COA VIII全球总决赛中调香师仅出场7次（并列第21），印证她在加强前是比赛冷门。"
+        }
+      }
+    ],
+    "agrees": [
+      "Forgiving and good for building fundamentals, matching forgiveness 9 and skillFloor 3",
+      "Selfish kiter with little second-chase or team value, consistent with selfSufficiency 9, teamDependency 3 and support 3",
+      "Perfume timing is the core skill that separates good and bad Perfumers, supporting demandTiming 9",
+      "Hunters find her annoying but beatable with chip damage or by waiting out the perfume"
+    ],
+    "changes": [
+      {
+        "field": "meta.pro",
+        "from": 4.0,
+        "to": 3,
+        "why": "Pro usage has been low (7 uses, tied 21st, at COA VIII Global Finals) and the 2026 CN community tier list rates her only B+, so she is a situational pro pick rather than a strong one.",
+        "sources": [
+          "https://id5.fandom.com/wiki/Call_of_the_Abyss_VIII/Global_Finals",
+          "https://www.youtube.com/watch?v=8zoxa9dupzA"
+        ]
+      },
+      {
+        "field": "rescue",
+        "from": 4.0,
+        "to": 5,
+        "why": "Several popular Bilibili videos on the late-2025 buff say the post-rewind one-hit shield lets her rescue unharmed with a perfume and even act as a secondary rescuer; the live version halves the shield near a chair, so a one-point rise is appropriate.",
+        "sources": [
+          "https://www.bilibili.com/video/BV17xCxBCEaM",
+          "https://www.bilibili.com/video/BV1aCCTBEEJb",
+          "https://www.bilibili.com/video/BV1fbCTBZEU8"
+        ]
+      }
+    ],
+    "sentiment": {
+      "en": "Perfumer is seen as a forgiving, self-sufficient kiter who teaches beginners real chase fundamentals, though she is criticised for being selfish and leaving rescuers to face a powered-up hunter. Her late-2025 and January 2026 buffs added a one-hit shield after rewinding, which led hunters to call her almost free value and raised fears she could double as a rescuer, even though CN tier lists still rank her only around B+.",
+      "cn": "调香师被公认是容错高、能自保的牵制位，也很适合新手练板窗基本功，但常被吐槽只顾自己溜，给救人位留下一个升阶的监管。2025年底到2026年初的回溯免伤加强让监管直呼“用不用对都有收益”，还引发了“调香变二救”的担忧，不过国服梯度里她大致还是B+的位置。"
+    },
+    "confidence": 4
+  },
+  {
+    "id": "cowboy",
+    "feedback": [
+      {
+        "platform": "Fandom",
+        "title": "Patch Notes/2026 – Character Adjustments (Cowboy)",
+        "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+        "engagement": "unknown",
+        "date": "2026-02",
+        "takeaway": {
+          "en": "Patch notes show Cowboy was buffed in 2026: January improved lasso hit detection and added 1.5s of extra speed after lassoing a non-ballooned survivor (at double durability cost), and February cut the post-hit delay by 0.3s and raised balloon struggle progress from 10% to 15%.",
+          "cn": "补丁记录显示牛仔在2026年多次加强：1月优化钩索判定，勾中非气球求生者后加速多1.5秒（耐久消耗翻倍）；2月勾中后摇减少0.3秒，勾气球挣扎进度由10%提高到15%。"
+        }
+      },
+      {
+        "platform": "Fandom",
+        "title": "Official Q&A/2026 – 51st Q&A (Cowboy)",
+        "url": "https://id5.fandom.com/wiki/Official_Q%26A/2026",
+        "engagement": "unknown",
+        "date": "2026-01",
+        "takeaway": {
+          "en": "Answering players who asked whether the 20% lasso cost was too much and his wind-up too long, the developers admitted lassoing survivors was rarely used and only valuable at specific map spots, so they lengthened the speed boost to make it viable across terrain.",
+          "cn": "玩家质疑钩人20%耐久消耗过高、前摇太长，官方回复承认牛仔钩求生者使用率低、只在特定点位有价值，因此延长加速时间让它在更多地形可用。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "牛仔史诗级加强？幻灯&击球&拉拉削弱！【求生调整简评2】",
+        "url": "https://www.bilibili.com/video/BV121BfBgEL9",
+        "engagement": "9.1万播放 · 754评论 · top comment 333 likes",
+        "date": "2026-01",
+        "takeaway": {
+          "en": "The top comment says Cowboy's value from saving downed teammates had been ridiculously low next to other harassers, so the change pivots him toward moving healthy teammates, while replies doubt that doubling the lasso cost counts as a buff.",
+          "cn": "最高赞（333赞）认为牛仔保倒地队友的收益和其他ob位一比低得离谱，这次是改行保活人；回复质疑消耗翻倍到底算不算加强。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "闷声发大财！牛仔史诗级加强？【实测简评】",
+        "url": "https://www.bilibili.com/video/BV1127V6FEDk",
+        "engagement": "7.9万播放 · 764评论 · top comment 661 likes",
+        "date": "2026-06",
+        "takeaway": {
+          "en": "Cowboy players joked 'thank you, you actually asked' about finally getting another buff; one 179-like reply says his tournament presence proves he is not weak, while another counters that he has barely appeared in matches lately.",
+          "cn": "牛仔玩家在最高赞里调侃“谢谢你们，你们真的问了”；有179赞回复认为比赛出场率高说明他不弱，也有人反驳说最近比赛已经差不多没出场了。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【锐评】牛仔玩家也是越来越好了 哭了这么多赛季越来越弱了",
+        "url": "https://www.bilibili.com/video/BV12vEs6cECS",
+        "engagement": "4.9万播放 · 315评论 · top comment 379 likes",
+        "date": "2026-06",
+        "takeaway": {
+          "en": "Cowboy mains say he kept getting weaker for many seasons, and the top comment wistfully hopes for a rework where lassoed survivors come down alive without struggle-progress and skill-check gates.",
+          "cn": "牛仔玩家表示这么多赛季越来越弱，最高赞（379赞）期待重做成不吃挣扎进度、不吃目押、勾下来就是活人的版本。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "只属于牛仔的超模点位大全",
+        "url": "https://www.bilibili.com/video/BV1FvxdemEYc",
+        "engagement": "44.3万播放 · 789评论 · comment 1.4k likes",
+        "date": "2024-10",
+        "takeaway": {
+          "en": "A 1.4k-like comment sums up the character: even with perfect technique, whether the lasso lands still 'depends on the hit detection's mood'.",
+          "cn": "1.4k赞评论总结牛仔：手法到了，也还要看判定脸色。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "牛仔教学",
+        "url": "https://www.bilibili.com/video/BV1Y8YgzEENE",
+        "engagement": "25.4万播放 · 133评论 · top comment 414 likes",
+        "date": "2025-09",
+        "takeaway": {
+          "en": "The creator stresses that Cowboy has a high ceiling but depends on memorised terrain spots, and a 312-like comment admits getting tilted by his awkward hit detection and long wind-up.",
+          "cn": "作者表示牛仔上限很高但非常吃地形点位；312赞评论坦言实战常被恶心判定和超长前摇搞红温。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "强度偏高的偷分角色",
+        "url": "https://www.bilibili.com/video/BV19Eu96wEJE",
+        "engagement": "5,943播放 · 85评论 · top comment 26 likes",
+        "date": "2026-08",
+        "takeaway": {
+          "en": "Top comments call Cowboy players the most wronged in the game: after dozens of stealth nerfs, a small buff drew angry abuse, and his rotations still depend on teammates cooperating and on terrain.",
+          "cn": "高赞评论认为牛仔玩家是全游戏最委屈的：被削、被暗改几十次，加强一点就被疯狂撕咬，而且辅助转点还要看队友配合和地形。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "[Guide] Cowboy Carrying Survivors - Male vs. Female",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1rkzgs4/guide_cowboy_carrying_survivors_male_vs_female/",
+        "engagement": "288 upvotes · 30 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "In this popular guide thread, a 31-upvote comment says his 30% decoding debuff with male teammates is so punishing that they switch to a female character whenever they see a Cowboy, and another notes the female-decoding bonus is overwritten by duo decoding and gives no real benefit.",
+          "cn": "这篇热门攻略帖里，31赞评论表示牛仔和男角色一起修机减速30%太痛，看到队友有牛仔就会换女角色；另有评论指出与女角色同修的加成会被双人修机减益覆盖，实际没有收益。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Which survivor/s you find irritating to chase as a hunter?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+        "engagement": "22 upvotes · 47 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "A 15-upvote hunter comment calls Cowboy and Forward more irritating than stunners because they linger nearby when you down someone, and others say good Cowboys are annoying but rarely seen.",
+          "cn": "15赞的监管评论认为牛仔和前锋比眩晕位更烦，因为他们会在你击倒队友时守在附近；也有人说好牛仔很烦，但不常见。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "Identity V Cowboy Became More Violent in Season 43",
+        "url": "https://www.youtube.com/watch?v=Uslxgw7eb18",
+        "engagement": "3,539 views · comment 9 likes",
+        "date": "2026-07",
+        "takeaway": {
+          "en": "A returning Cowboy main says he feels better than before thanks to the reduced delay and speed buff, while another commenter names communication with teammates as his biggest weakness.",
+          "cn": "回坑的牛仔玩家表示后摇减少和加速让牛仔手感比以前好；也有评论认为他最大的弱点是和队友的沟通。"
+        }
+      }
+    ],
+    "agrees": [
+      "Lasso accuracy and inconsistent hit detection make him execution-heavy, matching demandAim 9, demandMechanics 8 and skillFloor 8",
+      "Mistakes are costly and value depends on communicating with teammates, consistent with forgiveness 2, demandComms 8 and queue.solo 2",
+      "Low ranked meta presence (mid-pack community tier) fits meta.low/mid 2",
+      "Hunters find a good Cowboy lingering near downed teammates genuinely irritating"
+    ],
+    "changes": [],
+    "notes": "meta.changes is outdated: Fandom Patch Notes/2026 list Cowboy lasso buffs on Jan 22 2026 (better hit detection, +1.5s speed after lassoing a survivor, durability cost 10%->20%) and Feb 2026 (-0.3s post-hit delay, balloon struggle progress 10%->15%); Bilibili also reports a further test-server buff in June 2026.",
+    "sentiment": {
+      "en": "Cowboy is a niche, execution-heavy rescuer whose mains feel he was quietly nerfed for years and that lasso hits still depend on inconsistent hit detection, while hunters find a good Cowboy lingering near downed survivors genuinely irritating. The 2026 lasso buffs made him feel smoother and drew some complaints that he is overtuned, but community tier lists still place him around B+, and his value depends heavily on teammates who communicate.",
+      "cn": "牛仔是典型的冷门绝活救人位：牛仔玩家觉得这些年被削、被暗改了太多次，勾中与否还常看判定脸色；监管则很烦会在倒地队友附近游走的好牛仔。2026年几轮钩子加强让手感顺了不少，也引来一波“超标”吐槽，但社区梯度仍只给到B+，发挥很吃队友沟通配合。"
+    },
+    "confidence": 4
+  },
+  {
+    "id": "female-dancer",
+    "feedback": [
+      {
+        "platform": "Bilibili",
+        "title": "舞女有可能会被调整吗？【茶余饭后】",
+        "url": "https://www.bilibili.com/video/BV177g36oERE",
+        "engagement": "3.2万播放 · 796评论 · comment 85 likes",
+        "date": "2026-08",
+        "takeaway": {
+          "en": "A popular comment notes she used to be called an all-rounder but, without any adjustment, power creep has people saying she fell off; replies describe her as 'annoying but not strong' while adding she still does well against older hunters.",
+          "cn": "高赞评论感慨舞女以前被称作万金油，没怎么调整，随着版本变迁就开始被说拉了；回复认为她“阴而不强”，但打老屠夫依旧强势。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "舞女综合评定，舞女强度如何，是否值得入手，快来看看吧",
+        "url": "https://www.bilibili.com/video/BV1E4421S7ad",
+        "engagement": "10.5万播放 · 122评论 · top comment 323 likes",
+        "date": "2024-07",
+        "takeaway": {
+          "en": "The top comments say soft supports like her are thankless in solo queue because randoms won't rotate into her boxes (323 and 194 likes), though a 142-like comment calls her easy to pick up with a decent ceiling.",
+          "cn": "高赞评论认为软辅单排就是倒贴，队友不往盒子里转很心酸（323赞、194赞“单排舞女确实乏力”）；也有142赞评论说舞女好上手、上限也不低。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "2024年新手入门求生者推荐！最适合新人玩家的角色！",
+        "url": "https://www.bilibili.com/video/BV1Jv421y7Eu",
+        "engagement": "124万播放 · 1563评论 · top comment 3.1k likes",
+        "date": "2024-02",
+        "takeaway": {
+          "en": "The top comment recommends Female Dancer as the beginner kiter because her boxes make hunters struggle and she also supports the team well.",
+          "cn": "最高赞（3.1k赞）把舞女列为新手牵制位首选：“盒子在手天下我有”，辅助能力也是一流。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "第五人格新手玩家求生者角色推荐",
+        "url": "https://www.bilibili.com/video/BV187bXzXEiW",
+        "engagement": "28.4万播放 · 101评论 · top comment 168 likes",
+        "date": "2025-07",
+        "takeaway": {
+          "en": "The top comment recommends Mercenary, Female Dancer and Aeroplanist to new players because their items keep them from going down instantly even without strong fundamentals.",
+          "cn": "最高赞（168赞）推荐新手玩佣兵、舞女、空军这类角色：不需要过硬的基本功，只靠道具也能保住下限不秒倒。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "舞女这个强度真的不需要加强吗？少反驳我",
+        "url": "https://www.bilibili.com/video/BV1KrGc67EHS",
+        "engagement": "1,300播放 · 14评论 · top comment 31 likes",
+        "date": "2026-07",
+        "takeaway": {
+          "en": "An 18-like comment points out her box values were nerfed several times and are no longer enough in the current power-crept version, as strong hunters can simply out-play a single box.",
+          "cn": "18赞评论指出舞女盒子数值之前被削了很多次，在现在的“三体人版本”早就不够看，数值好的屠夫可以无视单盒拿刀。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "舞女加强方案",
+        "url": "https://www.bilibili.com/video/BV1ZbuF6RED2",
+        "engagement": "5.8万播放 · 70评论 · top comment 401 likes",
+        "date": "2026-08",
+        "takeaway": {
+          "en": "On this popular joke 'buff proposal', a 191-like comment mockingly calls the buff too conservative and says her strength should finally match her looks, reflecting a shared sense that she is underpowered.",
+          "cn": "这期整活“加强方案”下191赞评论调侃“这波加强太保守了”，要让舞女强度配得上颜值，反映出玩家普遍觉得她偏弱。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "What characters do you think need a buff/nerf",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1omr0gd/what_characters_do_you_think_need_a_buffnerf/",
+        "engagement": "21 upvotes · 70 comments",
+        "date": "2025-11",
+        "takeaway": {
+          "en": "In a buff/nerf wishlist thread, a Female Dancer main (10 upvotes) asks for another trait, noting she is the only survivor with just two external traits.",
+          "cn": "在“哪些角色需要加强/削弱”的讨论帖中，一位舞女玩家（10赞）希望给她再加一个特质，理由是她是唯一只有两个外在特质的求生者。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Just an idea for female dancer and weeping clown",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1tnb45y/just_an_idea_for_female_dancer_and_weeping_clown/",
+        "engagement": "136 upvotes · 19 comments",
+        "date": "2026-05",
+        "takeaway": {
+          "en": "Reacting to a fan concept that links her with Weeping Clown, a 14-upvote comment says Female Dancer and Joker are 'niche enough' that such a buff would be welcome, reflecting her low-pick status in 2026.",
+          "cn": "针对一个把舞女和小丑联动的同人概念，14赞评论表示舞女和小丑都够冷门，这样的加强完全可以接受，反映出她在2026年出场率偏低。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "A- AND B+ TIER! | THE MOST CONTROVERSIAL CN SURV TIER-LIST EXPLAINED PART 2",
+        "url": "https://www.youtube.com/watch?v=8zoxa9dupzA",
+        "engagement": "4,493 views · 102 likes · 26 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "The CN community tier list explained here places Female Dancer in B+, and commenters note that CN ranks characters with little team support lower than JP rankers do.",
+          "cn": "该视频解读的国服社区梯度把舞女放在B+；评论提到国服对缺乏辅助能力的角色评价普遍比日服低。"
+        }
+      }
+    ],
+    "agrees": [
+      "Widely recommended to beginners because boxes protect her floor, matching skillFloor 3 and forgiveness 7",
+      "Hunters find her box loops annoying but not ban-worthy, and she is a rare pro pick, consistent with meta.pro 2",
+      "Still decent in low ranks and against older, slower hunters, consistent with meta.low 4"
+    ],
+    "changes": [
+      {
+        "field": "meta.mid",
+        "from": 4.0,
+        "to": 3,
+        "why": "2026 discussion on Bilibili says power creep has left her 'annoying but not strong', several 2026 videos ask whether she needs a buff, and the 2026 CN community tier list rates her B+ (mid-roster), so above-average mid-rank strength is no longer supported.",
+        "sources": [
+          "https://www.bilibili.com/video/BV177g36oERE",
+          "https://www.bilibili.com/video/BV1KrGc67EHS",
+          "https://www.bilibili.com/video/BV1ZbuF6RED2",
+          "https://www.youtube.com/watch?v=8zoxa9dupzA"
+        ]
+      }
+    ],
+    "sentiment": {
+      "en": "Female Dancer remains a go-to recommendation for newer players, because her music boxes keep her from going down instantly while still helping the team, and hunters find her box loops annoying. Longtime players, however, say power creep has left her 'annoying but not strong', with CN tier lists around B+ and complaints that her support is easily wasted in solo queue when randoms ignore her boxes.",
+      "cn": "舞女一直是新手推荐常客：八音盒让她不容易秒倒，还能顺手辅助队友，监管也常被盒子恶心到。但老玩家普遍觉得在数值膨胀的版本里她已经“阴而不强”，国服梯度大约B+，单排时队友不往盒子里转，辅助收益也容易打水漂。"
+    },
+    "confidence": 3
+  },
+  {
+    "id": "seer",
+    "feedback": [
+      {
+        "platform": "Reddit",
+        "title": "What are the most banned survivors these days?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/",
+        "engagement": "14 upvotes · 18 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "A commenter tracking the 2026 CN qualifiers says Seer is banned in about 90% of rounds, and others say he is still a must-ban for single-hit hunters, though CN Peak-tier ranked data in the same thread does not list him among the top-5 bans.",
+          "cn": "有人统计2026年国服预选赛，先知约90%的对局被ban；也有人说打单刀屠先知依旧是必ban，不过同帖引用的国服巅峰七阶排位禁用前五里并没有先知。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【小迪契卡】小迪老师谈目前排位先知现象：现在先知排位就是弱，目前排位一只鸟改变不了什么，反而是debuff后面打不过来，还不如心理呢，心理起码能传血。",
+        "url": "https://www.bilibili.com/video/BV1Wmckz5E7h",
+        "engagement": "3.1万播放 · 368评论 · top comment 182 likes",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Pro player 小迪 argues Seer is now weak in ranked because one owl rarely changes a game and the Taxing debuff hurts later; the top comment laments that the old 'three hoods' are all struggling, while a 156-like reply says he is still decisive when owls land on key plays.",
+          "cn": "职业选手小迪认为现在排位先知就是弱：一只鸟改变不了什么，debuff反而拖累后期；最高赞（182赞）感慨“曾经的三兜帽现在都混得不好”，156赞回复则认为先知关键时刻给鸟依旧能断大节奏。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "耐ban王驾到！2025IVL夏季赛常规赛全角色禁用率数据汇总",
+        "url": "https://www.bilibili.com/video/BV1bvYkzNEmo",
+        "engagement": "7,586播放 · 40评论 · top comment 30 likes",
+        "date": "2025-08",
+        "takeaway": {
+          "en": "In 2025 IVL Summer regular-season data, Seer and Antiquarian had ban rates far above everyone else, and the top comment notes that after all these years Seer's ban rate is still this high.",
+          "cn": "2025 IVL夏季赛常规赛数据中，先知和古董商的禁用率断层领先，最高赞感叹“先知这么多年了，ban率还是这么高”。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "鸟都给不上，玩什么先知？",
+        "url": "https://www.bilibili.com/video/BV1Wv421k7VK",
+        "engagement": "40.4万播放 · 811评论 · top comment 8.3k likes",
+        "date": "2024-02",
+        "takeaway": {
+          "en": "The massively liked comments side with the Seer against a teammate who blamed him, explaining that owls must be called about five seconds early because of wind-up, which shows how much Seer relies on teammate timing and trust.",
+          "cn": "高赞评论（8.3k赞等）站在先知一边吐槽甩锅的队友，并解释叫鸟至少要提前五秒、鸟有前摇，说明先知非常依赖队友配合和默契。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【先知超全教学】超详细！吸鸟技巧 给鸟思路 天赋推荐一网打尽！",
+        "url": "https://www.bilibili.com/video/BV1fK421h7nD",
+        "engagement": "40.3万播放 · 327评论 · top comment 861 likes",
+        "date": "2024-04",
+        "takeaway": {
+          "en": "Top comments stress that teammates must call for the owl before the hit because of its roughly one-second wind-up (861 likes), many players admit they manage only one owl per game (852 likes), and others note the hood trio were all nerfed.",
+          "cn": "高赞评论强调要在快吃刀前就叫鸟，因为给鸟有约1秒前摇（861赞）；不少人坦言一局最多给出一只鸟（852赞），也有人感慨兜帽三人组都被砍了。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "歌剧削弱合理吗？先知该不该调整？【茶余饭后】",
+        "url": "https://www.bilibili.com/video/BV1pEB8YoELz",
+        "engagement": "4.6万播放 · 1171评论 · comment 238 likes",
+        "date": "2024-11",
+        "takeaway": {
+          "en": "Commenters felt the December 2024 Taxing change 'did not hit the right spot' because the decode penalty only starts after owls are used, and joked that a Seer who uses all three owls has usually already won.",
+          "cn": "评论认为2024年12月对先知的调整“没削到点上”：修机减速要用鸟后才生效，还调侃能让先知用完三只鸟这把基本已经赢了。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "S AND A+ TIER! | EXPLAINING THE MOST CONTROVERSIAL CN SURVIVOR TIERLIST PART 1!!",
+        "url": "https://www.youtube.com/watch?v=CqpQEqtO6E0",
+        "engagement": "11,190 views · 226 likes · 83 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "The CN community tier list explained here places Seer in A+ rather than S, below Forward, Lanternist, Prospector, Doctor, Cheerleader and Mechanic.",
+          "cn": "该视频解读的国服社区梯度把先知放在A+而非S，排在前锋、提灯、勘探、医生、拉拉和机械师之后。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "IDENTITY V SURVIVOR TIER LIST - Season 43",
+        "url": "https://www.youtube.com/watch?v=3foxbgOKF-8",
+        "engagement": "8,285 views · 156 likes · 34 comments",
+        "date": "2026-07",
+        "takeaway": {
+          "en": "A 13-like comment is surprised Seer still ranks high because he 'got painfully nerfed'.",
+          "cn": "13赞评论惊讶先知还能排这么高，认为他已经被“削得很痛”。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Which survivor/s you find irritating to chase as a hunter?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+        "engagement": "22 upvotes · 47 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Hunters still name Seer among irritating survivors 'for obvious reasons', but a 12-upvote comment adds that Seer players are mostly good players on a good character.",
+          "cn": "监管玩家仍把先知列为难缠求生，但12赞评论也表示玩先知的多半是会玩的人用了好角色。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "How do you play Seer in SoloQ?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1o9k88r/how_do_you_play_seer_in_soloq/",
+        "engagement": "8 upvotes · 7 comments",
+        "date": "2025-10",
+        "takeaway": {
+          "en": "Seer players agree solo queue hinges on communication ('No ping, no owl! We aren't psychic'), advise saving owls for kiters who can last around 60 seconds or for an uninjured rescue, and say randoms often treat Seer as an ability slave.",
+          "cn": "先知玩家认为单排全靠沟通（“不发信号就没有鸟，我们不是真先知”），建议把鸟留给能溜60秒左右的队友或用于无伤救人，并吐槽路人常把先知当成技能工具人。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Which bans do you get clowned on for and why do you ban them?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1vhkd13/which_bans_do_you_get_clowned_on_for_and_why_do/",
+        "engagement": "19 upvotes · 21 comments",
+        "date": "2026-08",
+        "takeaway": {
+          "en": "The top hunter answer (6 upvotes) still bans Priestess, Seer and Enchantress as 'the banes of my existence' when playing Night Watch, showing Seer remains a ranked ban target for some hunters.",
+          "cn": "高赞监管回答（6赞）表示玩守夜人时仍固定ban祭司、先知和女巫，称她们是“一生之敌”，说明先知在部分监管的排位ban位里依旧常驻。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "2024年新手入门求生者推荐！最适合新人玩家的角色！",
+        "url": "https://www.bilibili.com/video/BV1Jv421y7Eu",
+        "engagement": "124万播放 · 1563评论 · comment 1.6k likes",
+        "date": "2024-02",
+        "takeaway": {
+          "en": "A 1.6k-like comment recommends Seer as the intermediate step for training awareness, because looking back, mind games and owl timing build macro sense.",
+          "cn": "1.6k赞评论把先知推荐为进阶练意识的角色：回头、博弈和给鸟都能锻炼大局观。"
+        }
+      }
+    ],
+    "agrees": [
+      "Owl value depends on early calls and teammate trust, matching demandTiming 9, demandGameSense 9 and teamDependency 6",
+      "Low margin for error and heavy reliance on fundamentals in ranked, consistent with forgiveness 4",
+      "Hunters still see him as a ban target, especially single-hit hunters",
+      "Mixed solo experience when teammates do not call for owls, consistent with queue.solo 3 and queue.premade 5"
+    ],
+    "changes": [
+      {
+        "field": "meta.pro",
+        "from": 4.0,
+        "to": 5,
+        "why": "He remains the premier pro ban: 2025 IVL Summer data shows Seer and Antiquarian with ban rates far above everyone else, and 2026 CN qualifier tracking reports him banned in about 90% of rounds.",
+        "sources": [
+          "https://www.bilibili.com/video/BV1bvYkzNEmo",
+          "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/"
+        ]
+      },
+      {
+        "field": "meta.high",
+        "from": 5,
+        "to": 4,
+        "why": "In ranked, pro player 小迪 says Seer is now weak after the owl and Taxing nerfs, CN Peak-tier ban data no longer lists him in the top 5, the 2026 CN tier list rates him A+ rather than S, and EN tier-list comments call him 'painfully nerfed'.",
+        "sources": [
+          "https://www.bilibili.com/video/BV1Wmckz5E7h",
+          "https://www.reddit.com/r/IdentityV/comments/1rvujt9/what_are_the_most_banned_survivors_these_days/",
+          "https://www.youtube.com/watch?v=CqpQEqtO6E0",
+          "https://www.youtube.com/watch?v=3foxbgOKF-8"
+        ]
+      }
+    ],
+    "sentiment": {
+      "en": "Seer is still the survivor tournament hunters most want gone, banned in the large majority of IVL and CN qualifier rounds, and a well-timed owl can still shut down a hunter's key play. In ranked, however, players and pros increasingly describe him as weaker and unforgiving after repeated owl and Taxing nerfs, and his value depends on teammates calling for owls early and trusting his timing.",
+      "cn": "先知至今仍是比赛里监管最想ban掉的求生，IVL和国服预选赛的禁用率常年断层领先，关键时刻一只鸟依旧能断掉大节奏。但在排位里，越来越多玩家和职业选手认为几轮砍鸟、加debuff之后他容错很低、没以前强了，给鸟要提前叫、还得和队友有默契，发挥非常吃基本功和配合。"
+    },
+    "confidence": 4
+  },
+  {
+    "id": "embalmer",
+    "feedback": [
+      {
+        "platform": "Fandom",
+        "title": "Official Q&A/2026 – 51st Q&A (Embalmer)",
+        "url": "https://id5.fandom.com/wiki/Official_Q%26A/2026",
+        "engagement": "unknown",
+        "date": "2026-01",
+        "takeaway": {
+          "en": "Answering players who asked for an Embalmer buff, the developers said he has a very high draw rate but very weak kiting and containment, and that his core skill's benefits are so stable that a good buff is hard to design.",
+          "cn": "针对玩家要求加强入殓师，官方回复称他平局率很高但牵制能力很弱，核心技能收益非常稳定，因此很难找到合适的加强方案。"
+        }
+      },
+      {
+        "platform": "Fandom",
+        "title": "Patch Notes/2026 – Character Adjustments (Embalmer)",
+        "url": "https://id5.fandom.com/wiki/Patch_Notes/2026",
+        "engagement": "unknown",
+        "date": "2026-02",
+        "takeaway": {
+          "en": "February 2026 changes let him charge-place the coffin while moving, sped up the placement animation, raised coffin Invincibility from 7s to 8s and the post-rebirth speed boost from 1s to 1.4s, and allowed coffin use after a recorded teammate escapes.",
+          "cn": "2026年2月改动：灵柩可移动中蓄力放置、放置动作加快，返生无敌由7秒提高到8秒、返生后加速由1秒增至1.4秒，被记录外观的队友逃脱后仍可使用灵柩。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "【杂谈】入殓师这个角色为什么迟迟不加强 说到底还是太极端了",
+        "url": "https://www.bilibili.com/video/BV1JCRhBdEWV",
+        "engagement": "5.2万播放 · 255评论 · top comment 215 likes",
+        "date": "2026-05",
+        "takeaway": {
+          "en": "The top comment (215 likes) explains that he cannot kite because he must leave his coffin and hunters simply herd him away from it, and a 176-like comment says Warp turned most hunters into his counters and his blank kit has almost no error tolerance.",
+          "cn": "最高赞（215赞）解释入殓“怎么都溜不动”：必须离开棺材，屠夫直接绕路把他赶回去；176赞评论认为移形出来后人人都是入殓克星，白板容错太低，一失误就速溶。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "这是一个入殓师玩家看到加强方案后平静的心理活动",
+        "url": "https://www.bilibili.com/video/BV11fEx6YEUn",
+        "engagement": "5.8万播放 · 377评论 · comment 2.1k likes",
+        "date": "2026-06",
+        "takeaway": {
+          "en": "A 2.1k-like comment says Composer, Knight and Embalmer all needed better self-kiting, but none of the 2026 buff plans addressed it.",
+          "cn": "2.1k赞评论表示作曲、骑士、入殓本意都该加自身牵制能力，结果这次三个都没加到点上。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "什么时候加强入殓的生存，回答我！",
+        "url": "https://www.bilibili.com/video/BV1hT9MYUErZ",
+        "engagement": "3.3万播放 · 936评论 · top comment 479 likes",
+        "date": "2025-02",
+        "takeaway": {
+          "en": "Top comments note that hunters call Embalmer overpowered yet chase him first (479 likes), and that he is not a guaranteed tie because mobile hunters stand on him as soon as he exits the coffin (451 likes).",
+          "cn": "高赞评论吐槽监管嘴上说入殓超模、转头就第一个抓他（479赞）；也有人强调入殓不是无脑保平，位移屠夫出棺就贴脸（451赞）。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "对入殓师强度的主观评价",
+        "url": "https://www.bilibili.com/video/BV17BbrzzEm1",
+        "engagement": "3,093播放 · 54评论 · top comment 33 likes",
+        "date": "2025-08",
+        "takeaway": {
+          "en": "Commenters say breaking the hunter's tempo with the coffin first requires getting away from it, and one only plays him in quick match because most popular ranked hunters counter him.",
+          "cn": "评论认为“棺材断节奏的前提是你拉得开棺材”，还有人只在匹配里玩入殓，因为排位热门屠夫基本都克他。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Opinion on fullkite embalmer in rank",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1ryu4n9/opinion_on_fullkite_embalmer_in_rank/",
+        "engagement": "3 upvotes · 10 comments (top comment 22 upvotes)",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "Top replies (22, 13 and 13 upvotes) warn that full-kite builds only work in coordinated four-stacks and note that Embalmer is one of the easier chase targets now that Warp and fast hunters are common.",
+          "cn": "高赞回复（22、13、13赞）提醒全牵制天赋只适合四黑，并指出在移形和快速屠夫常见的现在，入殓是最好追的目标之一。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "What's your opinion on Embalmer as a Survivor?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1ihyjd7/whats_your_opinion_on_embalmer_as_a_survivor/",
+        "engagement": "3 upvotes · 8 comments (top comment 10 upvotes)",
+        "date": "2025-02",
+        "takeaway": {
+          "en": "Players call a good Embalmer 'almost a guaranteed draw' and a nightmare for slow hunters on Moonlit River Park, but stress he needs strong communication to embalm the right teammate at the right time.",
+          "cn": "玩家认为会玩的入殓“几乎稳平”，慢速屠夫在月亮河遇到他非常痛苦，但也强调需要良好沟通才能在对的时间给对的人化妆。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Agree or disagree, all of these survivors need buffs, Explorer, Embalmer, Novelist, Aeroplanist, Lucky Guy",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1hznzcz/agree_or_disagree_all_of_these_survivors_need/",
+        "engagement": "2 upvotes · 33 comments",
+        "date": "2025-01",
+        "takeaway": {
+          "en": "Opinions split: some say most hunters counter Aesop by reaching his coffin quickly even before Warp, while an Embalmer main says he is balanced and others call forcing hunters to drop a chase 'the easiest tie ever'.",
+          "cn": "意见分化：有人说即使没有移形，大多数屠夫也能快速赶到棺材克制入殓；也有入殓玩家认为他很平衡，逼监管放弃追击是“最容易的平局”。"
+        }
+      },
+      {
+        "platform": "Reddit",
+        "title": "Which survivor/s you find irritating to chase as a hunter?",
+        "url": "https://www.reddit.com/r/IdentityV/comments/1s0tuhj/which_survivors_you_find_irritating_to_chase_as_a/",
+        "engagement": "22 upvotes · 47 comments",
+        "date": "2026-03",
+        "takeaway": {
+          "en": "A 15-upvote hunter comment singles out Embalmer's trick of embalming someone at the open gate as the thing they dislike most about facing him.",
+          "cn": "15赞的监管评论表示最讨厌入殓在开门战时给队友化妆返生的操作。"
+        }
+      },
+      {
+        "platform": "YouTube",
+        "title": "B- and C TIER! | FIRST OFFICER FELL OFF?!! CN SURVIVOR TIERLIST EXPLANATION FINALE",
+        "url": "https://www.youtube.com/watch?v=KKRTOCVjRzI",
+        "engagement": "2,447 views · 58 likes · 26 comments",
+        "date": "2026-04",
+        "takeaway": {
+          "en": "The CN community tier list explained here puts Embalmer in C, the bottom tier, alongside Psychologist and Explorer.",
+          "cn": "该视频解读的国服社区梯度把入殓师放在最低的C档，与心理学家、冒险家同档。"
+        }
+      },
+      {
+        "platform": "Bilibili",
+        "title": "2024年新手入门求生者推荐！最适合新人玩家的角色！",
+        "url": "https://www.bilibili.com/video/BV1Jv421y7Eu",
+        "engagement": "124万播放 · 1563评论 · top comment 3.1k likes",
+        "date": "2024-02",
+        "takeaway": {
+          "en": "The top comment lists Embalmer as a support who guarantees rescues but says to buy him with caution because his strength is only average and he needs the right teammates.",
+          "cn": "最高赞把入殓列为能保证救援的辅助位，但提醒“慎买，强度一般，入殓队友需要条件”。"
+        }
+      }
+    ],
+    "agrees": [
+      "Blank kiter who is easy to chase, matching traits.kite 3",
+      "Coffin rebirth reliably secures ties and anti-camp value, matching rescue 9 and lateGame 8",
+      "Valued far more in coordinated or tournament play than in ranked, consistent with meta.pro 4 above meta.low/mid/high",
+      "Needs good communication to embalm the right teammate, consistent with demandGameSense 8 and demandComms 6"
+    ],
+    "changes": [
+      {
+        "field": "survivability",
+        "from": 9.0,
+        "to": 7,
+        "why": "Players and developers agree his raw survival is poor: the official 2026 Q&A calls his kiting very weak, Reddit and Bilibili describe him as one of the easiest chase targets for Warp and mobile hunters, and he is often first-chased; the self-rebirth keeps him above average but not near the top of the roster.",
+        "sources": [
+          "https://id5.fandom.com/wiki/Official_Q%26A/2026",
+          "https://www.reddit.com/r/IdentityV/comments/1ryu4n9/opinion_on_fullkite_embalmer_in_rank/",
+          "https://www.bilibili.com/video/BV1JCRhBdEWV",
+          "https://www.bilibili.com/video/BV1hT9MYUErZ"
+        ]
+      },
+      {
+        "field": "forgiveness",
+        "from": 9.0,
+        "to": 6,
+        "why": "Popular CN comments say his blank kit has almost no error tolerance and one mistake gets him downed, that he is not a guaranteed tie against mobile hunters, and that the coffin only works if he can first get away from it; the stable rebirth still gives some safety net.",
+        "sources": [
+          "https://www.bilibili.com/video/BV1JCRhBdEWV",
+          "https://www.bilibili.com/video/BV1hT9MYUErZ",
+          "https://www.bilibili.com/video/BV17BbrzzEm1",
+          "https://www.reddit.com/r/IdentityV/comments/1ryu4n9/opinion_on_fullkite_embalmer_in_rank/"
+        ]
+      }
+    ],
+    "notes": "meta.changes should mention the 2026 buffs: Feb 2026 patch notes list coffin charge-placing while moving, faster placement, Invincibility 7s->8s, post-rebirth speed 1s->1.4s and coffin use after a recorded teammate escapes; Bilibili reports another adjustment round in June 2026.",
+    "sentiment": {
+      "en": "Embalmer is valued for turning a chair into a cross-map rebirth and forcing hunters to abandon chases, which makes him a reliable tie-securer and a tournament regular, and hunters dislike his rebirth plays at the exit gate. In ranked, however, players describe him as a blank kiter with little error tolerance whom Warp and mobile hunters readily punish, so he is often chased first, sits near the bottom of CN tier lists and needs communicative teammates to get value from his coffin.",
+      "cn": "入殓师能把一次上椅变成跨图返生、逼监管放弃追击，是稳定保平的比赛常客，开门战远程返生也让监管很头疼。但在排位里玩家普遍认为他溜鬼就是白板、容错极低，移形和位移屠夫都能克他，常被首抓，国服梯度甚至排到末档，棺材想发挥价值还得靠队友沟通配合。"
+    },
+    "confidence": 4
+  }
+]

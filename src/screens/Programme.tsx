@@ -12,6 +12,8 @@ export function Programme(props: {
   depth: Depth
   acts: Act[]
   hasProgress: boolean
+  billed: boolean
+  onBill: () => void
   onDepth: (d: Depth) => void
   onBegin: () => void
   onRestart: () => void
@@ -36,12 +38,14 @@ export function Programme(props: {
         </button>
       </div>
       <div className="cta-row">
-        <button className="cta" onClick={props.onBegin}>{props.hasProgress ? T.resume[lang] : T.begin[lang]}<ArrowRight aria-hidden /></button>
+        {props.billed
+          ? <button className="cta" onClick={props.onBill}>{T.returnToBill[lang]}<ArrowRight aria-hidden /></button>
+          : <button className="cta" onClick={props.onBegin}>{props.hasProgress ? T.resume[lang] : T.begin[lang]}<ArrowRight aria-hidden /></button>}
+        {props.billed && <button className="btn" onClick={props.onBegin}>{T.editAnswers[lang]}</button>}
         {props.hasProgress && <button className="btn" onClick={props.onRestart}><RotateCcw aria-hidden />{T.restart[lang]}</button>}
       </div>
       <p className="faint small">
-        {SURVIVORS.length} {T.survivors[lang]} · {HUNTERS.length} {T.hunters[lang]} · {T.dataAsOf[lang]} {DATA_AS_OF} ·{' '}
-        <button className="linkish" style={{ display: 'inline', padding: 0 }} onClick={props.onRoster}>{T.roster[lang]}</button>
+        {SURVIVORS.length} {T.survivors[lang]} · {HUNTERS.length} {T.hunters[lang]} · {T.dataAsOf[lang]} {DATA_AS_OF}
       </p>
     </div>
   )

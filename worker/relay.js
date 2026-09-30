@@ -40,8 +40,11 @@ export default {
     const cors = corsHeaders(origin, env)
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors })
     const url = new URL(request.url)
-    if (request.method !== 'POST' || url.pathname !== '/v1/chat/completions') {
-      return new Response('Manor Casebook relay: POST /v1/chat/completions only.', { status: 404, headers: cors })
+    // Chat-completions models (DeepSeek, GLM, Kimi…) and Responses-API models (Muse Spark, GPT, Grok).
+    const PATHS = { '/v1/chat/completions': '/chat/completions', '/v1/responses': '/responses' }
+    const suffix = PATHS[url.pathname]
+    if (request.method !== 'POST' || !suffix) {
+      return new Response('Manor Casebook relay: POST /v1/chat/completions or /v1/responses only.', { status: 404, headers: cors })
     }
     const base = (request.headers.get('x-target-base') || '').replace(/\/+$/, '')
     if (!ALLOWED.includes(base)) {
@@ -54,9 +57,11 @@ export default {
     })
     const session = request.headers.get('x-opencode-session')
     if (session) headers.set('x-opencode-session', session)
-    const upstream = await fetch(base + '/chat/completions', { method: 'POST', headers, body: await request.text() })
+    // The response body is streamed straight back, so long reasoning never idles out.
+    const upstream = await fetch(base + suffix, { method: 'POST', headers, body: await request.text() })
     const out = new Headers(cors)
     out.set('Content-Type', upstream.headers.get('Content-Type') || 'application/json')
+    out.set('Cache-Control', 'no-store')
     return new Response(upstream.body, { status: upstream.status, headers: out })
   },
 }

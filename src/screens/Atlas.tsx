@@ -37,7 +37,7 @@ export function Atlas({ lang }: { lang: Lang }) {
       {openS && <Dossier s={openS} lang={lang} showSkins onClose={() => setOpen(null)} />}
       <div className="atlas">
         {list.map((s) => (
-          <button key={s.id} onClick={() => { setOpen(open === s.id ? null : s.id); window.scrollTo({ top: 0, behavior: 'smooth' }) }} aria-expanded={open === s.id}>
+          <button key={s.id} onClick={() => setOpen(open === s.id ? null : s.id)} aria-expanded={open === s.id}>
             <span className="nm">{s.name[lang]}</span>
             <span className="cn">{s.name[lang === 'en' ? 'cn' : 'en']}</span>
             <Roles s={s} lang={lang} />

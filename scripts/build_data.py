@@ -217,6 +217,78 @@ def load_polish(kind):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
+PLATFORMS = {"Reddit", "Bilibili", "NGA", "Tieba", "Zhihu", "Xiaohongshu", "NetEase Dashen", "YouTube", "IVL/COA", "Fandom", "Discord", "Other"}
+
+
+def set_field(s, field, value):
+    """Apply a calibrated score change to a built survivor record."""
+    if field.startswith("traits."):
+        field = field.split(".", 1)[1]
+    elif field.startswith("demands."):
+        key = field.split(".", 1)[1]
+        field = "demand" + key[0].upper() + key[1:]
+    if field.startswith("meta.") or field.startswith("queue."):
+        grp, key = field.split(".", 1)
+        lo, hi = 1, 5
+        s[grp][key] = max(lo, min(hi, round(float(value) * 2) / 2))
+        return
+    if field.startswith("demand"):
+        key = field[6].lower() + field[7:]
+        s["demands"][key] = max(0, min(10, round(float(value) * 2) / 2))
+        return
+    if field in s.get("traits", {}):
+        s["traits"][field] = max(0, min(10, round(float(value) * 2) / 2))
+    elif field in ("skillFloor", "skillCeiling", "forgiveness"):
+        s[field] = max(0, min(10, round(float(value) * 2) / 2))
+    elif field == "quickMatch":
+        s[field] = max(1, min(5, round(float(value) * 2) / 2))
+
+
+def apply_round2(survivors):
+    """Round 2: extra community feedback (with real engagement numbers) and calibrated score changes."""
+    folder = RES / "raw" / "round2"
+    items = {}
+    for p in sorted(folder.glob("batch*.json")):
+        for obj in json.loads(p.read_text(encoding="utf-8")):
+            if isinstance(obj, dict) and obj.get("id"):
+                items[obj["id"]] = obj
+    cal_path = folder / "calibration.json"
+    cal = json.loads(cal_path.read_text(encoding="utf-8")) if cal_path.exists() else {"approved": []}
+    log = []
+    by_id = {s["id"]: s for s in survivors}
+    for s in survivors:
+        r = items.get(s["id"])
+        if not r:
+            continue
+        fb = []
+        for f in r.get("feedback", []):
+            url = str(f.get("url", ""))
+            if not url.startswith("http"):
+                continue
+            fb.append({
+                "platform": f.get("platform") if f.get("platform") in PLATFORMS else "Other",
+                "title": str(f.get("title", ""))[:160],
+                "url": url,
+                "engagement": str(f.get("engagement", "")),
+                "date": str(f.get("date", "")),
+                "takeaway": bi(f.get("takeaway")),
+            })
+        s["feedback"] = fb
+        s["sources"] = list(dict.fromkeys(s["sources"] + [f["url"] for f in fb]))
+        if isinstance(r.get("sentiment"), dict) and r["sentiment"].get("en"):
+            s["sentiment"] = bi(r["sentiment"])
+        s["confidence"] = max(s["confidence"], int(num(r.get("confidence"), 1, 5, s["confidence"])))
+    for sid, note in cal.get("notes_fix", {}).items():
+        if sid in by_id:
+            by_id[sid]["meta"]["notes"] = note
+    for c in cal.get("approved", []):
+        s = by_id.get(c.get("id"))
+        if s and c.get("field") and c.get("to") is not None:
+            set_field(s, c["field"], c["to"])
+            log.append(f'{c["id"]}.{c["field"]} -> {c["to"]}')
+    return len(items), log
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     survivors, sm = build_survivors()
@@ -224,6 +296,8 @@ def main():
     skins = build_skins()
     for s in survivors:
         s["sentiment"] = load_polish("sentiment").get(s["id"], s["sentiment"])
+    r2_count, r2_log = apply_round2(survivors)
+    print(f"round 2: feedback for {r2_count} survivors, {len(r2_log)} calibrated score changes")
     polished_skins = load_polish("skins")
     for s in skins:
         s["summary"] = polished_skins.get(s["id"], s["summary"])

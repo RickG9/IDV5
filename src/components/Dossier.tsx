@@ -1,3 +1,4 @@
+import { useEffect, useRef, useState } from 'react'
 import { ThumbsDown, ThumbsUp, X } from 'lucide-react'
 import type { Lang, Survivor } from '../types'
 import { T } from '../i18n'
@@ -26,7 +27,8 @@ export function Meter({ label, v, max = 10, alt }: { label: string; v: number; m
   )
 }
 
-export function MatchupLists({ s, lang, limit = 6 }: { s: Survivor; lang: Lang; limit?: number }) {
+export function MatchupLists({ s, lang, limit = 6, headingLevel = 4 }: { s: Survivor; lang: Lang; limit?: number; headingLevel?: 3 | 4 }) {
+  const H = headingLevel === 3 ? 'h3' : 'h4'
   const row = MATRIX.cells[s.id] ?? {}
   const cells = Object.entries(row).map(([h, c]) => ({ h, ...c }))
   const sortKey = (c: (typeof cells)[number]) => Math.abs(c.rating) + (c.sourced ? 2.5 : 0)
@@ -40,8 +42,8 @@ export function MatchupLists({ s, lang, limit = 6 }: { s: Survivor; lang: Lang; 
   )
   return (
     <div className="mu-grid">
-      <div><h4>{T.good[lang]}</h4><ul className="mu-list">{good.map((c) => item(c, 'good'))}</ul></div>
-      <div><h4>{T.bad[lang]}</h4><ul className="mu-list">{bad.map((c) => item(c, 'bad'))}</ul></div>
+      <div><H className="mu-head">{T.good[lang]}</H><ul className="mu-list">{good.map((c) => item(c, 'good'))}</ul></div>
+      <div><H className="mu-head">{T.bad[lang]}</H><ul className="mu-list">{bad.map((c) => item(c, 'bad'))}</ul></div>
     </div>
   )
 }
@@ -73,9 +75,31 @@ export function SkinsPanel({ id, lang, withNote }: { id: string; lang: Lang; wit
   )
 }
 
-export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; lang: Lang; scored?: ScoredSurvivor; showSkins: boolean; onClose?: () => void }) {
+function CommunityFeedback({ s, lang }: { s: Survivor; lang: Lang }) {
+  const [all, setAll] = useState(false)
+  const items = all ? s.feedback! : s.feedback!.slice(0, 4)
   return (
-    <article className="dossier" aria-label={s.name[lang]}>
+    <section className="feedback" aria-label={T.fromCommunity[lang]}>
+      <h4>{T.fromCommunity[lang]}</h4>
+      <ul>
+        {items.map((f) => (
+          <li key={f.url}>
+            <span className="fb-meta"><strong>{f.platform}</strong>{f.engagement && f.engagement !== 'unknown' ? ` · ${f.engagement}` : ''}{f.date && f.date !== 'unknown' ? ` · ${f.date}` : ''}</span>
+            <span className="fb-take">{f.takeaway[lang]}</span>
+            <a href={f.url} target="_blank" rel="noreferrer" className="fb-link">{f.title}</a>
+          </li>
+        ))}
+      </ul>
+      {s.feedback!.length > 4 && !all && <button className="linkish" onClick={() => setAll(true)}>{T.moreFeedback[lang]} ({s.feedback!.length})</button>}
+    </section>
+  )
+}
+
+export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; lang: Lang; scored?: ScoredSurvivor; showSkins: boolean; onClose?: () => void }) {
+  const ref = useRef<HTMLElement>(null)
+  useEffect(() => { ref.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }) }, [s.id])
+  return (
+    <article className="dossier" aria-label={s.name[lang]} ref={ref}>
       <div className="dossier-head">
         <div>
           <h3>{s.name[lang]} <span className="cn" style={{ fontFamily: 'var(--display-cn)', fontSize: '0.4em', color: 'var(--ink-2)' }}>{s.name[lang === 'en' ? 'cn' : 'en']}</span></h3>
@@ -116,6 +140,7 @@ export function Dossier({ s, lang, scored, showSkins, onClose }: { s: Survivor; 
       <div style={{ marginTop: 18 }}>
         <MatchupLists s={s} lang={lang} limit={5} />
       </div>
+      {s.feedback && s.feedback.length > 0 && <CommunityFeedback s={s} lang={lang} />}
       {s.meta.changes && <p className="faint small" style={{ marginTop: 14 }}><strong>{T.recent[lang]}:</strong> {s.meta.changes}</p>}
       {s.meta.notes && <p className="faint small" style={{ marginTop: 4 }}>{s.meta.notes}</p>}
       {showSkins && (
