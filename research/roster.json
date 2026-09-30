@@ -1,0 +1,1103 @@
+[
+ {
+  "id": "lucky-guy",
+  "en": "Lucky Guy",
+  "cn": "幸运儿",
+  "fullCn": "推演替身",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "幸运包裹",
+   "幸运儿",
+   "庄园老友"
+  ],
+  "toolCn": [
+   "幸运包裹"
+  ]
+ },
+ {
+  "id": "doctor",
+  "en": "Doctor",
+  "cn": "医生",
+  "fullCn": "艾米丽·黛儿",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "医药专精",
+   "医术高超",
+   "敏感",
+   "庄园老友",
+   "轻慢"
+  ],
+  "toolCn": [
+   "镇静剂"
+  ]
+ },
+ {
+  "id": "lawyer",
+  "en": "Lawyer",
+  "cn": "律师",
+  "fullCn": "弗雷迪·莱利",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "深谋远虑",
+   "要点记录",
+   "郎心似铁",
+   "庄园老友",
+   "蛊惑",
+   "轻慢",
+   "律政本能"
+  ],
+  "toolCn": [
+   "手绘地图"
+  ]
+ },
+ {
+  "id": "thief",
+  "en": "Thief",
+  "cn": "“慈善家”",
+  "fullCn": "克利切·皮尔森",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "狡猾",
+   "身体灵活",
+   "收集癖",
+   "开锁技巧"
+  ],
+  "toolCn": [
+   "手电筒"
+  ]
+ },
+ {
+  "id": "gardener",
+  "en": "Gardener",
+  "cn": "园丁",
+  "fullCn": "艾玛·伍兹",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "巧手匠心",
+   "守护",
+   "安全感",
+   "庄园老友",
+   "机械熟识",
+   "仇视"
+  ],
+  "toolCn": [
+   "工具箱"
+  ]
+ },
+ {
+  "id": "magician",
+  "en": "Magician",
+  "cn": "魔术师",
+  "fullCn": "瑟维·勒·罗伊",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "魔术演绎",
+   "灵活双手",
+   "真假难分"
+  ],
+  "toolCn": [
+   "魔棒"
+  ]
+ },
+ {
+  "id": "explorer",
+  "en": "Explorer",
+  "cn": "冒险家",
+  "fullCn": "库特·弗兰克",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "探险幻想",
+   "探险",
+   "好奇心",
+   "养精蓄锐"
+  ],
+  "toolCn": [
+   "格列佛游记"
+  ]
+ },
+ {
+  "id": "mercenary",
+  "en": "Mercenary",
+  "cn": "佣兵",
+  "fullCn": "奈布·萨贝达",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "钢铁冲刺",
+   "久经训练",
+   "坚强",
+   "战争后遗症"
+  ],
+  "toolCn": [
+   "钢铁护肘"
+  ]
+ },
+ {
+  "id": "coordinator",
+  "en": "Coordinator",
+  "cn": "空军",
+  "fullCn": "玛尔塔·贝坦菲尔",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "精准打击",
+   "坚强",
+   "军伍情深",
+   "久经训练"
+  ],
+  "toolCn": [
+   "信号枪"
+  ]
+ },
+ {
+  "id": "mechanic",
+  "en": "Mechanic",
+  "cn": "机械师",
+  "fullCn": "特蕾西·列兹尼克",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2018/04/02",
+  "traitsCn": [
+   "机械操纵",
+   "羸弱",
+   "机械大师",
+   "胆怯"
+  ],
+  "toolCn": [
+   "机械玩偶"
+  ]
+ },
+ {
+  "id": "forward",
+  "en": "Forward",
+  "cn": "前锋",
+  "fullCn": "威廉·艾利斯",
+  "officialDifficulty": 3.0,
+  "roles": [
+   "Assist",
+   "Rescue"
+  ],
+  "releaseCN": "2018/04/12",
+  "traitsCn": [
+   "橄榄球员",
+   "运动天赋",
+   "机械盲",
+   "强力挣扎"
+  ],
+  "toolCn": [
+   "橄榄球"
+  ]
+ },
+ {
+  "id": "the-minds-eye",
+  "en": "The Mind's Eye",
+  "cn": "盲女",
+  "fullCn": "海伦娜·亚当斯",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2018/04/26",
+  "traitsCn": [
+   "回声定位",
+   "心眼",
+   "羸弱",
+   "自我保护",
+   "声波干扰"
+  ],
+  "toolCn": [
+   "盲杖"
+  ]
+ },
+ {
+  "id": "priestess",
+  "en": "Priestess",
+  "cn": "祭司",
+  "fullCn": "菲欧娜·吉尔曼",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist",
+   "Contain"
+  ],
+  "releaseCN": "2018/05/31",
+  "traitsCn": [
+   "门之钥",
+   "羸弱",
+   "唯心",
+   "神佑"
+  ],
+  "toolCn": [
+   "门之钥",
+   "门之钥 超长通道"
+  ]
+ },
+ {
+  "id": "perfumer",
+  "en": "Perfumer",
+  "cn": "调香师",
+  "fullCn": "薇拉·奈尔",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2018/07/05",
+  "traitsCn": [
+   "忘忧之香",
+   "失忆",
+   "异味敏感"
+  ],
+  "toolCn": [
+   "忘忧之香"
+  ]
+ },
+ {
+  "id": "cowboy",
+  "en": "Cowboy",
+  "cn": "牛仔",
+  "fullCn": "凯文·阿尤索",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Assist",
+   "Contain"
+  ],
+  "releaseCN": "2018/08/09",
+  "traitsCn": [
+   "套索技艺",
+   "马背英雄",
+   "天性散漫",
+   "保护欲"
+  ],
+  "toolCn": [
+   "套索"
+  ]
+ },
+ {
+  "id": "female-dancer",
+  "en": "Female Dancer",
+  "cn": "舞女",
+  "fullCn": "玛格丽莎·泽莱",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2018/09/20",
+  "traitsCn": [
+   "二重奏",
+   "杂技",
+   "舞者",
+   "畏惧"
+  ],
+  "toolCn": [
+   "八音盒"
+  ]
+ },
+ {
+  "id": "seer",
+  "en": "Seer",
+  "cn": "先知",
+  "fullCn": "伊莱·克拉克",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Assist"
+  ],
+  "releaseCN": "2018/10/18",
+  "traitsCn": [
+   "役鸟",
+   "预言",
+   "天眼",
+   "劳神"
+  ],
+  "toolCn": [
+   "役鸟"
+  ]
+ },
+ {
+  "id": "embalmer",
+  "en": "Embalmer",
+  "cn": "入殓师",
+  "fullCn": "伊索·卡尔",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Assist"
+  ],
+  "releaseCN": "2018/12/06",
+  "traitsCn": [
+   "入殓",
+   "化妆精通",
+   "看淡生死",
+   "社交恐惧"
+  ],
+  "toolCn": [
+   "化妆箱"
+  ]
+ },
+ {
+  "id": "prospector",
+  "en": "Prospector",
+  "cn": "勘探员",
+  "fullCn": "诺顿·坎贝尔",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2019/02/28",
+  "traitsCn": [
+   "陨石磁铁",
+   "野外生存",
+   "磁场干扰",
+   "磁力吸引"
+  ],
+  "toolCn": [
+   "陨石磁铁"
+  ]
+ },
+ {
+  "id": "enchantress",
+  "en": "Enchantress",
+  "cn": "咒术师",
+  "fullCn": "帕缇夏·多里瓦尔",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2019/03/21",
+  "traitsCn": [
+   "猿猴咒像",
+   "咒像守护",
+   "咒力庇佑",
+   "咒像反噬"
+  ],
+  "toolCn": [
+   "猿猴咒像"
+  ]
+ },
+ {
+  "id": "wildling",
+  "en": "Wildling",
+  "cn": "野人",
+  "fullCn": "穆罗",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Assist",
+   "Rescue"
+  ],
+  "releaseCN": "2019/05/09",
+  "traitsCn": [
+   "野性伙伴",
+   "自然守护",
+   "野性直觉",
+   "机械盲"
+  ],
+  "toolCn": [
+   "野性伙伴 跟随",
+   "野性伙伴 骑乘"
+  ]
+ },
+ {
+  "id": "acrobat",
+  "en": "Acrobat",
+  "cn": "杂技演员",
+  "fullCn": "麦克·莫顿",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2019/06/27",
+  "traitsCn": [
+   "危险杂耍",
+   "即兴演出",
+   "三心二意"
+  ],
+  "toolCn": [
+   "爆弹"
+  ]
+ },
+ {
+  "id": "first-officer",
+  "en": "First Officer",
+  "cn": "大副",
+  "fullCn": "何塞·巴登",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2019/07/18",
+  "traitsCn": [
+   "海神怀表",
+   "消失",
+   "自我暗示",
+   "催眠破除"
+  ],
+  "toolCn": [
+   "海神怀表"
+  ]
+ },
+ {
+  "id": "barmaid",
+  "en": "Barmaid",
+  "cn": "调酒师",
+  "fullCn": "黛米·波本",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist",
+   "Contain"
+  ],
+  "releaseCN": "2019/09/26",
+  "traitsCn": [
+   "多夫林酒",
+   "调酒",
+   "微醺",
+   "宿醉"
+  ],
+  "toolCn": [
+   "多夫林底酒",
+   "烈性多夫林",
+   "调制多夫林"
+  ]
+ },
+ {
+  "id": "postman",
+  "en": "Postman",
+  "cn": "邮差",
+  "fullCn": "维克多·葛兰兹",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Assist"
+  ],
+  "releaseCN": "2019/12/05",
+  "traitsCn": [
+   "邮件",
+   "送信犬",
+   "感同身受",
+   "期待"
+  ],
+  "toolCn": [
+   "信件",
+   "送信犬"
+  ]
+ },
+ {
+  "id": "grave-keeper",
+  "en": "Grave Keeper",
+  "cn": "守墓人",
+  "fullCn": "安德鲁·克雷斯",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2020/02/27",
+  "traitsCn": [
+   "掘地逃生",
+   "幽闭恐惧",
+   "安心",
+   "机械盲"
+  ],
+  "toolCn": [
+   "铁铲"
+  ]
+ },
+ {
+  "id": "prisoner",
+  "en": "\"Prisoner\"",
+  "cn": "“囚徒”",
+  "fullCn": "卢卡·巴尔萨",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Decode",
+   "Assist"
+  ],
+  "releaseCN": "2020/03/19",
+  "traitsCn": [
+   "线路控制",
+   "“导体”",
+   "超级通路",
+   "过度专注"
+  ],
+  "toolCn": [
+   "绝缘手套",
+   "强电流"
+  ]
+ },
+ {
+  "id": "entomologist",
+  "en": "Entomologist",
+  "cn": "昆虫学者",
+  "fullCn": "梅莉·普林尼",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2020/06/24",
+  "traitsCn": [
+   "昆虫研究",
+   "混合试剂",
+   "香气"
+  ],
+  "toolCn": [
+   "捕虫网"
+  ]
+ },
+ {
+  "id": "painter",
+  "en": "Painter",
+  "cn": "画家",
+  "fullCn": "艾格·瓦尔登",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2020/09/24",
+  "traitsCn": [
+   "艺术敏感",
+   "审美共鸣",
+   "感性直观",
+   "有我之境"
+  ],
+  "toolCn": [
+   "画笔和画板"
+  ]
+ },
+ {
+  "id": "batter",
+  "en": "Batter",
+  "cn": "击球手",
+  "fullCn": "甘吉·古普塔",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Assist",
+   "Rescue"
+  ],
+  "releaseCN": "2020/12/24",
+  "traitsCn": [
+   "板球球棒",
+   "运动天赋",
+   "使命感",
+   "机械盲",
+   "爆发"
+  ],
+  "toolCn": [
+   "板球球棒"
+  ]
+ },
+ {
+  "id": "toy-merchant",
+  "en": "Toy Merchant",
+  "cn": "玩具商",
+  "fullCn": "安妮·莱斯特",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2021/05/08",
+  "traitsCn": [
+   "精巧玩具",
+   "安抚物",
+   "远眺",
+   "收集狂"
+  ],
+  "toolCn": [
+   "弹射板车",
+   "木制飞翼",
+   "玩具箱"
+  ]
+ },
+ {
+  "id": "psychologist",
+  "en": "\"Psychologist\"",
+  "cn": "“心理学家”",
+  "fullCn": "艾达·梅斯默",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Assist"
+  ],
+  "releaseCN": "2021/08/05",
+  "traitsCn": [
+   "移情",
+   "应激",
+   "主观锚定",
+   "牵绊"
+  ],
+  "toolCn": [
+   "指令口哨",
+   "牵绊"
+  ]
+ },
+ {
+  "id": "patient",
+  "en": "Patient",
+  "cn": "病患",
+  "fullCn": "埃米尔",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Contain",
+   "Rescue"
+  ],
+  "releaseCN": "2021/08/05",
+  "traitsCn": [
+   "钩爪逃生",
+   "情感依附",
+   "牵绊"
+  ],
+  "toolCn": [
+   "钩爪",
+   "牵绊"
+  ]
+ },
+ {
+  "id": "novelist",
+  "en": "Novelist",
+  "cn": "小说家",
+  "fullCn": "“奥尔菲斯”",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2021/10/29",
+  "traitsCn": [
+   "白描",
+   "隐喻",
+   "共鸣",
+   "伏笔"
+  ],
+  "toolCn": [
+   "创作笔记"
+  ]
+ },
+ {
+  "id": "little-girl",
+  "en": "\"Little Girl\"",
+  "cn": "“小女孩”",
+  "fullCn": "“回忆”",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist"
+  ],
+  "releaseCN": "2021/11/11",
+  "traitsCn": [
+   "回忆碎片",
+   "记忆同步",
+   "怜悯"
+  ],
+  "toolCn": [
+   "回忆碎片",
+   "记忆同步",
+   "怜悯"
+  ]
+ },
+ {
+  "id": "weeping-clown",
+  "en": "Weeping Clown",
+  "cn": "哭泣小丑",
+  "fullCn": "裘克",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Rescue",
+   "Assist"
+  ],
+  "releaseCN": "2022/01/20",
+  "traitsCn": [
+   "火箭",
+   "爆炸",
+   "机械盲"
+  ],
+  "toolCn": [
+   "火箭"
+  ]
+ },
+ {
+  "id": "professor",
+  "en": "Professor",
+  "cn": "教授",
+  "fullCn": "卢基诺·迪鲁西",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2022/04/28",
+  "traitsCn": [
+   "鳞片硬化",
+   "蜕鳞",
+   "鳞皮",
+   "毒性界限"
+  ],
+  "toolCn": [
+   "鳞片",
+   "注射剂"
+  ]
+ },
+ {
+  "id": "antiquarian",
+  "en": "Antiquarian",
+  "cn": "古董商",
+  "fullCn": "戚十一",
+  "officialDifficulty": 3.0,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2022/08/04",
+  "traitsCn": [
+   "藏锋",
+   "身轻如燕",
+   "嫉恶",
+   "旧伤",
+   "独行"
+  ],
+  "toolCn": [
+   "机关箫"
+  ]
+ },
+ {
+  "id": "composer",
+  "en": "Composer",
+  "cn": "作曲家",
+  "fullCn": "弗雷德里克·克雷伯格",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2022/12/01",
+  "traitsCn": [
+   "调律",
+   "组曲",
+   "静音"
+  ],
+  "toolCn": [
+   "音叉"
+  ]
+ },
+ {
+  "id": "journalist",
+  "en": "Journalist",
+  "cn": "记者",
+  "fullCn": "爱丽丝·德罗斯",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2023/04/20",
+  "traitsCn": [
+   "独家新闻",
+   "观测视角",
+   "深度报道",
+   "“勇敢”"
+  ],
+  "toolCn": [
+   "相机"
+  ]
+ },
+ {
+  "id": "aeroplanist",
+  "en": "Aeroplanist",
+  "cn": "飞行家",
+  "fullCn": "查尔斯·霍尔特",
+  "officialDifficulty": 3.0,
+  "roles": [
+   "Contain",
+   "Rescue"
+  ],
+  "releaseCN": "2023/07/27",
+  "traitsCn": [
+   "飞行器",
+   "机械调优",
+   "特发性震颤"
+  ],
+  "toolCn": [
+   "飞行器"
+  ]
+ },
+ {
+  "id": "cheerleader",
+  "en": "Cheerleader",
+  "cn": "拉拉队员",
+  "fullCn": "莉莉·巴利尔",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist",
+   "Contain"
+  ],
+  "releaseCN": "2023/08/31",
+  "traitsCn": [
+   "鼓舞",
+   "振奋",
+   "激励",
+   "机械盲"
+  ],
+  "toolCn": [
+   "花球"
+  ]
+ },
+ {
+  "id": "puppeteer",
+  "en": "Puppeteer",
+  "cn": "木偶师",
+  "fullCn": "马蒂亚斯·切尔宁",
+  "officialDifficulty": 1.0,
+  "roles": [
+   "Contain",
+   "Rescue"
+  ],
+  "releaseCN": "2024/02/01",
+  "traitsCn": [
+   "“路易”",
+   "灵活组件",
+   "血肉无用"
+  ],
+  "toolCn": [
+   "“路易”"
+  ]
+ },
+ {
+  "id": "fire-investigator",
+  "en": "Fire Investigator",
+  "cn": "火灾调查员",
+  "fullCn": "弗洛里安·布兰德",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2024/04/30",
+  "traitsCn": [
+   "充气气囊",
+   "暂时性阈移",
+   "发力技巧"
+  ],
+  "toolCn": [
+   "气囊"
+  ]
+ },
+ {
+  "id": "faro-lady",
+  "en": "\"Faro Lady\"",
+  "cn": "“法罗女士”",
+  "fullCn": "伊芙琳·莫雷",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Decode"
+  ],
+  "releaseCN": "2024/06/13",
+  "traitsCn": [
+   "匿迹",
+   "香薰手杖",
+   "巧计",
+   "乱局"
+  ],
+  "toolCn": [
+   "香薰手杖",
+   "巧计"
+  ]
+ },
+ {
+  "id": "knight",
+  "en": "\"Knight\"",
+  "cn": "“骑士”",
+  "fullCn": "理查德·斯特林",
+  "officialDifficulty": 1.5,
+  "roles": [
+   "Rescue"
+  ],
+  "releaseCN": "2024/10/17",
+  "traitsCn": [
+   "角色同化",
+   "战术预见",
+   "荣誉共鸣",
+   "机械盲"
+  ],
+  "toolCn": [
+   "头盔"
+  ]
+ },
+ {
+  "id": "meteorologist",
+  "en": "Meteorologist",
+  "cn": "气象学家",
+  "fullCn": "温迪·福特",
+  "officialDifficulty": 3.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2025/1/23",
+  "traitsCn": [
+   "气象实验",
+   "可逆反应",
+   "环境感知"
+  ],
+  "toolCn": [
+   "天气瓶"
+  ]
+ },
+ {
+  "id": "archer",
+  "en": "Archer",
+  "cn": "弓箭手",
+  "fullCn": "伯伦希尔·危鲁弗",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Contain"
+  ],
+  "releaseCN": "2025/03/13",
+  "traitsCn": [
+   "龙骨弓",
+   "臂弩",
+   "酒神精神"
+  ],
+  "toolCn": [
+   "龙骨弓",
+   "臂弩"
+  ]
+ },
+ {
+  "id": "escapologist",
+  "en": "\"Escapologist\"",
+  "cn": "“逃脱大师”",
+  "fullCn": "埃弗隆·怀兹",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist",
+   "Rescue"
+  ],
+  "releaseCN": "2025/05/22",
+  "traitsCn": [
+   "障眼法",
+   "逃脱术",
+   "双重误导",
+   "预期操控"
+  ],
+  "toolCn": [
+   "迷烟炉",
+   "逃脱术"
+  ]
+ },
+ {
+  "id": "lanternist",
+  "en": "Lanternist",
+  "cn": "幻灯师",
+  "fullCn": "阿曼达·加蒂斯",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Assist",
+   "Contain"
+  ],
+  "releaseCN": "2025/10/11",
+  "traitsCn": [
+   "人物投影",
+   "静物投影",
+   "光学错觉",
+   "机械盲"
+  ],
+  "toolCn": [
+   "幻灯仪 人物投影",
+   "幻灯仪 静物投影"
+  ]
+ },
+ {
+  "id": "matador",
+  "en": "Matador",
+  "cn": "斗牛士",
+  "fullCn": "赫南多·罗梅罗",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2026/02/05",
+  "traitsCn": [
+   "穆莱塔技艺",
+   "压步调离",
+   "展布招引",
+   "生死一线"
+  ],
+  "toolCn": [
+   "穆莱塔",
+   "展布招引"
+  ]
+ },
+ {
+  "id": "mime-artist",
+  "en": "Mime Artist",
+  "cn": "默剧艺人",
+  "fullCn": "克莱奥·德克鲁",
+  "officialDifficulty": 2.0,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2026/06/03",
+  "traitsCn": [
+   "即兴默剧",
+   "情感累积",
+   "侧行表演",
+   "深重牵绊"
+  ],
+  "toolCn": [
+   "道具雨伞"
+  ]
+ },
+ {
+  "id": "prodigy",
+  "en": "\"Prodigy\"",
+  "cn": "“神童”",
+  "fullCn": "阿开",
+  "officialDifficulty": 2.5,
+  "roles": [
+   "Contain",
+   "Assist"
+  ],
+  "releaseCN": "2026/09/30",
+  "traitsCn": [
+   "服从测试",
+   "动觉展演",
+   "谎言"
+  ],
+  "toolCn": [
+   "啮齿伙伴"
+  ]
+ }
+]
